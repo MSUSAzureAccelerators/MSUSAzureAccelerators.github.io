@@ -23021,3 +23021,22 @@ html.eventsession #video-element {
 h2.blue{
     color:#004d88;
 }
+ul.square {
+  list-style-type: square;
+} 
+.column.blue {
+  background-color: #2E81DD; 
+  color: white;
+} 
+p.white{
+  color:white;
+} 
+p.blue{
+  color:#2E81DD;
+} 
+div.dark-blue{
+  background-color:#00518F;
+} 
+section.with-banner{
+  background-image: url("../images/Solution%20Accelerator%20Banner.png");
+}
