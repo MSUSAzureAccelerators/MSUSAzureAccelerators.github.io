@@ -1,5 +1,5 @@
 User-agent: *
-Disallow: BingSiteAuth.xml
+Disallow: /BingSiteAuth.xml
 
 User-agent: *
 Allow: /
