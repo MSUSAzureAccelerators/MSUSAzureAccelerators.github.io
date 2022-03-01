@@ -23040,3 +23040,14 @@ div.dark-blue{
 section.with-banner{
   background-image: url("../images/Solution%20Accelerator%20Banner.png");
 }
+.float-button {
+  position: fixed;
+  right: -77px;
+  top: 270px;
+  transition: all 0.2s ease-in 0s;//this is the key attribute
+  z-index: 9999;
+  cursor: pointer;
+  }
+  .float-button:hover {
+    right: -7px;//hide it by pushing it off the screen
+  }
