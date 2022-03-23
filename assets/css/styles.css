@@ -1,0 +1,143 @@
+:root {
+    --color-primary: #f8f8f8;
+    --color-secondary: #2E81DD;
+    --color-white: #ffffff;
+    --color-black: #000000;
+    --color-grey-0: #f8f8f8;
+    --color-grey-1: #dbe1e8;
+    --color-grey-2: #b2becd;
+    --color-grey-3: #6c7983;
+    --color-grey-4: #454e56;
+    --color-grey-5: #2a2e35;
+    --color-grey-6: #12181b;
+    --color-dark-blue: #00518F;
+    --br-sm-2: 14px;
+    --default-transition: all .4s ease-in-out;
+    --default-box-shadow: 0 3px 15px rgba(0, 0, 0, .25);
+    --default-grid-gap: 2rem;
+    --default-clip-path: polygon(25% 0%, 75% 0%, 100% 50%, 75% 100%, 25% 100%, 0% 50%);
+}
+
+h2.blue {
+    color: #004d88;
+}
+
+ul.square {
+    list-style-type: square;
+}
+
+.column.blue {
+    background-color: var(--color-secondary);
+    color: white;
+}
+
+p.white {
+    color: var(--color-white);
+}
+
+p.blue {
+    color: var(--color-secondary)
+}
+
+div.dark-blue {
+    background-color: var(--color-dark-blue);
+}
+
+section.with-banner {
+    background-image: url("../images/Solution%20Accelerator%20Banner.png");
+}
+
+.float-button {
+    position: fixed;
+    right: -77px;
+    top: 270px;
+    transition: var(--default-transition);
+    z-index: 9999;
+    cursor: pointer;
+}
+
+.float-button:hover {
+    right: -7px;
+}
+
+.filter-links a {
+    margin: 0 10px 10px;
+    font-weight: 600;
+    display: inline-block;
+}
+
+/* override the a styles for filter-link */
+.filter-link {
+    background-color: var(--color-secondary);
+    color: var(--color-primary);
+    height: 27px;
+    width: 250px;
+    border-radius: 13.5px;
+    box-shadow: var(--default-box-shadow);
+    transition: var(--default-transition);
+    padding: 0 1em;
+    text-align: left;
+}
+
+.filter-link:hover {
+    background-color: var(--color-primary);
+    color: var(--color-secondary);
+    transform: translateY(-5px);
+}
+
+.filter-link:visited {
+    background-color: var(--color-secondary);
+    color: var(--color-primary);
+}
+
+.filter-link.active {
+    background-color: var(--color-primary);
+    color: var(--color-secondary);
+    pointer-events: none;
+}
+
+a {
+    background-color: var(--color-white);
+    color: var(--color-secondary);
+    font-size: inherit;
+    outline: 0 none;
+    text-decoration: none;
+}
+
+a:hover {
+    background-color: var(--color-white);
+    color: var(--color-secondary);
+    text-decoration: none;
+    font-weight: 500;
+}
+
+a:visited {
+    background-color: var(--color-white);
+    color: var(--color-secondary);
+    text-decoration: none;
+}
+
+.main-container{
+    display: grid;
+    grid-template-columns: 300px auto;
+}
+
+.main-container-left{
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    justify-content: left;
+}
+
+footer a{
+    color: var(--color-secondary);
+    background-color: transparent;
+}
+footer a:hover{
+    color: var(--color-secondary);
+    background-color: transparent;
+}
+footer a:visited{
+    color: var(--color-secondary);
+    background-color: transparent;
+}

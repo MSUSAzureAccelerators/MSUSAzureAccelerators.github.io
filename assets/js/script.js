@@ -1,6 +1,5 @@
-/* global initMap:true, google, Shuffle, Waypoint */
+/* global Shuffle */
 
-initMap = false;
 
 (function (fn) {
     if (typeof jQuery === 'undefined') {
@@ -34,16 +33,7 @@ initMap = false;
         $(this).closest('.accordion-item').toggleClass('active');
     });
 
-    // Trigger resize for parallax blocks
-    $('[data-parallax]').each(function(i, el){
-        new Waypoint({
-            element: el,
-            handler: function() {
-                $(window).trigger('resize').trigger('scroll');
-            },
-            offset : '100%'
-        });
-    });
+    
 
     // FlexSlider
     $('.flexslider').each(function(i, el){
@@ -118,23 +108,7 @@ initMap = false;
         $slider.owlCarousel(options);
     });
 
-    // Waypoint Counters
-    $('[data-waypoint-counter]').each(function(i, el){
-        $(el).waypoint({
-            handler : function() {
-                $(el).prop('CounterValue',0).animate({
-                    CounterValue: $(el).data('waypointCounter')
-                }, {
-                    duration: 2000,
-                    step : function (now) {
-                        $(this).text(Math.ceil(now));
-                    }
-                });
-                this.destroy();
-            },
-            offset : 'bottom-in-view'
-        });
-    });
+    
 
     // Menu stick
     $('.stick-menu').each(function(i, el){
@@ -289,24 +263,7 @@ initMap = false;
         }
     });
 
-    // Inview showup
-    $('[data-inview-showup]').each(function(){
-        var $el = $(this);
-        $el.addClass('inview-showup');
-        new Waypoint({
-            element: $el,
-            handler: function() {
-                $el.removeClass('inview-showup');
-                var showupClasses = $el.data('inviewShowup');
-                if( showupClasses ){
-                    $el.addClass(showupClasses);
-                }
-                this.destroy();
-            },
-            offset : '100%',
-            group : 'inview'
-        });
-    });
+    
 
     // Shuffle
     $('.shuffle-js').each(function(i, el){
@@ -330,6 +287,7 @@ initMap = false;
             }
             $filters.removeClass('active');
             $filter.addClass('active');
+            
             shuffleInstance.filter(filter);
         });
         shuffleInstance.on(Shuffle.EventType.LAYOUT, function () {
@@ -431,45 +389,6 @@ initMap = false;
         $current.closest('ul').find('> li.active').not($ignore).removeClass('active');
     });
 
-    /* Google Maps */
-    initMap = function () {
-
-        // Create a new StyledMapType object, passing it an array of styles,
-        // and the name to be displayed on the map type control.
-        var map = new Microsoft.Maps.Map('#myMap', {
-            center: new Microsoft.Maps.Location(42.613301, -82.923262),
-            mapTypeId: Microsoft.Maps.MapTypeId.road,
-            zoom: 16,
-            disableBirdseye: true,
-            disableStreetside: true,
-            disableStreetsideAutoCoverage: true,
-            disableAerial: true,
-            enableClickableLogo: false,
-            maxZoom: 16,
-            minZoom: 16,
-            showZoomButtons: false
-        });
-
-        map.setOptions({
-            disableKeyboardInput: true,
-            disableMapTypeSelectorMouseOver: true,
-            disablePanning: true,
-            disableScrollWheelZoom: true,
-            disableZooming: true,
-            showTrafficButton: false
-        });
-
-        var center = map.getCenter();
-
-        //Create custom Pushpin
-        var pin = new Microsoft.Maps.Pushpin(center, {
-            title: 'Skratsch Solutions'
-        });
-
-        //Add the pushpin to the map
-        map.entities.push(pin);
-    };
-
     /* Chosen - custeom selects*/
     $('.chosen-field select.field-control').each(function(i, el){
         var $field = $(el);
@@ -499,3 +418,33 @@ initMap = false;
         $other.removeClass('active');
     });
 }));
+
+// Shuffle
+$('.shuffle-js').each(function(i, el){
+    var $el = $(el),
+        $shuffle = $(el).find('.shuffle-items'),
+        shuffleInstance = new Shuffle($shuffle[0], {
+            itemSelector: '.shuffle-item'
+        }),
+        $filters = $el.find("[data-filter]")
+    ;
+    $filters.on('click', function(e){
+        e.preventDefault();
+        $el.find('.shuffle-empty').css('display', 'none');
+        var filter,
+            $filter = $(this)
+        ;
+        try{
+            filter = JSON.parse($filter.data('filter'));
+        }catch(exc){
+            filter = $filter.data('filter');
+        }
+        $filters.removeClass('active');
+        $filter.addClass('active');
+        shuffleInstance.filter(filter);
+    });
+    shuffleInstance.on(Shuffle.EventType.LAYOUT, function () {
+        $(window).trigger('resize');
+        $el.find('.shuffle-empty').css('display', shuffleInstance.visibleItems ? 'none' : 'block' );
+    });
+});

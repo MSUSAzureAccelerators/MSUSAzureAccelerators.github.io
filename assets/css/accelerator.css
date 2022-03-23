@@ -1,0 +1,18 @@
+section#top-banner {
+    background-image: url(' ../images/Solution%20Accelerator%20Banner.png');
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 6rem !important;
+    -webkit-border-after: 0 !important;
+    border-block-end: 0 !important;
+    background-color: #243a5e !important;
+    outline-color: #fff !important;
+}
+
+.pageTitle {
+    flex-grow: 0;
+    flex-shrink: 0;
+    padding-left: 3rem !important;
+    padding-top: 3rem !important;
+}

@@ -6229,3 +6229,8 @@ body.body .res-text-xs {
     padding-bottom: 100px;
   }
 }
+.selectable-categories a {
+  margin: 0 10px 10px;
+  font-weight: 600;
+  display: inline-block;
+}
