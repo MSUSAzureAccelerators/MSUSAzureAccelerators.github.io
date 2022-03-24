@@ -1,3 +1,23 @@
+:root {
+    --color-primary: #f8f8f8;
+    --color-secondary: #2E81DD;
+    --color-white: #ffffff;
+    --color-black: #000000;
+    --color-grey-0: #f8f8f8;
+    --color-grey-1: #dbe1e8;
+    --color-grey-2: #b2becd;
+    --color-grey-3: #6c7983;
+    --color-grey-4: #454e56;
+    --color-grey-5: #2a2e35;
+    --color-grey-6: #12181b;
+    --color-dark-blue: #00518F;
+    --br-sm-2: 14px;
+    --default-transition: all .4s ease-in-out;
+    --default-box-shadow: 0 3px 15px rgba(0, 0, 0, .25);
+    --default-grid-gap: 2rem;
+    --default-clip-path: polygon(25% 0%, 75% 0%, 100% 50%, 75% 100%, 25% 100%, 0% 50%);
+}
+
 section#top-banner {
     background-image: url(' ../images/Solution%20Accelerator%20Banner.png');
     background-position: 50%;
@@ -15,4 +35,62 @@ section#top-banner {
     flex-shrink: 0;
     padding-left: 3rem !important;
     padding-top: 3rem !important;
+}
+
+.wide {
+    width: 100%;
+    padding-right: var(--bs-gutter-x, 3rem);
+    padding-left: var(--bs-gutter-x, 3rem);
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.supertitle {
+    font-size: 0.875rem;
+    line-height: 1.25;
+}
+
+.supertitle:not(.is-spaced)+.title {
+    margin-top: -0.25rem;
+}
+
+.is-uppercase {
+    text-transform: uppercase !important;
+}
+
+.font-size-xs {
+    font-size: 0.75rem !important;
+}
+
+.letter-spacing-wide {
+    letter-spacing: 0.225rem !important;
+}
+
+.no-bullets {
+    list-style: none;
+}
+
+.no-underline {
+    text-decoration: none;
+}
+
+.fit-column {
+    width: 30rem;
+}
+
+a{
+    color: var(--color-secondary);
+    text-decoration: none;
+}
+
+a:hover{
+    color: var(--color-secondary);
+    text-decoration: none;
+    font-weight:500;
+    transition: var(--default-transition);
+}
+
+a:visited{
+    color: var(--color-secondary);
+    text-decoration: none;
 }

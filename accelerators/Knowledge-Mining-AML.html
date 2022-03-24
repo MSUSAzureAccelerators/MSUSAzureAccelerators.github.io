@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.0/css/all.min.css"
+        integrity="sha512-10/jx2EXwxxWqCLX/hHth/vu2KY3jCF70dCQB8TSgNjbCVAC/8vai53GfMDrO2Emgwccf2pJqxct9ehpzG+MTw=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="../assets/css/accelerator.css">
+    <title>Knowledge Mining AML Solution Accelerator</title>
+    <script type="text/javascript">
+        (function (c, l, a, r, i, t, y) {
+            c[a] = c[a] || function () {
+                (c[a].q = c[a].q || []).push(arguments)
+            };
+            t = l.createElement(r);
+            t.async = 1;
+            t.src = "https://www.clarity.ms/tag/" + i;
+            y = l.getElementsByTagName(r)[0];
+            y.parentNode.insertBefore(t, y);
+        })(window, document, "clarity", "script", "atsb905e7q");
+    </script>
+</head>
+
+<body>
+    <section id="top-banner">
+        <div class=" uhf-container">
+            <div class="pageTitle">
+                <div class="has-margin-top-large">
+                    <div class="columns">
+                        <div class="column is-half-desktop">
+                            <h1>Solution Accelerators | Microsoft US</h1>
+                            <p>Accelerating Customer's Data Journey</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <div class="wide">
+        <div class="row mb-3">
+            <div class="col-md-8 themed-grid-col">
+                <h2>Knowledge Mining AML Solution Accelerator</h2>
+                <p class="supertitle is-uppercase font-size-xs letter-spacing-wide">Technology Accelerator</p>
+                <p>Enable organizations to quickly build a solution to intelligently extract insights and data from documents and other data sources by walking through the process of creating a knowledge mining solution to enrich data by identifying custom entities using an AI custom skill (labelling data and then training a model with it).</p>
+                <h2 id="about-this-solution-accelerator">About this Solution Accelerator</h2>
+
+<p>This repo walks through the process of creating a knowledge mining solution to enrich your data by identifying custom entities in a corpus of data using an AI custom skill. We’ll leverage a number of capabilities in <a href="https://azure.microsoft.com/en-us/services/search/">Azure Cognitive Search</a> and <a href="https://azure.microsoft.com/en-us/services/machine-learning/">Azure Machine Learning</a> to extract entities from documents.</p>
+
+<p>The solution will show you how to:</p>
+
+<h3 id="1-create-a-labeled-dataset-using-your-documents-steps-1-3">1. Create a labeled dataset using your documents (Steps 1-3)</h3>
+
+<ol>
+  <li>Create a custom skill to label data for named entity recognition (NER)</li>
+  <li>Create an enrichment pipeline with Azure Cognitive Search that integrates the label skill to create labelled data from a corpus of documents.</li>
+  <li>Project the labeled data as a new dataset into the Cognitive Search <a href="https://docs.microsoft.com/azure/search/knowledge-store-concept-intro">Knowledge Store</a> so that it can be used for training.</li>
+</ol>
+
+<h3 id="2-train-a-bert-ner-model-steps-4-5">2. Train a BERT NER model (Steps 4-5)</h3>
+
+<blockquote>
+  <p>If you already have labelled data or want to use the sample data provided with this repo, you can skip ahead to Step 4.</p>
+  <ol>
+    <li>Use the labeled data to train a Named Entity Recognition (NER) Model in Azure Machine Learning using a <a href="https://en.wikipedia.org/wiki/BERT_(language_model)">BERT</a> model designed to extract entities from documents. The code used to train the model was derived from the <a href="https://github.com/microsoft/nlp-recipes">NLP Recipes Repo</a>.</li>
+    <li>Integrate the BERT NER custom skill with Azure Cognitive Search to project the identified entities and content of each document into the knowledge store and the search index.</li>
+  </ol>
+</blockquote>
+
+<p><img src="../assets/images/indexing.gif" alt="indexing documents" /></p>
+
+<p>This is designed to be used in conjunction with the <a href="Knowledge-Mining.html">Knowledge Mining Solution Accelerator</a>. After you train and deploy the model, you can easily integrate the model with the solution accelerator to showcase the results in a Web App.</p>
+
+                <h3 class="mt-4">Technical Value Assets</h3>
+                <div class="content-links">
+                    <div class="content-link">
+                        <a href="https://github.com/microsoft/Accelerator-AzureML_CognitiveSearch" target="_blank">
+                            <i class="fa-brands fa-github fa-xs"></i> GitHub Repository
+                        </a>
+                    </div></div>
+            </div>
+            <div class="col-md-4 themed-grid-col">
+                <img class="fit-column" src="../assets/images/AML_Hero.jpg" alt="Knowledge Mining AML Solution AcceleratorHero Image">
+                <h5 class="mt-4">Relevant Personas</h5>
+                <p>Technology Accelerator</p>
+                <h5 class="mt-4">Relevant Industries</h5>
+                <p>Tech Plug-Ins, Horizontal</p>
+                <h5 class="mt-4">Technology Stack</h5>
+                <p>Azure Machine Learning, Cognitive Search</p>
+
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous">
+    </script>
+
+</body>
+
+</html>
