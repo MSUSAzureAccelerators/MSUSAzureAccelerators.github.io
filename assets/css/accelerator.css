@@ -94,3 +94,15 @@ a:visited{
     color: var(--color-secondary);
     text-decoration: none;
 }
+
+blockquote p{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 500;
+    background-color: var(--color-grey-1);
+    padding: 1.5rem;
+    font-size: 1.2rem;
+    color: var(--color-secondary);
+    border-radius: 10px;;
+}
