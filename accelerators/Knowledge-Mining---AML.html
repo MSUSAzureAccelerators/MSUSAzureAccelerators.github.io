@@ -13,7 +13,7 @@
         integrity="sha512-10/jx2EXwxxWqCLX/hHth/vu2KY3jCF70dCQB8TSgNjbCVAC/8vai53GfMDrO2Emgwccf2pJqxct9ehpzG+MTw=="
         crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="stylesheet" href="../assets/css/accelerator.css">
-    <title>Knowledge Mining Solution Accelerator</title>
+    <title>Knowledge Mining - AML Solution Accelerator</title>
     <script type="text/javascript">
         (function (c, l, a, r, i, t, y) {
             c[a] = c[a] || function () {
@@ -46,32 +46,46 @@
     <div class="wide">
         <div class="row mb-3">
             <div class="col-md-8 themed-grid-col">
-                <h2>Knowledge Mining Solution Accelerator</h2>
+                <h2>Knowledge Mining - AML Solution Accelerator</h2>
                 <p class="supertitle is-uppercase font-size-xs letter-spacing-wide">Reusable Technology Accelerator</p>
                 <p></p>
                 <h2 id="about-this-solution-accelerator">About this Solution Accelerator</h2>
 
-<p>Welcome to the Knowledge Mining Solution Accelerator! This accelerator provides developers with all of the resources they need to quickly build an initial Knowledge Mining prototype with <a href="https://docs.microsoft.com/azure/search/cognitive-search-concept-intro">Azure Cognitive Search</a>. Use this accelerator to jump-start your development efforts with your own data or as a learning tool to better understand how you can use Cognitive Search to meet the unique needs of your business.</p>
+<p>This repo walks through the process of creating a knowledge mining solution to enrich your data by identifying custom entities in a corpus of data using an AI custom skill. We’ll leverage a number of capabilities in <a href="https://azure.microsoft.com/en-us/services/search/">Azure Cognitive Search</a> and <a href="https://azure.microsoft.com/en-us/services/machine-learning/">Azure Machine Learning</a> to extract entities from documents.</p>
 
-<p>In this repository, we’ve provided you with all of the artifacts you need to quickly create a Cognitive Search Solution including: templates for deploying the appropriate Azure resources, assets for creating your first search index, templates for using custom skills, a basic web app, and PowerBI reports to monitor search solution performance. We’ve infused best practices throughout the documentation to help guide you. With Cognitive Search, you can easily index both digital data (such as documents and text files) and analog data (such as images and scanned documents).</p>
+<p>The solution will show you how to:</p>
+
+<h3 id="1-create-a-labeled-dataset-using-your-documents-steps-1-3">1. Create a labeled dataset using your documents (Steps 1-3)</h3>
+
+<ol>
+  <li>Create a custom skill to label data for named entity recognition (NER)</li>
+  <li>Create an enrichment pipeline with Azure Cognitive Search that integrates the label skill to create labelled data from a corpus of documents.</li>
+  <li>Project the labeled data as a new dataset into the Cognitive Search <a href="https://docs.microsoft.com/azure/search/knowledge-store-concept-intro">Knowledge Store</a> so that it can be used for training.</li>
+</ol>
+
+<h3 id="2-train-a-bert-ner-model-steps-4-5">2. Train a BERT NER model (Steps 4-5)</h3>
 
 <blockquote>
-  <p>Note: This guide uses the AI enrichment feature of Cognitive Search. AI enrichment allows you to ingest many kinds of data (documents, text files, images, scanned docs, and more), extract their contents, enrich and transform it, and then index it for exploration purposes. To learn more about this feature, see the <a href="https://docs.microsoft.com/azure/search/cognitive-search-concept-intro">AI in Cognitive Search</a> doc.</p>
+  <p>If you already have labelled data or want to use the sample data provided with this repo, you can skip ahead to Step 4.</p>
+  <ol>
+    <li>Use the labeled data to train a Named Entity Recognition (NER) Model in Azure Machine Learning using a <a href="https://en.wikipedia.org/wiki/BERT_(language_model)">BERT</a> model designed to extract entities from documents. The code used to train the model was derived from the <a href="https://github.com/microsoft/nlp-recipes">NLP Recipes Repo</a>.</li>
+    <li>Integrate the BERT NER custom skill with Azure Cognitive Search to project the identified entities and content of each document into the knowledge store and the search index.</li>
+  </ol>
 </blockquote>
 
-<p>Once you’re finished, you’ll have a web app ready to search your data.</p>
+<p><img src="../assets/images/indexing.gif" alt="indexing documents" /></p>
 
-<p><img src="../assets/images/ui.PNG" alt="A web app showing several resources and their lists of searchable tags" /></p>
+<p>This is designed to be used in conjunction with the <a href="Knowledge-Mining.html">Knowledge Mining Solution Accelerator</a>. After you train and deploy the model, you can easily integrate the model with the solution accelerator to showcase the results in a Web App.</p>
 
                 
             </div>
             <div class="col-md-4 themed-grid-col">
-                <img class="fit-column" src="../assets/images/Knowledge_Mining_Hero.jpg" alt="Knowledge Mining Solution AcceleratorHero Image"><h5 class="mt-4">Relevant Personas</h5>
-                <p>Financial</p><h5 class="mt-4">Relevant Industries</h5>
+                <img class="fit-column" src="../assets/images/AML_Hero.jpg" alt="Knowledge Mining - AML Solution AcceleratorHero Image"><h5 class="mt-4">Relevant Personas</h5>
+                <p></p><h5 class="mt-4">Relevant Industries</h5>
                 <p>Manufacturing,FSI</p><h5 class="mt-4">Technology Stack</h5>
-                <p>Cognitive Search,Azure Storage,Power BI</p><h5 class="mt-4">Technical Value Assets</h5>
+                <p>Azure Machine Learning,Cognitive Search</p><h5 class="mt-4">Technical Value Assets</h5>
                 <div class="content-links"><div class="content-link">
-                        <a href="https://github.com/Azure-Samples/azure-search-knowledge-mining" target="_blank" rel="noopener noreferrer">
+                        <a href="https://github.com/microsoft/Accelerator-AzureML_CognitiveSearch" target="_blank" rel="noopener noreferrer">
                             <i class="fa-brands fa-github fa-xs"></i> GitHub Repository
                         </a>
                     </div></div>
