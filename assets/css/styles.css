@@ -141,3 +141,7 @@ footer a:visited{
     color: var(--color-secondary);
     background-color: transparent;
 }
+
+.last-updated{
+    font-size: .9rem;
+}
