@@ -1,0 +1,13 @@
+collections:
+  accelerators:
+    output: true
+
+defaults:
+  - scope:
+      path: "_accelerators"
+    values:
+      layout: "accelerator"
+  - scope:
+      path: "index.html"
+    values:
+      layout: "default"
