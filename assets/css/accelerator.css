@@ -106,3 +106,13 @@ blockquote p{
     color: var(--color-secondary);
     border-radius: 10px;;
 }
+
+.breadcrumbs{
+    display: flex;
+    margin-left: 3rem;
+}
+
+.breadcrumb{
+    padding: 0 .25rem;
+    font-weight: 500;
+}
