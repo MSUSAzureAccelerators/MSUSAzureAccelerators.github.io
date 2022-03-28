@@ -10,7 +10,8 @@ industries: "Retail"
 technology_stack: ""
 github_url: https://github.com/MSUSSolutionAccelerators/Digital-Marketing-Campaigns-Solution-Accelerator
 demo_url: 
-short_text: "Effectively spend money on advertising media that is more impactful to customers."
+short_text: "Effectively spend money on advertising media that is more impactful to customers"
 hero_image: assets/images/Digital_Marketing_Hero.png
 tags: "\"Solution Accelerator\",\"Campaign Management\",\"Retail\""
+last_updated: "March 28, 2022 08:15:31 PM"
 ---

@@ -10,9 +10,10 @@ industries: "Manufacturing"
 technology_stack: "Azure Blockchain,Mongo DB,,Hyperledger Service Fabric,Visual Studio"
 github_url: https://github.com/microsoft/Marketplace_Blockchain_Solution_Accelerator
 demo_url: 
-short_text: "Decentralized, managed marketplace platform for transacting between multiple individuals or organizations"
+short_text: "Decentralized, managed marketplace platform for transacting between multiple individuals or organizations."
 hero_image: assets/images/Travel_Marketplace_Hero.png
 tags: "\"Solution Accelerator\",\"Manufacturing\",\"Azure Blockchain\",\"Mongo DB,\",\"Hyperledger Service Fabric\",\"Visual Studio\""
+last_updated: "March 28, 2022 08:17:22 PM"
 ---
 ## About this Solution Accelerator
 

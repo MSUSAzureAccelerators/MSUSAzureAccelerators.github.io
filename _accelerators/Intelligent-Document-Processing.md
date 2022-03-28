@@ -10,9 +10,10 @@ industries: "Manufacturing,Retail,FSI,HLS"
 technology_stack: "Cognitive Services,Bot Framework,Power BI,Form Recognizer,Cosmos DB,Luis"
 github_url: https://github.com/MSUSSolutionAccelerators/Intelligent-Document-Processing-Solution-Accelerator
 demo_url: 
-short_text: "Reduce human intervention and decrease the time to find the key Data points in 100+page documents/contracts."
+short_text: "Reduce human intervention and decrease the time to find the key Data points in 100+page documents/contracts"
 hero_image: assets/images/Intelligent_Document_Processing_Hero.png
 tags: "\"Solution Accelerator\",\"Process Automation\",\"Manufacturing\",\"Retail\",\"FSI\",\"HLS\",\"Cognitive Services\",\"Bot Framework\",\"Power BI\",\"Form Recognizer\",\"Cosmos DB\",\"Luis\""
+last_updated: "March 28, 2022 08:16:09 PM"
 ---
 ## About this Solution Accelerator
 

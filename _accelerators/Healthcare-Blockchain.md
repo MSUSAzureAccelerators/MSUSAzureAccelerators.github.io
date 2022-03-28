@@ -10,9 +10,10 @@ industries: "HLS"
 technology_stack: ""
 github_url: https://github.com/microsoft/Healthcare-Blockchain-Solution-Accelerator
 demo_url: 
-short_text: "Produce an initial prototype or demo of an approval process application within the Healthcare industry."
+short_text: "Produce an initial prototype or demo of an approval process application within the Healthcare industry"
 hero_image: assets/images/Healthcare_Blockchain_Hero.png
 tags: "\"Solution Accelerator\",\"Healthcare\",\"HLS\""
+last_updated: "March 28, 2022 08:15:30 PM"
 ---
 ## About this Solution Accelerator
 

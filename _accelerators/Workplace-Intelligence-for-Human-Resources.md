@@ -10,9 +10,10 @@ industries: "Manufacturing,Retail,FSI,HLS"
 technology_stack: "Workplace Analytics,Viva,Azure DevOps,Synapse,Power BI"
 github_url: https://github.com/MSUSSolutionAccelerators/Workplace-Intelligence-Solution-Accelerator
 demo_url: 
-short_text: "Easily identify factors that influence productivity and engagement."
+short_text: "Easily identify factors that influence productivity and engagement"
 hero_image: assets/images/Workplace_Intelligence_Hero.png
 tags: "\"Solution Accelerator\",\"Workplace Intelligence\",\"Manufacturing\",\"Retail\",\"FSI\",\"HLS\",\"Workplace Analytics\",\"Viva\",\"Azure DevOps\",\"Synapse\",\"Power BI\""
+last_updated: "March 28, 2022 08:17:53 PM"
 ---
 ## About this Solution Accelerator
 

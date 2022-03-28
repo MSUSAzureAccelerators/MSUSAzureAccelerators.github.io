@@ -10,9 +10,10 @@ industries: "Media and Entertainment"
 technology_stack: ""
 github_url: https://github.com/MSUSSolutionAccelerators/Digital-Experience-Solution
 demo_url: 
-short_text: "Move the entire live stream process offsite and into the cloud."
+short_text: "Move the entire live stream process offsite and into the cloud"
 hero_image: assets/images/Live_Events_Hero.png
 tags: "\"Solution Accelerator\",\"Campaign Management\",\"Media and Entertainment\""
+last_updated: "March 28, 2022 08:15:31 PM"
 ---
 ## About this Solution Accelerator
 

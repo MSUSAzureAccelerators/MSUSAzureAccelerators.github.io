@@ -10,9 +10,10 @@ industries: "Manufacturing,Retail"
 technology_stack: "Synapse,Azure Machine Learning,Azure Kubernetes Services,Azure Logic Apps,,Power BI"
 github_url: https://github.com/microsoft/Azure-Synapse-Solution-Accelerator--Part-Comparator
 demo_url: 
-short_text: "Optimize their inventory and manufacturing strategies by recommending available parts that could replace more expensive ones based on similarity matching."
+short_text: "Optimize their inventory and manufacturing strategies by recommending available parts that could replace more expensive ones based on similarity matching"
 hero_image: assets/images/Part_Comparator_Hero.png
 tags: "\"Solution Accelerator\",\"Supply Chain\",\"Manufacturing\",\"Retail\",\"Synapse\",\"Azure Machine Learning\",\"Azure Kubernetes Services\",\"Azure Logic Apps,\",\"Power BI\""
+last_updated: "March 28, 2022 08:17:21 PM"
 ---
 ## About this Solution Accelerator
 

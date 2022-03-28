@@ -10,8 +10,9 @@ industries: "Manufacturing"
 technology_stack: "Docker,Python"
 github_url: https://github.com/MSUSSolutionAccelerators/Manufacturing-Vision-Solution-Accelerator-AMD64
 demo_url: 
-short_text: "This is the base code for the Manufacturing Vision for amd64 architecture."
+short_text: "This is the base code for the Manufacturing Vision for amd64 architecture"
 hero_image: assets/images/Manufacturing_Vision_Hero.png
 tags: "\"Solution Accelerator\",\"Process Automation\",\"Manufacturing\",\"Docker\",\"Python\""
+last_updated: "March 28, 2022 08:16:11 PM"
 ---
 This is the base code for the Manufacturing Vision for amd64 architecture.

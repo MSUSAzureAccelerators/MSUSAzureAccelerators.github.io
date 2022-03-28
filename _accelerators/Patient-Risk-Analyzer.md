@@ -10,9 +10,10 @@ industries: "HLS"
 technology_stack: "Azure Machine Learning,Cognitive Services,Text-To-Speech,Form Recognizer,PVA,PowerApps,Azure Kubernetes Services,Synapse Analytics"
 github_url: https://github.com/microsoft/Machine-Learning-Patient-Risk-Analyzer-SA
 demo_url: 
-short_text: "Uncover patterns and deliver insights about data quickly, improving healthcare professionals' ability to provide personalized care, also known as precision medicine."
+short_text: "Uncover patterns and deliver insights about data quickly, improving healthcare professionals' ability to provide personalized care, also known as precision medicine"
 hero_image: assets/images/Patient_Risk_Analyzer_Hero.png
 tags: "\"Solution Accelerator\",\"Healthcare\",\"HLS\",\"Azure Machine Learning\",\"Cognitive Services\",\"Text-To-Speech\",\"Form Recognizer\",\"PVA\",\"PowerApps\",\"Azure Kubernetes Services\",\"Synapse Analytics\""
+last_updated: "March 28, 2022 08:17:22 PM"
 ---
 ## About this Solution Accelerator
 

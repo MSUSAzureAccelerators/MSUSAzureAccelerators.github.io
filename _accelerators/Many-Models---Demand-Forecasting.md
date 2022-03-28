@@ -13,6 +13,7 @@ demo_url:
 short_text: "Train data from multiple sources to forecast future demand."
 hero_image: assets/images/Many_Models_Hero.png
 tags: "\"Solution Accelerator\",\"Supply Chain\",\"Manufacturing\",\"Retail\",\"FSI\",\"HLS\",\"Azure Machine Learning\",\"Power BI\""
+last_updated: "March 28, 2022 08:16:44 PM"
 ---
 ## About this Solution Accelerator
 

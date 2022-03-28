@@ -10,9 +10,10 @@ industries: "FSI"
 technology_stack: "Azure Data Lake Storage,Synapse Analytics"
 github_url: https://github.com/MSUSSolutionAccelerators/Risk-Classification-and-Load-Modeling-Solution-Accelerator
 demo_url: 
-short_text: "Automate processes to ensure compliance with SBA guidelines."
+short_text: "Automate processes to ensure compliance with SBA guidelines"
 hero_image: assets/images/Risk_Loan_Hero.png
 tags: "\"Solution Accelerator\",\"Financial\",\"FSI\",\"Azure Data Lake Storage\",\"Synapse Analytics\""
+last_updated: "March 28, 2022 08:17:18 PM"
 ---
 ## About the Solution Accelerator
 

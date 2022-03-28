@@ -10,9 +10,10 @@ industries: "Manufacturing,FSI"
 technology_stack: "Azure Machine Learning,Cognitive Search"
 github_url: https://github.com/microsoft/Accelerator-AzureML_CognitiveSearch
 demo_url: 
-short_text: "Extract business or industry specific terms from documents, such as extracting medical terms from medical documents, legal terms from contracts, or part names from engineering documents."
+short_text: "Extract business or industry specific terms from documents, such as extracting medical terms from medical documents, legal terms from contracts, or part names from engineering documents"
 hero_image: assets/images/Knowledge_Mining_AML_Hero.png
 tags: "\"Reusable Technology Accelerator\",\"Manufacturing\",\"FSI\",\"Azure Machine Learning\",\"Cognitive Search\""
+last_updated: "March 28, 2022 08:16:04 PM"
 ---
 ## About this Solution Accelerator
 

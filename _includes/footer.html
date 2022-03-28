@@ -2,7 +2,11 @@
         <footer id="footer" data-bi-name="footer" class="footer-layout uhf-container has-padding" role="contentinfo">
                 <div class="display-flex is-full-height has-padding-right-extra-large-desktop">
                         <div class="margin-inline-xs flex-shrink-0">
+                                {%- if page.last_updated -%}
                                 <p class="last-updated">Last Updated: {{- page.last_updated -}}</p>
+                                {%- else -%}
+                                <p class="last-updated">Last Updated: {{- site.time | date: "%a, %b %d, %Y %r" -}}</p>
+                                {%- endif -%}
                         </div>
                 </div>
                 <ul class="links" data-bi-name="footerlinks">

@@ -13,6 +13,7 @@ demo_url:
 short_text: "Quickly surface customer complaints from various platforms to the correct support"
 hero_image: assets/images/Customer_Complaints_Hero.png
 tags: "\"Solution Accelerator\",\"Personalization\",\"Retail\",\"FSI\",\"HLS\",\"Azure Kubernetes Services\",\"Cognitive Search\",\"Synapse\",\"Azure Machine Learning\",\"PowerApps\""
+last_updated: "March 28, 2022 08:14:58 PM"
 ---
 ## About this Solution Accelerator
 

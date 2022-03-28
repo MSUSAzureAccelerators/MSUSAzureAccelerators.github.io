@@ -10,8 +10,9 @@ industries: "Retail,Manufacturing"
 technology_stack: ""
 github_url: 
 demo_url: 
-short_text: "Empowering workforce, intelligent supply chain with intelligent sales and efficient devices to help gather invaluable data; telemetry, compliance, stock, sales patterns, compete, location and performance."
+short_text: "Empowering workforce, intelligent supply chain with intelligent sales and efficient devices to help gather invaluable data; telemetry, compliance, stock, sales patterns, compete, location and performance"
 hero_image: assets/images/Inventory_Management_Hero.png
 tags: "\"Solution Accelerator\",\"Supply Chain\",\"Retail\",\"Manufacturing\""
+last_updated: "March 28, 2022 08:16:07 PM"
 ---
 More information coming soon.
