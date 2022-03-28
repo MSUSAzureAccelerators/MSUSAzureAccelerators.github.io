@@ -6,21 +6,26 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="title" content="Solution Accelerators | Microsoft US - {{ page.title -}}" />
     <meta name="description" content="{{ page.short_text | strip_newlines -}}" />
-    <meta name="keywords" content="{{ page.tags | remove: '\"' | remove: '[' | remove: ']' | replace: '"','' | replace: ', ',' ' | downcase -}}" />
+    <meta name="keywords"
+        content="{{ page.tags | remove: '\"' | remove: '[' | remove: ']' | replace: '"','' | replace: ', ',' ' | downcase -}}" />
     <meta name="robots" content="index,follow" />
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://msussolutionaccelerators.github.io{{ page.url -}}" />
     <meta property="og:title" content="Solution Accelerators | Microsoft US - {{ page.title -}}" />
-    <meta property="og:description" content="Solution Accelerators are repeatable solutions that can be quickly and easily implemented for specific business outcomes to accelerate transformation journey." />
-    <meta property="og:image" content="https://msussolutionaccelerators.github.io/assets/images/logo/MSUS%20Solution%20Accelerators%20Logo%20social.png" />
+    <meta property="og:description"
+        content="Solution Accelerators are repeatable solutions that can be quickly and easily implemented for specific business outcomes to accelerate transformation journey." />
+    <meta property="og:image"
+        content="https://msussolutionaccelerators.github.io/assets/images/logo/MSUS%20Solution%20Accelerators%20Logo%20social.png" />
     <meta property="og:image:alt" content="MSUS Solution Accelerators Logo" />
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image" />
     <meta property="twitter:url" content="https://msussolutionaccelerators.github.io{{ page.url -}}" />
     <meta property="twitter:title" content="Solution Accelerators | Microsoft US - {{ page.title -}}" />
-    <meta property="twitter:description" content="Solution Accelerators are repeatable solutions that can be quickly and easily implemented for specific business outcomes to accelerate transformation journey." />
-    <meta property="twitter:image" content="https://msussolutionaccelerators.github.io/assets/images/logo/MSUS%20Solution%20Accelerators%20Logo%20social.png" />
+    <meta property="twitter:description"
+        content="Solution Accelerators are repeatable solutions that can be quickly and easily implemented for specific business outcomes to accelerate transformation journey." />
+    <meta property="twitter:image"
+        content="https://msussolutionaccelerators.github.io/assets/images/logo/MSUS%20Solution%20Accelerators%20Logo%20social.png" />
     <meta name="ms.sitename" content="Solution Accelerators | Microsoft US" />
     <meta name="author" content="v-skaschimer" />
     <meta name="locale" content="en-us" />
@@ -113,6 +118,7 @@
             </div>
         </div>
     </section>
+    {%- include footer.html -%}
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous">
     </script>
