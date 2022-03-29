@@ -193,6 +193,101 @@ footer a:visited {
     transform: translateY(-5px);
 }
 
-.social-icons .teams-share-button{
+.social-icons .teams-share-button {
     background-color: var(--color-white);
 }
+
+.filters-group {
+    padding: 0;
+    margin: 0 0 4px;
+    border: 0;
+}
+
+.textfield {
+    -webkit-appearance: none;
+    box-sizing: border-box;
+    width: 100%;
+    border: 2px solid var(--color-grey-6);
+    border-radius: 4px;
+    padding: .5em;
+    font-size: 1rem;
+    color: var(--color-secondary);
+    transition: var(--default-transition);
+    margin-bottom: 1rem;
+    margin-top: .5rem;
+}
+
+.textfield::-webkit-input-placeholder {
+    color: #95a5a6;
+    transition: .15s
+}
+
+.textfield:-ms-input-placeholder {
+    color: #95a5a6;
+    transition: .15s
+}
+
+.textfield::-ms-input-placeholder {
+    color: #95a5a6;
+    transition: .15s
+}
+
+.textfield::placeholder {
+    color: #95a5a6;
+    transition: .15s
+}
+
+.textfield:hover {
+    outline-width: 0;
+    color: #5d6d77;
+    border-color: #5d6d77
+}
+
+.textfield:hover::-webkit-input-placeholder {
+    color: #5d6d77
+}
+
+.textfield:hover:-ms-input-placeholder {
+    color: #5d6d77
+}
+
+.textfield:hover::-ms-input-placeholder {
+    color: #5d6d77
+}
+
+.textfield:hover::placeholder {
+    color: #5d6d77
+}
+
+.textfield:focus {
+    outline-width: 0;
+    border-color: #34495e
+}
+
+.textfield:focus::-webkit-input-placeholder {
+    color: #34495e
+}
+
+.textfield:focus:-ms-input-placeholder {
+    color: #34495e
+}
+
+.textfield:focus::-ms-input-placeholder {
+    color: #34495e
+}
+
+.textfield:focus::placeholder {
+    color: #34495e
+}
+
+.filter-label {
+    display: block;
+    padding: 0;
+    margin-top: 0;
+    margin-bottom: 1px;
+    color: var(--color-grey-6);
+    font-size: 0.875rem;
+    line-height: 1.25; 
+    text-transform: uppercase !important;
+    letter-spacing: 0.225rem !important;
+  }

@@ -74,6 +74,10 @@
             </div>
         </div>
         <div class=" main-container-right">
+            <div class="filters-group">
+                <label for="filters-search-input" class="filter-label">Search</label>
+                <input class="textfield filter__search js-shuffle-search" type="search" id="filters-search-input" />
+            </div>
             <div class="row cols-md rows-md shuffle-items">
                 {%- for accelerator in site.accelerators -%}
                 {%- if accelerator.github_url and accelerator.github_url != "na" and accelerator.github_url != "" -%}
@@ -90,10 +94,10 @@
                                     <p class="supertitle is-uppercase font-size-xs letter-spacing-wide">
                                         {{ accelerator.accelerator_type -}}
                                     </p>
-                                    <a href="{{ accelerator.url -}}">{{ accelerator.short_name -}}</a>
+                                    <a href="{{ accelerator.url -}}"><span class="card__title">{{ accelerator.short_name -}}</span></a>
                                 </div>
                                 <p class="has-margin-top-small" title="{{ accelerator.description }}">
-                                    {{ accelerator.short_text -}}</p>
+                                    <span class='card__text'>{{ accelerator.short_text -}}</span></p>
                                 <a href="{{ accelerator.github_url }}" target="_blank" data-linktype="external"
                                     rel="noopener noreferrer">Browse Assets on
                                     Github</a>
