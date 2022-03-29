@@ -117,31 +117,78 @@ a:visited {
     text-decoration: none;
 }
 
-.main-container{
+.main-container {
     display: grid;
     grid-template-columns: 300px auto;
 }
 
-.main-container-left{
+.main-container-left {
     display: flex;
     flex-direction: column;
     align-items: left;
     justify-content: left;
 }
 
-footer a{
-    color: var(--color-secondary);
-    background-color: transparent;
-}
-footer a:hover{
-    color: var(--color-secondary);
-    background-color: transparent;
-}
-footer a:visited{
+footer a {
     color: var(--color-secondary);
     background-color: transparent;
 }
 
-.last-updated{
+footer a:hover {
+    color: var(--color-secondary);
+    background-color: transparent;
+}
+
+footer a:visited {
+    color: var(--color-secondary);
+    background-color: transparent;
+}
+
+.last-updated {
     font-size: .9rem;
+}
+
+.social-icons {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.social-icons .fa-brands,
+.social-icons .fa-solid {
+    font-size: 1.5rem;
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 5px;
+    box-shadow: var(--default-box-shadow);
+    transition: var(--default-transition);
+}
+
+.fa-facebook {
+    background: #3B5998;
+    color: var(--color-white);
+}
+
+.fa-twitter {
+    background: #55ACEE;
+    color: var(--color-white);
+}
+
+.fa-linkedin {
+    background: #007bb5;
+    color: var(--color-white);
+}
+
+.fa-envelope {
+    background-color: var(--color-secondary);
+    color: var(--color-white);
+}
+
+.social-icons .fa-brands:hover,
+.social-icons .fa-solid:hover {
+    transform: translateY(-5px);
 }
