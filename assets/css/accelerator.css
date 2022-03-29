@@ -316,7 +316,7 @@ footer a:visited {
     display: flex;
     align-items: center;
     justify-content: center;
-    margin: 5px;
+    margin: 3px;
     box-shadow: var(--default-box-shadow);
     transition: var(--default-transition);
 }
