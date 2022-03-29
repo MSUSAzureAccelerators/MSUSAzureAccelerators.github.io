@@ -8,13 +8,17 @@
             <div class="main-container-left">
                 <div class="filter-links offs-lg text-center" data-inview-showup="showup-translate-up">
                     <a class="filter-link active" data-filter='all' href="#">All</a>
-                    <h2 class="title margin-bottom-xs margin-top-xs">Accelerator Type</h2>
+                </div>
+                <h2 class="title margin-bottom-xs margin-top-xs text-center">Accelerator Type</h2>
+                <div class="filter-links offs-lg text-center" data-inview-showup="showup-translate-up">
                     <a class="filter-link" href="#" data-filter='["SolutionAccelerator"]'><i
                             class="fa-solid fa-gauge"></i> Solution Accelerator</a>
                     <a class="filter-link" href="#" data-filter='["ReusableTechnologyAccelerator"]'><i
                             class="fa-solid fa-microchip"></i> Technology
                         Accelerator</a>
-                    <h2 class="title margin-bottom-xs margin-top-xs">Industry Alignment</h2>
+                </div>
+                <h2 class="title margin-bottom-xs margin-top-xs text-center">Industry Alignment</h2>
+                <div class="filter-links offs-lg text-center" data-inview-showup="showup-translate-up">
                     <a class="filter-link" href="#" data-filter='["Automotive"]'><i class="fa-solid fa-car"></i>
                         Automotive</a>
                     <a class="filter-link" href="#" data-filter='["EDU"]'><i class="fa-solid fa-school"></i>
@@ -29,7 +33,8 @@
                     <a class="filter-link" href="#" data-filter='["Manufacturing"]'><i class="fa-solid fa-industry"></i>
                         Manufacturing</a>
                     <a class="filter-link" href="#" data-filter='["MediaandEntertainment"]'><i
-                            class="fa-solid fa-film"></i> Media & Entertainment</a>
+                            class="fa-solid fa-film"></i>
+                        Media & Entertainment</a>
                     <a class="filter-link" href="#" data-filter='["ProfessionalServices"]'><i
                             class="fa-solid fa-briefcase"></i> Professional Services</a>
                     <a class="filter-link" href="#" data-filter='["Retail"]'><i class="fa-solid fa-shopping-cart"></i>
@@ -38,7 +43,9 @@
                         Government</a>
                     <a class="filter-link" href="#" data-filter='["Horizontal"]'><i
                             class="fa-solid fa-arrows-left-right"></i> Horizontal</a>
-                    <h2 class="title margin-bottom-xs margin-top-xs">Categories</h2>
+                </div>
+                <h2 class="title margin-bottom-xs margin-top-xs text-center">Categories</h2>
+                <div class="filter-links offs-lg text-center" data-inview-showup="showup-translate-up">
                     <a class="filter-link" href="#" data-filter='["CampaignManagement"]'>Campaign Management</a>
                     <a class="filter-link" href="#" data-filter='["Financial"]'>Financial</a>
                     <a class="filter-link" href="#" data-filter='["Healthcare"]'>Healthcare</a>
@@ -50,45 +57,51 @@
                     <a class="filter-link" href="#" data-filter='["Transportation"]'>Transportation</a>
                     <a class="filter-link" href="#" data-filter='["WorkplaceIntelligence"]'>Workplace Intelligence</a>
                 </div>
+                <h2 class="title margin-bottom-xs margin-top-xs text-center">Share</h2>
                 <div class="social-icons">
-                    <i class="fa-brands fa-linkedin" onclick="popitup('https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fmsussolutionaccelerators.github.io{{ page.url -}}','Share to LinkedIn');"></i>
-                    <i class="fa-brands fa-facebook" onclick="popitup('https://www.facebook.com/sharer.php?u=https%3A%2F%2Fmsussolutionaccelerators.github.io{{ page.url -}}','Share to Facebook');"></i>
-                    <i class="fa-brands fa-twitter" onclick="popitup('https://twitter.com/intent/tweet?url=https%3A%2F%2Fmsussolutionaccelerators.github.io{{ page.url -}}','Share to Twitter');"></i>
-                    <i class="fa-solid fa-envelope" onclick="window.location = 'mailto:?subject=MSUS%20Solution%20Accelerators%20-%20{{ page.title -}}&body=https%3A%2F%2Fmsussolutionaccelerators.github.io{{ page.url -}}';""></i>
+                    <i class="fa-brands fa-linkedin"
+                        onclick="popitup('https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fmsussolutionaccelerators.github.io{{ page.url -}}','Share to LinkedIn');"></i>
+                    <i class="fa-brands fa-facebook"
+                        onclick="popitup('https://www.facebook.com/sharer.php?u=https%3A%2F%2Fmsussolutionaccelerators.github.io{{ page.url -}}','Share to Facebook');"></i>
+                    <i class="fa-brands fa-twitter"
+                        onclick="popitup('https://twitter.com/intent/tweet?url=https%3A%2F%2Fmsussolutionaccelerators.github.io{{ page.url -}}','Share to Twitter');"></i>
+                    <i class="fa-solid fa-envelope"
+                        onclick="window.location = 'mailto:?subject=MSUS%20Solution%20Accelerators%20-%20{{ page.title -}}&body=https%3A%2F%2Fmsussolutionaccelerators.github.io{{ page.url -}}';""></i>
                 </div>
             </div>
-            <div class="main-container-right">
-                <div class="row cols-md rows-md shuffle-items">
-                    {%- for accelerator in site.accelerators -%}
-                    {%- if accelerator.github_url and accelerator.github_url != "na" and accelerator.github_url != "" -%}
-                    <div class="shuffle-item col-12 md-col-3 sm-col-6" data-groups='[{{ accelerator.tags -}}]'>
-                        <div class="item muted-bg" data-inview-showup="showup-scale">
-                            <div class="media-card border-radius-lg" data-bi-name="card">
-                                <a href="{{ accelerator.url -}}" tabindex="-1" aria-hidden="true">
-                                    <figure class="media-card-image has-padding-bottom-small">
-                                        <img src="{{ accelerator.hero_image -}}" alt="{{ accelerator.short_name -}}">
-                                    </figure>
-                                </a>
-                                <div class="item-content media-card-content has-padding-left-medium">
-                                    <div class="media-card-content-titles">
-                                        <p class="supertitle is-uppercase font-size-xs letter-spacing-wide">
-                                            {{ accelerator.accelerator_type -}}
-                                        </p>
-                                        <a href="{{ accelerator.url -}}">{{ accelerator.short_name -}}</a>
+            <div class=" main-container-right">
+                        <div class="row cols-md rows-md shuffle-items">
+                            {%- for accelerator in site.accelerators -%}
+                            {%- if accelerator.github_url and accelerator.github_url != "na" and accelerator.github_url != "" -%}
+                            <div class="shuffle-item col-12 md-col-3 sm-col-6" data-groups='[{{ accelerator.tags -}}]'>
+                                <div class="item muted-bg" data-inview-showup="showup-scale">
+                                    <div class="media-card border-radius-lg" data-bi-name="card">
+                                        <a href="{{ accelerator.url -}}" tabindex="-1" aria-hidden="true">
+                                            <figure class="media-card-image has-padding-bottom-small">
+                                                <img src="{{ accelerator.hero_image -}}"
+                                                    alt="{{ accelerator.short_name -}}">
+                                            </figure>
+                                        </a>
+                                        <div class="item-content media-card-content has-padding-left-medium">
+                                            <div class="media-card-content-titles">
+                                                <p class="supertitle is-uppercase font-size-xs letter-spacing-wide">
+                                                    {{ accelerator.accelerator_type -}}
+                                                </p>
+                                                <a href="{{ accelerator.url -}}">{{ accelerator.short_name -}}</a>
+                                            </div>
+                                            <p class="has-margin-top-small" title="{{ accelerator.description }}">
+                                                {{ accelerator.short_text -}}</p>
+                                            <a href="{{ accelerator.github_url }}" target="_blank"
+                                                data-linktype="external" rel="noopener noreferrer">Browse Assets on
+                                                Github</a>
+                                        </div>
                                     </div>
-                                    <p class="has-margin-top-small" title="{{ accelerator.description }}">
-                                        {{ accelerator.short_text -}}</p>
-                                    <a href="{{ accelerator.github_url }}" target="_blank" data-linktype="external"
-                                        rel="noopener noreferrer">Browse Assets on
-                                        Github</a>
                                 </div>
                             </div>
+                            {%- endif -%}
+                            {%- endfor -%}
                         </div>
-                    </div>
-                    {%- endif -%}
-                    {%- endfor -%}
                 </div>
             </div>
         </div>
-    </div>
 </section>
