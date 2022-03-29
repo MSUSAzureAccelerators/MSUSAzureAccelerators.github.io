@@ -192,3 +192,7 @@ footer a:visited {
 .social-icons .fa-solid:hover {
     transform: translateY(-5px);
 }
+
+.social-icons .teams-share-button{
+    background-color: var(--color-white);
+}

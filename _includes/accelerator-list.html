@@ -67,41 +67,44 @@
                         onclick="popitup('https://twitter.com/intent/tweet?url=https%3A%2F%2Fmsussolutionaccelerators.github.io{{ page.url -}}','Share to Twitter');"></i>
                     <i class="fa-solid fa-envelope"
                         onclick="window.location = 'mailto:?subject=MSUS%20Solution%20Accelerators%20-%20{{ page.title -}}&body=https%3A%2F%2Fmsussolutionaccelerators.github.io{{ page.url -}}';""></i>
+                        <div class=" teams-share-button fa-brands"
+                        data-href="https://msussolutionaccelerators.github.io{{ page.url -}}" data-icon-px-size="35">
                 </div>
-            </div>
-            <div class=" main-container-right">
-                        <div class="row cols-md rows-md shuffle-items">
-                            {%- for accelerator in site.accelerators -%}
-                            {%- if accelerator.github_url and accelerator.github_url != "na" and accelerator.github_url != "" -%}
-                            <div class="shuffle-item col-12 md-col-3 sm-col-6" data-groups='[{{ accelerator.tags -}}]'>
-                                <div class="item muted-bg" data-inview-showup="showup-scale">
-                                    <div class="media-card border-radius-lg" data-bi-name="card">
-                                        <a href="{{ accelerator.url -}}" tabindex="-1" aria-hidden="true">
-                                            <figure class="media-card-image has-padding-bottom-small">
-                                                <img src="{{ accelerator.hero_image -}}"
-                                                    alt="{{ accelerator.short_name -}}">
-                                            </figure>
-                                        </a>
-                                        <div class="item-content media-card-content has-padding-left-medium">
-                                            <div class="media-card-content-titles">
-                                                <p class="supertitle is-uppercase font-size-xs letter-spacing-wide">
-                                                    {{ accelerator.accelerator_type -}}
-                                                </p>
-                                                <a href="{{ accelerator.url -}}">{{ accelerator.short_name -}}</a>
-                                            </div>
-                                            <p class="has-margin-top-small" title="{{ accelerator.description }}">
-                                                {{ accelerator.short_text -}}</p>
-                                            <a href="{{ accelerator.github_url }}" target="_blank"
-                                                data-linktype="external" rel="noopener noreferrer">Browse Assets on
-                                                Github</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            {%- endif -%}
-                            {%- endfor -%}
-                        </div>
-                </div>
+
             </div>
         </div>
+        <div class=" main-container-right">
+            <div class="row cols-md rows-md shuffle-items">
+                {%- for accelerator in site.accelerators -%}
+                {%- if accelerator.github_url and accelerator.github_url != "na" and accelerator.github_url != "" -%}
+                <div class="shuffle-item col-12 md-col-3 sm-col-6" data-groups='[{{ accelerator.tags -}}]'>
+                    <div class="item muted-bg" data-inview-showup="showup-scale">
+                        <div class="media-card border-radius-lg" data-bi-name="card">
+                            <a href="{{ accelerator.url -}}" tabindex="-1" aria-hidden="true">
+                                <figure class="media-card-image has-padding-bottom-small">
+                                    <img src="{{ accelerator.hero_image -}}" alt="{{ accelerator.short_name -}}">
+                                </figure>
+                            </a>
+                            <div class="item-content media-card-content has-padding-left-medium">
+                                <div class="media-card-content-titles">
+                                    <p class="supertitle is-uppercase font-size-xs letter-spacing-wide">
+                                        {{ accelerator.accelerator_type -}}
+                                    </p>
+                                    <a href="{{ accelerator.url -}}">{{ accelerator.short_name -}}</a>
+                                </div>
+                                <p class="has-margin-top-small" title="{{ accelerator.description }}">
+                                    {{ accelerator.short_text -}}</p>
+                                <a href="{{ accelerator.github_url }}" target="_blank" data-linktype="external"
+                                    rel="noopener noreferrer">Browse Assets on
+                                    Github</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                {%- endif -%}
+                {%- endfor -%}
+            </div>
+        </div>
+    </div>
+    </div>
 </section>
