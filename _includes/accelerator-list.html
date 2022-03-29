@@ -19,29 +19,38 @@
                 </div>
                 <h2 class="title margin-bottom-xs margin-top-xs text-center">Industry Alignment</h2>
                 <div class="filter-links offs-lg text-center" data-inview-showup="showup-translate-up">
-                    <a class="filter-link" href="#" data-filter='["Automotive"]'><i class="fa-solid fa-car"></i>
+                    <a class="filter-link" href="#" data-filter='["Automotive"]'><i name="Car icon"
+                            class="fa-solid fa-car"></i>
                         Automotive</a>
-                    <a class="filter-link" href="#" data-filter='["EDU"]'><i class="fa-solid fa-school"></i>
+                    <a class="filter-link" href="#" data-filter='["EDU"]'><i name="School icon"
+                            class="fa-solid fa-school"></i>
                         Education</a>
-                    <a class="filter-link" href="#" data-filter='["Energy"]'><i class="fa-solid fa-bolt"></i> Energy</a>
-                    <a class="filter-link" href="#" data-filter='["FSI"]'><i class="fa-solid fa-bank"></i> Financial
+                    <a class="filter-link" href="#" data-filter='["Energy"]'><i name="Lightning bolt icon"
+                            class="fa-solid fa-bolt"></i> Energy</a>
+                    <a class="filter-link" href="#" data-filter='["FSI"]'><i name="Bank icon"
+                            class="fa-solid fa-bank"></i> Financial
                         Services</a>
-                    <a class="filter-link" href="#" data-filter='["HighTech"]'><i class="fa-solid fa-laptop"></i> High
+                    <a class="filter-link" href="#" data-filter='["HighTech"]'><i name="Laptop icon"
+                            class="fa-solid fa-laptop"></i> High
                         Tech</a>
-                    <a class="filter-link" href="#" data-filter='["HLS"]'><i class="fa-solid fa-hospital"></i> Health &
+                    <a class="filter-link" href="#" data-filter='["HLS"]'><i name="Hospital icon"
+                            class="fa-solid fa-hospital"></i> Health &
                         Life Services</a>
-                    <a class="filter-link" href="#" data-filter='["Manufacturing"]'><i class="fa-solid fa-industry"></i>
+                    <a class="filter-link" href="#" data-filter='["Manufacturing"]'><i name="Factory icon"
+                            class="fa-solid fa-industry"></i>
                         Manufacturing</a>
-                    <a class="filter-link" href="#" data-filter='["MediaandEntertainment"]'><i
+                    <a class="filter-link" href="#" data-filter='["MediaandEntertainment"]'><i name="Movie icon"
                             class="fa-solid fa-film"></i>
                         Media & Entertainment</a>
-                    <a class="filter-link" href="#" data-filter='["ProfessionalServices"]'><i
+                    <a class="filter-link" href="#" data-filter='["ProfessionalServices"]'><i name="Briefcase icon"
                             class="fa-solid fa-briefcase"></i> Professional Services</a>
-                    <a class="filter-link" href="#" data-filter='["Retail"]'><i class="fa-solid fa-shopping-cart"></i>
+                    <a class="filter-link" href="#" data-filter='["Retail"]'><i name="Shopping cart icon"
+                            class="fa-solid fa-shopping-cart"></i>
                         Retail & Consumer Goods</a>
-                    <a class="filter-link" href="#" data-filter='["SLG"]'><i class="fa-solid fa-flag"></i> State & Local
+                    <a class="filter-link" href="#" data-filter='["SLG"]'><i name="Flag icon"
+                            class="fa-solid fa-flag"></i> State & Local
                         Government</a>
-                    <a class="filter-link" href="#" data-filter='["Horizontal"]'><i
+                    <a class="filter-link" href="#" data-filter='["Horizontal"]'><i name="Horizontal arrows icon"
                             class="fa-solid fa-arrows-left-right"></i> Horizontal</a>
                 </div>
                 <h2 class="title margin-bottom-xs margin-top-xs text-center">Categories</h2>
@@ -57,26 +66,16 @@
                     <a class="filter-link" href="#" data-filter='["Transportation"]'>Transportation</a>
                     <a class="filter-link" href="#" data-filter='["WorkplaceIntelligence"]'>Workplace Intelligence</a>
                 </div>
+                
                 <h2 class="title margin-bottom-xs margin-top-xs text-center">Share</h2>
-                <div class="social-icons">
-                    <i class="fa-brands fa-linkedin"
-                        onclick="popitup('https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fmsussolutionaccelerators.github.io{{ page.url -}}','Share to LinkedIn');"></i>
-                    <i class="fa-brands fa-facebook"
-                        onclick="popitup('https://www.facebook.com/sharer.php?u=https%3A%2F%2Fmsussolutionaccelerators.github.io{{ page.url -}}','Share to Facebook');"></i>
-                    <i class="fa-brands fa-twitter"
-                        onclick="popitup('https://twitter.com/intent/tweet?url=https%3A%2F%2Fmsussolutionaccelerators.github.io{{ page.url -}}','Share to Twitter');"></i>
-                    <i class="fa-solid fa-envelope"
-                        onclick="window.location = 'mailto:?subject=MSUS%20Solution%20Accelerators%20-%20{{ page.title -}}&body=https%3A%2F%2Fmsussolutionaccelerators.github.io{{ page.url -}}';""></i>
-                        <div class=" teams-share-button fa-brands"
-                        data-href="https://msussolutionaccelerators.github.io" data-icon-px-size="35">
-                </div>
-
+                {%- include social-links.html -%}
             </div>
         </div>
         <div class=" main-container-right">
             <div class="filters-group">
                 <label for="filters-search-input" class="filter-label">Search</label>
-                <input class="textfield filter__search js-shuffle-search" type="search" id="filters-search-input" />
+                <input name="Textbox for searching" class="textfield filter__search js-shuffle-search" type="search"
+                    id="filters-search-input" />
             </div>
             <div class="row cols-md rows-md shuffle-items">
                 {%- for accelerator in site.accelerators -%}
@@ -94,7 +93,8 @@
                                     <p class="supertitle is-uppercase font-size-xs letter-spacing-wide">
                                         {{ accelerator.accelerator_type -}}
                                     </p>
-                                    <a href="{{ accelerator.url -}}"><span class="card__title">{{ accelerator.short_name -}}</span></a>
+                                    <a href="{{ accelerator.url -}}"><span
+                                            class="card__title">{{ accelerator.short_name -}}</span></a>
                                 </div>
                                 <p class="has-margin-top-small" title="{{ accelerator.description }}">
                                     <span class='card__text'>{{ accelerator.short_text -}}</span></p>
@@ -109,6 +109,5 @@
                 {%- endfor -%}
             </div>
         </div>
-    </div>
     </div>
 </section>
