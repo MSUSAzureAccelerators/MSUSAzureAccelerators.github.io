@@ -13,5 +13,6 @@ demo_url:
 short_text: "Drive outcomes related to building more agile factories, creating more resilient supply chains, and transforming workforces."
 hero_image: assets/images/AIOT_Call_Center_Hero.webp
 tags: "\"Solution Accelerator\",\"Process Automation\",\"Manufacturing\",\"Automotive\",\"Docker\",\"Python\",\"Azure Custom Vision\",\"Azure IoT Hub\",\"Azure SQL\",\"Azure Container Registry\",\"Azure Storage\",\"Power BI\",\"Azure Machine Learning\",\"Azure KeyVault\",\"Cognitive Services\",\"Azure DevOps\""
-last_updated: "March 30, 2022 06:14:03 PM"
+last_updated: "March 30, 2022 07:18:44 PM"
 ---
+More information coming soon about the AIoT - Automated Call Center Solution Accelerator

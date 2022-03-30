@@ -13,5 +13,6 @@ demo_url:
 short_text: "Drive outcomes related to building more agile factories, creating more resilient supply chains, and transforming workforces."
 hero_image: assets/images/AIOT_Worker_Safety_Hero.webp
 tags: "\"Solution Accelerator\",\"Process Automation\",\"Manufacturing\",\"Automotive\",\"Azure Container Registry\",\"Azure DevOps\",\"Azure IoT Hub\",\"Azure KeyVault\",\"Azure Machine Learning\",\"Azure SQL\",\"Azure Storage\",\"Cognitive Services\",\"Docker\",\"Power BI\",\"Python\""
-last_updated: "March 30, 2022 06:54:55 PM"
+last_updated: "March 30, 2022 07:20:11 PM"
 ---
+More information coming soon about the AIoT - Factory and Worker Safety Solution Accelerator

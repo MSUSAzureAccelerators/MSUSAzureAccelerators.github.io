@@ -13,5 +13,6 @@ demo_url:
 short_text: "Drive outcomes related to building more agile factories, creating more resilient supply chains, and transforming workforces."
 hero_image: assets/images/AIOT_Automated_Quality_Inspection_Hero.webp
 tags: "\"Solution Accelerator\",\"Process Automation\",\"Manufacturing\",\"Automotive\",\"Azure Container Registry\",\"Azure DevOps\",\"Azure IoT Hub\",\"Azure KeyVault\",\"Azure Storage\",\"Azure SQL\",\"Cognitive Services\",\"Power BI\",\"Python\",\"Docker\",\"Azure Machine Learning\""
-last_updated: "March 30, 2022 06:19:41 PM"
+last_updated: "March 30, 2022 07:18:45 PM"
 ---
+More information coming soon about the AIoT - Automated Quality Inspection Solution Accelerator
