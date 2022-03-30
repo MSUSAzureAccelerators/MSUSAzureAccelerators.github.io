@@ -13,13 +13,13 @@ demo_url:
 short_text: "Support medical imaging and other use cases in areas like data and model management, deployment, experiment tracking and explainability"
 hero_image: assets/images/med-imaging.webp
 tags: "\"Solution Accelerator\",\"Healthcare\",\"HLS\",\"Azure Machine Learning\""
-last_updated: "March 30, 2022 05:31:13 PM"
+last_updated: "March 30, 2022 06:45:05 PM"
 ---
 ## About this Solution Accelerator
 
 Welcome to our medical imaging demo repository! The content includes several Python notebooks that cover medical imaging use cases based on classification, object detection and instance segmentation.
 
-![Medical Imaging Solution Accelerator](../assets/images/med-imaging.png)
+![Medical Imaging Solution Accelerator](../assets/images/med-imaging.webp)
 
 All use cases are based on publicly available datasets like brain RMI scans, cell micrographs, chest x-ray images and more. Since we cannot distribute the data directly, we refer to publicly available download locations.
 

@@ -13,7 +13,7 @@ demo_url:
 short_text: "Transform your data into opportunities to cut your wastewater treatment emissions"
 hero_image: assets/images/Carbon_Tracing_Wastewater_Hero.webp
 tags: "\"Solution Accelerator\",\"Sustainability\",\"Manufacturing\",\"Retail\",\"FSI\",\"HLS\",\"Azure IoT Hub\",\"Synapse\",\"Azure Storage\",\"Power BI\",\"Azure Logic Apps\""
-last_updated: "March 30, 2022 05:26:08 PM"
+last_updated: "March 30, 2022 06:41:28 PM"
 ---
 ## About this Solution Accelerator
 
@@ -45,4 +45,4 @@ The Carbon Tracing Wastewater Solution Accelerator can help. It leverages domain
 ### How It Works
 The Carbon Tracing Basic Wastewater Solution Accelerator consumes, tags, and organizes your existing and real-time data into streamlined databases to efficiently scale calculations and analytics.
 
-![Carbon Tracing Wastewater Flow](../assets/images/Carbon_Tracing_Wastewater_Flow.png)
+![Carbon Tracing Wastewater Flow](../assets/images/Carbon_Tracing_Wastewater_Flow.webp)

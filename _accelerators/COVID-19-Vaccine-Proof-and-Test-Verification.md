@@ -13,7 +13,7 @@ demo_url:
 short_text: "Mass processes and digitizes vaccine and viral test result forms"
 hero_image: assets/images/COVID_Testing_Hero.webp
 tags: "\"Solution Accelerator\",\"Healthcare\",\"Manufacturing\",\"Retail\",\"FSI\",\"HLS\",\"Form Recognizer\",\"Azure Storage\",\"Azure Logic Apps\",\"Cosmos DB\",\"Synapse Analytics\",\"Power BI\""
-last_updated: "March 30, 2022 05:27:43 PM"
+last_updated: "March 30, 2022 06:43:39 PM"
 ---
 ## About this Solution Accelerator
 
@@ -44,4 +44,4 @@ The COVID-19 Vaccine Proof and Test  Verification Solution Accelerator mass proc
 
 The COVID-19 Vaccine Proof and Test Verification Solution Accelerator digitizes the collection, analysis, and verification of vaccine and test result forms.
 
-![COVID-19 Vaccine Proof and Test Verification Flow](../assets/images/COVID_Flow.png)
+![COVID-19 Vaccine Proof and Test Verification Flow](../assets/images/COVID_Flow.webp)

@@ -13,7 +13,7 @@ demo_url:
 short_text: "Uncover patterns and deliver insights about data quickly, improving healthcare professionals' ability to provide personalized care, also known as precision medicine"
 hero_image: assets/images/Patient_Risk_Analyzer_Hero.webp
 tags: "\"Solution Accelerator\",\"Healthcare\",\"HLS\",\"Azure Machine Learning\",\"Cognitive Services\",\"Text-To-Speech\",\"Form Recognizer\",\"PVA\",\"PowerApps\",\"Azure Kubernetes Services\",\"Synapse Analytics\""
-last_updated: "March 30, 2022 05:31:15 PM"
+last_updated: "March 30, 2022 06:45:07 PM"
 ---
 ## About this Solution Accelerator
 
@@ -21,4 +21,4 @@ Machine Learning Patient Risk Analyzer Solution Accelerator is an end-to-end (E2
 
 In addition to providing new insights for both doctors and patients, the app also provides the Data Scientist/IT Specialist with one-click experiences for registering and deploying a new or existing model to Azure Kubernetes Clusters, and best practices for maintaining these models through Azure MLOps.
 
-![Patient Risk Analyzer Solution Accelerator](../assets/images/PRAReferenceArchitecture.png)
+![Patient Risk Analyzer Solution Accelerator](../assets/images/PRAReferenceArchitecture.webp)

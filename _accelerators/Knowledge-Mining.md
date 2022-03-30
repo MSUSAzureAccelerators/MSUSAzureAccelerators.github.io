@@ -13,7 +13,7 @@ demo_url:
 short_text: "Quickly build an initial Knowledge Mining prototype with Azure Cognitive Search"
 hero_image: assets/images/Knowledge_Mining_Hero.webp
 tags: "\"Reusable Technology Accelerator\",\"Financial\",\"Manufacturing\",\"FSI\",\"Cognitive Search\",\"Azure Storage\",\"Power BI\""
-last_updated: "March 30, 2022 05:29:38 PM"
+last_updated: "March 30, 2022 06:43:37 PM"
 ---
 ## About this Solution Accelerator
 
@@ -25,4 +25,4 @@ In this repository, we've provided you with all of the artifacts you need to qui
 
 Once you're finished, you'll have a web app ready to search your data.
 
-![A web app showing several resources and their lists of searchable tags](../assets/images/ui.png)
+![A web app showing several resources and their lists of searchable tags](../assets/images/ui.webp)

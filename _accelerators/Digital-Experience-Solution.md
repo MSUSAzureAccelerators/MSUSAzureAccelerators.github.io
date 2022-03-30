@@ -13,7 +13,7 @@ demo_url:
 short_text: "Move the entire live stream process offsite and into the cloud"
 hero_image: assets/images/Live_Events_Hero.webp
 tags: "\"Solution Accelerator\",\"Campaign Management\",\"Media and Entertainment\""
-last_updated: "March 30, 2022 05:28:16 PM"
+last_updated: "March 30, 2022 06:43:36 PM"
 ---
 ## About this Solution Accelerator
 
@@ -40,4 +40,4 @@ The Digital Experience Solution brings together proven technology from partners 
 * **Create monetization opportunities** and build your customer funnel with personalized ad experiences for users. 
 * **Gain valuable, timely audience** insights to increase customer engagement and retention.​
 
-![Digital Experience Solution Accelerator Architecture](../assets/images/Digital%20Experience%20Solution%20Architecture.png)
+![Digital Experience Solution Accelerator Architecture](../assets/images/Digital%20Experience%20Solution%20Architecture.webp)

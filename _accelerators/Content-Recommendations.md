@@ -13,7 +13,7 @@ demo_url:
 short_text: "Leverage to find simple, cost-effective ways to gain consumer insights"
 hero_image: assets/images/Content_Recommendation_Hero.webp
 tags: "\"Solution Accelerator\",\"Personalization\",\"Manufacturing\",\"Retail\",\"FSI\",\"HLS\",\"Synapse\",\"Azure Data Lake Storage\",\"Power BI\""
-last_updated: "March 30, 2022 05:27:41 PM"
+last_updated: "March 30, 2022 06:42:15 PM"
 ---
 ## About this Solution Accelerator
 
@@ -45,4 +45,4 @@ The Content Recommendations Solution Accelerator can help you find simple, cost-
 
 The Content Recommendations Solution Accelerator leverages Azure Synapse Analytics and AI to analyze user data, compare similar user profiles, and deliver audience insights. The AI model produces a click probability score for each content item and a dashboard is presented in Power BI to explore content usage for improved content purchasing and production capabilities.
 
-![Content Recommendations Flow](../assets/images/Content_Recommendations_Flow.png)
+![Content Recommendations Flow](../assets/images/Content_Recommendations_Flow.webp)

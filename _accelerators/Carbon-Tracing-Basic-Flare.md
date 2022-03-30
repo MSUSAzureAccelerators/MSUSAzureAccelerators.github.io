@@ -13,7 +13,7 @@ demo_url:
 short_text: "Speed up migration with ease of development and also use the same for production deployment"
 hero_image: assets/images/Carbon_Tracing_BF_Hero.webp
 tags: "\"Solution Accelerator\",\"Sustainability\",\"Manufacturing\",\"Retail\",\"Other\",\"FSI\",\"HLS\",\"Azure Storage\",\"Synapse\",\"Azure Logic Apps,\",\"Power BI\",\"Azure IoT Hub\""
-last_updated: "March 30, 2022 05:26:11 PM"
+last_updated: "March 30, 2022 06:41:28 PM"
 ---
 ## About this Solution Accelerator
 
@@ -45,4 +45,4 @@ The Carbon Tracing Basic Flare Solution Accelerator can help. It leverages domai
 
 The Carbon Tracing Basic Flare Solution Accelerator consumes, tags, and organizes your existing and real-time data into streamlined databases to efficiently scale calculations and analytics.
 
-![Carbon Tracing Basic Flare Flow](../assets/images/Carbon_Tracing_Wastewater_Flow.png)
+![Carbon Tracing Basic Flare Flow](../assets/images/Carbon_Tracing_Wastewater_Flow.webp)
