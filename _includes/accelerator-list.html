@@ -63,9 +63,11 @@
                             </a>
                             <div class="item-content media-card-content has-padding-left-medium">
                                 <div class="media-card-content-titles">
-                                    <div class="supertitle is-uppercase font-size-xs letter-spacing-wide">
-                                        {{ accelerator.accelerator_type -}}
-                                    </div>
+                                    {%- if accelerator.status != "Submitted" -%}
+                                    <div class="supertitle is-uppercase font-size-xs letter-spacing-wide">{{ accelerator.accelerator_type -}}</div>
+                                    {%- else -%}                                    
+                                    <div class="supertitle is-uppercase font-size-xs letter-spacing-wide">{{ accelerator.accelerator_type -}} (BETA)</div>
+                                    {%- endif -%}
                                     <a href="{{ accelerator.url -}}"><span class="card__title">{{ accelerator.short_name -}}</span></a>
                                 </div>
                                 <p class="has-margin-top-small" title="{{ accelerator.description }}">
