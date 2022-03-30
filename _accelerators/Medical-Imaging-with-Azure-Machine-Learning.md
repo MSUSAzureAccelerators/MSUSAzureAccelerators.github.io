@@ -11,9 +11,9 @@ technology_stack: "Azure Machine Learning"
 github_url: https://github.com/Azure/medical-imaging
 demo_url: 
 short_text: "Support medical imaging and other use cases in areas like data and model management, deployment, experiment tracking and explainability"
-hero_image: assets/images/med-imaging.png
+hero_image: assets/images/med-imaging.webp
 tags: "\"Solution Accelerator\",\"Healthcare\",\"HLS\",\"Azure Machine Learning\""
-last_updated: "March 28, 2022 08:16:05 PM"
+last_updated: "March 30, 2022 05:31:13 PM"
 ---
 ## About this Solution Accelerator
 

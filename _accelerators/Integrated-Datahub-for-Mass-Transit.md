@@ -11,7 +11,7 @@ technology_stack: ""
 github_url: https://github.com/MSUSSolutionAccelerators/Integrated-Datahub-for-Mass-Transit-Solution-Accelerator
 demo_url: 
 short_text: "System for government transit and transportation authorities to provide optimum transportation services to citizens"
-hero_image: assets/images/Datahub_Mass_Transit_Hero.png
+hero_image: assets/images/Datahub_Mass_Transit_Hero.webp
 tags: "\"Solution Accelerator\",\"Transportation\",\"SLG\""
-last_updated: "March 28, 2022 08:15:29 PM"
+last_updated: "March 30, 2022 05:29:36 PM"
 ---

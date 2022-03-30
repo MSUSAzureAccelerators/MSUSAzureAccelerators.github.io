@@ -11,8 +11,8 @@ technology_stack: "Azure IoT Hub"
 github_url: https://github.com/MSUSSolutionAccelerators/ADX-IoT-Analytics-Solution-Accelerator
 demo_url: 
 short_text: "Information coming soon about the ADX IoT Analytics Solution Accelerator"
-hero_image: assets/images/IOT_Hero.png
+hero_image: assets/images/IOT_Hero.webp
 tags: "\"Solution Accelerator\",\"Process Automation\",\"Automotive\",\"EDU\",\"Energy\",\"FSI\",\"High Tech\",\"Manufacturing\",\"Media and Entertainment\",\"Professional Services\",\"Retail\",\"SLG\",\"HLS\",\"Azure IoT Hub\""
-last_updated: "March 28, 2022 08:09:05 PM"
+last_updated: "March 30, 2022 05:24:52 PM"
 ---
 ​​More information coming soon.

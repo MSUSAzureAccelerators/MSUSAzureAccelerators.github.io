@@ -11,9 +11,9 @@ technology_stack: "Synapse,Purview,Azure Data Lake Storage"
 github_url: https://github.com/microsoft/Purview-Custom-Connector-Solution-Accelerator
 demo_url: 
 short_text: "Shorten most Purview Custom Connector MVP engagements from 4-6 weeks to 1-2 weeks"
-hero_image: assets/images/Purview_Hero.png
+hero_image: assets/images/Purview_Hero.webp
 tags: "\"Reusable Technology Accelerator\",\"Manufacturing\",\"Retail\",\"Other\",\"FSI\",\"HLS\",\"Synapse\",\"Purview\",\"Azure Data Lake Storage\""
-last_updated: "March 28, 2022 08:14:58 PM"
+last_updated: "March 30, 2022 05:26:06 PM"
 ---
 ## About this Solution Accelerator
 

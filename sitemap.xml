@@ -238,5 +238,30 @@
             <changefreq>Monthly</changefreq>
             <priority>0.6</priority>
 </url>
+<url>
+            <loc>https://msussolutionaccelerators.github.io/accelerators/AIoT---Predictive-Maintenance.html</loc>
+            <changefreq>Monthly</changefreq>
+            <priority>0.6</priority>
+</url>
+<url>
+            <loc>https://msussolutionaccelerators.github.io/accelerators/AIoT---Automated-Quality-Inspection.html</loc>
+            <changefreq>Monthly</changefreq>
+            <priority>0.6</priority>
+</url>
+<url>
+            <loc>https://msussolutionaccelerators.github.io/accelerators/AIoT---Inventory-Lifecycle-Management/Supply-Chain.html</loc>
+            <changefreq>Monthly</changefreq>
+            <priority>0.6</priority>
+</url>
+<url>
+            <loc>https://msussolutionaccelerators.github.io/accelerators/AIoT---Factory/Worker-Safety.html</loc>
+            <changefreq>Monthly</changefreq>
+            <priority>0.6</priority>
+</url>
+<url>
+            <loc>https://msussolutionaccelerators.github.io/accelerators/AIoT---Automated-Call-Center.html</loc>
+            <changefreq>Monthly</changefreq>
+            <priority>0.6</priority>
+</url>
 
 </urlset>

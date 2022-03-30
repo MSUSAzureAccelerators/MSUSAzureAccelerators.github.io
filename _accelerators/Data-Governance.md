@@ -11,7 +11,7 @@ technology_stack: ""
 github_url: 
 demo_url: 
 short_text: "Information coming soon about the Data Governance Solution Accelerator"
-hero_image: assets/images/Data_Governance_Hero.png
+hero_image: assets/images/Data_Governance_Hero.webp
 tags: "\"Reusable Technology Accelerator\""
-last_updated: "March 28, 2022 08:15:29 PM"
+last_updated: "March 30, 2022 05:27:39 PM"
 ---

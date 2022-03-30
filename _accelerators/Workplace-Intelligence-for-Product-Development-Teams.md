@@ -11,9 +11,9 @@ technology_stack: "Azure DevOps,Workplace Analytics,Viva,Synapse,Power BI"
 github_url: https://github.com/MSUSSolutionAccelerators/Workplace-Intelligence-Solution-Accelerator
 demo_url: 
 short_text: "Uncover and leverage the key drivers of productivity and success for product development teams"
-hero_image: assets/images/Workplace_Intelligence_Hero.png
+hero_image: assets/images/Workplace_Intelligence_Hero.webp
 tags: "\"Solution Accelerator\",\"Workplace Intelligence\",\"High Tech\",\"Azure DevOps\",\"Workplace Analytics\",\"Viva\",\"Synapse\",\"Power BI\""
-last_updated: "March 28, 2022 08:17:52 PM"
+last_updated: "March 30, 2022 05:33:37 PM"
 ---
 ## About this Solution Accelerator
 

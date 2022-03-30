@@ -11,7 +11,7 @@ technology_stack: "Python"
 github_url: https://github.com/MSUSSolutionAccelerators/Near-Real-Time-Fraud-and-Compliance-Analytics-Solution-Accelerator
 demo_url: 
 short_text: "Simplify the fraud detection and reporting process"
-hero_image: assets/images/Fraud_Compliance_Hero.png
+hero_image: assets/images/Fraud_Compliance_Hero.webp
 tags: "\"Solution Accelerator\",\"Financial\",\"FSI\",\"Python\""
-last_updated: "March 28, 2022 08:16:39 PM"
+last_updated: "March 30, 2022 05:31:14 PM"
 ---

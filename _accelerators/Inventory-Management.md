@@ -11,8 +11,8 @@ technology_stack: ""
 github_url: 
 demo_url: 
 short_text: "Empowering workforce, intelligent supply chain with intelligent sales and efficient devices to help gather invaluable data; telemetry, compliance, stock, sales patterns, compete, location and performance"
-hero_image: assets/images/Inventory_Management_Hero.png
+hero_image: assets/images/Inventory_Management_Hero.webp
 tags: "\"Solution Accelerator\",\"Supply Chain\",\"Retail\",\"Manufacturing\""
-last_updated: "March 28, 2022 08:16:07 PM"
+last_updated: "March 30, 2022 05:29:38 PM"
 ---
 More information coming soon.

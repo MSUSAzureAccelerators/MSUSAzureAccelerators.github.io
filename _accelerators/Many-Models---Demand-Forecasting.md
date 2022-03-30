@@ -11,9 +11,9 @@ technology_stack: "Azure Machine Learning,Power BI"
 github_url: https://github.com/microsoft/solution-accelerator-many-models
 demo_url: 
 short_text: "Train data from multiple sources to forecast future demand."
-hero_image: assets/images/Many_Models_Hero.png
+hero_image: assets/images/Many_Models_Hero.webp
 tags: "\"Solution Accelerator\",\"Supply Chain\",\"Manufacturing\",\"Retail\",\"FSI\",\"HLS\",\"Azure Machine Learning\",\"Power BI\""
-last_updated: "March 28, 2022 08:16:44 PM"
+last_updated: "March 30, 2022 05:31:14 PM"
 ---
 ## About this Solution Accelerator
 

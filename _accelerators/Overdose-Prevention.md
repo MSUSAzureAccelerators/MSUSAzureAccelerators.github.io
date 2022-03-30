@@ -11,7 +11,7 @@ technology_stack: ""
 github_url: https://github.com/MSUSSolutionAccelerators/Overdose-Prevention-Solution-Accelerator
 demo_url: 
 short_text: "Provide predictive analytics for different prescription and distribution services"
-hero_image: assets/images/Overdose_Prevention_Hero.png
+hero_image: assets/images/Overdose_Prevention_Hero.webp
 tags: "\"Solution Accelerator\",\"Healthcare\",\"HLS\""
-last_updated: "March 28, 2022 08:17:17 PM"
+last_updated: "March 30, 2022 05:31:14 PM"
 ---
