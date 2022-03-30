@@ -267,3 +267,7 @@ footer a:visited {
 .social-icons .teams-share-button {
     background-color: var(--color-white)
 }
+
+@media screen and (orientation: portrait) {}
+
+@media screen and (orientation: landscape) {}

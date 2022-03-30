@@ -286,3 +286,7 @@ footer a:visited {
     text-transform: uppercase !important;
     letter-spacing: .225rem !important
 }
+
+@media screen and (orientation: portrait) {}
+
+@media screen and (orientation: landscape) {}
