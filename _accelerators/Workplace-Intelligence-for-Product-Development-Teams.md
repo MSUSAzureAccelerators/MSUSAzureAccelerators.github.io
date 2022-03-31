@@ -13,7 +13,7 @@ demo_url:
 short_text: "Uncover and leverage the key drivers of productivity and success for product development teams"
 hero_image: assets/images/Workplace_Intelligence_Hero.webp
 tags: "\"Solution Accelerator\",\"Workplace Intelligence\",\"High Tech\",\"Azure DevOps\",\"Workplace Analytics\",\"Viva\",\"Synapse\",\"Power BI\""
-last_updated: "March 30, 2022 06:45:39 PM"
+last_updated: "March 31, 2022 07:42:38 PM"
 ---
 ## About this Solution Accelerator
 

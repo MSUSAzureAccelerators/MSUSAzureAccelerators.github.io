@@ -13,7 +13,7 @@ demo_url:
 short_text: "Support medical imaging and other use cases in areas like data and model management, deployment, experiment tracking and explainability"
 hero_image: assets/images/med-imaging.webp
 tags: "\"Solution Accelerator\",\"Healthcare\",\"HLS\",\"Azure Machine Learning\""
-last_updated: "March 30, 2022 06:45:05 PM"
+last_updated: "March 31, 2022 07:41:20 PM"
 ---
 ## About this Solution Accelerator
 

@@ -13,5 +13,5 @@ demo_url:
 short_text: "System for government transit and transportation authorities to provide optimum transportation services to citizens"
 hero_image: assets/images/Datahub_Mass_Transit_Hero.webp
 tags: "\"Solution Accelerator\",\"Transportation\",\"SLG\""
-last_updated: "March 30, 2022 05:29:36 PM"
+last_updated: "March 31, 2022 07:40:00 PM"
 ---

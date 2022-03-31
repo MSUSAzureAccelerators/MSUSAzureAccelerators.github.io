@@ -13,7 +13,7 @@ demo_url:
 short_text: "Quickly build an initial Knowledge Mining prototype with Azure Cognitive Search"
 hero_image: assets/images/Knowledge_Mining_Hero.webp
 tags: "\"Reusable Technology Accelerator\",\"Financial\",\"Manufacturing\",\"FSI\",\"Cognitive Search\",\"Azure Storage\",\"Power BI\""
-last_updated: "March 30, 2022 06:43:37 PM"
+last_updated: "March 31, 2022 07:41:21 PM"
 ---
 ## About this Solution Accelerator
 

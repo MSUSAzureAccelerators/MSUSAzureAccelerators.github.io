@@ -1,253 +1,268 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
         <loc>https://msussolutionaccelerators.github.io/</loc>
-        <lastmod>2022-03-30T20:41:46+00:00</lastmod>
-        <priority>1.00</priority>
     </url>
     <url>
-        <loc>https://msussolutionaccelerators.github.io/accelerators/ADX-IoT-Analytics.html</loc>
-        <lastmod>2022-03-30T20:41:45+00:00</lastmod>
-        <priority>0.80</priority>
+        <loc>https://msussolutionaccelerators.github.io/accelerators/carbon-tracing-basic-flare.html</loc>
+        <changefreq>Monthly</changefreq>
+        <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://msussolutionaccelerators.github.io/accelerators/ADX-Patient-Monitoring.html</loc>
-        <lastmod>2022-03-30T20:41:45+00:00</lastmod>
-        <priority>0.80</priority>
+        <loc>https://msussolutionaccelerators.github.io/accelerators/carbon-tracing-wastewater.html</loc>
+        <changefreq>Monthly</changefreq>
+        <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://msussolutionaccelerators.github.io/accelerators/AI-Powered-Call-Center-Intelligence.html</loc>
-        <lastmod>2022-03-30T20:41:45+00:00</lastmod>
-        <priority>0.80</priority>
+        <loc>https://msussolutionaccelerators.github.io/accelerators/smart-spaces.html</loc>
+        <changefreq>Monthly</changefreq>
+        <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://msussolutionaccelerators.github.io/accelerators/AI-Powered-Insurance-Claims-Automation.html</loc>
-        <lastmod>2022-03-30T20:41:45+00:00</lastmod>
-        <priority>0.80</priority>
+        <loc>https://msussolutionaccelerators.github.io/accelerators/many-models---demand-forecasting.html</loc>
+        <changefreq>Monthly</changefreq>
+        <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://msussolutionaccelerators.github.io/accelerators/AIoT---Automated-Call-Center.html</loc>
-        <lastmod>2022-03-30T20:41:45+00:00</lastmod>
-        <priority>0.80</priority>
+        <loc>https://msussolutionaccelerators.github.io/accelerators/part-comparator.html</loc>
+        <changefreq>Monthly</changefreq>
+        <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://msussolutionaccelerators.github.io/accelerators/AIoT---Automated-Quality-Inspection.html</loc>
-        <lastmod>2022-03-30T20:41:45+00:00</lastmod>
-        <priority>0.80</priority>
+        <loc>https://msussolutionaccelerators.github.io/accelerators/commodity-price-prediction.html</loc>
+        <changefreq>Monthly</changefreq>
+        <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://msussolutionaccelerators.github.io/accelerators/AIoT---Factory-and-Worker-Safety.html</loc>
-        <lastmod>2022-03-30T20:41:45+00:00</lastmod>
-        <priority>0.80</priority>
+        <loc>https://msussolutionaccelerators.github.io/accelerators/inventory-management.html</loc>
+        <changefreq>Monthly</changefreq>
+        <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://msussolutionaccelerators.github.io/accelerators/AIoT---Inventory-Lifecycle-Management.html</loc>
-        <lastmod>2022-03-30T20:41:45+00:00</lastmod>
-        <priority>0.80</priority>
+        <loc>https://msussolutionaccelerators.github.io/accelerators/workplace-intelligence-for-product-development-teams.html</loc>
+        <changefreq>Monthly</changefreq>
+        <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://msussolutionaccelerators.github.io/accelerators/AIoT---Predictive-Maintenance.html</loc>
-        <lastmod>2022-03-30T20:41:45+00:00</lastmod>
-        <priority>0.80</priority>
+        <loc>https://msussolutionaccelerators.github.io/accelerators/workplace-intelligence-for-human-resources.html</loc>
+        <changefreq>Monthly</changefreq>
+        <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://msussolutionaccelerators.github.io/accelerators/Azure-Purview-Custom-Connector.html</loc>
-        <lastmod>2022-03-30T20:41:45+00:00</lastmod>
-        <priority>0.80</priority>
+        <loc>https://msussolutionaccelerators.github.io/accelerators/ai-powered-insurance-claims-automation.html</loc>
+        <changefreq>Monthly</changefreq>
+        <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://msussolutionaccelerators.github.io/accelerators/Azure-Purview-Custom-Types-Tool.html</loc>
-        <lastmod>2022-03-30T20:41:45+00:00</lastmod>
-        <priority>0.80</priority>
+        <loc>https://msussolutionaccelerators.github.io/accelerators/intelligent-document-processing.html</loc>
+        <changefreq>Monthly</changefreq>
+        <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://msussolutionaccelerators.github.io/accelerators/Azure-Purview-ML-Lineage.html</loc>
-        <lastmod>2022-03-30T20:41:45+00:00</lastmod>
-        <priority>0.80</priority>
+        <loc>https://msussolutionaccelerators.github.io/accelerators/digital-experience-solution.html</loc>
+        <changefreq>Monthly</changefreq>
+        <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://msussolutionaccelerators.github.io/accelerators/Azure-Synapse-Customer-Insights-Customer-360.html</loc>
-        <lastmod>2022-03-30T20:41:45+00:00</lastmod>
-        <priority>0.80</priority>
+        <loc>https://msussolutionaccelerators.github.io/accelerators/digital-marketing-campaigns.html</loc>
+        <changefreq>Monthly</changefreq>
+        <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://msussolutionaccelerators.github.io/accelerators/COVID-19-Vaccine-Proof-and-Test-Verification.html</loc>
-        <lastmod>2022-03-30T20:41:45+00:00</lastmod>
-        <priority>0.80</priority>
+        <loc>https://msussolutionaccelerators.github.io/accelerators/modern-finance---customer-revenue-growth-factor.html</loc>
+        <changefreq>Monthly</changefreq>
+        <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://msussolutionaccelerators.github.io/accelerators/Carbon-Tracing-Basic-Flare.html</loc>
-        <lastmod>2022-03-30T20:41:45+00:00</lastmod>
-        <priority>0.80</priority>
+        <loc>https://msussolutionaccelerators.github.io/accelerators/content-recommendations.html</loc>
+        <changefreq>Monthly</changefreq>
+        <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://msussolutionaccelerators.github.io/accelerators/Carbon-Tracing-Wastewater.html</loc>
-        <lastmod>2022-03-30T20:41:45+00:00</lastmod>
-        <priority>0.80</priority>
+        <loc>https://msussolutionaccelerators.github.io/accelerators/retail-recommender.html</loc>
+        <changefreq>Monthly</changefreq>
+        <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://msussolutionaccelerators.github.io/accelerators/Commodity-Price-Prediction.html</loc>
-        <lastmod>2022-03-30T20:41:45+00:00</lastmod>
-        <priority>0.80</priority>
+        <loc>https://msussolutionaccelerators.github.io/accelerators/conversational-ai-for-retail.html</loc>
+        <changefreq>Monthly</changefreq>
+        <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://msussolutionaccelerators.github.io/accelerators/Containerized-Store.html</loc>
-        <lastmod>2022-03-30T20:41:45+00:00</lastmod>
-        <priority>0.80</priority>
+        <loc>https://msussolutionaccelerators.github.io/accelerators/customer-complaint-management.html</loc>
+        <changefreq>Monthly</changefreq>
+        <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://msussolutionaccelerators.github.io/accelerators/Content-Recommendations.html</loc>
-        <lastmod>2022-03-30T20:41:45+00:00</lastmod>
-        <priority>0.80</priority>
+        <loc>https://msussolutionaccelerators.github.io/accelerators/ai-powered-call-center-intelligence.html</loc>
+        <changefreq>Monthly</changefreq>
+        <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://msussolutionaccelerators.github.io/accelerators/Conversational-AI-for-Retail.html</loc>
-        <lastmod>2022-03-30T20:41:45+00:00</lastmod>
-        <priority>0.80</priority>
+        <loc>https://msussolutionaccelerators.github.io/accelerators/patient-risk-analyzer.html</loc>
+        <changefreq>Monthly</changefreq>
+        <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://msussolutionaccelerators.github.io/accelerators/Conversational-AI-for-State-and-Local-Government.html</loc>
-        <lastmod>2022-03-30T20:41:45+00:00</lastmod>
-        <priority>0.80</priority>
+        <loc>https://msussolutionaccelerators.github.io/accelerators/covid-19-vaccine-proof-and-test-verification.html</loc>
+        <changefreq>Monthly</changefreq>
+        <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://msussolutionaccelerators.github.io/accelerators/Cosmos-DB-Helper.html</loc>
-        <lastmod>2022-03-30T20:41:45+00:00</lastmod>
-        <priority>0.80</priority>
+        <loc>https://msussolutionaccelerators.github.io/accelerators/health-and-human-services-datahub.html</loc>
+        <changefreq>Monthly</changefreq>
+        <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://msussolutionaccelerators.github.io/accelerators/Customer-Complaint-Management.html</loc>
-        <lastmod>2022-03-30T20:41:45+00:00</lastmod>
-        <priority>0.80</priority>
+        <loc>https://msussolutionaccelerators.github.io/accelerators/overdose-prevention.html</loc>
+        <changefreq>Monthly</changefreq>
+        <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://msussolutionaccelerators.github.io/accelerators/Digital-Documentation-Shipping-Industry.html</loc>
-        <lastmod>2022-03-30T20:41:45+00:00</lastmod>
-        <priority>0.80</priority>
+        <loc>https://msussolutionaccelerators.github.io/accelerators/near-real-time-fraud-and-compliance-analytics.html</loc>
+        <changefreq>Monthly</changefreq>
+        <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://msussolutionaccelerators.github.io/accelerators/Digital-Experience-Solution.html</loc>
-        <lastmod>2022-03-30T20:41:45+00:00</lastmod>
-        <priority>0.80</priority>
+        <loc>https://msussolutionaccelerators.github.io/accelerators/integrated-datahub-for-mass-transit.html</loc>
+        <changefreq>Monthly</changefreq>
+        <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://msussolutionaccelerators.github.io/accelerators/Digital-Marketing-Campaigns.html</loc>
-        <lastmod>2022-03-30T20:41:45+00:00</lastmod>
-        <priority>0.80</priority>
+        <loc>https://msussolutionaccelerators.github.io/accelerators/digital-documentation-shipping-industry.html</loc>
+        <changefreq>Monthly</changefreq>
+        <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://msussolutionaccelerators.github.io/accelerators/Health-and-Human-Services-Datahub.html</loc>
-        <lastmod>2022-03-30T20:41:45+00:00</lastmod>
-        <priority>0.80</priority>
+        <loc>https://msussolutionaccelerators.github.io/accelerators/azure-synapse-customer-insights-customer-360.html</loc>
+        <changefreq>Monthly</changefreq>
+        <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://msussolutionaccelerators.github.io/accelerators/Healthcare-Blockchain.html</loc>
-        <lastmod>2022-03-30T20:41:45+00:00</lastmod>
-        <priority>0.80</priority>
+        <loc>https://msussolutionaccelerators.github.io/accelerators/containerized-store.html</loc>
+        <changefreq>Monthly</changefreq>
+        <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://msussolutionaccelerators.github.io/accelerators/Integrated-Datahub-for-Mass-Transit.html</loc>
-        <lastmod>2022-03-30T20:41:45+00:00</lastmod>
-        <priority>0.80</priority>
+        <loc>https://msussolutionaccelerators.github.io/accelerators/healthcare-blockchain.html</loc>
+        <changefreq>Monthly</changefreq>
+        <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://msussolutionaccelerators.github.io/accelerators/Intelligent-Document-Processing.html</loc>
-        <lastmod>2022-03-30T20:41:45+00:00</lastmod>
-        <priority>0.80</priority>
+        <loc>https://msussolutionaccelerators.github.io/accelerators/medical-imaging-with-azure-machine-learning.html</loc>
+        <changefreq>Monthly</changefreq>
+        <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://msussolutionaccelerators.github.io/accelerators/Knowledge-Mining---AML.html</loc>
-        <lastmod>2022-03-30T20:41:45+00:00</lastmod>
-        <priority>0.80</priority>
+        <loc>https://msussolutionaccelerators.github.io/accelerators/risk-classification-and-loan-modeling.html</loc>
+        <changefreq>Monthly</changefreq>
+        <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://msussolutionaccelerators.github.io/accelerators/Knowledge-Mining.html</loc>
-        <lastmod>2022-03-30T20:41:45+00:00</lastmod>
-        <priority>0.80</priority>
+        <loc>https://msussolutionaccelerators.github.io/accelerators/cosmos-db-helper.html</loc>
+        <changefreq>Monthly</changefreq>
+        <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://msussolutionaccelerators.github.io/accelerators/Manufacturing-Vision---AMD64.html</loc>
-        <lastmod>2022-03-30T20:41:45+00:00</lastmod>
-        <priority>0.80</priority>
+        <loc>https://msussolutionaccelerators.github.io/accelerators/data-governance.html</loc>
+        <changefreq>Monthly</changefreq>
+        <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://msussolutionaccelerators.github.io/accelerators/Many-Models---Demand-Forecasting.html</loc>
-        <lastmod>2022-03-30T20:41:45+00:00</lastmod>
-        <priority>0.80</priority>
+        <loc>https://msussolutionaccelerators.github.io/accelerators/knowledge-mining---aml.html</loc>
+        <changefreq>Monthly</changefreq>
+        <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://msussolutionaccelerators.github.io/accelerators/Medical-Imaging-with-Azure-Machine-Learning.html</loc>
-        <lastmod>2022-03-30T20:41:45+00:00</lastmod>
-        <priority>0.80</priority>
+        <loc>https://msussolutionaccelerators.github.io/accelerators/azure-purview-custom-connector.html</loc>
+        <changefreq>Monthly</changefreq>
+        <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://msussolutionaccelerators.github.io/accelerators/Modern-Finance---Customer-Revenue-Growth-Factor.html</loc>
-        <lastmod>2022-03-30T20:41:45+00:00</lastmod>
-        <priority>0.80</priority>
+        <loc>https://msussolutionaccelerators.github.io/accelerators/azure-purview-custom-types-tool.html</loc>
+        <changefreq>Monthly</changefreq>
+        <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://msussolutionaccelerators.github.io/accelerators/Near-Real-Time-Fraud-and-Compliance-Analytics.html</loc>
-        <lastmod>2022-03-30T20:41:45+00:00</lastmod>
-        <priority>0.80</priority>
+        <loc>https://msussolutionaccelerators.github.io/accelerators/azure-purview-ml-lineage.html</loc>
+        <changefreq>Monthly</changefreq>
+        <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://msussolutionaccelerators.github.io/accelerators/Overdose-Prevention.html</loc>
-        <lastmod>2022-03-30T20:41:45+00:00</lastmod>
-        <priority>0.80</priority>
+        <loc>https://msussolutionaccelerators.github.io/accelerators/tradable-digital-assets.html</loc>
+        <changefreq>Monthly</changefreq>
+        <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://msussolutionaccelerators.github.io/accelerators/Part-Comparator.html</loc>
-        <lastmod>2022-03-30T20:41:45+00:00</lastmod>
-        <priority>0.80</priority>
+        <loc>https://msussolutionaccelerators.github.io/accelerators/virtual-assistant-deployer.html</loc>
+        <changefreq>Monthly</changefreq>
+        <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://msussolutionaccelerators.github.io/accelerators/Patient-Risk-Analyzer.html</loc>
-        <lastmod>2022-03-30T20:41:45+00:00</lastmod>
-        <priority>0.80</priority>
+        <loc>https://msussolutionaccelerators.github.io/accelerators/knowledge-mining.html</loc>
+        <changefreq>Monthly</changefreq>
+        <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://msussolutionaccelerators.github.io/accelerators/Retail-Recommender.html</loc>
-        <lastmod>2022-03-30T20:41:45+00:00</lastmod>
-        <priority>0.80</priority>
+        <loc>https://msussolutionaccelerators.github.io/accelerators/travel-marketplace.html</loc>
+        <changefreq>Monthly</changefreq>
+        <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://msussolutionaccelerators.github.io/accelerators/Risk-Classification-and-Loan-Modeling.html</loc>
-        <lastmod>2022-03-30T20:41:45+00:00</lastmod>
-        <priority>0.80</priority>
+        <loc>https://msussolutionaccelerators.github.io/accelerators/modern-finance.html</loc>
+        <changefreq>Monthly</changefreq>
+        <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://msussolutionaccelerators.github.io/accelerators/Smart-Spaces.html</loc>
-        <lastmod>2022-03-30T20:41:45+00:00</lastmod>
-        <priority>0.80</priority>
+        <loc>https://msussolutionaccelerators.github.io/accelerators/conversational-ai-for-state-and-local-government.html</loc>
+        <changefreq>Monthly</changefreq>
+        <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://msussolutionaccelerators.github.io/accelerators/Tradable-Digital-Assets.html</loc>
-        <lastmod>2022-03-30T20:41:45+00:00</lastmod>
-        <priority>0.80</priority>
+        <loc>https://msussolutionaccelerators.github.io/accelerators/azure-intelligent-recommendations.html</loc>
+        <changefreq>Monthly</changefreq>
+        <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://msussolutionaccelerators.github.io/accelerators/Travel-Marketplace.html</loc>
-        <lastmod>2022-03-30T20:41:45+00:00</lastmod>
-        <priority>0.80</priority>
+        <loc>https://msussolutionaccelerators.github.io/accelerators/adx-iot-analytics.html</loc>
+        <changefreq>Monthly</changefreq>
+        <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://msussolutionaccelerators.github.io/accelerators/Virtual-Assistant-Deployer.html</loc>
-        <lastmod>2022-03-30T20:41:45+00:00</lastmod>
-        <priority>0.80</priority>
+        <loc>https://msussolutionaccelerators.github.io/accelerators/adx-patient-monitoring.html</loc>
+        <changefreq>Monthly</changefreq>
+        <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://msussolutionaccelerators.github.io/accelerators/Workplace-Intelligence-for-Human-Resources.html</loc>
-        <lastmod>2022-03-30T20:41:45+00:00</lastmod>
-        <priority>0.80</priority>
+        <loc>https://msussolutionaccelerators.github.io/accelerators/manufacturing-vision---amd64.html</loc>
+        <changefreq>Monthly</changefreq>
+        <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://msussolutionaccelerators.github.io/accelerators/Workplace-Intelligence-for-Product-Development-Teams.html</loc>
-        <lastmod>2022-03-30T20:41:45+00:00</lastmod>
-        <priority>0.80</priority>
+        <loc>https://msussolutionaccelerators.github.io/accelerators/aiot---predictive-maintenance.html</loc>
+        <changefreq>Monthly</changefreq>
+        <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://msussolutionaccelerators.github.io/index.html</loc>
-        <lastmod>2022-03-30T20:41:46+00:00</lastmod>
-        <priority>0.64</priority>
+        <loc>https://msussolutionaccelerators.github.io/accelerators/aiot---automated-quality-inspection.html</loc>
+        <changefreq>Monthly</changefreq>
+        <priority>0.6</priority>
     </url>
+    <url>
+        <loc>https://msussolutionaccelerators.github.io/accelerators/aiot---inventory-lifecycle-management.html</loc>
+        <changefreq>Monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://msussolutionaccelerators.github.io/accelerators/aiot---factory-and-worker-safety.html</loc>
+        <changefreq>Monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://msussolutionaccelerators.github.io/accelerators/aiot---automated-call-center.html</loc>
+        <changefreq>Monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
 </urlset>

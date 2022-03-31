@@ -13,7 +13,7 @@ demo_url:
 short_text: "Tackle the challenges presented by siloed, insecure solutions that many counties use"
 hero_image: assets/images/HHS_Datahub_Hero.webp
 tags: "\"Solution Accelerator\",\"Healthcare\",\"HLS\",\"SLG\",\"Synapse\""
-last_updated: "March 30, 2022 05:28:17 PM"
+last_updated: "March 31, 2022 07:40:02 PM"
 ---
 ## About this Solution Accelerator
 

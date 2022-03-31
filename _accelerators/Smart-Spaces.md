@@ -13,7 +13,7 @@ demo_url:
 short_text: "Builds smart buildings that can prove to be a gold standard in reducing environment impact and cost by driving energy efficiency, green purchasing, waste diversion, and water efficiency"
 hero_image: assets/images/Smart_Spaces_Hero2.webp
 tags: "\"Solution Accelerator\",\"Sustainability\",\"Manufacturing\",\"Retail\",\"FSI\",\"HLS\",\"SLG\""
-last_updated: "March 30, 2022 05:31:49 PM"
+last_updated: "March 31, 2022 07:41:54 PM"
 ---
 ## About this Solution Accelerator
 

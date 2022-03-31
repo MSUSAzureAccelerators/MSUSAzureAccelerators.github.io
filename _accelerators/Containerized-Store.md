@@ -10,10 +10,10 @@ industries: "Manufacturing,Retail,FSI,HLS"
 technology_stack: "Azure Custom Vision,VoTT,Video Studio"
 github_url: https://github.com/microsoft/solution-accelerator-containerized-store
 demo_url: 
-short_text: "Modernize traditional retail stores and provide customers with new, easier ways to purchase goods while on-the-go, or find new ways to engage their customers"
+short_text: "Modernize traditional retail stores and provide customers with new, easier ways to purchase goods while on-the-go, or find new ways to engage their customers."
 hero_image: assets/images/Containerized_Store_Hero.webp
 tags: "\"Solution Accelerator\",\"Manufacturing\",\"Retail\",\"FSI\",\"HLS\",\"Azure Custom Vision\",\"VoTT\",\"Video Studio\""
-last_updated: "March 30, 2022 05:27:41 PM"
+last_updated: "March 31, 2022 07:48:24 PM"
 ---
 ## About this Solution Accelerator
 

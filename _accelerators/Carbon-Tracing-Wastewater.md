@@ -10,10 +10,10 @@ industries: "Manufacturing,Retail,FSI,HLS"
 technology_stack: "Azure IoT Hub,Synapse,Azure Storage,Power BI,Azure Logic Apps"
 github_url: https://github.com/MSUSSolutionAccelerators/Carbon-Tracing-Wastewater-Solution-Accelerator
 demo_url: 
-short_text: "Transform your data into opportunities to cut your wastewater treatment emissions"
+short_text: "Transform your data into opportunities to cut your wastewater treatment emissions."
 hero_image: assets/images/Carbon_Tracing_Wastewater_Hero.webp
 tags: "\"Solution Accelerator\",\"Sustainability\",\"Manufacturing\",\"Retail\",\"FSI\",\"HLS\",\"Azure IoT Hub\",\"Synapse\",\"Azure Storage\",\"Power BI\",\"Azure Logic Apps\""
-last_updated: "March 30, 2022 06:41:28 PM"
+last_updated: "March 31, 2022 07:48:26 PM"
 ---
 ## About this Solution Accelerator
 

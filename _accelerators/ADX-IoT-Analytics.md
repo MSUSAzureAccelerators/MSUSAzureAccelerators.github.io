@@ -13,6 +13,6 @@ demo_url:
 short_text: "Information coming soon about the ADX IoT Analytics Solution Accelerator"
 hero_image: assets/images/IOT_Hero.webp
 tags: "\"Solution Accelerator\",\"Process Automation\",\"Automotive\",\"EDU\",\"Energy\",\"FSI\",\"High Tech\",\"Manufacturing\",\"Media and Entertainment\",\"Professional Services\",\"Retail\",\"SLG\",\"HLS\",\"Azure IoT Hub\""
-last_updated: "March 30, 2022 05:24:52 PM"
+last_updated: "March 31, 2022 07:47:16 PM"
 ---
 ​​More information coming soon.

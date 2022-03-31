@@ -13,5 +13,5 @@ demo_url:
 short_text: "Simplify the fraud detection and reporting process"
 hero_image: assets/images/Fraud_Compliance_Hero.webp
 tags: "\"Solution Accelerator\",\"Financial\",\"FSI\",\"Python\""
-last_updated: "March 30, 2022 05:31:14 PM"
+last_updated: "March 31, 2022 07:41:21 PM"
 ---

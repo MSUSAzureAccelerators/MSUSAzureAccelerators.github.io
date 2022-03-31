@@ -13,7 +13,7 @@ demo_url:
 short_text: "Decentralized, managed marketplace platform for transacting between multiple individuals or organizations."
 hero_image: assets/images/Travel_Marketplace_Hero.webp
 tags: "\"Solution Accelerator\",\"Manufacturing\",\"Azure Blockchain\",\"Mongo DB,\",\"Hyperledger Service Fabric\",\"Visual Studio\""
-last_updated: "March 30, 2022 05:33:36 PM"
+last_updated: "March 31, 2022 07:41:54 PM"
 ---
 ## About this Solution Accelerator
 

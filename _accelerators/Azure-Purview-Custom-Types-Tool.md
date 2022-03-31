@@ -10,10 +10,10 @@ industries: "Manufacturing,Retail,Other,FSI,HLS"
 technology_stack: "Purview,node.js,Apache Atlas"
 github_url: https://github.com/microsoft/Purview-Custom-Types-Tool-Solution-Accelerator
 demo_url: 
-short_text: "Helps with custom development for Purview using the Atlas APIs"
+short_text: "Helps with custom development for Purview using the Atlas APIs."
 hero_image: assets/images/Purview_Hero.webp
 tags: "\"Reusable Technology Accelerator\",\"Manufacturing\",\"Retail\",\"Other\",\"FSI\",\"HLS\",\"Purview\",\"node.js\",\"Apache Atlas\""
-last_updated: "March 30, 2022 05:26:07 PM"
+last_updated: "March 31, 2022 07:48:24 PM"
 ---
 ## About this Solution Accelerator
 

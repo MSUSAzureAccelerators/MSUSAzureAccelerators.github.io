@@ -13,7 +13,7 @@ demo_url:
 short_text: "Extract business or industry specific terms from documents, such as extracting medical terms from medical documents, legal terms from contracts, or part names from engineering documents"
 hero_image: assets/images/Knowledge_Mining_AML_Hero.webp
 tags: "\"Reusable Technology Accelerator\",\"Manufacturing\",\"FSI\",\"Azure Machine Learning\",\"Cognitive Search\""
-last_updated: "March 30, 2022 06:44:09 PM"
+last_updated: "March 31, 2022 07:41:20 PM"
 ---
 ## About this Solution Accelerator
 

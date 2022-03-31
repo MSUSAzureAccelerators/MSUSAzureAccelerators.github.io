@@ -13,5 +13,5 @@ demo_url:
 short_text: "Effectively spend money on advertising media that is more impactful to customers"
 hero_image: assets/images/Digital_Marketing_Hero.webp
 tags: "\"Solution Accelerator\",\"Campaign Management\",\"Retail\""
-last_updated: "March 30, 2022 05:28:16 PM"
+last_updated: "March 31, 2022 07:40:00 PM"
 ---

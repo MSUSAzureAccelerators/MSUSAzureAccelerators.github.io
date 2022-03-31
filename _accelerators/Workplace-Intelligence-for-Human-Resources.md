@@ -13,7 +13,7 @@ demo_url:
 short_text: "Easily identify factors that influence productivity and engagement"
 hero_image: assets/images/Workplace_Intelligence_Hero.webp
 tags: "\"Solution Accelerator\",\"Workplace Intelligence\",\"Manufacturing\",\"Retail\",\"FSI\",\"HLS\",\"Workplace Analytics\",\"Viva\",\"Azure DevOps\",\"Synapse\",\"Power BI\""
-last_updated: "March 30, 2022 06:45:41 PM"
+last_updated: "March 31, 2022 07:42:40 PM"
 ---
 ## About this Solution Accelerator
 

@@ -10,10 +10,10 @@ industries: "Retail,Other,FSI"
 technology_stack: "Customer Insights,Azure Data Lake Storage,Synapse,Azure Machine Learning,Power BI"
 github_url: https://github.com/microsoft/Azure-Synapse-Customer-Insights-Customer360-Solution-Accelerator
 demo_url: 
-short_text: "Improve customer experience, specifically around increasing customer retention"
+short_text: "Improve customer experience, specifically around increasing customer retention."
 hero_image: assets/images/Customer_Insights_Hero.webp
 tags: "\"Reusable Technology Accelerator\",\"Professional Services\",\"Retail\",\"Other\",\"FSI\",\"Customer Insights\",\"Azure Data Lake Storage\",\"Synapse\",\"Azure Machine Learning\",\"Power BI\""
-last_updated: "March 30, 2022 06:42:17 PM"
+last_updated: "March 31, 2022 07:48:24 PM"
 ---
 ## About this Solution Accelerator
 

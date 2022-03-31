@@ -13,6 +13,6 @@ demo_url:
 short_text: "Deploy a Microsoft Virtual Assistant Solution without needing to install all the prerequisite tools on your own machine"
 hero_image: assets/images/Virtual_Assistant_Hero.webp
 tags: "\"Reusable Technology Accelerator\",\"Manufacturing\",\"Retail\",\"FSI\",\"HLS\",\"Bot Framework\",\"Visual Studio Code\",\"Docker\""
-last_updated: "March 30, 2022 05:33:37 PM"
+last_updated: "March 31, 2022 07:42:40 PM"
 ---
 More information coming son

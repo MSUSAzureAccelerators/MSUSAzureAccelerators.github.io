@@ -13,7 +13,7 @@ demo_url:
 short_text: "Optimize their inventory and manufacturing strategies by recommending available parts that could replace more expensive ones based on similarity matching"
 hero_image: assets/images/Part_Comparator_Hero.webp
 tags: "\"Solution Accelerator\",\"Supply Chain\",\"Manufacturing\",\"Retail\",\"Synapse\",\"Azure Machine Learning\",\"Azure Kubernetes Services\",\"Azure Logic Apps,\",\"Power BI\""
-last_updated: "March 30, 2022 06:45:07 PM"
+last_updated: "March 31, 2022 07:41:20 PM"
 ---
 ## About this Solution Accelerator
 

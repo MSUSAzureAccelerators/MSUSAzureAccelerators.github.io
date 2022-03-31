@@ -13,6 +13,6 @@ demo_url:
 short_text: "This is the base code for the Manufacturing Vision for amd64 architecture"
 hero_image: assets/images/Manufacturing_Vision_Hero.webp
 tags: "\"Solution Accelerator\",\"Process Automation\",\"Manufacturing\",\"Docker\",\"Python\""
-last_updated: "March 30, 2022 05:29:38 PM"
+last_updated: "March 31, 2022 07:41:21 PM"
 ---
 This is the base code for the Manufacturing Vision for amd64 architecture.

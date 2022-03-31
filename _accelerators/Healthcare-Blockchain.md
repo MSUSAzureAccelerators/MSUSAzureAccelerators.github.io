@@ -13,7 +13,7 @@ demo_url:
 short_text: "Produce an initial prototype or demo of an approval process application within the Healthcare industry"
 hero_image: assets/images/Healthcare_Blockchain_Hero.webp
 tags: "\"Solution Accelerator\",\"Healthcare\",\"HLS\""
-last_updated: "March 30, 2022 05:29:36 PM"
+last_updated: "March 31, 2022 07:40:01 PM"
 ---
 ## About this Solution Accelerator
 

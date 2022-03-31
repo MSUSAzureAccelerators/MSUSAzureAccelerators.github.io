@@ -13,7 +13,7 @@ demo_url:
 short_text: "Provide personalized product recommendations to users based on their purchase history, product selection in the e-commerce channel, and their activity in the physical store."
 hero_image: assets/images/Retail%20Recommender%20Hero.webp
 tags: "\"Solution Accelerator\",\"Personalization\",\"Retail\",\"FSI\",\"Synapse\",\"Azure Data Lake Storage\",\"Azure Machine Learning\",\"Azure Kubernetes Services\",\"Cosmos DB\",\"Power BI\""
-last_updated: "March 30, 2022 05:31:17 PM"
+last_updated: "March 31, 2022 07:41:54 PM"
 ---
 ## About this Solution Accelerator
 

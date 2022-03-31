@@ -113,8 +113,10 @@ a:visited {
 }
 
 .main-container {
+    display: -ms-grid;
     display: grid;
-    grid-template-columns: 300px auto
+    -ms-grid-columns: 300px auto;
+    grid-template-columns: 300px auto;
 }
 
 .main-container-left {
