@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Test site for tailwind css",
   "scripts": {
-    "start": "tailwindcss -i ./src/styles.css -o ./build/css/styles.css --watch"
+    "start": "tailwindcss -i ./src/styles.css -o ./assets/css/styles.css --watch"
   },
   "keywords": [],
   "author": "Steve Kaschimer",
