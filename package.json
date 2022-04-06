@@ -1,9 +1,9 @@
 {
-  "name": "steve-test",
+  "name": "msussolutionaccelerators.github.io",
   "version": "1.0.0",
-  "description": "Test site for tailwind css",
+  "description": "A collection of the best Microsoft IP to help companies get started with building complex workloads in Azure",
   "scripts": {
-    "start": "tailwindcss -i ./src/styles.css -o ./assets/css/styles.css --watch"
+    "start": "tailwindcss -i ./_src/styles.css -o ./assets/css/styles.css --watch"
   },
   "keywords": [],
   "author": "Steve Kaschimer",
