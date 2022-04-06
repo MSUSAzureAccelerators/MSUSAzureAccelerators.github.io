@@ -11,3 +11,11 @@ defaults:
       path: "index.html"
     values:
       layout: "default"
+
+exclude:
+  - "*.json"
+  - "Gemfile*"
+  - "*.txt"
+  - postcss.config.js
+  - tailwind.config.js
+  - README.md
