@@ -11,7 +11,7 @@ technology_stack: "Power BI"
 github_url: 
 demo_url: 
 short_text: "Transform the way you gather financial insights for driving growth"
-hero_image: ./build/images/Modern_Finance_Hero.webp
+hero_image: ./assets/images/Modern_Finance_Hero.webp
 tags: "\"Solution Accelerator\",\"Financial\",\"FSI\",\"Power BI\""
 last_updated: "March 31, 2022 07:41:21 PM"
 ---

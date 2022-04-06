@@ -11,7 +11,7 @@ technology_stack: "Azure DevOps,Workplace Analytics,Viva,Synapse,Power BI"
 github_url: https://github.com/MSUSSolutionAccelerators/Workplace-Intelligence-Solution-Accelerator
 demo_url: 
 short_text: "Uncover and leverage the key drivers of productivity and success for product development teams"
-hero_image: ./build/images/Workplace_Intelligence_Hero.webp
+hero_image: ./assets/images/Workplace_Intelligence_Hero.webp
 tags: "\"Solution Accelerator\",\"Workplace Intelligence\",\"High Tech\",\"Azure DevOps\",\"Workplace Analytics\",\"Viva\",\"Synapse\",\"Power BI\""
 last_updated: "March 31, 2022 07:42:38 PM"
 ---
@@ -42,4 +42,4 @@ The Workplace Intelligence Solution Accelerator can help. It leverages machine l
 
 Azure Synapse Analytics leverages AI and Power BI in a dashboard that provides visibility into work habit data from Microsoft 365 to help your team optimize efficiency, improve collaboration, and maintain health work/life balance.
 
-![Workplace Intelligence Flow](.././build/images/Workplace_Intelligence_Flow.webp)
+![Workplace Intelligence Flow](.././assets/images/Workplace_Intelligence_Flow.webp)

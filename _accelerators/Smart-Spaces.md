@@ -11,7 +11,7 @@ technology_stack: ""
 github_url: https://github.com/MSUSSolutionAccelerators/Smart-Spaces-Sustainability-Solution-Accelerator
 demo_url: 
 short_text: "Builds smart buildings that can prove to be a gold standard in reducing environment impact and cost by driving energy efficiency, green purchasing, waste diversion, and water efficiency"
-hero_image: ./build/images/Smart_Spaces_Hero2.webp
+hero_image: ./assets/images/Smart_Spaces_Hero2.webp
 tags: "\"Solution Accelerator\",\"Sustainability\",\"Manufacturing\",\"Retail\",\"FSI\",\"HLS\",\"SLG\""
 last_updated: "March 31, 2022 07:41:54 PM"
 ---

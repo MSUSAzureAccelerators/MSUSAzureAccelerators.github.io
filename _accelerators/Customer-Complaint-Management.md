@@ -11,7 +11,7 @@ technology_stack: "Azure Kubernetes Services,Cognitive Search,Synapse,Azure Mach
 github_url: https://github.com/microsoft/Azure-Solution-Accelerator-Customer-Complaint-Management
 demo_url: 
 short_text: "Quickly surface customer complaints from various platforms to the correct support."
-hero_image: ./build/images/Customer_Complaints_Hero.webp
+hero_image: ./assets/images/Customer_Complaints_Hero.webp
 tags: "\"Solution Accelerator\",\"Personalization\",\"Retail\",\"FSI\",\"HLS\",\"Azure Kubernetes Services\",\"Cognitive Search\",\"Synapse\",\"Azure Machine Learning\",\"PowerApps\""
 last_updated: "March 31, 2022 07:48:58 PM"
 ---

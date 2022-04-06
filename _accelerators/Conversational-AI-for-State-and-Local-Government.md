@@ -11,7 +11,7 @@ technology_stack: ""
 github_url: https://github.com/MSUSSolutionAccelerators/Conversational-AI-Solution-Accelerator
 demo_url: 
 short_text: "Rich analytics served to a dashboard for valuable insights that can help you serve your public."
-hero_image: ./build/images/Conversational_AI_SLG_Hero.webp
+hero_image: ./assets/images/Conversational_AI_SLG_Hero.webp
 tags: "\"Solution Accelerator\",\"Personalization\",\"Process Automation\",\"SLG\""
 last_updated: "March 31, 2022 07:48:24 PM"
 ---

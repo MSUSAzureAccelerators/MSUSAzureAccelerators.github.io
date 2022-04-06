@@ -11,7 +11,7 @@ technology_stack: "Synapse,Azure Data Lake Storage,Power BI"
 github_url: https://github.com/microsoft/Azure-Synapse-Content-Recommendations-Solution-Accelerator
 demo_url: 
 short_text: "Leverage to find simple, cost-effective ways to gain consumer insights."
-hero_image: ./build/images/Content_Recommendation_Hero.webp
+hero_image: ./assets/images/Content_Recommendation_Hero.webp
 tags: "\"Solution Accelerator\",\"Personalization\",\"Manufacturing\",\"Retail\",\"FSI\",\"HLS\",\"Synapse\",\"Azure Data Lake Storage\",\"Power BI\""
 last_updated: "March 31, 2022 07:48:25 PM"
 ---
@@ -45,4 +45,4 @@ The Content Recommendations Solution Accelerator can help you find simple, cost-
 
 The Content Recommendations Solution Accelerator leverages Azure Synapse Analytics and AI to analyze user data, compare similar user profiles, and deliver audience insights. The AI model produces a click probability score for each content item and a dashboard is presented in Power BI to explore content usage for improved content purchasing and production capabilities.
 
-![Content Recommendations Flow](.././build/images/Content_Recommendations_Flow.webp)
+![Content Recommendations Flow](.././assets/images/Content_Recommendations_Flow.webp)

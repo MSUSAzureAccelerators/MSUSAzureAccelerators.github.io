@@ -11,7 +11,7 @@ technology_stack: "Azure Machine Learning,Cognitive Services,Text-To-Speech,Form
 github_url: https://github.com/microsoft/Machine-Learning-Patient-Risk-Analyzer-SA
 demo_url: 
 short_text: "Uncover patterns and deliver insights about data quickly, improving healthcare professionals' ability to provide personalized care, also known as precision medicine"
-hero_image: ./build/images/Patient_Risk_Analyzer_Hero.webp
+hero_image: ./assets/images/Patient_Risk_Analyzer_Hero.webp
 tags: "\"Solution Accelerator\",\"Healthcare\",\"HLS\",\"Azure Machine Learning\",\"Cognitive Services\",\"Text-To-Speech\",\"Form Recognizer\",\"PVA\",\"PowerApps\",\"Azure Kubernetes Services\",\"Synapse Analytics\""
 last_updated: "March 31, 2022 07:41:23 PM"
 ---
@@ -21,4 +21,4 @@ Machine Learning Patient Risk Analyzer Solution Accelerator is an end-to-end (E2
 
 In addition to providing new insights for both doctors and patients, the app also provides the Data Scientist/IT Specialist with one-click experiences for registering and deploying a new or existing model to Azure Kubernetes Clusters, and best practices for maintaining these models through Azure MLOps.
 
-![Patient Risk Analyzer Solution Accelerator](.././build/images/PRAReferenceArchitecture.webp)
+![Patient Risk Analyzer Solution Accelerator](.././assets/images/PRAReferenceArchitecture.webp)
