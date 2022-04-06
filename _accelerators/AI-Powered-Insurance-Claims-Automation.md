@@ -11,7 +11,7 @@ technology_stack: "Cognitive Services,Cosmos DB,Bot Framework,Azure Storage,Form
 github_url: https://github.com/MSUSSolutionAccelerators/AI-Powered-Insurance-Claims-Automation-Solution-Accelerator
 demo_url: 
 short_text: "Reduce claims processing time and manual effort in end-to-end claims processing for better customer experience."
-hero_image: assets/images/AI_Powered_Insurance_Hero.webp
+hero_image: ./build/images/AI_Powered_Insurance_Hero.webp
 tags: "\"Solution Accelerator\",\"Financial\",\"Process Automation\",\"FSI\",\"Cognitive Services\",\"Cosmos DB\",\"Bot Framework\",\"Azure Storage\",\"Form Recognizer\",\"Luis\""
 last_updated: "March 31, 2022 07:47:14 PM"
 ---

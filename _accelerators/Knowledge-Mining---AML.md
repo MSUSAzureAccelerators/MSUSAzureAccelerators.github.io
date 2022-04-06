@@ -11,7 +11,7 @@ technology_stack: "Azure Machine Learning,Cognitive Search"
 github_url: https://github.com/microsoft/Accelerator-AzureML_CognitiveSearch
 demo_url: 
 short_text: "Extract business or industry specific terms from documents, such as extracting medical terms from medical documents, legal terms from contracts, or part names from engineering documents"
-hero_image: assets/images/Knowledge_Mining_AML_Hero.webp
+hero_image: ./build/images/Knowledge_Mining_AML_Hero.webp
 tags: "\"Reusable Technology Accelerator\",\"Manufacturing\",\"FSI\",\"Azure Machine Learning\",\"Cognitive Search\""
 last_updated: "March 31, 2022 07:41:20 PM"
 ---
@@ -33,6 +33,6 @@ The solution will show you how to:
 4. Use the labeled data to train a Named Entity Recognition (NER) Model in Azure Machine Learning using a [BERT](https://en.wikipedia.org/wiki/BERT_(language_model)) model designed to extract entities from documents. The code used to train the model was derived from the [NLP Recipes Repo](https://github.com/microsoft/nlp-recipes).
 5. Integrate the BERT NER custom skill with Azure Cognitive Search to project the identified entities and content of each document into the knowledge store and the search index.
 
-![indexing documents](../assets/images/Knowledge_Mining_AML_Hero.webp)
+![indexing documents](.././build/images/Knowledge_Mining_AML_Hero.webp)
 
 This is designed to be used in conjunction with the [Knowledge Mining Solution Accelerator](Knowledge-Mining.html). After you train and deploy the model, you can easily integrate the model with the solution accelerator to showcase the results in a Web App.

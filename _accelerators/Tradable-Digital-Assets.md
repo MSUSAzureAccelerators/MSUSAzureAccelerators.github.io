@@ -11,7 +11,7 @@ technology_stack: "Azure Blockchain,Cosmos DB,Azure Kubernetes Services,Azure Ke
 github_url: https://github.com/microsoft/Tradable-Digital-Assets-Solution-Accelerator
 demo_url: 
 short_text: "Enable traditional assets to be easily digitalized (tokenized), exchanged as a token, and securely stored in digital wallets"
-hero_image: assets/images/Tradable_Digital_Assets_Hero.webp
+hero_image: ./build/images/Tradable_Digital_Assets_Hero.webp
 tags: "\"Reusable Technology Accelerator\",\"Manufacturing\",\"Retail\",\"FSI\",\"HLS\",\"Azure Blockchain\",\"Cosmos DB\",\"Azure Kubernetes Services\",\"Azure KeyVault\",\"Azure Container Registry\""
 last_updated: "March 31, 2022 07:41:55 PM"
 ---

@@ -11,7 +11,7 @@ technology_stack: "Azure Blockchain,Mongo DB,,Hyperledger Service Fabric,Visual 
 github_url: https://github.com/microsoft/Marketplace_Blockchain_Solution_Accelerator
 demo_url: 
 short_text: "Decentralized, managed marketplace platform for transacting between multiple individuals or organizations."
-hero_image: assets/images/Travel_Marketplace_Hero.webp
+hero_image: ./build/images/Travel_Marketplace_Hero.webp
 tags: "\"Solution Accelerator\",\"Manufacturing\",\"Azure Blockchain\",\"Mongo DB,\",\"Hyperledger Service Fabric\",\"Visual Studio\""
 last_updated: "March 31, 2022 07:41:54 PM"
 ---
@@ -21,4 +21,4 @@ This accelerator was built to provide developers with all of the resources neede
 
 This repository contains the steps, scripts, code, and tools to create a Quorum network and application. 00_Resource_Deployment will create the necessary supporting resources in Azure (Cosmos DB). 01_Quorum_Deployment will walk you through deploying an Azure Blockchain Service network, and once deployed, it will help you configure and deploy a marketplace smart contract on the network. Finally, 03_Application_Deployment will deploy and host your application locally or in your subscription.
 
-![Architecture](../assets/images/TMarchitecture.jpg)
+![Architecture](.././build/images/TMarchitecture.jpg)

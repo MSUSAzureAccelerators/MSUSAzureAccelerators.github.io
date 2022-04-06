@@ -11,7 +11,7 @@ technology_stack: "Azure Blockchain,Cosmos DB,Azure Kubernetes Services,Azure Co
 github_url: https://github.com/microsoft/Digital-Documentation-Shipping-Industry-Solution-Accelerator
 demo_url: 
 short_text: "Reduces the time to complete business deals and empowers companies to easily and securely transact business with new companies all over the world"
-hero_image: assets/images/Digital_Documentation_Hero.webp
+hero_image: ./build/images/Digital_Documentation_Hero.webp
 tags: "\"Solution Accelerator\",\"Transportation\",\"Manufacturing\",\"Retail\",\"Azure Blockchain\",\"Cosmos DB\",\"Azure Kubernetes Services\",\"Azure Container Registry\""
 last_updated: "March 31, 2022 07:48:55 PM"
 ---

@@ -11,7 +11,7 @@ technology_stack: "Azure Container Registry,Azure DevOps,Azure IoT Hub,Azure Key
 github_url: https://github.com/MSUSSolutionAccelerators/Manufacturing-Vision-Solution-Accelerator-AMD64
 demo_url: 
 short_text: "Drive outcomes related to building more agile factories, creating more resilient supply chains, and transforming workforces"
-hero_image: assets/images/AIOT_Automated_Quality_Inspection_Hero.webp
+hero_image: ./build/images/AIOT_Automated_Quality_Inspection_Hero.webp
 tags: "\"Solution Accelerator\",\"Process Automation\",\"Manufacturing\",\"Automotive\",\"Azure Container Registry\",\"Azure DevOps\",\"Azure IoT Hub\",\"Azure KeyVault\",\"Azure Storage\",\"Azure SQL\",\"Cognitive Services\",\"Power BI\",\"Python\",\"Docker\",\"Azure Machine Learning\""
 last_updated: "March 31, 2022 07:47:16 PM"
 ---

@@ -1,0 +1,84 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  h1 {
+    @apply mt-4 text-4xl px-6 tracking-tight font-bold;
+  }
+  h2 {
+    @apply mt-4 text-3xl tracking-tight font-bold;
+  }
+  h3 {
+    @apply mt-4 text-2xl tracking-tight font-bold;
+  }
+  a {
+    @apply transition duration-100 ease-in-out text-[#266EBB] no-underline hover:underline;
+  }
+}
+
+@layer components {
+  .supertitle {
+    @apply pl-6 pt-2 leading-5 uppercase text-sm tracking-widest;
+  }
+
+  .fa-facebook {
+    @apply bg-[#3b5998] text-white;
+  }
+
+  .fa-twitter {
+    @apply bg-[#55acee] text-white;
+  }
+
+  .fa-linkedin {
+    @apply bg-[#007bb5] text-white;
+  }
+
+  .fa-envelope {
+    @apply bg-[#266EBB] text-white;
+  }
+
+  .filter-links a {
+    @apply m-1 font-semibold inline-block hover:no-underline;
+  }
+
+  .filter-link {
+    @apply transition duration-300 ease-in-out bg-[#266EBB] text-white h-[30px] w-[250px] rounded-full drop-shadow-lg px-4 py-[.125rem] text-left;
+  }
+
+  .filter-link:hover {
+    @apply transition duration-300 ease-in-out !bg-white !text-[#266EBB] -translate-y-1;
+  }
+
+  .filter-link:visited {
+    @apply bg-[#266EBB] text-white;
+  }
+
+  .filter-link.active {
+    @apply bg-white text-[#266EBB] pointer-events-none;
+  }
+
+  .float-button {
+    @apply fixed -right-[77px] top-[270px] z-[9999] cursor-pointer;
+  }
+
+  .float-button:hover {
+      @apply -right-7;
+  }
+
+  .accelerator-grid{
+      @apply grid;
+      grid-template-columns: 300px auto;
+  }
+
+  .prose p{
+    @apply mb-6;
+  }
+  .prose li{
+    @apply list-disc list-inside last:mb-6;
+  }
+
+  .prose blockquote p{
+    @apply p-8 bg-gray-100 rounded-lg text-[#266EBB] font-semibold text-justify;
+  }
+}

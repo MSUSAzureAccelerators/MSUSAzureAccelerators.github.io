@@ -11,7 +11,7 @@ technology_stack: "Cognitive Search,Azure Storage,Power BI"
 github_url: https://github.com/Azure-Samples/azure-search-knowledge-mining
 demo_url: 
 short_text: "Quickly build an initial Knowledge Mining prototype with Azure Cognitive Search"
-hero_image: assets/images/Knowledge_Mining_Hero.webp
+hero_image: ./build/images/Knowledge_Mining_Hero.webp
 tags: "\"Reusable Technology Accelerator\",\"Financial\",\"Manufacturing\",\"FSI\",\"Cognitive Search\",\"Azure Storage\",\"Power BI\""
 last_updated: "March 31, 2022 07:41:21 PM"
 ---
@@ -25,4 +25,4 @@ In this repository, we've provided you with all of the artifacts you need to qui
 
 Once you're finished, you'll have a web app ready to search your data.
 
-![A web app showing several resources and their lists of searchable tags](../assets/images/ui.webp)
+![A web app showing several resources and their lists of searchable tags](.././build/images/ui.webp)

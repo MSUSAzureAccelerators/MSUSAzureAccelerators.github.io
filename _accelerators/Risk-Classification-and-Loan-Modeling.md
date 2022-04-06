@@ -11,7 +11,7 @@ technology_stack: "Azure Data Lake Storage,Synapse Analytics"
 github_url: https://github.com/MSUSSolutionAccelerators/Risk-Classification-and-Load-Modeling-Solution-Accelerator
 demo_url: 
 short_text: "Automate processes to ensure compliance with SBA guidelines"
-hero_image: assets/images/Risk_Loan_Hero.webp
+hero_image: ./build/images/Risk_Loan_Hero.webp
 tags: "\"Solution Accelerator\",\"Financial\",\"FSI\",\"Azure Data Lake Storage\",\"Synapse Analytics\""
 last_updated: "March 31, 2022 07:41:55 PM"
 ---

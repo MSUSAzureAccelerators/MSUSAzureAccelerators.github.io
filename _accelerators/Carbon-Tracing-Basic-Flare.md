@@ -11,7 +11,7 @@ technology_stack: "Azure Storage,Synapse,Azure Logic Apps,,Power BI,Azure IoT Hu
 github_url: https://github.com/MSUSSolutionAccelerators/Carbon-Tracing-Basic-Flare-Solution-Accelerator
 demo_url: 
 short_text: "Speed up migration with ease of development and also use the same for production deployment."
-hero_image: assets/images/Carbon_Tracing_BF_Hero.webp
+hero_image: ./build/images/Carbon_Tracing_BF_Hero.webp
 tags: "\"Solution Accelerator\",\"Sustainability\",\"Manufacturing\",\"Retail\",\"Other\",\"FSI\",\"HLS\",\"Azure Storage\",\"Synapse\",\"Azure Logic Apps,\",\"Power BI\",\"Azure IoT Hub\""
 last_updated: "March 31, 2022 07:48:26 PM"
 ---
@@ -45,4 +45,4 @@ The Carbon Tracing Basic Flare Solution Accelerator can help. It leverages domai
 
 The Carbon Tracing Basic Flare Solution Accelerator consumes, tags, and organizes your existing and real-time data into streamlined databases to efficiently scale calculations and analytics.
 
-![Carbon Tracing Basic Flare Flow](../assets/images/Carbon_Tracing_Wastewater_Flow.webp)
+![Carbon Tracing Basic Flare Flow](.././build/images/Carbon_Tracing_Wastewater_Flow.webp)
