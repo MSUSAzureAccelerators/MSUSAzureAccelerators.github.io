@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A collection of the best Microsoft IP to help companies get started with building complex workloads in Azure",
   "scripts": {
-    "start": "tailwindcss -i ./_src/styles.css -o ./assets/css/styles.css --watch"
+    "start": "tailwindcss -i ./_src/styles.css -o ./assets/css/styles.css --minify --watch"
   },
   "keywords": [],
   "author": "Steve Kaschimer",
