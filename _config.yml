@@ -15,7 +15,6 @@ defaults:
 exclude:
   - "*.json"
   - "Gemfile*"
-  - "*.txt"
   - postcss.config.js
   - tailwind.config.js
   - prettier.config.js
