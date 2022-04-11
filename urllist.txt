@@ -1,4 +1,4 @@
-https://msussolutionaccelerators.github.io/
+﻿https://msussolutionaccelerators.github.io/
 https://msussolutionaccelerators.github.io/accelerators/ADX-IoT-Analytics.html
 https://msussolutionaccelerators.github.io/accelerators/ADX-Patient-Monitoring.html
 https://msussolutionaccelerators.github.io/accelerators/AI-Powered-Call-Center-Intelligence.html
@@ -48,3 +48,4 @@ https://msussolutionaccelerators.github.io/accelerators/Virtual-Assistant-Deploy
 https://msussolutionaccelerators.github.io/accelerators/Workplace-Intelligence-for-Human-Resources.html
 https://msussolutionaccelerators.github.io/accelerators/Workplace-Intelligence-for-Product-Development-Teams.html
 https://msussolutionaccelerators.github.io/index.html
+
