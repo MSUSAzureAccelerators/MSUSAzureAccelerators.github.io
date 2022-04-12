@@ -11,9 +11,9 @@ technology_stack: "Cosmos DB,Mongo DB,,SQL API,Visual Studio"
 github_url: https://github.com/microsoft/CosmosDB-Solution-Accelerator-CosmosDB-Helper
 demo_url: 
 short_text: "Allow developers to build Cosmos DB-based applications quickly and easily."
-hero_image: ./assets/images/Cosmos_DB_Hero.webp
+hero_image: assets/images/Cosmos_DB_Hero.png
 tags: "\"Reusable Technology Accelerator\",\"Manufacturing\",\"Retail\",\"Other\",\"FSI\",\"HLS\",\"Cosmos DB\",\"Mongo DB,\",\"SQL API\",\"Visual Studio\""
-last_updated: "March 31, 2022 07:48:25 PM"
+last_updated: "April 12, 2022 04:43:54 PM"
 ---
 ## About this Solution Accelerator
 

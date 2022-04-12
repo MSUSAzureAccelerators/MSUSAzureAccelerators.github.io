@@ -29,6 +29,12 @@
                             data-filter='["ReusableTechnologyAccelerator"]'><i class="fa-solid fa-microchip"></i>
                             Technology
                             Accelerator</a>
+                        <a role="link" aria-label="Hands-On-Lab" class="filter-link" href="#"
+                            data-filter='["Hands-On-Lab"]'><i class="fa-solid fa-flask"></i>
+                            Hands-On-Lab</a>
+                            <a role="link" aria-label="Reference Architecture" class="filter-link" href="#"
+                                data-filter='["ReferenceArchitecture"]'><i class="fa-solid fa-building-columns"></i>
+                                Reference Architecture</a>
                     </div>
                     <h2 class="mb-1 mt-1 text-center">Industry Alignment</h2>
                     <div class="filter-links text-center" data-inview-showup="showup-translate-up">
@@ -112,12 +118,15 @@
                                 </a>
                             </div>
                             <div class="p-5">
-                                {%- if accelerator.status != "Submitted" -%}
+                                {%- if accelerator.status == "Approved" -%}
                                 <div class="leading-5 uppercase text-sm tracking-widest">
-                                    {{ accelerator.accelerator_type -}}</div>
-                                {%- else -%}
+                                    {{ accelerator.accelerator_type -}} (GA)</div>
+                                {%- elsif accelerator.status == "Submitted" -%}
                                 <div class="leading-5 uppercase text-sm tracking-widest">
                                     {{ accelerator.accelerator_type -}} (BETA)</div>
+                                {%- else -%}
+                                <div class="leading-5 uppercase text-sm tracking-widest">
+                                    {{ accelerator.accelerator_type -}} (RC)</div>
                                 {%- endif -%}
                                 <a href="{{ accelerator.url -}}">
                                     <h5
@@ -127,7 +136,7 @@
                                 <p class="mb-3 font-normal text-gray-700 dark:text-gray-400 card__text">
                                     {{ accelerator.short_text -}}
                                 </p>
-                                <a href="{{ accelerator.github_url }}" target="_blank" 
+                                <a href="{{ accelerator.github_url }}" target="_blank"
                                     class="inline-flex items-center py-2 px-3 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
                                     Browse Assets on GitHub
                                     <svg class="ml-2 -mr-1 w-4 h-4" fill="currentColor" viewBox="0 0 20 20"

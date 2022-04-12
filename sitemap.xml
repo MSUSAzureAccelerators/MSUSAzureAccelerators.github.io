@@ -265,5 +265,20 @@
             <changefreq>Monthly</changefreq>
             <priority>0.6</priority>
 </url>
+<url>
+            <loc>https://msussolutionaccelerators.github.io/accelerators/azure-purview-workshop.html</loc>
+            <changefreq>Monthly</changefreq>
+            <priority>0.6</priority>
+</url>
+<url>
+            <loc>https://msussolutionaccelerators.github.io/accelerators/azure-purview-demo-generator.html</loc>
+            <changefreq>Monthly</changefreq>
+            <priority>0.6</priority>
+</url>
+<url>
+            <loc>https://msussolutionaccelerators.github.io/accelerators/azure-cognitive-search-hands-on-lab.html</loc>
+            <changefreq>Monthly</changefreq>
+            <priority>0.6</priority>
+</url>
 
 </urlset>

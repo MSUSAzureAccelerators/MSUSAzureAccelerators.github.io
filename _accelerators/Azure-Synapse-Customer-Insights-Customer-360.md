@@ -11,9 +11,9 @@ technology_stack: "Customer Insights,Azure Data Lake Storage,Synapse,Azure Machi
 github_url: https://github.com/microsoft/Azure-Synapse-Customer-Insights-Customer360-Solution-Accelerator
 demo_url: 
 short_text: "Improve customer experience, specifically around increasing customer retention."
-hero_image: ./assets/images/Customer_Insights_Hero.webp
+hero_image: assets/images/Customer_Insights_Hero.png
 tags: "\"Reusable Technology Accelerator\",\"Professional Services\",\"Retail\",\"Other\",\"FSI\",\"Customer Insights\",\"Azure Data Lake Storage\",\"Synapse\",\"Azure Machine Learning\",\"Power BI\""
-last_updated: "March 31, 2022 07:48:24 PM"
+last_updated: "April 12, 2022 04:40:15 PM"
 ---
 ## About this Solution Accelerator
 
@@ -23,4 +23,4 @@ This solution accelerator helps developers with all the resources needed to buil
 
 ## Why Customer 360?
 
-![Why Customer 360?](.././assets/images/WhyCustomer360.webp)
+![Why Customer 360?](../assets/images/WhyCustomer360.webp)
