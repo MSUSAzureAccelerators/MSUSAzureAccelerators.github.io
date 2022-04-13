@@ -12,184 +12,145 @@
             </li>
         </ol>
     </nav>
-    <h1 class="mb-6">Solution Accelerator Directory</h2>
-        <div class="shuffle-js">
-            <div class="accelerator-grid" role="main">
-                <div id="left-container" class="flex flex-col justify-start" role="group">
-                    <div class="filter-links text-center border-0" data-inview-showup="showup-translate-up">
-                        <a role="link" aria-label="All Items Filter" class="filter-link active" data-filter='all'
-                            href="#">All</a>
-                    </div>
-                    <h2 class="mb-1 mt-1 text-center">Accelerator Type</h2>
-                    <div class="filter-links text-center" data-inview-showup="showup-translate-up">
-                        <a role="link" aria-label="Solution Accelerator" class="filter-link" href="#"
-                            data-filter='["SolutionAccelerator"]'><i class="fa-solid fa-gauge"></i> Solution
-                            Accelerator</a>
-                        <a role="link" aria-label="Reusable Technology Accelerator" class="filter-link" href="#"
-                            data-filter='["ReusableTechnologyAccelerator"]'><i class="fa-solid fa-microchip"></i>
-                            Technology
-                            Accelerator</a>
-                        <a role="link" aria-label="Hands-On-Lab" class="filter-link" href="#"
-                            data-filter='["Hands-On-Lab"]'><i class="fa-solid fa-flask"></i>
-                            Hands-On-Lab</a>
-                            <a role="link" aria-label="Reference Architecture" class="filter-link" href="#"
-                                data-filter='["ReferenceArchitecture"]'><i class="fa-solid fa-building-columns"></i>
-                                Reference Architecture</a>
-                    </div>
-                    <h2 class="mb-1 mt-1 text-center">Industry Alignment</h2>
-                    <div class="filter-links text-center" data-inview-showup="showup-translate-up">
-                        <a role="link" aria-label="Automotive" class="filter-link" href="#"
-                            data-filter='["Automotive"]'><i name="Car icon" class="fa-solid fa-car"></i> Automotive</a>
-                        <a role="link" aria-label="Education" class="filter-link" href="#" data-filter='["EDU"]'><i
-                                name="School icon" class="fa-solid fa-school"></i> Education</a>
-                        <a role="link" aria-label="Energy" class="filter-link" href="#" data-filter='["Energy"]'><i
-                                name="Lightning bolt icon" class="fa-solid fa-bolt"></i> Energy</a>
-                        <a role="link" aria-label="Financial Services" class="filter-link" href="#"
-                            data-filter='["FSI"]'><i name="Bank icon" class="fa-solid fa-bank"></i> Financial
-                            Services</a>
-                        <a role="link" aria-label="High Tech" class="filter-link" href="#" data-filter='["HighTech"]'><i
-                                name="Laptop icon" class="fa-solid fa-laptop"></i> High Tech</a>
-                        <a role="link" aria-label="Health & Life Services" class="filter-link" href="#"
-                            data-filter='["HLS"]'><i name="Hospital icon" class="fa-solid fa-hospital"></i> Health &amp;
-                            Life Services</a>
-                        <a role="link" aria-label="Manufacturing" class="filter-link" href="#"
-                            data-filter='["Manufacturing"]'><i name="Factory icon" class="fa-solid fa-industry"></i>
-                            Manufacturing</a>
-                        <a role="link" aria-label="Media & Entertainment" class="filter-link" href="#"
-                            data-filter='["MediaandEntertainment"]'><i name="Movie icon" class="fa-solid fa-film"></i>
-                            Media
-                            &amp; Entertainment</a>
-                        <a role="link" aria-label="Professional Services" class="filter-link" href="#"
-                            data-filter='["ProfessionalServices"]'><i name="Briefcase icon"
-                                class="fa-solid fa-briefcase"></i> Professional Services</a>
-                        <a role="link" aria-label="Retail & Consumer Goods" class="filter-link" href="#"
-                            data-filter='["Retail"]'><i name="Shopping cart icon" class="fa-solid fa-shopping-cart"></i>
-                            Retail &amp; Consumer Goods</a>
-                        <a role="link" aria-label="State & Local Government" class="filter-link" href="#"
-                            data-filter='["SLG"]'><i name="Flag icon" class="fa-solid fa-flag"></i> State &amp; Local
-                            Government</a>
-                        <a role="link" aria-label="Horizontal" class="filter-link" href="#"
-                            data-filter='["Horizontal"]'><i name="Horizontal arrows icon"
-                                class="fa-solid fa-arrows-left-right"></i> Horizontal</a>
-                    </div>
-                    <h2 class="mb-1 mt-1 text-center">Relevant Personas</h2>
-                    <div class="filter-links text-center" data-inview-showup="showup-translate-up">
-                        <a role="link" aria-label="Campaign Management" class="filter-link" href="#"
-                            data-filter='["CampaignManagement"]'>Campaign Management</a>
-                        <a role="link" aria-label="Financial" class="filter-link" href="#"
-                            data-filter='["Financial"]'>Financial</a>
-                        <a role="link" aria-label="Healthcare" class="filter-link" href="#"
-                            data-filter='["Healthcare"]'>Healthcare</a>
-                        <a role="link" aria-label="Personalization" class="filter-link" href="#"
-                            data-filter='["Personalization"]'>Personalization</a>
-                        <a role="link" aria-label="Process Automation" class="filter-link" href="#"
-                            data-filter='["ProcessAutomation"]'>Process Automation</a>
-                        <a role="link" aria-label="Professional Services" class="filter-link" href="#"
-                            data-filter='["ProfessionalServices"]'>Professional Services</a>
-                        <a role="link" aria-label="Supply Chain" class="filter-link" href="#"
-                            data-filter='["SupplyChain"]'>Supply Chain</a>
-                        <a role="link" aria-label="Sustainability" class="filter-link" href="#"
-                            data-filter='["Sustainability"]'>Sustainability</a>
-                        <a role="link" aria-label="Transportation" class="filter-link" href="#"
-                            data-filter='["Transportation"]'>Transportation</a>
-                        <a role="link" aria-label="Workplace Intelligence" class="filter-link" href="#"
-                            data-filter='["WorkplaceIntelligence"]'>Workplace Intelligence</a>
-                    </div>
-                    <h2 class="mb-1 mt-1 text-center">Share</h2>
-                    {%- include social-links.html -%}
+    <h1 class="mb-6">Solution Accelerator Directory</h1>
+    <div class="shuffle-js">
+        <div class="accelerator-grid" role="main">
+            <div id="left-container" class="flex flex-col justify-start" role="group">
+                <div class="filter-links text-center border-0" data-inview-showup="showup-translate-up">
+                    <a role="link" aria-label="All Items Filter" class="filter-link active" data-filter='all'
+                        href="#">All</a>
                 </div>
-                <div id="right-container" class="mr-4" role="region" aria-label="Accelerator List">
-                    <div class="filters-group mb-3 pt-0">
-                        <label for="filters-search-input"
-                            class="block p-0 mt-2 mb-1 text-gray-600 text-sm uppercase leading-5 tracking-widest">Search</label>
-                        <input role="search" name="Textbox for searching"
-                            class="px-3 py-3 placeholder-slate-300 text-slate-600 relative bg-white rounded text-sm border border-slate-300 outline-none focus:outline-none focus:ring w-full filter__search js-shuffle-search"
-                            type="search" id="filters-search-input" />
-                    </div>
-                    <div class="flex flex-wrap shuffle-items" role="contentinfo">
-                        {%- for accelerator in site.accelerators -%}
-                        {%- if accelerator.github_url and accelerator.github_url != "na" and accelerator.github_url != "" -%}
-                        <div class="shuffle-item m-2 max-w-sm bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700"
-                            data-groups='[{{ accelerator.tags -}}]'>
-                            <div class="flex align-middle items-center justify-center">
-                                <a href="{{ accelerator.url -}}">
-                                    <img class="rounded-t-lg" src="{{ accelerator.hero_image -}}"
-                                        alt="{{ accelerator.short_name -}}" />
-                                </a>
-                            </div>
-                            <div class="p-5">
-                                {%- if accelerator.status == "Approved" -%}
-                                <div class="leading-5 uppercase text-sm tracking-widest">
-                                    {{ accelerator.accelerator_type -}} (GA)</div>
-                                {%- elsif accelerator.status == "Submitted" -%}
-                                <div class="leading-5 uppercase text-sm tracking-widest">
-                                    {{ accelerator.accelerator_type -}} (BETA)</div>
-                                {%- else -%}
-                                <div class="leading-5 uppercase text-sm tracking-widest">
-                                    {{ accelerator.accelerator_type -}} (RC)</div>
-                                {%- endif -%}
-                                <a href="{{ accelerator.url -}}">
-                                    <h5
-                                        class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white card__title">
-                                        {{ accelerator.short_name -}}</h5>
-                                </a>
-                                <p class="mb-3 font-normal text-gray-700 dark:text-gray-400 card__text">
-                                    {{ accelerator.short_text -}}
-                                </p>
-                                <a href="{{ accelerator.github_url }}" target="_blank"
-                                    class="inline-flex items-center py-2 px-3 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
-                                    Browse Assets on GitHub
-                                    <svg class="ml-2 -mr-1 w-4 h-4" fill="currentColor" viewBox="0 0 20 20"
-                                        xmlns="http://www.w3.org/2000/svg">
-                                        <path fill-rule="evenodd"
-                                            d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z"
-                                            clip-rule="evenodd"></path>
-                                    </svg>
-                                </a>
-                            </div>
+                <h2 class="mb-1 mt-1 text-center">Accelerator Type</h2>
+                <div class="filter-links text-center" data-inview-showup="showup-translate-up">
+                    <a role="link" aria-label="Solution Accelerator" class="filter-link" href="#"
+                        data-filter='["SolutionAccelerator"]'><i class="fa-solid fa-gauge"></i> Solution
+                        Accelerator</a>
+                    <a role="link" aria-label="Reusable Technology Accelerator" class="filter-link" href="#"
+                        data-filter='["ReusableTechnologyAccelerator"]'><i class="fa-solid fa-microchip"></i>
+                        Technology
+                        Accelerator</a>
+                    <a role="link" aria-label="Hands-On-Lab" class="filter-link" href="#"
+                        data-filter='["Hands-On-Lab"]'><i class="fa-solid fa-flask"></i>
+                        Hands-On-Lab</a>
+                    <a role="link" aria-label="Reference Architecture" class="filter-link" href="#"
+                        data-filter='["ReferenceArchitecture"]'><i class="fa-solid fa-building-columns"></i>
+                        Reference Architecture</a>
+                </div>
+                <h2 class="mb-1 mt-1 text-center">Industry Alignment</h2>
+                <div class="filter-links text-center" data-inview-showup="showup-translate-up">
+                    <a role="link" aria-label="Automotive" class="filter-link" href="#" data-filter='["Automotive"]'><i
+                            name="Car icon" class="fa-solid fa-car"></i> Automotive</a>
+                    <a role="link" aria-label="Education" class="filter-link" href="#" data-filter='["EDU"]'><i
+                            name="School icon" class="fa-solid fa-school"></i> Education</a>
+                    <a role="link" aria-label="Energy" class="filter-link" href="#" data-filter='["Energy"]'><i
+                            name="Lightning bolt icon" class="fa-solid fa-bolt"></i> Energy</a>
+                    <a role="link" aria-label="Financial Services" class="filter-link" href="#" data-filter='["FSI"]'><i
+                            name="Bank icon" class="fa-solid fa-bank"></i> Financial
+                        Services</a>
+                    <a role="link" aria-label="High Tech" class="filter-link" href="#" data-filter='["HighTech"]'><i
+                            name="Laptop icon" class="fa-solid fa-laptop"></i> High Tech</a>
+                    <a role="link" aria-label="Health & Life Services" class="filter-link" href="#"
+                        data-filter='["HLS"]'><i name="Hospital icon" class="fa-solid fa-hospital"></i> Health &amp;
+                        Life Services</a>
+                    <a role="link" aria-label="Manufacturing" class="filter-link" href="#"
+                        data-filter='["Manufacturing"]'><i name="Factory icon" class="fa-solid fa-industry"></i>
+                        Manufacturing</a>
+                    <a role="link" aria-label="Media & Entertainment" class="filter-link" href="#"
+                        data-filter='["MediaandEntertainment"]'><i name="Movie icon" class="fa-solid fa-film"></i>
+                        Media
+                        &amp; Entertainment</a>
+                    <a role="link" aria-label="Professional Services" class="filter-link" href="#"
+                        data-filter='["ProfessionalServices"]'><i name="Briefcase icon"
+                            class="fa-solid fa-briefcase"></i> Professional Services</a>
+                    <a role="link" aria-label="Retail & Consumer Goods" class="filter-link" href="#"
+                        data-filter='["Retail"]'><i name="Shopping cart icon" class="fa-solid fa-shopping-cart"></i>
+                        Retail &amp; Consumer Goods</a>
+                    <a role="link" aria-label="State & Local Government" class="filter-link" href="#"
+                        data-filter='["SLG"]'><i name="Flag icon" class="fa-solid fa-flag"></i> State &amp; Local
+                        Government</a>
+                    <a role="link" aria-label="Horizontal" class="filter-link" href="#" data-filter='["Horizontal"]'><i
+                            name="Horizontal arrows icon" class="fa-solid fa-arrows-left-right"></i> Horizontal</a>
+                </div>
+                <h2 class="mb-1 mt-1 text-center">Relevant Personas</h2>
+                <div class="filter-links text-center" data-inview-showup="showup-translate-up">
+                    <a role="link" aria-label="Campaign Management" class="filter-link" href="#"
+                        data-filter='["CampaignManagement"]'>Campaign Management</a>
+                    <a role="link" aria-label="Financial" class="filter-link" href="#"
+                        data-filter='["Financial"]'>Financial</a>
+                    <a role="link" aria-label="Healthcare" class="filter-link" href="#"
+                        data-filter='["Healthcare"]'>Healthcare</a>
+                    <a role="link" aria-label="Personalization" class="filter-link" href="#"
+                        data-filter='["Personalization"]'>Personalization</a>
+                    <a role="link" aria-label="Process Automation" class="filter-link" href="#"
+                        data-filter='["ProcessAutomation"]'>Process Automation</a>
+                    <a role="link" aria-label="Professional Services" class="filter-link" href="#"
+                        data-filter='["ProfessionalServices"]'>Professional Services</a>
+                    <a role="link" aria-label="Supply Chain" class="filter-link" href="#"
+                        data-filter='["SupplyChain"]'>Supply Chain</a>
+                    <a role="link" aria-label="Sustainability" class="filter-link" href="#"
+                        data-filter='["Sustainability"]'>Sustainability</a>
+                    <a role="link" aria-label="Transportation" class="filter-link" href="#"
+                        data-filter='["Transportation"]'>Transportation</a>
+                    <a role="link" aria-label="Workplace Intelligence" class="filter-link" href="#"
+                        data-filter='["WorkplaceIntelligence"]'>Workplace Intelligence</a>
+                </div>
+                <h2 class="mb-1 mt-1 text-center">Share</h2>
+                {%- include social-links.html -%}
+            </div>
+            <div id="right-container" class="mr-4" role="region" aria-label="Accelerator List">
+                <div class="filters-group mb-3 pt-0">
+                    <label for="filters-search-input"
+                        class="block p-0 mt-2 mb-1 text-gray-600 text-sm uppercase leading-5 tracking-widest">Search</label>
+                    <input role="search" name="Textbox for searching"
+                        class="px-3 py-3 placeholder-slate-300 text-slate-600 relative bg-white rounded text-sm border border-slate-300 outline-none focus:outline-none focus:ring w-full filter__search js-shuffle-search"
+                        type="search" id="filters-search-input" />
+                </div>
+                <div class="flex flex-wrap shuffle-items" role="contentinfo">
+                    {%- for accelerator in site.accelerators -%}
+                    {%- if accelerator.github_url and accelerator.github_url != "na" and accelerator.github_url != "" -%}
+                    <div class="shuffle-item m-2 max-w-sm bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700"
+                        data-groups='[{{ accelerator.tags -}}]'>
+                        <div class="flex align-middle items-center justify-center">
+                            <a href="{{ accelerator.url -}}">
+                                <img class="rounded-t-lg" src="{{ accelerator.hero_image -}}"
+                                    alt="{{ accelerator.short_name -}}" />
+                            </a>
                         </div>
-
-
-
-
-                        <!-- <div class="pt-5 pl-5 inline-block float-left w-1/4 flex-grow-0 flex-shrink-0 basis-auto max-w-full mr-0 pr-3 shuffle-item col-12 md-col-3 sm-col-6"
-                            data-groups='[{{ accelerator.tags -}}]'>
-                            <div class="item" data-inview-showup="showup-scale">
-                                <div class="bg-white border border-transparent rounded-lg shadow-lg text-gray-700 flex flex-col h-full justify-start outline-gray-700"
-                                    data-bi-name="card">
-                                    <a href="{{ accelerator.url -}}" tabindex="-1" aria-hidden="true">
-                                        <figure class="border-t-lg rounded-t-lg block overflow-hidden relative !pb-2">
-                                            <img class="block object-cover w-full bottom-0 left-0 h-auto max-w-full border-none align-middle right-0 top-0"
-                                                src="{{ accelerator.hero_image -}}" alt="{{ accelerator.short_name -}}">
-                                        </figure>
-                                    </a>
-                                    <div
-                                        class="item-content rounded-b-lg border-white flex flex-col flex-grow justify-start p-6 w-full !pl-4">
-                                        <div class="media-card-content-titles">
-                                            {%- if accelerator.status != "Submitted" -%}
-                                            <div class="leading-5 uppercase text-sm tracking-widest">
-                                                {{ accelerator.accelerator_type -}}</div>
-                                            {%- else -%}
-                                            <div class="leading-5 uppercase text-sm tracking-widest">
-                                                {{ accelerator.accelerator_type -}} (BETA)</div>
-                                            {%- endif -%}
-                                            <a class="font-semibold" href="{{ accelerator.url -}}"><span
-                                                    class="card__title">{{ accelerator.short_name -}}</span></a>
-                                        </div>
-                                        <p class="!mt-2" title="{{ accelerator.description }}">
-                                            <span class='card__text'>{{ accelerator.short_text -}}</span>
-                                        </p>
-                                        <a class="mt-3" href="{{ accelerator.github_url }}" target="_blank"
-                                            data-linktype="external" rel="noopener noreferrer">Browse Assets on
-                                            GitHub</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div> -->
-                        {%- endif -%}
-                        {%- endfor -%}
+                        <div class="p-5">
+                            {%- if accelerator.status == "Approved" -%}
+                            <div class="leading-5 uppercase text-sm tracking-widest">
+                                {{ accelerator.accelerator_type -}} (GA)</div>
+                            {%- elsif accelerator.status == "Submitted" -%}
+                            <div class="leading-5 uppercase text-sm tracking-widest">
+                                {{ accelerator.accelerator_type -}} (BETA)</div>
+                            {%- else -%}
+                            <div class="leading-5 uppercase text-sm tracking-widest">
+                                {{ accelerator.accelerator_type -}} (RC)</div>
+                            {%- endif -%}
+                            <a href="{{ accelerator.url -}}">
+                                <h5
+                                    class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white card__title">
+                                    {{ accelerator.short_name -}}</h5>
+                            </a>
+                            <p class="mb-3 font-normal text-gray-700 dark:text-gray-400 card__text">
+                                {{ accelerator.short_text -}}
+                            </p>
+                            <a href="{{ accelerator.github_url }}" target="_blank"
+                                class="inline-flex items-center py-2 px-3 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
+                                Browse Assets on GitHub
+                                <svg class="ml-2 -mr-1 w-4 h-4" fill="currentColor" viewBox="0 0 20 20"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path fill-rule="evenodd"
+                                        d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z"
+                                        clip-rule="evenodd"></path>
+                                </svg>
+                            </a>
+                        </div>
                     </div>
+                    {%- endif -%}
+                    {%- endfor -%}
                 </div>
             </div>
         </div>
+    </div>
 </section>
