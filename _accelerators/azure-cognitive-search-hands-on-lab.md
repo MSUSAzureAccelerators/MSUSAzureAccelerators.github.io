@@ -13,7 +13,8 @@ demo_url:
 short_text: "Self-paced workshop that teaches you everything you need to know to get up and running with Azure Cognitive Search quickly."
 hero_image: assets/images/Cognitive_Search_HOL_Hero.png
 tags: "\"Hands-On-Lab\",\"Process Automation\",\"Horizontal\",\"Cognitive Search\",\"Power BI\",\"Azure App Service\",\"Azure Functions\""
-last_updated: "April 12, 2022 06:02:59 PM"
+last_updated: "April 14, 2022 02:09:17 PM"
+related: "Knowledge-Mining.html,Knowledge-Mining---AML.html"
 ---
 ## About this Solution Accelerator
 

@@ -13,7 +13,8 @@ demo_url:
 short_text: "Enable organizations to get started with lineage in Purview for Machine Learning scenarios."
 hero_image: assets/images/Purview_ML_Lineage_Hero.png
 tags: "\"Reusable Technology Accelerator\",\"Process Automation\",\"Horizontal\",\"Purview\",\"Azure Machine Learning\",\"Azure Data Lake Storage\",\"Synapse Analytics\",\"Power BI\""
-last_updated: "April 12, 2022 06:13:09 PM"
+last_updated: "April 14, 2022 02:12:18 PM"
+related: "Azure-Purview-Custom-Connector.html,Azure-Purview-Custom-Types-Tool.html,Azure-Purview-Demo-Generator.html,Azure-Purview-Workshop.html"
 ---
 ## About this Solution Accelerator
 

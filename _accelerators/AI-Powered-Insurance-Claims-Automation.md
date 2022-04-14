@@ -13,7 +13,8 @@ demo_url:
 short_text: "Reduce claims processing time and manual effort in end-to-end claims processing for better customer experience."
 hero_image: assets/images/AI_Powered_Insurance_Hero.webp
 tags: "\"Solution Accelerator\",\"Financial\",\"Process Automation\",\"FSI\",\"Cognitive Services\",\"Cosmos DB\",\"Bot Framework\",\"Azure Storage\",\"Form Recognizer\",\"Luis\""
-last_updated: "April 11, 2022 03:55:16 PM"
+last_updated: "April 14, 2022 02:08:46 PM"
+related: "Intelligent-Document-Processing.html,Knowledge-Mining.html,Knowledge-Mining---AML.html"
 ---
 ## About this Solution Accelerator
 

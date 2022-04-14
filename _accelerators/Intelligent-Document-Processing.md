@@ -11,9 +11,10 @@ technology_stack: "Cognitive Services,Bot Framework,Power BI,Form Recognizer,Cos
 github_url: https://github.com/MSUSSolutionAccelerators/Intelligent-Document-Processing-Solution-Accelerator
 demo_url: 
 short_text: "Reduce human intervention and decrease the time to find the key Data points in 100+page documents/contracts"
-hero_image: ./assets/images/Intelligent_Document_Processing_Hero.webp
+hero_image: assets/images/Intelligent_Document_Processing_Hero.webp
 tags: "\"Solution Accelerator\",\"Process Automation\",\"Manufacturing\",\"Retail\",\"FSI\",\"HLS\",\"Cognitive Services\",\"Bot Framework\",\"Power BI\",\"Form Recognizer\",\"Cosmos DB\",\"Luis\""
-last_updated: "March 31, 2022 07:41:21 PM"
+last_updated: "April 14, 2022 02:30:46 PM"
+related: "AI-Powered-Insurance-Claims-Automation.html,Customer-Complaint-Management.html,Knowledge-Mining.html,Risk-Classification-and-Loan-Modeling.html,Knowledge-Mining---AML.html"
 ---
 ## About this Solution Accelerator
 

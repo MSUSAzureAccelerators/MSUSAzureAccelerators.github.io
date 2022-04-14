@@ -13,7 +13,8 @@ demo_url:
 short_text: "Helps with custom development for Purview using the Atlas APIs."
 hero_image: assets/images/Purview_Custom_Types_Hero.svg
 tags: "\"Reusable Technology Accelerator\",\"Process Automation\",\"Horizontal\",\"Purview\",\"node.js\",\"Apache Atlas\""
-last_updated: "April 12, 2022 06:13:07 PM"
+last_updated: "April 14, 2022 02:11:33 PM"
+related: "Azure-Purview-Custom-Connector.html,Azure-Purview-Demo-Generator.html,Azure-Purview-ML-Lineage.html,Azure-Purview-Workshop.html"
 ---
 ## About this Solution Accelerator
 

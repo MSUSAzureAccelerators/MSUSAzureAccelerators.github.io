@@ -11,9 +11,10 @@ technology_stack: "Synapse"
 github_url: https://github.com/MSUSSolutionAccelerators/Health-and-Human-Services-Datahub-Solution-Accelerator
 demo_url: 
 short_text: "Tackle the challenges presented by siloed, insecure solutions that many counties use"
-hero_image: ./assets/images/HHS_Datahub_Hero.webp
+hero_image: assets/images/HHS_Datahub_Hero.webp
 tags: "\"Solution Accelerator\",\"Healthcare\",\"HLS\",\"SLG\",\"Synapse\""
-last_updated: "March 31, 2022 07:40:02 PM"
+last_updated: "April 14, 2022 02:25:16 PM"
+related: "Integrated-Datahub-for-Mass-Transit.html,ADX-Patient-Monitoring.html,Healthcare-Blockchain.html,Medical-Imaging-with-Azure-Machine-Learning.html,Overdose-Prevention.html,Patient-Risk-Analyzer.html,COVID-19-Vaccine-Proof-and-Test-Verification.html"
 ---
 ## About this Solution Accelerator
 

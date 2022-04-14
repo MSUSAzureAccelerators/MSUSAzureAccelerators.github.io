@@ -13,6 +13,7 @@ demo_url:
 short_text: "Drive outcomes related to building more agile factories, creating more resilient supply chains, and transforming workforces."
 hero_image: assets/images/AIOT_Inventory_Lifecycle_Management_Hero.webp
 tags: "\"Reference Architecture\",\"Process Automation\",\"Supply Chain\",\"Manufacturing\",\"Automotive\",\"Azure Container Registry\",\"Azure DevOps\",\"Azure IoT Hub\",\"Azure Machine Learning\",\"Azure SQL\",\"Azure Storage\",\"Cognitive Services\",\"Docker\",\"Power BI\",\"Python\""
-last_updated: "April 12, 2022 06:05:19 PM"
+last_updated: "April 14, 2022 02:09:18 PM"
+related: "AIoT---Automated-Quality-Inspection.html,AIoT---Factory-and-Worker-Safety.html,AIoT---Predictive-Maintenance.html,Inventory-Management.html"
 ---
 More information coming soon about the AIoT - Inventory Lifecycle Management Solution Accelerator

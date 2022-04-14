@@ -10,9 +10,11 @@ industries: "Automotive,EDU,Energy,FSI,High Tech,Manufacturing,Media and Enterta
 technology_stack: "Azure IoT Hub"
 github_url: https://github.com/MSUSSolutionAccelerators/ADX-IoT-Analytics-Solution-Accelerator
 demo_url: 
-short_text: "Information coming soon about the ADX IoT Analytics Solution Accelerator"
-hero_image: ./assets/images/IOT_Hero.webp
+short_text: "Information coming soon about the ADX IoT Analytics Solution Accelerator.
+"
+hero_image: assets/images/IOT_Hero.webp
 tags: "\"Solution Accelerator\",\"Process Automation\",\"Automotive\",\"EDU\",\"Energy\",\"FSI\",\"High Tech\",\"Manufacturing\",\"Media and Entertainment\",\"Professional Services\",\"Retail\",\"SLG\",\"HLS\",\"Azure IoT Hub\""
-last_updated: "March 31, 2022 07:47:16 PM"
+last_updated: "April 14, 2022 01:30:24 PM"
+related: "AIoT---Automated-Call-Center.html,AIoT---Factory-and-Worker-Safety.html,AIoT---Predictive-Maintenance.html,AIoT---Automated-Quality-Inspection.html,AIoT---Inventory-Lifecycle-Management.html"
 ---
 ​​More information coming soon.

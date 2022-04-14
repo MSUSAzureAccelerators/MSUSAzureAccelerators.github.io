@@ -10,10 +10,11 @@ industries: "Retail,FSI"
 technology_stack: "Synapse,Azure Data Lake Storage,Azure Machine Learning,Azure Kubernetes Services,Cosmos DB,Power BI"
 github_url: https://github.com/microsoft/Azure-Synapse-Retail-Recommender-Solution-Accelerator
 demo_url: 
-short_text: "Provide personalized product recommendations to users based on their purchase history, product selection in the e-commerce channel, and their activity in the physical store."
-hero_image: ./assets/images/Retail%20Recommender%20Hero.webp
+short_text: "Provide personalized product recommendations to users based on their purchase history, product selection in the e-commerce channel, and their activity in the physical store"
+hero_image: assets/images/Retail_Recommender_Hero.webp
 tags: "\"Solution Accelerator\",\"Personalization\",\"Retail\",\"FSI\",\"Synapse\",\"Azure Data Lake Storage\",\"Azure Machine Learning\",\"Azure Kubernetes Services\",\"Cosmos DB\",\"Power BI\""
-last_updated: "March 31, 2022 07:41:54 PM"
+last_updated: "April 14, 2022 02:53:10 PM"
+related: "Azure-Intelligent-Recommendations.html,Retail-Recommender.html"
 ---
 ## About this Solution Accelerator
 

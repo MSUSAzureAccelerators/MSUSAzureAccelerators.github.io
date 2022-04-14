@@ -11,9 +11,10 @@ technology_stack: "Synapse,Azure Data Lake Storage,Azure Machine Learning,Azure 
 github_url: https://github.com/microsoft/Azure-Synapse-Solution-Accelerator-Financial-Analytics-Customer-Revenue-Growth-Factor
 demo_url: 
 short_text: "Easily identify factors for growth"
-hero_image: ./assets/images/Revenue_Growth_Hero.webp
+hero_image: assets/images/Revenue_Growth_Hero.webp
 tags: "\"Solution Accelerator\",\"Financial\",\"Campaign Management\",\"Manufacturing\",\"Retail\",\"Synapse\",\"Azure Data Lake Storage\",\"Azure Machine Learning\",\"Azure Container Images\",\"Power BI\""
-last_updated: "March 31, 2022 07:41:24 PM"
+last_updated: "April 14, 2022 02:43:48 PM"
+related: "Modern-Finance.html"
 ---
 ## About this Solution Accelerator
 
