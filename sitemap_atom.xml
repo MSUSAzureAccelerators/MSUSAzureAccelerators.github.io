@@ -1,0 +1,27 @@
+---
+title: "Solution Accelerators | Microsoft US"
+description: "Solution Accelerators are repeatable solutions that can be quickly and easily implemented for specific business outcomes to accelerate transformation journey."
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>{{ site.title | xml_escape -}}</title>
+    <link href="{{ site.url-pretty }}/" />
+    <updated>{{ site.time | date_to_rfc822 -}}</updated>
+    <id>{{ site.url-pretty }}/</id>
+    <entry>
+        <id>{{ site.url-pretty }}/</id>
+        <link href="{{ site.url-pretty }}/" />
+        <title>{{ site.title | xml_escape -}}</title>
+        <summary>{{ page.description | xml_escape -}}</summary>
+        <updated>{{ site.time | date_to_rfc822 -}}</updated>
+    </entry>
+    {%- for accelerator in site.accelerators -%}
+    <entry>
+        <id>{{ site.url-pretty }}{{ accelerator.url -}}</id>
+        <link href="{{ site.url-pretty }}{{ accelerator.url -}}" />
+        <title>{{ accelerator.name | xml_escape -}}</title>
+        <description>{{ accelerator.short_text | xml_escape -}}</description>
+        <pubDate>{{ site.time | date_to_rfc822 -}}</pubDate>
+    </entry>
+    {% endfor %}
+</feed>

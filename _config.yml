@@ -1,3 +1,7 @@
+url-pretty: "https://msussolutionaccelerators.github.io"
+# Name of website
+title: Solution Accelerators | Microsoft US
+
 collections:
   accelerators:
     output: true
