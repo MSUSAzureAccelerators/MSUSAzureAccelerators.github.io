@@ -1,1 +1,17 @@
-﻿Sitemap: https://msussolutionaccelerators.github.io/urllist.txt
+﻿user-agent: *
+disallow: /assets/*
+
+sitemap: https://msussolutionaccelerators.github.io/sitemap.xml
+sitemap: https://msussolutionaccelerators.github.io/sitemap_rss.xml
+sitemap: https://msussolutionaccelerators.github.io/urllist.txt
+
+#        _
+#       [ ]
+#      (   )
+#       |>|
+#    __/===\__
+#   //| o=o |\\
+# <]  | o=o |  [>
+#     \=====/
+#    / / | \ \
+#   <_________>
