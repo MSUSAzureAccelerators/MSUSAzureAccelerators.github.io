@@ -50,7 +50,6 @@ https://msussolutionaccelerators.github.io/accelerators/AI-Powered-Insurance-Cla
 https://msussolutionaccelerators.github.io/accelerators/AI-Powered-Call-Center-Intelligence.html
 https://msussolutionaccelerators.github.io/accelerators/ADX-Patient-Monitoring.html
 https://msussolutionaccelerators.github.io/accelerators/ADX-IoT-Analytics.html
-https://msussolutionaccelerators.github.io
 https://msussolutionaccelerators.github.io/accelerators/Azure-Intelligent-Recommendations.html
 https://msussolutionaccelerators.github.io/accelerators/Modern-Finance.html
 https://msussolutionaccelerators.github.io/accelerators/Inventory-Management.html
