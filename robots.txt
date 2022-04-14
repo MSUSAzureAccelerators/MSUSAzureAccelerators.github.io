@@ -2,8 +2,8 @@
 disallow: /assets/*
 
 sitemap: https://msussolutionaccelerators.github.io/sitemap.xml
-sitemap: https://msussolutionaccelerators.github.io/sitemap.rss
-sitemap: https://msussolutionaccelerators.github.io/sitemap.atom
+sitemap: https://msussolutionaccelerators.github.io/sitemap_rss.xml
+sitemap: https://msussolutionaccelerators.github.io/sitemap_atom.xml
 sitemap: https://msussolutionaccelerators.github.io/urllist.txt
 
 #        _
