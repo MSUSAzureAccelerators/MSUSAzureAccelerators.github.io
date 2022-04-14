@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Solution Accelerators | Microsoft US</title>
+    <link>https://msussolutionaccelerators.github.io/</link>
+    <description>Solution Accelerators are repeatable solutions that can be quickly and easily implemented for specific business outcomes to accelerate transformation journey.</description>
+    <item>
+      <guid>https://msussolutionaccelerators.github.io/</guid>
+      <link>https://msussolutionaccelerators.github.io/</link>
+      <title>Solution Accelerators | Microsoft US</title>
+      <description>Solution Accelerators are repeatable solutions that can be quickly and easily implemented for specific business outcomes to accelerate transformation journey.</description>
+      <pubDate>Thu, 14 Apr 2022 03:01:55 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://msussolutionaccelerators.github.io/accelerators/azure-purview-workshop.html</guid>
+      <link>https://msussolutionaccelerators.github.io/accelerators/azure-purview-workshop.html</link>
+      <title>Hands-On-Lab- Azure Purview Workshop</title>
+      <description>Hands-on-Lab to explore the functionality of Azure Purview, a unified data governance service that helps you manage and govern your on-premises, multi-cloud and software-as-a-service (SaaS) data.</description>
+      <pubDate>Thu, 14 Apr 2022 03:01:54 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://msussolutionaccelerators.github.io/accelerators/azure-purview-demo-generator.html</guid>
+      <link>https://msussolutionaccelerators.github.io/accelerators/azure-purview-demo-generator.html</link>
+      <title>Reusable Technology Accelerator- Azure Purview Demo Generator</title>
+      <description>Automate the deployment of a pre-populated Azure Purview demo environment.</description>
+      <pubDate>Thu, 14 Apr 2022 03:01:54 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://msussolutionaccelerators.github.io/accelerators/azure-cognitive-search-hands-on-lab.html</guid>
+      <link>https://msussolutionaccelerators.github.io/accelerators/azure-cognitive-search-hands-on-lab.html</link>
+      <title>Hands-On-Lab- Azure Cognitive Search Hands-On-Lab</title>
+      <description>Self-paced workshop that teaches you everything you need to know to get up and running with Azure Cognitive Search quickly.</description>
+      <pubDate>Thu, 14 Apr 2022 03:01:54 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://msussolutionaccelerators.github.io/accelerators/Workplace-Intelligence-for-Product-Development-Teams.html</guid>
+      <link>https://msussolutionaccelerators.github.io/accelerators/Workplace-Intelligence-for-Product-Development-Teams.html</link>
+      <title>Solution Accelerator- Workplace Intelligence for Product Development Teams</title>
+      <description>Uncover and leverage the key drivers of productivity and success for product development teams</description>
+      <pubDate>Thu, 14 Apr 2022 03:01:54 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://msussolutionaccelerators.github.io/accelerators/Workplace-Intelligence-for-Human-Resources.html</guid>
+      <link>https://msussolutionaccelerators.github.io/accelerators/Workplace-Intelligence-for-Human-Resources.html</link>
+      <title>Solution Accelerator- Workplace Intelligence for Human Resources</title>
+      <description>Easily identify factors that influence productivity and engagement</description>
+      <pubDate>Thu, 14 Apr 2022 03:01:54 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://msussolutionaccelerators.github.io/accelerators/Virtual-Assistant-Deployer.html</guid>
+      <link>https://msussolutionaccelerators.github.io/accelerators/Virtual-Assistant-Deployer.html</link>
+      <title>Reusable Technology Accelerator- Virtual Assistant Deployer</title>
+      <description>Deploy a Microsoft Virtual Assistant Solution without needing to install all the prerequisite tools on your own machine</description>
+      <pubDate>Thu, 14 Apr 2022 03:01:54 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://msussolutionaccelerators.github.io/accelerators/Travel-Marketplace.html</guid>
+      <link>https://msussolutionaccelerators.github.io/accelerators/Travel-Marketplace.html</link>
+      <title>Solution Accelerator- Travel Marketplace</title>
+      <description>Decentralized, managed marketplace platform for transacting between multiple individuals or organizations.</description>
+      <pubDate>Thu, 14 Apr 2022 03:01:54 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://msussolutionaccelerators.github.io/accelerators/Tradable-Digital-Assets.html</guid>
+      <link>https://msussolutionaccelerators.github.io/accelerators/Tradable-Digital-Assets.html</link>
+      <title>Reusable Technology Accelerator- Tradable Digital Assets</title>
+      <description>Enable traditional assets to be easily digitalized (tokenized), exchanged as a token, and securely stored in digital wallets</description>
+      <pubDate>Thu, 14 Apr 2022 03:01:54 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://msussolutionaccelerators.github.io/accelerators/Smart-Spaces.html</guid>
+      <link>https://msussolutionaccelerators.github.io/accelerators/Smart-Spaces.html</link>
+      <title>Solution Accelerator- Smart Spaces</title>
+      <description>Builds smart buildings that can prove to be a gold standard in reducing environment impact and cost by driving energy efficiency, green purchasing, waste diversion, and water efficiency</description>
+      <pubDate>Thu, 14 Apr 2022 03:01:54 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://msussolutionaccelerators.github.io/accelerators/Risk-Classification-and-Loan-Modeling.html</guid>
+      <link>https://msussolutionaccelerators.github.io/accelerators/Risk-Classification-and-Loan-Modeling.html</link>
+      <title>Solution Accelerator- Risk Classification and Loan Modeling</title>
+      <description>Automate processes to ensure compliance with SBA guidelines</description>
+      <pubDate>Thu, 14 Apr 2022 03:01:54 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://msussolutionaccelerators.github.io/accelerators/Retail-Recommender.html</guid>
+      <link>https://msussolutionaccelerators.github.io/accelerators/Retail-Recommender.html</link>
+      <title>Solution Accelerator- Retail Recommender</title>
+      <description>Provide personalized product recommendations to users based on their purchase history, product selection in the e-commerce channel, and their activity in the physical store</description>
+      <pubDate>Thu, 14 Apr 2022 03:01:54 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://msussolutionaccelerators.github.io/accelerators/Patient-Risk-Analyzer.html</guid>
+      <link>https://msussolutionaccelerators.github.io/accelerators/Patient-Risk-Analyzer.html</link>
+      <title>Solution Accelerator- Patient Risk Analyzer</title>
+      <description>Uncover patterns and deliver insights about data quickly, improving healthcare professionals' ability to provide personalized care, also known as precision medicine</description>
+      <pubDate>Thu, 14 Apr 2022 03:01:54 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://msussolutionaccelerators.github.io/accelerators/Part-Comparator.html</guid>
+      <link>https://msussolutionaccelerators.github.io/accelerators/Part-Comparator.html</link>
+      <title>Solution Accelerator- Part Comparator</title>
+      <description>Optimize their inventory and manufacturing strategies by recommending available parts that could replace more expensive ones based on similarity matching</description>
+      <pubDate>Thu, 14 Apr 2022 03:01:54 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://msussolutionaccelerators.github.io/accelerators/Overdose-Prevention.html</guid>
+      <link>https://msussolutionaccelerators.github.io/accelerators/Overdose-Prevention.html</link>
+      <title>Solution Accelerator- Overdose Prevention</title>
+      <description>Provide predictive analytics for different prescription and distribution services</description>
+      <pubDate>Thu, 14 Apr 2022 03:01:54 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://msussolutionaccelerators.github.io/accelerators/Near-Real-Time-Fraud-and-Compliance-Analytics.html</guid>
+      <link>https://msussolutionaccelerators.github.io/accelerators/Near-Real-Time-Fraud-and-Compliance-Analytics.html</link>
+      <title>Solution Accelerator- Near Real-Time Fraud and Compliance Analytics</title>
+      <description>Simplify the fraud detection and reporting process</description>
+      <pubDate>Thu, 14 Apr 2022 03:01:54 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://msussolutionaccelerators.github.io/accelerators/Modern-Finance---Customer-Revenue-Growth-Factor.html</guid>
+      <link>https://msussolutionaccelerators.github.io/accelerators/Modern-Finance---Customer-Revenue-Growth-Factor.html</link>
+      <title>Solution Accelerator- Modern Finance - Customer Revenue Growth Factor</title>
+      <description>Easily identify factors for growth</description>
+      <pubDate>Thu, 14 Apr 2022 03:01:54 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://msussolutionaccelerators.github.io/accelerators/Medical-Imaging-with-Azure-Machine-Learning.html</guid>
+      <link>https://msussolutionaccelerators.github.io/accelerators/Medical-Imaging-with-Azure-Machine-Learning.html</link>
+      <title>Solution Accelerator- Medical Imaging with Azure Machine Learning</title>
+      <description>Support medical imaging and other use cases in areas like data and model management, deployment, experiment tracking and explainability</description>
+      <pubDate>Thu, 14 Apr 2022 03:01:54 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://msussolutionaccelerators.github.io/accelerators/Many-Models---Demand-Forecasting.html</guid>
+      <link>https://msussolutionaccelerators.github.io/accelerators/Many-Models---Demand-Forecasting.html</link>
+      <title>Solution Accelerator- Many Models - Demand Forecasting</title>
+      <description>Train data from multiple sources to forecast future demand.</description>
+      <pubDate>Thu, 14 Apr 2022 03:01:54 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://msussolutionaccelerators.github.io/accelerators/Manufacturing-Vision---AMD64.html</guid>
+      <link>https://msussolutionaccelerators.github.io/accelerators/Manufacturing-Vision---AMD64.html</link>
+      <title>Solution Accelerator- Manufacturing Vision - AMD64</title>
+      <description>This is the base code for the Manufacturing Vision for amd64 architecture</description>
+      <pubDate>Thu, 14 Apr 2022 03:01:54 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://msussolutionaccelerators.github.io/accelerators/Knowledge-Mining.html</guid>
+      <link>https://msussolutionaccelerators.github.io/accelerators/Knowledge-Mining.html</link>
+      <title>Reusable Technology Accelerator- Knowledge Mining</title>
+      <description>Quickly build an initial Knowledge Mining prototype with Azure Cognitive Search</description>
+      <pubDate>Thu, 14 Apr 2022 03:01:54 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://msussolutionaccelerators.github.io/accelerators/Knowledge-Mining---AML.html</guid>
+      <link>https://msussolutionaccelerators.github.io/accelerators/Knowledge-Mining---AML.html</link>
+      <title>Reusable Technology Accelerator- Knowledge Mining - AML</title>
+      <description>Extract business or industry specific terms from documents, such as extracting medical terms from medical documents, legal terms from contracts, or part names from engineering documents</description>
+      <pubDate>Thu, 14 Apr 2022 03:01:54 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://msussolutionaccelerators.github.io/accelerators/Intelligent-Document-Processing.html</guid>
+      <link>https://msussolutionaccelerators.github.io/accelerators/Intelligent-Document-Processing.html</link>
+      <title>Solution Accelerator- Intelligent Document Processing</title>
+      <description>Reduce human intervention and decrease the time to find the key Data points in 100+page documents/contracts</description>
+      <pubDate>Thu, 14 Apr 2022 03:01:54 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://msussolutionaccelerators.github.io/accelerators/Integrated-Datahub-for-Mass-Transit.html</guid>
+      <link>https://msussolutionaccelerators.github.io/accelerators/Integrated-Datahub-for-Mass-Transit.html</link>
+      <title>Solution Accelerator- Integrated Datahub for Mass Transit</title>
+      <description>System for government transit and transportation authorities to provide optimum transportation services to citizens</description>
+      <pubDate>Thu, 14 Apr 2022 03:01:54 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://msussolutionaccelerators.github.io/accelerators/Healthcare-Blockchain.html</guid>
+      <link>https://msussolutionaccelerators.github.io/accelerators/Healthcare-Blockchain.html</link>
+      <title>Solution Accelerator- Healthcare Blockchain</title>
+      <description>Produce an initial prototype or demo of an approval process application within the Healthcare industry</description>
+      <pubDate>Thu, 14 Apr 2022 03:01:54 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://msussolutionaccelerators.github.io/accelerators/Health-and-Human-Services-Datahub.html</guid>
+      <link>https://msussolutionaccelerators.github.io/accelerators/Health-and-Human-Services-Datahub.html</link>
+      <title>Solution Accelerator- Health and Human Services Datahub</title>
+      <description>Tackle the challenges presented by siloed, insecure solutions that many counties use</description>
+      <pubDate>Thu, 14 Apr 2022 03:01:54 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://msussolutionaccelerators.github.io/accelerators/Digital-Marketing-Campaigns.html</guid>
+      <link>https://msussolutionaccelerators.github.io/accelerators/Digital-Marketing-Campaigns.html</link>
+      <title>Solution Accelerator- Digital Marketing Campaigns</title>
+      <description>Effectively spend money on advertising media that is more impactful to customers</description>
+      <pubDate>Thu, 14 Apr 2022 03:01:54 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://msussolutionaccelerators.github.io/accelerators/Digital-Experience-Solution.html</guid>
+      <link>https://msussolutionaccelerators.github.io/accelerators/Digital-Experience-Solution.html</link>
+      <title>Solution Accelerator- Digital Experience Solution</title>
+      <description>Move the entire live stream process offsite and into the cloud</description>
+      <pubDate>Thu, 14 Apr 2022 03:01:54 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://msussolutionaccelerators.github.io/accelerators/Digital-Documentation-Shipping-Industry.html</guid>
+      <link>https://msussolutionaccelerators.github.io/accelerators/Digital-Documentation-Shipping-Industry.html</link>
+      <title>Solution Accelerator- Digital Documentation Shipping Industry</title>
+      <description>Reduces the time to complete business deals and empowers companies to easily and securely transact business with new companies all over the world</description>
+      <pubDate>Thu, 14 Apr 2022 03:01:54 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://msussolutionaccelerators.github.io/accelerators/Customer-Complaint-Management.html</guid>
+      <link>https://msussolutionaccelerators.github.io/accelerators/Customer-Complaint-Management.html</link>
+      <title>Solution Accelerator- Customer Complaint Management</title>
+      <description>Quickly surface customer complaints from various platforms to the correct support.</description>
+      <pubDate>Thu, 14 Apr 2022 03:01:54 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://msussolutionaccelerators.github.io/accelerators/Cosmos-DB-Helper.html</guid>
+      <link>https://msussolutionaccelerators.github.io/accelerators/Cosmos-DB-Helper.html</link>
+      <title>Reusable Technology Accelerator- Cosmos DB Helper</title>
+      <description>Allow developers to build Cosmos DB-based applications quickly and easily.</description>
+      <pubDate>Thu, 14 Apr 2022 03:01:54 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://msussolutionaccelerators.github.io/accelerators/Conversational-AI-for-State-and-Local-Government.html</guid>
+      <link>https://msussolutionaccelerators.github.io/accelerators/Conversational-AI-for-State-and-Local-Government.html</link>
+      <title>Solution Accelerator- Conversational AI for State and Local Government</title>
+      <description>Rich analytics served to a dashboard for valuable insights that can help you serve your public.</description>
+      <pubDate>Thu, 14 Apr 2022 03:01:54 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://msussolutionaccelerators.github.io/accelerators/Conversational-AI-for-Retail.html</guid>
+      <link>https://msussolutionaccelerators.github.io/accelerators/Conversational-AI-for-Retail.html</link>
+      <title>Solution Accelerator- Conversational AI for Retail</title>
+      <description>Enables quick implementation of conversational AI into communication channels like chatbots, consumer voice assistants, and as an augmentation layer within existing IVR system.</description>
+      <pubDate>Thu, 14 Apr 2022 03:01:54 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://msussolutionaccelerators.github.io/accelerators/Content-Recommendations.html</guid>
+      <link>https://msussolutionaccelerators.github.io/accelerators/Content-Recommendations.html</link>
+      <title>Solution Accelerator- Content Recommendations</title>
+      <description>Leverage to find simple, cost-effective ways to gain consumer insights.</description>
+      <pubDate>Thu, 14 Apr 2022 03:01:54 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://msussolutionaccelerators.github.io/accelerators/Containerized-Store.html</guid>
+      <link>https://msussolutionaccelerators.github.io/accelerators/Containerized-Store.html</link>
+      <title>Solution Accelerator- Containerized Store</title>
+      <description>Modernize traditional retail stores and provide customers with new, easier ways to purchase goods while on-the-go, or find new ways to engage their customers.</description>
+      <pubDate>Thu, 14 Apr 2022 03:01:54 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://msussolutionaccelerators.github.io/accelerators/Commodity-Price-Prediction.html</guid>
+      <link>https://msussolutionaccelerators.github.io/accelerators/Commodity-Price-Prediction.html</link>
+      <title>Solution Accelerator- Commodity Price Prediction</title>
+      <description>Resource to build a solution to forecast prices of commodities and identify anomalies in the time-series data.</description>
+      <pubDate>Thu, 14 Apr 2022 03:01:54 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://msussolutionaccelerators.github.io/accelerators/Carbon-Tracing-Wastewater.html</guid>
+      <link>https://msussolutionaccelerators.github.io/accelerators/Carbon-Tracing-Wastewater.html</link>
+      <title>Solution Accelerator- Carbon Tracing Wastewater</title>
+      <description>Transform your data into opportunities to cut your wastewater treatment emissions.</description>
+      <pubDate>Thu, 14 Apr 2022 03:01:54 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://msussolutionaccelerators.github.io/accelerators/Carbon-Tracing-Basic-Flare.html</guid>
+      <link>https://msussolutionaccelerators.github.io/accelerators/Carbon-Tracing-Basic-Flare.html</link>
+      <title>Solution Accelerator- Carbon Tracing Basic Flare</title>
+      <description>Speed up migration with ease of development and also use the same for production deployment.</description>
+      <pubDate>Thu, 14 Apr 2022 03:01:54 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://msussolutionaccelerators.github.io/accelerators/COVID-19-Vaccine-Proof-and-Test-Verification.html</guid>
+      <link>https://msussolutionaccelerators.github.io/accelerators/COVID-19-Vaccine-Proof-and-Test-Verification.html</link>
+      <title>Solution Accelerator- COVID-19 Vaccine Proof and Test Verification</title>
+      <description>Mass processes and digitizes vaccine and viral test result forms.</description>
+      <pubDate>Thu, 14 Apr 2022 03:01:54 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://msussolutionaccelerators.github.io/accelerators/Azure-Synapse-Customer-Insights-Customer-360.html</guid>
+      <link>https://msussolutionaccelerators.github.io/accelerators/Azure-Synapse-Customer-Insights-Customer-360.html</link>
+      <title>Reusable Technology Accelerator- Azure Synapse Customer Insights Customer 360</title>
+      <description>Improve customer experience, specifically around increasing customer retention.</description>
+      <pubDate>Thu, 14 Apr 2022 03:01:54 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://msussolutionaccelerators.github.io/accelerators/Azure-Purview-ML-Lineage.html</guid>
+      <link>https://msussolutionaccelerators.github.io/accelerators/Azure-Purview-ML-Lineage.html</link>
+      <title>Reusable Technology Accelerator- Azure Purview ML Lineage</title>
+      <description>Enable organizations to get started with lineage in Purview for Machine Learning scenarios.</description>
+      <pubDate>Thu, 14 Apr 2022 03:01:54 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://msussolutionaccelerators.github.io/accelerators/Azure-Purview-Custom-Types-Tool.html</guid>
+      <link>https://msussolutionaccelerators.github.io/accelerators/Azure-Purview-Custom-Types-Tool.html</link>
+      <title>Reusable Technology Accelerator- Azure Purview Custom Types Tool</title>
+      <description>Helps with custom development for Purview using the Atlas APIs.</description>
+      <pubDate>Thu, 14 Apr 2022 03:01:54 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://msussolutionaccelerators.github.io/accelerators/Azure-Purview-Custom-Connector.html</guid>
+      <link>https://msussolutionaccelerators.github.io/accelerators/Azure-Purview-Custom-Connector.html</link>
+      <title>Reusable Technology Accelerator- Azure Purview Custom Connector</title>
+      <description>Shorten most Purview Custom Connector MVP engagements from 4-6 weeks to 1-2 weeks.</description>
+      <pubDate>Thu, 14 Apr 2022 03:01:54 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://msussolutionaccelerators.github.io/accelerators/AIoT---Predictive-Maintenance.html</guid>
+      <link>https://msussolutionaccelerators.github.io/accelerators/AIoT---Predictive-Maintenance.html</link>
+      <title>Reference Architecture- AIoT - Predictive Maintenance</title>
+      <description>Drive outcomes related to building more agile factories, creating more resilient supply chains, and transforming workforces.</description>
+      <pubDate>Thu, 14 Apr 2022 03:01:54 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://msussolutionaccelerators.github.io/accelerators/AIoT---Inventory-Lifecycle-Management.html</guid>
+      <link>https://msussolutionaccelerators.github.io/accelerators/AIoT---Inventory-Lifecycle-Management.html</link>
+      <title>Reference Architecture- AIoT - Inventory Lifecycle Management</title>
+      <description>Drive outcomes related to building more agile factories, creating more resilient supply chains, and transforming workforces.</description>
+      <pubDate>Thu, 14 Apr 2022 03:01:54 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://msussolutionaccelerators.github.io/accelerators/AIoT---Factory-and-Worker-Safety.html</guid>
+      <link>https://msussolutionaccelerators.github.io/accelerators/AIoT---Factory-and-Worker-Safety.html</link>
+      <title>Solution Accelerator- AIoT - Factory and Worker Safety</title>
+      <description>Drive outcomes related to building more agile factories, creating more resilient supply chains, and transforming workforces.</description>
+      <pubDate>Thu, 14 Apr 2022 03:01:54 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://msussolutionaccelerators.github.io/accelerators/AIoT---Automated-Quality-Inspection.html</guid>
+      <link>https://msussolutionaccelerators.github.io/accelerators/AIoT---Automated-Quality-Inspection.html</link>
+      <title>Solution Accelerator- AIoT - Automated Quality Inspection</title>
+      <description>Drive outcomes related to building more agile factories, creating more resilient supply chains, and transforming workforces</description>
+      <pubDate>Thu, 14 Apr 2022 03:01:54 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://msussolutionaccelerators.github.io/accelerators/AIoT---Automated-Call-Center.html</guid>
+      <link>https://msussolutionaccelerators.github.io/accelerators/AIoT---Automated-Call-Center.html</link>
+      <title>Solution Accelerator- AIoT - Automated Call Center</title>
+      <description>Drive outcomes related to building more agile factories, creating more resilient supply chains, and transforming workforces</description>
+      <pubDate>Thu, 14 Apr 2022 03:01:54 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://msussolutionaccelerators.github.io/accelerators/AI-Powered-Insurance-Claims-Automation.html</guid>
+      <link>https://msussolutionaccelerators.github.io/accelerators/AI-Powered-Insurance-Claims-Automation.html</link>
+      <title>Solution Accelerator- AI-Powered Insurance Claims Automation</title>
+      <description>Reduce claims processing time and manual effort in end-to-end claims processing for better customer experience.</description>
+      <pubDate>Thu, 14 Apr 2022 03:01:54 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://msussolutionaccelerators.github.io/accelerators/AI-Powered-Call-Center-Intelligence.html</guid>
+      <link>https://msussolutionaccelerators.github.io/accelerators/AI-Powered-Call-Center-Intelligence.html</link>
+      <title>Solution Accelerator- AI-Powered Call Center Intelligence</title>
+      <description>Automates call transcriptions for real-time and previously recorded calls</description>
+      <pubDate>Thu, 14 Apr 2022 03:01:54 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://msussolutionaccelerators.github.io/accelerators/ADX-Patient-Monitoring.html</guid>
+      <link>https://msussolutionaccelerators.github.io/accelerators/ADX-Patient-Monitoring.html</link>
+      <title>Reusable Technology Accelerator- ADX Patient Monitoring</title>
+      <description>Information coming soon about the ADX Patient Monitoring Solution Accelerator.</description>
+      <pubDate>Thu, 14 Apr 2022 03:01:54 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://msussolutionaccelerators.github.io/accelerators/ADX-IoT-Analytics.html</guid>
+      <link>https://msussolutionaccelerators.github.io/accelerators/ADX-IoT-Analytics.html</link>
+      <title>Solution Accelerator- ADX IoT Analytics</title>
+      <description>Information coming soon about the ADX IoT Analytics Solution Accelerator. </description>
+      <pubDate>Thu, 14 Apr 2022 03:01:54 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://msussolutionaccelerators.github.io/accelerators/Azure-Intelligent-Recommendations.html</guid>
+      <link>https://msussolutionaccelerators.github.io/accelerators/Azure-Intelligent-Recommendations.html</link>
+      <title>Reusable Technology Accelerator- Azure Intelligent Recommendations</title>
+      <description>Intelligent Recommendations democratizes AI and machine learning recommendations through a codeless and powerful experience powered by the same technology that fuels Xbox, Microsoft 365, and Microsoft Azure</description>
+      <pubDate>Thu, 14 Apr 2022 03:01:54 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://msussolutionaccelerators.github.io/accelerators/Modern-Finance.html</guid>
+      <link>https://msussolutionaccelerators.github.io/accelerators/Modern-Finance.html</link>
+      <title>Solution Accelerator- Modern Finance</title>
+      <description>Transform the way you gather financial insights for driving growth</description>
+      <pubDate>Thu, 14 Apr 2022 03:01:54 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://msussolutionaccelerators.github.io/accelerators/Inventory-Management.html</guid>
+      <link>https://msussolutionaccelerators.github.io/accelerators/Inventory-Management.html</link>
+      <title>Solution Accelerator- Inventory Management</title>
+      <description>Empowering workforce, intelligent supply chain with intelligent sales and efficient devices to help gather invaluable data; telemetry, compliance, stock, sales patterns, compete, location and performance</description>
+      <pubDate>Thu, 14 Apr 2022 03:01:54 Z</pubDate>
+    </item>
+  </channel>
+</rss>
