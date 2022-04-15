@@ -6,13 +6,22 @@ sitemap: https://msussolutionaccelerators.github.io/sitemap_rss.xml
 sitemap: https://msussolutionaccelerators.github.io/sitemap_atom.xml
 sitemap: https://msussolutionaccelerators.github.io/urllist.txt
 
-#        _
-#       [ ]
-#      (   )
-#       |>|
-#    __/===\__
-#   //| o=o |\\
-# <]  | o=o |  [>
-#     \=====/
-#    / / | \ \
-#   <_________>
+#      _n____n__
+#     /         \---||--<
+#    /___________\
+#    _|____|____|_
+#    _|____|____|_
+#     |    |    |
+#    --------------
+#    | || || || ||\
+#    | || || || || \++++++++------<
+#    ===============
+#    |   |  |  |   |
+#   (| O | O| O| O |)
+#   |   |   |   |   |
+#  (| O | O | O | O |)
+#   |   |   |   |    |
+# (| O |  O | O  | O |)
+#  |   |    |    |    |
+# (| O |  O |  O |  O |)
+# ======================
