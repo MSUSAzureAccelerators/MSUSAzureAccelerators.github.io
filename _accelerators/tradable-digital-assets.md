@@ -2,7 +2,7 @@
 short_name: "Tradable Digital Assets"
 name: "Tradable Digital Assets"
 title: "Tradable Digital Assets"
-accelerator_type: "Reusable Technology Accelerator"
+accelerator_type: "Technology Accelerator"
 classification: ""
 solution_area: "Modern Workplace,BizApps"
 status: "Work In Progress"
@@ -12,7 +12,7 @@ github_url: https://github.com/microsoft/Tradable-Digital-Assets-Solution-Accele
 demo_url: 
 short_text: "Enable traditional assets to be easily digitalized (tokenized), exchanged as a token, and securely stored in digital wallets"
 hero_image: assets/images/Tradable_Digital_Assets_Hero.webp
-tags: "\"Reusable Technology Accelerator\",\"Manufacturing\",\"Retail\",\"FSI\",\"HLS\",\"Azure Blockchain\",\"Cosmos DB\",\"Azure Kubernetes Services\",\"Azure KeyVault\",\"Azure Container Registry\""
+tags: "\"Technology Accelerator\",\"Manufacturing\",\"Retail\",\"FSI\",\"HLS\",\"Azure Blockchain\",\"Cosmos DB\",\"Azure Kubernetes Services\",\"Azure KeyVault\",\"Azure Container Registry\""
 last_updated: "April 14, 2022 02:47:45 PM"
 related: "Healthcare-Blockchain.html,Travel-Marketplace.html"
 ---

@@ -2,7 +2,7 @@
 short_name: "Azure Purview ML Lineage"
 name: "Azure Purview ML Lineage"
 title: "Azure Purview ML Lineage"
-accelerator_type: "Reusable Technology Accelerator"
+accelerator_type: "Technology Accelerator"
 classification: "Process Automation"
 solution_area: "Data & AI"
 status: "Approved"
@@ -12,7 +12,7 @@ github_url: https://github.com/microsoft/Purview-Machine-Learning-Lineage-Soluti
 demo_url: 
 short_text: "Enable organizations to get started with lineage in Purview for Machine Learning scenarios."
 hero_image: assets/images/Purview_ML_Lineage_Hero.png
-tags: "\"Reusable Technology Accelerator\",\"Process Automation\",\"Horizontal\",\"Purview\",\"Azure Machine Learning\",\"Azure Data Lake Storage\",\"Synapse Analytics\",\"Power BI\""
+tags: "\"Technology Accelerator\",\"Process Automation\",\"Horizontal\",\"Purview\",\"Azure Machine Learning\",\"Azure Data Lake Storage\",\"Synapse Analytics\",\"Power BI\""
 last_updated: "April 14, 2022 02:12:18 PM"
 related: "Azure-Purview-Custom-Connector.html,Azure-Purview-Custom-Types-Tool.html,Azure-Purview-Demo-Generator.html,Azure-Purview-Workshop.html"
 ---

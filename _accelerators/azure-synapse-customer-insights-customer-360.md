@@ -2,7 +2,7 @@
 short_name: "Azure Synapse Customer Insights Customer 360"
 name: "Azure Synapse Customer Insights Customer 360"
 title: "Azure Synapse Customer Insights Customer 360"
-accelerator_type: "Reusable Technology Accelerator"
+accelerator_type: "Technology Accelerator"
 classification: "Professional Services"
 solution_area: "Data & AI,Modern Workplace"
 status: "Approved"
@@ -12,7 +12,7 @@ github_url: https://github.com/microsoft/Azure-Synapse-Customer-Insights-Custome
 demo_url: 
 short_text: "Improve customer experience, specifically around increasing customer retention."
 hero_image: assets/images/Customer_Insights_Hero.png
-tags: "\"Reusable Technology Accelerator\",\"Professional Services\",\"Retail\",\"Other\",\"FSI\",\"Customer Insights\",\"Azure Data Lake Storage\",\"Synapse\",\"Azure Machine Learning\",\"Power BI\""
+tags: "\"Technology Accelerator\",\"Professional Services\",\"Retail\",\"Other\",\"FSI\",\"Customer Insights\",\"Azure Data Lake Storage\",\"Synapse\",\"Azure Machine Learning\",\"Power BI\""
 last_updated: "April 12, 2022 04:40:15 PM"
 ---
 ## About this Solution Accelerator

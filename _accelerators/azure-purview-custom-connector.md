@@ -2,7 +2,7 @@
 short_name: "Azure Purview Custom Connector"
 name: "Azure Purview Custom Connector"
 title: "Azure Purview Custom Connector"
-accelerator_type: "Reusable Technology Accelerator"
+accelerator_type: "Technology Accelerator"
 classification: "Process Automation"
 solution_area: "Data & AI"
 status: "Approved"
@@ -12,7 +12,7 @@ github_url: https://github.com/microsoft/Purview-Custom-Connector-Solution-Accel
 demo_url: 
 short_text: "Shorten most Purview Custom Connector MVP engagements from 4-6 weeks to 1-2 weeks."
 hero_image: assets/images/Purview_Custom_Connector_Hero.svg
-tags: "\"Reusable Technology Accelerator\",\"Process Automation\",\"Horizontal\",\"Synapse\",\"Purview\",\"Azure Data Lake Storage\""
+tags: "\"Technology Accelerator\",\"Process Automation\",\"Horizontal\",\"Synapse\",\"Purview\",\"Azure Data Lake Storage\""
 last_updated: "April 14, 2022 02:10:41 PM"
 related: "Azure-Purview-Custom-Types-Tool.html,Azure-Purview-Demo-Generator.html,Azure-Purview-ML-Lineage.html,Azure-Purview-Workshop.html"
 ---

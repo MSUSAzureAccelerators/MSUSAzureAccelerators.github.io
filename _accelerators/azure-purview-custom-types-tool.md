@@ -2,7 +2,7 @@
 short_name: "Azure Purview Custom Types Tool"
 name: "Azure Purview Custom Types Tool"
 title: "Azure Purview Custom Types Tool"
-accelerator_type: "Reusable Technology Accelerator"
+accelerator_type: "Technology Accelerator"
 classification: "Process Automation"
 solution_area: "Data & AI"
 status: "Approved"
@@ -12,7 +12,7 @@ github_url: https://github.com/microsoft/Purview-Custom-Types-Tool-Solution-Acce
 demo_url: 
 short_text: "Helps with custom development for Purview using the Atlas APIs."
 hero_image: assets/images/Purview_Custom_Types_Hero.svg
-tags: "\"Reusable Technology Accelerator\",\"Process Automation\",\"Horizontal\",\"Purview\",\"node.js\",\"Apache Atlas\""
+tags: "\"Technology Accelerator\",\"Process Automation\",\"Horizontal\",\"Purview\",\"node.js\",\"Apache Atlas\""
 last_updated: "April 14, 2022 02:11:33 PM"
 related: "Azure-Purview-Custom-Connector.html,Azure-Purview-Demo-Generator.html,Azure-Purview-ML-Lineage.html,Azure-Purview-Workshop.html"
 ---
