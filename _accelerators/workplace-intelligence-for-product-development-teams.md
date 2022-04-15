@@ -4,16 +4,16 @@ name: "Workplace Intelligence for Product Development Teams"
 title: "Workplace Intelligence for Product Development Teams"
 accelerator_type: "Solution Accelerator"
 classification: "Workplace Intelligence"
-solution_area: "Modern Workplace,Data & AI"
+solution_area: "Modern Workplace,Data & AI,BizApps,Apps & Infrastructure"
 status: "Approved"
-industries: "High Tech"
+industries: "High Tech,Automotive,EDU,Energy,FSI,HLS,Manufacturing,Media and Entertainment,Professional Services,Retail,SLG,Horizontal"
 technology_stack: "Azure DevOps,Workplace Analytics,Viva,Synapse,Power BI"
 github_url: https://github.com/MSUSSolutionAccelerators/Workplace-Intelligence-Solution-Accelerator
 demo_url: 
 short_text: "Uncover and leverage the key drivers of productivity and success for product development teams"
 hero_image: assets/images/Workplace_Intelligence_Hero.webp
-tags: "\"Solution Accelerator\",\"Workplace Intelligence\",\"High Tech\",\"Azure DevOps\",\"Workplace Analytics\",\"Viva\",\"Synapse\",\"Power BI\""
-last_updated: "April 14, 2022 02:49:06 PM"
+tags: "\"Solution Accelerator\",\"Workplace Intelligence\",\"High Tech\",\"Automotive\",\"EDU\",\"Energy\",\"FSI\",\"HLS\",\"Manufacturing\",\"Media and Entertainment\",\"Professional Services\",\"Retail\",\"SLG\",\"Horizontal\",\"Azure DevOps\",\"Workplace Analytics\",\"Viva\",\"Synapse\",\"Power BI\""
+last_updated: "April 15, 2022 06:47:23 PM"
 related: "Workplace-Intelligence-for-Human-Resources.html"
 ---
 ## About this Solution Accelerator

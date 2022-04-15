@@ -4,7 +4,7 @@ name: "Modern Finance"
 title: "Modern Finance"
 accelerator_type: "Solution Accelerator"
 classification: "Financial"
-solution_area: "Modern Workplace"
+solution_area: "BizApps,Data & AI,Apps & Infrastructure"
 status: "Work In Progress"
 industries: "FSI"
 technology_stack: "Power BI"
@@ -13,7 +13,7 @@ demo_url:
 short_text: "Transform the way you gather financial insights for driving growth"
 hero_image: assets/images/Modern_Finance_Hero.webp
 tags: "\"Solution Accelerator\",\"Financial\",\"FSI\",\"Power BI\""
-last_updated: "April 14, 2022 02:43:14 PM"
+last_updated: "April 15, 2022 06:35:22 PM"
 related: "Modern-Finance---Customer-Revenue-Growth-Factor.html"
 ---
 ## About this Solution Accelerator

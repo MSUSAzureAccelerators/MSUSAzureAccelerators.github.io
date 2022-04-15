@@ -6,14 +6,14 @@ accelerator_type: "Solution Accelerator"
 classification: "Sustainability"
 solution_area: "BizApps,Data & AI"
 status: "Work In Progress"
-industries: "Manufacturing,Retail,FSI,HLS"
+industries: "Retail,FSI,HLS,Automotive,EDU,Energy,High Tech,Media and Entertainment,Professional Services,SLG,Horizontal,Manufacturing"
 technology_stack: "Azure IoT Hub,Synapse,Azure Storage,Power BI,Azure Logic Apps"
 github_url: https://github.com/MSUSSolutionAccelerators/Carbon-Tracing-Wastewater-Solution-Accelerator
 demo_url: 
 short_text: "Transform your data into opportunities to cut your wastewater treatment emissions."
 hero_image: assets/images/Carbon_Tracing_Wastewater_Hero.webp
-tags: "\"Solution Accelerator\",\"Sustainability\",\"Manufacturing\",\"Retail\",\"FSI\",\"HLS\",\"Azure IoT Hub\",\"Synapse\",\"Azure Storage\",\"Power BI\",\"Azure Logic Apps\""
-last_updated: "April 14, 2022 02:14:13 PM"
+tags: "\"Solution Accelerator\",\"Sustainability\",\"Retail\",\"FSI\",\"HLS\",\"Automotive\",\"EDU\",\"Energy\",\"High Tech\",\"Media and Entertainment\",\"Professional Services\",\"SLG\",\"Horizontal\",\"Manufacturing\",\"Azure IoT Hub\",\"Synapse\",\"Azure Storage\",\"Power BI\",\"Azure Logic Apps\""
+last_updated: "April 15, 2022 06:22:12 PM"
 related: "Carbon-Tracing-Basic-Flare.html,Smart-Spaces.html"
 ---
 ## About this Solution Accelerator

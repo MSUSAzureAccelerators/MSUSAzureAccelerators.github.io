@@ -6,14 +6,14 @@ accelerator_type: "Solution Accelerator"
 classification: "Personalization"
 solution_area: "Data & AI"
 status: "In Review"
-industries: "Manufacturing,Retail,FSI,HLS"
+industries: "Manufacturing,Retail,FSI,HLS,Media and Entertainment"
 technology_stack: "Synapse,Azure Data Lake Storage,Power BI"
 github_url: https://github.com/microsoft/Azure-Synapse-Content-Recommendations-Solution-Accelerator
 demo_url: 
 short_text: "Leverage to find simple, cost-effective ways to gain consumer insights."
 hero_image: assets/images/Content_Recommendation_Hero.webp
-tags: "\"Solution Accelerator\",\"Personalization\",\"Manufacturing\",\"Retail\",\"FSI\",\"HLS\",\"Synapse\",\"Azure Data Lake Storage\",\"Power BI\""
-last_updated: "April 14, 2022 02:15:10 PM"
+tags: "\"Solution Accelerator\",\"Personalization\",\"Manufacturing\",\"Retail\",\"FSI\",\"HLS\",\"Media and Entertainment\",\"Synapse\",\"Azure Data Lake Storage\",\"Power BI\""
+last_updated: "April 15, 2022 06:23:36 PM"
 related: "Azure-Intelligent-Recommendations.html,Retail-Recommender.html"
 ---
 ## About this Solution Accelerator

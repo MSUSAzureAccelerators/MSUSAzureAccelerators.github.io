@@ -6,14 +6,14 @@ accelerator_type: "Solution Accelerator"
 classification: "Personalization"
 solution_area: "Data & AI"
 status: "Approved"
-industries: "Retail,FSI,HLS"
+industries: "Retail,FSI,HLS,Manufacturing"
 technology_stack: "Azure Kubernetes Services,Cognitive Search,Synapse,Azure Machine Learning,PowerApps"
 github_url: https://github.com/microsoft/Azure-Solution-Accelerator-Customer-Complaint-Management
 demo_url: 
 short_text: "Quickly surface customer complaints from various platforms to the correct support."
 hero_image: assets/images/Customer_Complaints_Hero.webp
-tags: "\"Solution Accelerator\",\"Personalization\",\"Retail\",\"FSI\",\"HLS\",\"Azure Kubernetes Services\",\"Cognitive Search\",\"Synapse\",\"Azure Machine Learning\",\"PowerApps\""
-last_updated: "April 14, 2022 02:18:23 PM"
+tags: "\"Solution Accelerator\",\"Personalization\",\"Retail\",\"FSI\",\"HLS\",\"Manufacturing\",\"Azure Kubernetes Services\",\"Cognitive Search\",\"Synapse\",\"Azure Machine Learning\",\"PowerApps\""
+last_updated: "April 15, 2022 06:27:34 PM"
 related: "AI-Powered-Insurance-Claims-Automation.html,Intelligent-Document-Processing.html,Knowledge-Mining.html,Knowledge-Mining---AML.html,Azure-Cognitive-Search-Hands-On-Lab.html"
 ---
 ## About this Solution Accelerator

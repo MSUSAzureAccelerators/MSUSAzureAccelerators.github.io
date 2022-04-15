@@ -4,16 +4,17 @@ name: "Many Models - Demand Forecasting"
 title: "Many Models - Demand Forecasting"
 accelerator_type: "Solution Accelerator"
 classification: "Supply Chain"
-solution_area: "Data & AI"
+solution_area: "Data & AI,BizApps"
 status: "In Review"
-industries: "Manufacturing,Retail,FSI,HLS"
+industries: "Manufacturing,Retail,FSI,HLS,Media and Entertainment"
 technology_stack: "Azure Machine Learning,Power BI"
 github_url: https://github.com/microsoft/solution-accelerator-many-models
 demo_url: 
 short_text: "Train data from multiple sources to forecast future demand."
-hero_image: ./assets/images/Many_Models_Hero.webp
-tags: "\"Solution Accelerator\",\"Supply Chain\",\"Manufacturing\",\"Retail\",\"FSI\",\"HLS\",\"Azure Machine Learning\",\"Power BI\""
-last_updated: "March 31, 2022 07:41:21 PM"
+hero_image: assets/images/Many_Models_Hero.webp
+tags: "\"Solution Accelerator\",\"Supply Chain\",\"Manufacturing\",\"Retail\",\"FSI\",\"HLS\",\"Media and Entertainment\",\"Azure Machine Learning\",\"Power BI\""
+last_updated: "April 15, 2022 06:34:33 PM"
+related: ""
 ---
 ## About this Solution Accelerator
 

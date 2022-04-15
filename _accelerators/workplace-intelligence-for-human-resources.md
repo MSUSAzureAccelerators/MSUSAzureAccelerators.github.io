@@ -4,16 +4,16 @@ name: "Workplace Intelligence for Human Resources"
 title: "Workplace Intelligence for Human Resources"
 accelerator_type: "Solution Accelerator"
 classification: "Workplace Intelligence"
-solution_area: "Modern Workplace,Data & AI"
+solution_area: "Modern Workplace,Data & AI,BizApps,Apps & Infrastructure"
 status: "Work In Progress"
-industries: "Manufacturing,Retail,FSI,HLS"
+industries: "Manufacturing,Retail,FSI,HLS,Automotive,EDU,Energy,High Tech,Media and Entertainment,Professional Services,SLG,Horizontal"
 technology_stack: "Workplace Analytics,Viva,Azure DevOps,Synapse,Power BI"
 github_url: https://github.com/MSUSSolutionAccelerators/Workplace-Intelligence-Solution-Accelerator
 demo_url: 
 short_text: "Easily identify factors that influence productivity and engagement"
 hero_image: assets/images/Workplace_Intelligence_Hero.webp
-tags: "\"Solution Accelerator\",\"Workplace Intelligence\",\"Manufacturing\",\"Retail\",\"FSI\",\"HLS\",\"Workplace Analytics\",\"Viva\",\"Azure DevOps\",\"Synapse\",\"Power BI\""
-last_updated: "April 14, 2022 02:49:08 PM"
+tags: "\"Solution Accelerator\",\"Workplace Intelligence\",\"Manufacturing\",\"Retail\",\"FSI\",\"HLS\",\"Automotive\",\"EDU\",\"Energy\",\"High Tech\",\"Media and Entertainment\",\"Professional Services\",\"SLG\",\"Horizontal\",\"Workplace Analytics\",\"Viva\",\"Azure DevOps\",\"Synapse\",\"Power BI\""
+last_updated: "April 15, 2022 06:47:25 PM"
 related: "Workplace-Intelligence-for-Product-Development-Teams.html"
 ---
 ## About this Solution Accelerator

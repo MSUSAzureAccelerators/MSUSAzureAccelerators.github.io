@@ -6,14 +6,14 @@ accelerator_type: "Solution Accelerator"
 classification: "Healthcare"
 solution_area: "Data & AI,BizApps"
 status: "In Review"
-industries: "Manufacturing,Retail,FSI,HLS"
+industries: "Manufacturing,Retail,FSI,HLS,SLG"
 technology_stack: "Form Recognizer,Azure Storage,Azure Logic Apps,Cosmos DB,Synapse Analytics,Power BI"
 github_url: https://github.com/microsoft/Azure-Solution-Accelerator-to-automate-COVID-19-Vaccination-Proof-and-Test-Verification-Forms
 demo_url: 
 short_text: "Mass processes and digitizes vaccine and viral test result forms."
 hero_image: assets/images/COVID_Testing_Hero.webp
-tags: "\"Solution Accelerator\",\"Healthcare\",\"Manufacturing\",\"Retail\",\"FSI\",\"HLS\",\"Form Recognizer\",\"Azure Storage\",\"Azure Logic Apps\",\"Cosmos DB\",\"Synapse Analytics\",\"Power BI\""
-last_updated: "April 14, 2022 02:16:37 PM"
+tags: "\"Solution Accelerator\",\"Healthcare\",\"Manufacturing\",\"Retail\",\"FSI\",\"HLS\",\"SLG\",\"Form Recognizer\",\"Azure Storage\",\"Azure Logic Apps\",\"Cosmos DB\",\"Synapse Analytics\",\"Power BI\""
+last_updated: "April 15, 2022 06:25:35 PM"
 related: "ADX-Patient-Monitoring.html,Health-and-Human-Services-Datahub.html,Healthcare-Blockchain.html,Medical-Imaging-with-Azure-Machine-Learning.html,Overdose-Prevention.html,Patient-Risk-Analyzer.html"
 ---
 ## About this Solution Accelerator

@@ -2,18 +2,18 @@
 short_name: "Knowledge Mining - AML"
 name: "Knowledge Mining - AML"
 title: "Knowledge Mining - AML"
-accelerator_type: "Technology Accelerator"
-classification: ""
+accelerator_type: "Reusable Technology Accelerator"
+classification: "Process Automation"
 solution_area: "Data & AI"
 status: "Approved"
-industries: "Manufacturing,FSI"
+industries: "Manufacturing,FSI,Automotive,EDU,Energy,High Tech,HLS,Media and Entertainment,Professional Services,Retail,SLG,Horizontal"
 technology_stack: "Azure Machine Learning,Cognitive Search"
 github_url: https://github.com/microsoft/Accelerator-AzureML_CognitiveSearch
 demo_url: 
 short_text: "Extract business or industry specific terms from documents, such as extracting medical terms from medical documents, legal terms from contracts, or part names from engineering documents"
 hero_image: assets/images/Knowledge_Mining_AML_Hero.webp
-tags: "\"Technology Accelerator\",\"Manufacturing\",\"FSI\",\"Azure Machine Learning\",\"Cognitive Search\""
-last_updated: "April 14, 2022 02:40:44 PM"
+tags: "\"Reusable Technology Accelerator\",\"Process Automation\",\"Manufacturing\",\"FSI\",\"Automotive\",\"EDU\",\"Energy\",\"High Tech\",\"HLS\",\"Media and Entertainment\",\"Professional Services\",\"Retail\",\"SLG\",\"Horizontal\",\"Azure Machine Learning\",\"Cognitive Search\""
+last_updated: "April 15, 2022 06:33:02 PM"
 related: "AI-Powered-Insurance-Claims-Automation.html,Customer-Complaint-Management.html,Azure-Cognitive-Search-Hands-On-Lab.html,Intelligent-Document-Processing.html,Knowledge-Mining.html,Risk-Classification-and-Loan-Modeling.html"
 ---
 ## About this Solution Accelerator
@@ -31,7 +31,6 @@ The solution will show you how to:
 ### 2. Train a BERT NER model (Steps 4-5)
 
 > If you already have labelled data or want to use the sample data provided with this repo, you can skip ahead to Step 4.
-
 4. Use the labeled data to train a Named Entity Recognition (NER) Model in Azure Machine Learning using a [BERT](https://en.wikipedia.org/wiki/BERT_(language_model)) model designed to extract entities from documents. The code used to train the model was derived from the [NLP Recipes Repo](https://github.com/microsoft/nlp-recipes).
 5. Integrate the BERT NER custom skill with Azure Cognitive Search to project the identified entities and content of each document into the knowledge store and the search index.
 

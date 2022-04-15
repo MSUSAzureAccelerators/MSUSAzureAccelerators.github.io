@@ -4,7 +4,7 @@ name: "Patient Risk Analyzer"
 title: "Patient Risk Analyzer"
 accelerator_type: "Solution Accelerator"
 classification: "Healthcare"
-solution_area: "Data & AI,Modern Workplace"
+solution_area: "Data & AI,Apps & Infrastructure,BizApps"
 status: "Work In Progress"
 industries: "HLS"
 technology_stack: "Azure Machine Learning,Cognitive Services,Text-To-Speech,Form Recognizer,PVA,PowerApps,Azure Kubernetes Services,Synapse Analytics"
@@ -13,7 +13,7 @@ demo_url:
 short_text: "Uncover patterns and deliver insights about data quickly, improving healthcare professionals' ability to provide personalized care, also known as precision medicine"
 hero_image: assets/images/Patient_Risk_Analyzer_Hero.webp
 tags: "\"Solution Accelerator\",\"Healthcare\",\"HLS\",\"Azure Machine Learning\",\"Cognitive Services\",\"Text-To-Speech\",\"Form Recognizer\",\"PVA\",\"PowerApps\",\"Azure Kubernetes Services\",\"Synapse Analytics\""
-last_updated: "April 14, 2022 02:45:19 PM"
+last_updated: "April 15, 2022 06:38:20 PM"
 related: "ADX-Patient-Monitoring.html,Overdose-Prevention.html"
 ---
 ## About this Solution Accelerator

@@ -4,16 +4,16 @@ name: "Travel Marketplace"
 title: "Travel Marketplace"
 accelerator_type: "Solution Accelerator"
 classification: ""
-solution_area: "Modern Workplace,BizApps"
+solution_area: "BizApps,Data & AI"
 status: "Work In Progress"
-industries: "Manufacturing"
+industries: "Manufacturing,HLS,FSI,Media and Entertainment,Retail"
 technology_stack: "Azure Blockchain,Mongo DB,,Hyperledger Service Fabric,Visual Studio"
 github_url: https://github.com/microsoft/Marketplace_Blockchain_Solution_Accelerator
 demo_url: 
 short_text: "Decentralized, managed marketplace platform for transacting between multiple individuals or organizations."
 hero_image: assets/images/Travel_Marketplace_Hero.webp
-tags: "\"Solution Accelerator\",\"Manufacturing\",\"Azure Blockchain\",\"Mongo DB,\",\"Hyperledger Service Fabric\",\"Visual Studio\""
-last_updated: "April 14, 2022 02:47:44 PM"
+tags: "\"Solution Accelerator\",\"Manufacturing\",\"HLS\",\"FSI\",\"Media and Entertainment\",\"Retail\",\"Azure Blockchain\",\"Mongo DB,\",\"Hyperledger Service Fabric\",\"Visual Studio\""
+last_updated: "April 15, 2022 06:45:46 PM"
 related: "Healthcare-Blockchain.html,Tradable-Digital-Assets.html"
 ---
 ## About this Solution Accelerator
