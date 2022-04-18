@@ -1,0 +1,76 @@
+<div id="accelerator">
+    <div>
+        <div class="flex align-middle justify-between mb-3">
+            <div class="w-2/3">
+                <h1>{{ page.title -}}</h1>
+                {%- if page.status != "Submitted" -%}
+                <div class="supertitle">{{ page.accelerator_type -}}</div>
+                {%- else -%}
+                <div class="supertitle">{{ page.accelerator_type -}} (BETA)</div>
+                {%- endif -%}
+                <article class="pl-6 pt-2 w-full prose">{{ content -}}</article>
+            </div>
+            <div class="w-1/3 ml-8">
+                <img src="../{{ page.hero_image -}}" alt="{{ page.title -}} Hero Image">
+                <!-- Relevant Personas -->
+                {%- if page.classification and page.classification != "" -%}
+                {%- assign classifications = page.classification | split: "," | sort -%}
+                <h3 class="mt-4">Relevant Personas</h3>
+                {%- for classification in classifications -%}
+                <p>{{ classification -}}</p>
+                {%- endfor -%}
+                {%- endif -%}
+                <!-- Relevant Inuistries -->
+                {%- if page.industries and page.industries != "" -%}
+                {%- assign industries = page.industries | split: "," | sort -%}
+                <h3 class="mt-4">Relevant Industries</h3>
+                {%- for industry in industries -%}
+                <p>{{ industry -}}</p>
+                {%- endfor -%}
+                {%- endif -%}
+                <!-- Technology Stack -->
+                {%- if page.technology_stack  and page.technology_stack != "" -%}
+                {%- assign technologies = page.technology_stack | split: "," | sort -%}
+                <h3 class="mt-4">Technology Stack</h3>
+                {%- for technology in technologies -%}
+                <p>{{ technology -}}</p>
+                {%- endfor -%}
+                {%- endif -%}
+                <!-- Technical Value Assets -->
+                <h3 class="mt-4">Technical Value Assets</h3>
+                <div>
+                    {%- if page.github_url  and page.github_url != "" -%}
+                    <div>
+                        <a href="{{ page.github_url -}}" target="_blank" rel="noopener noreferrer">
+                            <i class="fa-brands fa-github fa-xs"></i> GitHub
+                            Repository
+                        </a>
+                    </div>
+                    {%- endif -%}
+                    {%- if page.demo_url  and page.demo_url != "" -%}
+                    <div">
+                        <a href=" {{ page.demo_url -}}" target="_blank" rel="noopener noreferrer">
+                            <i class="fa-solid fa-cloud fa-xs"></i> Demo Environment
+                        </a>
+                </div>
+                {%- endif -%}
+            </div>
+            <!-- Related Accelerators -->
+            {%- if page.related and page.related != "" -%}
+            <h3 class="mt-4">Related Accelerators</h3>
+            <div class="flex flex-col justify-start capitalize">
+                {%- assign relatedItems = page.related | split: "," | sort -%}
+                {%- for relatedItem in relatedItems -%}
+                <p>
+                    <a href="{{ relatedItem }}">
+                        {{ relatedItem | remove_first: ".html" | replace: "-"," " | replace: "   ", " - "}}
+                    </a>
+                </p>
+                {% endfor %}
+            </div>
+            {%- endif -%}
+            <h3 class="mt-4">Share</h3>
+            {%- include social-links.html -%}
+        </div>
+    </div>
+</div>
