@@ -74,7 +74,7 @@
 
 <body class="h-full">
     {% include header.html %}
-    <section id="breadcrumbs">
+    <div id="breadcrumbs">
         <nav class="flex ml-6 text-gray-700 bg-gray-50 rounded-lg border border-gray-200 dark:bg-gray-800 dark:border-gray-700"
             aria-label="Breadcrumb">
             <ol class="inline-flex items-center space-x-1 md:space-x-3">
@@ -104,8 +104,8 @@
                 </li>
             </ol>
         </nav>
-    </section>
-    <section id="accelerator">
+    </div>
+    <div id="accelerator">
         <div>
             <div class="flex align-middle justify-between mb-3">
                 <div class="w-2/3">
@@ -149,7 +149,7 @@
                         {%- if page.github_url  and page.github_url != "" -%}
                         <div>
                             <a href="{{ page.github_url -}}" target="_blank" rel="noopener noreferrer">
-                                <i name="GitHub Repository Link" class="fa-brands fa-github fa-xs"></i> GitHub
+                                <i class="fa-brands fa-github fa-xs"></i> GitHub
                                 Repository
                             </a>
                         </div>
@@ -157,13 +157,13 @@
                         {%- if page.demo_url  and page.demo_url != "" -%}
                         <div">
                             <a href=" {{ page.demo_url -}}" target="_blank" rel="noopener noreferrer">
-                                <i name="Demo Environment Link" class="fa-solid fa-cloud fa-xs"></i> Demo Environment
+                                <i class="fa-solid fa-cloud fa-xs"></i> Demo Environment
                             </a>
                         </div>
                         {%- endif -%}
                     </div>
                     <!-- Related Accelerators -->
-                    {%- if page.related -%}
+                    {%- if page.related and page.related != "" -%}
                     <h3 class="mt-4">Related Accelerators</h3>
                     <div class="flex flex-col justify-start capitalize">
                         {%- assign relatedItems = page.related | split: "," | sort -%}

@@ -11,9 +11,9 @@ technology_stack: "Purview,Azure Machine Learning,Azure Data Lake Storage,Synaps
 github_url: https://github.com/microsoft/Purview-Machine-Learning-Lineage-Solution-Accelerator
 demo_url: 
 short_text: "Enable organizations to get started with lineage in Purview for Machine Learning scenarios."
-hero_image: assets/images/Purview_ML_Lineage_Hero.png
+hero_image: assets/images/Purview_ML_Lineage_Hero.webp
 tags: "\"Technology Accelerator\",\"Process Automation\",\"Horizontal\",\"Automotive\",\"EDU\",\"Energy\",\"FSI\",\"High Tech\",\"HLS\",\"Manufacturing\",\"Media and Entertainment\",\"Retail\",\"Professional Services\",\"SLG\",\"Purview\",\"Azure Machine Learning\",\"Azure Data Lake Storage\",\"Synapse Analytics\",\"Power BI\""
-last_updated: "April 15, 2022 06:18:48 PM"
+last_updated: "April 18, 2022 03:15:03 PM"
 related: "Azure-Purview-Custom-Connector.html,Azure-Purview-Custom-Types-Tool.html,Azure-Purview-Demo-Generator.html,Azure-Purview-Workshop.html"
 ---
 ## About this Solution Accelerator

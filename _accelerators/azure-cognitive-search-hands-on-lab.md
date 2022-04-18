@@ -11,9 +11,9 @@ technology_stack: "Cognitive Search,Power BI,Azure App Service,Azure Functions"
 github_url: https://github.com/MSUSSolutionAccelerators/Azure-Cognitive-Search-Hands-On-Lab
 demo_url: 
 short_text: "Self-paced workshop that teaches you everything you need to know to get up and running with Azure Cognitive Search quickly."
-hero_image: assets/images/Cognitive_Search_HOL_Hero.png
+hero_image: assets/images/Cognitive_Search_HOL_Hero.webp
 tags: "\"Hands-On-Lab\",\"Process Automation\",\"Horizontal\",\"Cognitive Search\",\"Power BI\",\"Azure App Service\",\"Azure Functions\""
-last_updated: "April 14, 2022 02:09:17 PM"
+last_updated: "April 18, 2022 03:11:59 PM"
 related: "Knowledge-Mining.html,Knowledge-Mining---AML.html"
 ---
 ## About this Solution Accelerator

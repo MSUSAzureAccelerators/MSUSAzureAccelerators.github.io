@@ -11,9 +11,9 @@ technology_stack: "Purview,Azure KeyVault,Azure SQL,Synapse Analytics,Azure Stor
 github_url: https://github.com/tayganr/purviewdemo
 demo_url: 
 short_text: "Automate the deployment of a pre-populated Azure Purview demo environment."
-hero_image: assets/images/Purview_Demo_Generator_Hero.png
+hero_image: assets/images/Purview_Demo_Generator_Hero.webp
 tags: "\"Technology Accelerator\",\"Process Automation\",\"Horizontal\",\"Automotive\",\"EDU\",\"Energy\",\"FSI\",\"High Tech\",\"HLS\",\"Manufacturing\",\"Media and Entertainment\",\"Professional Services\",\"Retail\",\"SLG\",\"Purview\",\"Azure KeyVault\",\"Azure SQL\",\"Synapse Analytics\",\"Azure Storage\""
-last_updated: "April 15, 2022 06:18:41 PM"
+last_updated: "April 18, 2022 03:14:14 PM"
 related: "Azure-Purview-Custom-Connector.html,Azure-Purview-Custom-Types-Tool.html,Azure-Purview-ML-Lineage.html,Azure-Purview-Workshop.html"
 ---
 ## About this Solution Accelerator
