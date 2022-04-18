@@ -62,7 +62,7 @@
                 {%- assign relatedItems = page.related | split: "," | sort -%}
                 {%- for relatedItem in relatedItems -%}
                 <p>
-                    <a href="{{ relatedItem }}">
+                    <a href="{{ relatedItem | downcase }}">
                         {{ relatedItem | remove_first: ".html" | replace: "-"," " | replace: "   ", " - "}}
                     </a>
                 </p>
