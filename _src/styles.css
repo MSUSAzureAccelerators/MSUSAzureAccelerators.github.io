@@ -47,7 +47,7 @@
   }
 
   .filter-link:hover {
-    @apply -translate-y-1 !bg-white !text-[#266EBB] transition duration-300 ease-in-out;
+    @apply !bg-white !text-[#266EBB] transition duration-300 ease-in-out;
   }
 
   .filter-link:visited {
@@ -88,5 +88,9 @@
 
   .prose h2 {
     @apply mt-4 text-3xl font-semibold tracking-tight;
+  }
+
+  .f-glass {
+    @apply rounded-lg opacity-70 shadow-cta border border-white border-opacity-30 backdrop-filter backdrop-blur hover:opacity-100;
   }
 }
