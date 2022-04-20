@@ -10,10 +10,12 @@ industries: "SLG"
 technology_stack: ""
 github_url: https://github.com/MSUSSolutionAccelerators/Conversational-AI-Solution-Accelerator
 demo_url: 
-short_text: "Rich analytics served to a dashboard for valuable insights that can help you serve your public."
+customer_overview_url: 
+customer_deck_url: 
+short_text: "Rich analytics served to a dashboard for valuable insights that can help you serve your public"
 hero_image: assets/images/Conversational_AI_SLG_Hero.webp
-tags: "\"Solution Accelerator\",\"Personalization\",\"Process Automation\",\"SLG\""
-last_updated: "April 14, 2022 02:15:10 PM"
+tags: "\"Solution Accelerator\",\"Personalization\",\"Process Automation\",\"SLG\",\"Data & AI\",\"Modern Workplace\""
+last_updated: "April 20, 2022 06:08:33 PM"
 related: "AIoT---Automated-Call-Center.html,AI-Powered-Call-Center-Intelligence.html,Conversational-AI-for-Retail.html"
 order: 2
 ---
@@ -21,7 +23,7 @@ order: 2
 
 Government agencies are facing near-constant change in their information environments. This can be especially challenging when existing systems are already overwhelmed, provide limited solutions for ADA and multilingual needs, and require workers to spend valuable time manually routing calls and answering simple frequently asked questions.
 
-The Modernized Contact Center Conversational AI Solution Accelerator combines Microsoft Azure AI Cognitive Services and Machine Learning in a user-friendly platform that augments your existing system. It automates resident engagements and deploys content to multiple channels with a single click.
+The Modernized Contact Center Conversational AI Solution Accelerator combines Microsoft Azure AI Cognitive Services and Machine Learning in a user-friendly platform that augments your existing system. It automates resident engagements and deploys content to multiple channels with a single click. 
 
 Conversational AI drives communications with human-like responses to quickly answer or re-route inquiries. Rich analytics are served to a dashboard for valuable insights that can help you serve your public.
 

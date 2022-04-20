@@ -61,19 +61,19 @@
                 {%- endif -%}
                 {%- endif -%}
                 <!-- Business Value Assets -->
-                {%- if (page.customer_overview_url  and page.customer_overview_url != "") or (page.customer_one_pager_url and page.customer_one_pager_url != "") -%}
+                {%- if (page.customer_overview_url  and page.customer_overview_url != "") or (page.customer_deck_url and page.customer_deck_url != "") -%}
                 <h3 class="mt-4">Business Value Assets</h3>
                 {%- if page.customer_overview_url  and page.customer_overview_url != "" -%}
                 <div>
                     <a href="{{ page.customer_overview_url -}}" target="_blank" rel="noopener noreferrer">
-                        <i class="fa-brands fa-github fa-xs"></i> Solution Overview
+                        <i class="fa-solid fa-file-pdf fa-xs"></i> Solution Overview
                     </a>
                 </div>
                 {%- endif -%}
-                {%- if page.customer_one_pager_url  and page.customer_one_pager_url != "" -%}
+                {%- if page.customer_deck_url  and page.customer_deck_url != "" -%}
                 <div>
-                    <a href=" {{ page.customer_one_pager_url -}}" target="_blank" rel="noopener noreferrer">
-                        <i class="fa-solid fa-cloud fa-xs"></i> One-Pager
+                    <a href=" {{ page.customer_deck_url -}}" target="_blank" rel="noopener noreferrer">
+                        <i class="fa-solid fa-file-pdf fa-xs"></i> Solution Deck
                     </a>
                 </div>
                 {%- endif -%}
