@@ -15,6 +15,7 @@ hero_image: assets/images/Inventory_Management_Hero.webp
 tags: "\"Solution Accelerator\",\"Supply Chain\",\"Retail\",\"Manufacturing\""
 last_updated: "April 20, 2022 02:48:35 PM"
 related: "AIoT---Inventory-Lifecycle-Management.html"
+order: 2
 ---
 ## About this Solution Accelerator
 

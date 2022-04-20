@@ -11,6 +11,7 @@ short_text: Improve and standardize brand experience while empowering users to s
 hero_image: 
 description: Improve and standardize brand experience while empowering users to self-serve.
 tags: "\"Horizontal\", \"Azure Machine Learning\", \"Bot Services\", \"Cognitive Services (Translation)\", \"Solution Accelerator\""
+order: 1
 ---
 ​​## About this Solution Accelerator
 

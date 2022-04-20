@@ -14,6 +14,7 @@ short_text: "Drive outcomes related to building more agile factories, creating m
 hero_image: assets/images/AIOT_Predictive_Maintenance_Hero.webp
 tags: "\"Reference Architecture\",\"Process Automation\",\"Manufacturing\",\"Automotive\",\"Azure Container Registry\",\"Azure DevOps\",\"Azure IoT Hub\",\"Azure KeyVault\",\"Azure Machine Learning\",\"Azure SQL\",\"Azure Storage\",\"Cognitive Services\",\"Docker\",\"Power BI\",\"Python\""
 last_updated: "April 12, 2022 06:06:12 PM"
+order: 2
 ---
 ​​## About this Solution Accelerator
 

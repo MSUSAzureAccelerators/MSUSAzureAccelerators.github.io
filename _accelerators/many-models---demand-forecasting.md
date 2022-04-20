@@ -15,6 +15,7 @@ hero_image: assets/images/Many_Models_Hero.webp
 tags: "\"Solution Accelerator\",\"Supply Chain\",\"Manufacturing\",\"Retail\",\"FSI\",\"HLS\",\"Media and Entertainment\",\"Azure Machine Learning\",\"Power BI\""
 last_updated: "April 15, 2022 06:34:33 PM"
 related: ""
+order: 2
 ---
 ## About this Solution Accelerator
 

@@ -15,6 +15,7 @@ hero_image: assets/images/Data_Governance_Hero.webp
 tags: "\"Technology Accelerator\",\"Automotive\",\"EDU\",\"Energy\",\"FSI\",\"High Tech\",\"HLS\",\"Manufacturing\",\"Media and Entertainment\",\"Professional Services\",\"Retail\",\"SLG\",\"Horizontal\""
 last_updated: "April 20, 2022 02:46:06 PM"
 related: ""
+order: 2
 ---
 ## About this Solution Accelerator
 

@@ -11,6 +11,7 @@ short_text: Reduce sub optimal solutions from poor search results and unlocking 
 hero_image: 
 description: Datahub for corrections system for searching digital data "assets" locked away in pdf files for reducing sub optimal solutions from poor search results and unlocking the power of the assets.
 tags: "\"State and Local Government\",\"Solution Accelerator\""
+order: 2
 ---
 ​​## About this Solution Accelerator
 

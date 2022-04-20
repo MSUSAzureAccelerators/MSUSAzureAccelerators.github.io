@@ -15,6 +15,7 @@ hero_image: assets/images/Part_Comparator_Hero.webp
 tags: "\"Solution Accelerator\",\"Supply Chain\",\"Manufacturing\",\"Retail\",\"Synapse\",\"Azure Machine Learning\",\"Azure Kubernetes Services\",\"Azure Logic Apps,\",\"Power BI\""
 last_updated: "April 15, 2022 06:37:00 PM"
 related: "Medical-Imaging-with-Azure-Machine-Learning.html,Manufacturing-Vision---AMD64.html,AIoT---Automated-Quality-Inspection.html,AIoT---Inventory-Lifecycle-Management.html"
+order: 2
 ---
 ## About this Solution Accelerator
 

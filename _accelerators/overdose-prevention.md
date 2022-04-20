@@ -15,6 +15,7 @@ hero_image: assets/images/Overdose_Prevention_Hero.webp
 tags: "\"Solution Accelerator\",\"Healthcare\",\"HLS\",\"SLG\""
 last_updated: "April 15, 2022 06:37:00 PM"
 related: "ADX-Patient-Monitoring.html,Patient-Risk-Analyzer.html"
+order: 2
 ---
 ​​## About this Solution Accelerator
 

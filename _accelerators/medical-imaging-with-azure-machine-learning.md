@@ -15,6 +15,7 @@ hero_image: assets/images/med-imaging.webp
 tags: "\"Solution Accelerator\",\"Healthcare\",\"HLS\",\"Azure Machine Learning\""
 last_updated: "April 14, 2022 02:43:14 PM"
 related: "Manufacturing-Vision---AMD64.html,Part-Comparator.html"
+order: 2
 ---
 ## About this Solution Accelerator
 

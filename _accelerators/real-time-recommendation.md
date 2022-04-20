@@ -11,6 +11,7 @@ short_text: Make customer item recommendations in real-time based on the custome
 hero_image: 
 description: Make customer item recommendations in real-time based on the customer's activity on website.
 tags: "\"Retail & Consumer Goods\", \"Azure Data Lake\", \"Azure Synapse Analytics\", \"Power BI\", \"Azure Machine Learning\", \"Azure Kubernetes\", \"Azure Event Hub\", \"Solution Accelerator\""
+order: 2
 ---
 ​​## About this Solution Accelerator
 

@@ -15,6 +15,7 @@ hero_image: assets/images/Virtual_Assistant_Hero.webp
 tags: "\"Reusable Technology Accelerator\",\"Manufacturing\",\"Retail\",\"FSI\",\"HLS\",\"Automotive\",\"EDU\",\"Energy\",\"High Tech\",\"Media and Entertainment\",\"Professional Services\",\"SLG\",\"Horizontal\",\"Bot Framework\",\"Visual Studio Code\",\"Docker\""
 last_updated: "April 15, 2022 06:47:25 PM"
 related: ""
+order: 2
 ---
 ​​## About this Solution Accelerator
 

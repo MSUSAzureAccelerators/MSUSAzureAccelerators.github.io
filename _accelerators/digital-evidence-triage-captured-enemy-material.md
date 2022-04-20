@@ -11,6 +11,7 @@ short_text: Leverage data in multiple digital formats and apply to enrich, filte
 hero_image: 
 description: Leverage data in multiple digital formats and apply to enrich, filter, and sort the raw data into context-based clusters for focused investigation. 
 tags: "\"State and Local Government\", \"Azure AI\", \"Azure Machine Learning\", \"Cognitive Services\", \"Data Storage\", \"Power Apps\", \"Solution Accelerator\""
+order: 2
 ---
 ​​## About this Solution Accelerator
 

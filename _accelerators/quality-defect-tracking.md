@@ -11,6 +11,7 @@ short_text: Detect product quality issues by typically using cognitive services 
 hero_image: 
 description: Detect product quality issues by typically using cognitive services over image data.
 tags: "\"Supply Chain\", \"Manufacturing\", \"AI\", \"Azure Machine Learning\", \"Solution Accelerator\""
+order: 2
 ---
 ​​## About this Solution Accelerator
 

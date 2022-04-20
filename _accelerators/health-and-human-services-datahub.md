@@ -15,6 +15,7 @@ hero_image: assets/images/HHS_Datahub_Hero.webp
 tags: "\"Solution Accelerator\",\"Healthcare\",\"HLS\",\"SLG\",\"Synapse\""
 last_updated: "April 14, 2022 02:25:16 PM"
 related: "Integrated-Datahub-for-Mass-Transit.html,ADX-Patient-Monitoring.html,Healthcare-Blockchain.html,Medical-Imaging-with-Azure-Machine-Learning.html,Overdose-Prevention.html,Patient-Risk-Analyzer.html,COVID-19-Vaccine-Proof-and-Test-Verification.html"
+order: 2
 ---
 ## About this Solution Accelerator
 

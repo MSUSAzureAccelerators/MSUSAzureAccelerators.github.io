@@ -15,6 +15,7 @@ hero_image: assets/images/Manufacturing_Vision_Hero.webp
 tags: "\"Solution Accelerator\",\"Process Automation\",\"Manufacturing\",\"Docker\",\"Python\""
 last_updated: "April 15, 2022 06:32:58 PM"
 related: "AIoT---Automated-Quality-Inspection.html,AIoT---Factory-and-Worker-Safety.html,AIoT---Inventory-Lifecycle-Management.html,AIoT---Predictive-Maintenance.html"
+order: 2
 ---
 ​​## About this Solution Accelerator
 

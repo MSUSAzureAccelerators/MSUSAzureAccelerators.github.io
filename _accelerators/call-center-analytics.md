@@ -11,6 +11,7 @@ short_text: Information coming soon
 hero_image: 
 description: Information coming soon
 tags: "\"Personalization\", \"Horizontal\",\"Solution Accelerator\""
+order: 2
 ---
 ​​## About this Solution Accelerator
 

@@ -14,6 +14,7 @@ short_text: "Move the entire live stream process offsite and into the cloud"
 hero_image: ./assets/images/Live_Events_Hero.webp
 tags: "\"Solution Accelerator\",\"Campaign Management\",\"Media and Entertainment\""
 last_updated: "March 31, 2022 07:40:01 PM"
+order: 2
 ---
 ## About this Solution Accelerator
 
@@ -37,7 +38,7 @@ The Digital Experience Solution brings together proven technology from partners 
 * **Reduce your carbon footprint** with remote production teams and Microsoft cloud sustainability initiatives.​
 * **Protect content and data** with advanced security and privacy features from Microsoft.​
 * **Reduce operating costs** by enabling producers to work remotely. 
-* **Create monetization opportunities** and build your customer funnel with personalized ad experiences for users. 
+* **Create monetization opportunities** and build your customer funnel with personalized ad experiences for users.
 * **Gain valuable, timely audience** insights to increase customer engagement and retention.​
 
 ![Digital Experience Solution Accelerator Architecture](.././assets/images/Digital%20Experience%20Solution%20Architecture.webp)

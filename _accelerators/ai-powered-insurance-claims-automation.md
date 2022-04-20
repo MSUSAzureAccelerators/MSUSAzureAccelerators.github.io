@@ -15,6 +15,7 @@ hero_image: assets/images/AI_Powered_Insurance_Hero.webp
 tags: "\"Solution Accelerator\",\"Financial\",\"Process Automation\",\"FSI\",\"Cognitive Services\",\"Cosmos DB\",\"Bot Framework\",\"Azure Storage\",\"Form Recognizer\",\"Luis\""
 last_updated: "April 14, 2022 02:08:46 PM"
 related: "Intelligent-Document-Processing.html,Knowledge-Mining.html,Knowledge-Mining---AML.html"
+order: 2
 ---
 ## About this Solution Accelerator
 

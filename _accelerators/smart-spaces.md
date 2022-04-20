@@ -15,6 +15,7 @@ hero_image: assets/images/Smart_Spaces_Hero2.webp
 tags: "\"Solution Accelerator\",\"Sustainability\",\"Manufacturing\",\"FSI\",\"HLS\",\"SLG\",\"EDU\",\"Automotive\",\"Energy\",\"High Tech\",\"Media and Entertainment\",\"Professional Services\",\"Retail\",\"Horizontal\""
 last_updated: "April 15, 2022 06:43:38 PM"
 related: "Carbon-Tracing-Basic-Flare.html,Carbon-Tracing-Wastewater.html,ADX-IoT-Analytics.html,AIoT---Predictive-Maintenance.html,AIoT---Inventory-Lifecycle-Management.html"
+order: 2
 ---
 ## About this Solution Accelerator
 

@@ -15,6 +15,7 @@ hero_image: assets/images/Workplace_Intelligence_Hero.webp
 tags: "\"Solution Accelerator\",\"Workplace Intelligence\",\"High Tech\",\"Automotive\",\"EDU\",\"Energy\",\"FSI\",\"HLS\",\"Manufacturing\",\"Media and Entertainment\",\"Professional Services\",\"Retail\",\"SLG\",\"Horizontal\",\"Azure DevOps\",\"Workplace Analytics\",\"Viva\",\"Synapse\",\"Power BI\""
 last_updated: "April 15, 2022 06:47:23 PM"
 related: "Workplace-Intelligence-for-Human-Resources.html"
+order: 2
 ---
 ## About this Solution Accelerator
 

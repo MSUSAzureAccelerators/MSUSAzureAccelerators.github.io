@@ -15,6 +15,7 @@ hero_image: assets/images/Purview_ML_Lineage_Hero.webp
 tags: "\"Technology Accelerator\",\"Process Automation\",\"Horizontal\",\"Automotive\",\"EDU\",\"Energy\",\"FSI\",\"High Tech\",\"HLS\",\"Manufacturing\",\"Media and Entertainment\",\"Retail\",\"Professional Services\",\"SLG\",\"Purview\",\"Azure Machine Learning\",\"Azure Data Lake Storage\",\"Synapse Analytics\",\"Power BI\""
 last_updated: "April 18, 2022 03:15:03 PM"
 related: "Azure-Purview-Custom-Connector.html,Azure-Purview-Custom-Types-Tool.html,Azure-Purview-Demo-Generator.html,Azure-Purview-Workshop.html"
+order: 2
 ---
 ## About this Solution Accelerator
 

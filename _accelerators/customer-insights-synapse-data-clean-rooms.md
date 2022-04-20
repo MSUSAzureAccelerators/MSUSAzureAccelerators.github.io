@@ -11,6 +11,7 @@ short_text: Data cleaning rooms in cookie less world.
 hero_image: 
 description: The interface between data enrichment providers, Dynamics CI as store for Customer 360, Synapse as the analytics platform for Customer and other domain datasets. The role Synapse analytics play in Data cleaning rooms in cookie less world. 
 tags: "\"Media and Entertainment\",\"Solution Accelerator\""
+order: 2
 ---
 ​​## About this Solution Accelerator
 

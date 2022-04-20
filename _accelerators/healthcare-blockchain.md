@@ -15,6 +15,7 @@ hero_image: assets/images/Healthcare_Blockchain_Hero.webp
 tags: "\"Solution Accelerator\",\"Healthcare\",\"HLS\""
 last_updated: "April 14, 2022 02:25:15 PM"
 related: "ADX-Patient-Monitoring.html,COVID-19-Vaccine-Proof-and-Test-Verification.html,Health-and-Human-Services-Datahub.html,Medical-Imaging-with-Azure-Machine-Learning.html,Overdose-Prevention.html,Patient-Risk-Analyzer.html"
+order: 2
 ---
 ## About this Solution Accelerator
 

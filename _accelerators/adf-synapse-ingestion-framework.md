@@ -15,7 +15,8 @@ hero_image: assets/images/ADF_Ingestion_Framework_Hero.webp
 tags: "\"Solution Accelerator\",\"Process Automation\",\"Horizontal\",\"Automotive\",\"EDU\",\"Energy\",\"FSI\",\"High Tech\",\"HLS\",\"Manufacturing\",\"Media and Entertainment\",\"Professional Services\",\"Retail\",\"SLG\",\"Synapse\",\"Azure SQL\",\"Azure Data Lake Storage\",\"Power BI\",\"Azure Data Factory\""
 last_updated: "April 20, 2022 03:08:10 PM"
 related: ""
+order: 2
 ---
 ## About this Solution Accelerator
 
-Accelerate ingestion of data into Synapse with standard architecture pattern which can speed up migration with ease of development and also use the same for production deployments. 
+Accelerate ingestion of data into Synapse with standard architecture pattern which can speed up migration with ease of development and also use the same for production deployments.

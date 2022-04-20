@@ -11,6 +11,7 @@ short_text: Meet customer demand across multiple production lines.
 hero_image: 
 description: Improve yields and overall factory efficiency as well as managing team/resource capacity according to customer demand by balancing the rate needed to complete a product to meet customer demand across multiple production lines. 
 tags: "\"Manufacturing\", \"AI\", \"Azure Digital Twins\", \"Power Platform\", \"Solution Accelerator\""
+order: 2
 ---
 ​​## About this Solution Accelerator
 

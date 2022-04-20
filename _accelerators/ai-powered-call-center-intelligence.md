@@ -15,6 +15,7 @@ hero_image: assets/images/AI_Call_Center_Hero.webp
 tags: "\"Solution Accelerator\",\"Personalization\",\"Process Automation\",\"FSI\",\"Cognitive Services\",\"Azure Machine Learning\",\"Power BI\",\"Azure Speech Services\",\"Azure SQL\",\"Azure Storage\""
 last_updated: "April 14, 2022 02:06:58 PM"
 related: "AIoT---Automated-Call-Center.html,Conversational-AI-for-Retail.html,Conversational-AI-for-State-and-Local-Government.html"
+order: 2
 ---
 ## About this Solution Accelerator
 

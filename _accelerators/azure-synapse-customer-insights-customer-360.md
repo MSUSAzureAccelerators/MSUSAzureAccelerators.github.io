@@ -15,6 +15,7 @@ hero_image: assets/images/Customer_Insights_Hero.webp
 tags: "\"Technology Accelerator\",\"Professional Services\",\"Retail\",\"Other\",\"FSI\",\"Automotive\",\"EDU\",\"Energy\",\"High Tech\",\"HLS\",\"Manufacturing\",\"Media and Entertainment\",\"Professional Services\",\"SLG\",\"Horizontal\",\"Customer Insights\",\"Azure Data Lake Storage\",\"Synapse\",\"Azure Machine Learning\",\"Power BI\""
 last_updated: "April 18, 2022 03:14:15 PM"
 related: ""
+order: 2
 ---
 ## About this Solution Accelerator
 

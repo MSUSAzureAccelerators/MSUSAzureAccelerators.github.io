@@ -1,17 +1,24 @@
 ---
-short_name: Modernized Contact Centers
-name: Modernized Contact Centers Solution Accelerator
-title: Modernized Contact Centers Solution Accelerator
-accelerator_type: Solution Accelerator
+short_name: "Modernized Contact Centers"
+name: "Modernized Contact Centers"
+title: "Modernized Contact Centers"
+accelerator_type: "Solution Accelerator Family"
 classification: "Personalization"
+solution_area: "Data & AI"
+status: "Submitted"
 industries: "Horizontal"
-technology_stack: "Azure Machine Learning, Bot Services, Cognitive Search, Cognitive Services"
-github_url: na
-short_text: Azure AI reduces customer's contact center costs and improves user experience.
-hero_image: 
-description: Azure AI reduces customer's contact center costs and improves user experience.
-tags: "\"Personalization\", \"Horizontal\", \"Azure Machine Learning\", \"Bot Services\", \"Cognitive Search\", \"Cognitive Services\", \"Solution Accelerator\""
+technology_stack: ""
+github_url: 
+demo_url: 
+customer_overview_url: 
+customer_one_pager_url: 
+short_text: "Reduce contact center costs and improve user experience"
+hero_image: assets/images/Modernized_Contact_Center_Hero.webp
+tags: "\"Solution Accelerator Family\",\"Personalization\",\"Horizontal\",\"Data & AI\""
+last_updated: "April 20, 2022 04:26:31 PM"
+related: ""
+order: 1
 ---
-​​## About this Solution Accelerator
+## About this Solution Accelerator
 
-More information coming soon.
+Reduce contact center costs and improve user experience.

@@ -15,6 +15,7 @@ hero_image: assets/images/Containerized_Store_Hero.webp
 tags: "\"Solution Accelerator\",\"Retail\",\"Azure Custom Vision\",\"VoTT\",\"Video Studio\""
 last_updated: "April 15, 2022 06:23:32 PM"
 related: ""
+order: 2
 ---
 ## About this Solution Accelerator
 

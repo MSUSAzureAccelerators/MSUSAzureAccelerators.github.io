@@ -15,6 +15,7 @@ hero_image: assets/images/Purview_Custom_Types_Hero.svg
 tags: "\"Technology Accelerator\",\"Process Automation\",\"Horizontal\",\"Automotive\",\"EDU\",\"Energy\",\"FSI\",\"High Tech\",\"HLS\",\"Manufacturing\",\"Media and Entertainment\",\"Professional Services\",\"Retail\",\"SLG\",\"Purview\",\"node.js\",\"Apache Atlas\""
 last_updated: "April 15, 2022 06:18:41 PM"
 related: "Azure-Purview-Custom-Connector.html,Azure-Purview-Demo-Generator.html,Azure-Purview-ML-Lineage.html,Azure-Purview-Workshop.html"
+order: 2
 ---
 ## About this Solution Accelerator
 

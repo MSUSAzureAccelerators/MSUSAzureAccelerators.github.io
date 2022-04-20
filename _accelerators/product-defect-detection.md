@@ -11,6 +11,7 @@ short_text: Reduce rework, waste, risk exposure and product recalls.
 hero_image: 
 description: Reduce quality defects through detecting and monitoring the production line using video analytics which reduces rework, waste, risk exposure and product recalls.
 tags: "\"Manufacturing\",\"Solution Accelerator\""
+order: 2
 ---
 ​​## About this Solution Accelerator
 

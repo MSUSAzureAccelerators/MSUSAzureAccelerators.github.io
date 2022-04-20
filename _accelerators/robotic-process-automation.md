@@ -11,6 +11,7 @@ short_text: Completely automate the data extractive and entry from PDF form by u
 hero_image: 
 description: Completely automate the data extractive and entry from PDF form by using Azure Cognitive Services. Organizations have multiple forms in various formats that go through a manual data entry process to extract all the relevant information before the data can be used by software applications which adds time and opex in the process. 
 tags: "\"Horizontal\",\"Solution Accelerator\",\"Process Automation\",\"Cognitive Services\""
+order: 2
 ---
 ​​## About this Solution Accelerator
 

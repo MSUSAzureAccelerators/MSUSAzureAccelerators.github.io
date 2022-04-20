@@ -15,6 +15,7 @@ hero_image: assets/images/Knowledge_Mining_Hero.webp
 tags: "\"Technology Accelerator\",\"Financial\",\"Process Automation\",\"Manufacturing\",\"FSI\",\"Automotive\",\"EDU\",\"Energy\",\"High Tech\",\"HLS\",\"Media and Entertainment\",\"Professional Services\",\"Retail\",\"SLG\",\"Horizontal\",\"Cognitive Search\",\"Azure Storage\",\"Power BI\""
 last_updated: "April 15, 2022 06:33:02 PM"
 related: "Azure-Cognitive-Search-Hands-On-Lab.html,AI-Powered-Insurance-Claims-Automation.html,Intelligent-Document-Processing.html"
+order: 2
 ---
 ## About this Solution Accelerator
 

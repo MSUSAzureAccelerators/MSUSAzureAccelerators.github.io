@@ -15,6 +15,7 @@ hero_image: assets/images/Conversational_AI_Hero.webp
 tags: "\"Solution Accelerator\",\"Personalization\",\"Process Automation\",\"Retail\",\"Azure Machine Learning\",\"Bot Framework\",\"Cognitive Services\""
 last_updated: "April 14, 2022 02:15:13 PM"
 related: "Conversational-AI-for-State-and-Local-Government.html,AI-Powered-Call-Center-Intelligence.html,AIoT---Automated-Call-Center.html"
+order: 2
 ---
 ## About this Solution Accelerator
 

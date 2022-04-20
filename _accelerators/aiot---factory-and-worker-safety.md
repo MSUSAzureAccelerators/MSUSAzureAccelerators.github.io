@@ -15,6 +15,7 @@ hero_image: assets/images/AIOT_Worker_Safety_Hero.webp
 tags: "\"Solution Accelerator\",\"Process Automation\",\"Manufacturing\",\"Automotive\",\"Azure Container Registry\",\"Azure DevOps\",\"Azure IoT Hub\",\"Azure KeyVault\",\"Azure Machine Learning\",\"Azure SQL\",\"Azure Storage\",\"Cognitive Services\",\"Docker\",\"Power BI\",\"Python\""
 last_updated: "April 14, 2022 02:08:48 PM"
 related: "AIoT---Automated-Quality-Inspection.html,AIoT---Inventory-Lifecycle-Management.html,AIoT---Predictive-Maintenance.html,Manufacturing-Vision---AMD64.html"
+order: 2
 ---
 ​​## About this Solution Accelerator
 

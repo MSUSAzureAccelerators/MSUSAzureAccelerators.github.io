@@ -15,6 +15,7 @@ hero_image: assets/images/Retail_Recommender_Hero.webp
 tags: "\"Solution Accelerator\",\"Personalization\",\"Retail\",\"FSI\",\"HLS\",\"Media and Entertainment\",\"Synapse\",\"Azure Data Lake Storage\",\"Azure Machine Learning\",\"Azure Kubernetes Services\",\"Cosmos DB\",\"Power BI\""
 last_updated: "April 20, 2022 01:23:46 PM"
 related: "Azure-Intelligent-Recommendations.html,Content-Recommendations.html,Recommender-Systems.html"
+order: 2
 ---
 ## About this Solution Accelerator
 

@@ -15,6 +15,7 @@ hero_image: assets/images/AIOT_Inventory_Lifecycle_Management_Hero.webp
 tags: "\"Reference Architecture\",\"Process Automation\",\"Supply Chain\",\"Manufacturing\",\"Automotive\",\"Azure Container Registry\",\"Azure DevOps\",\"Azure IoT Hub\",\"Azure Machine Learning\",\"Azure SQL\",\"Azure Storage\",\"Cognitive Services\",\"Docker\",\"Power BI\",\"Python\""
 last_updated: "April 14, 2022 02:09:18 PM"
 related: "AIoT---Automated-Quality-Inspection.html,AIoT---Factory-and-Worker-Safety.html,AIoT---Predictive-Maintenance.html,Inventory-Management.html"
+order: 2
 ---
 ​​## About this Solution Accelerator
 

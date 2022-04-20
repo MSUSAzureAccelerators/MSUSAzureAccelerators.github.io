@@ -15,6 +15,7 @@ hero_image: assets/images/Carbon_Tracing_BF_Hero.webp
 tags: "\"Solution Accelerator\",\"Sustainability\",\"Manufacturing\",\"Retail\",\"Other\",\"FSI\",\"HLS\",\"Automotive\",\"EDU\",\"Energy\",\"High Tech\",\"Media and Entertainment\",\"Professional Services\",\"SLG\",\"Horizontal\",\"Azure Storage\",\"Synapse\",\"Azure Logic Apps,\",\"Power BI\",\"Azure IoT Hub\""
 last_updated: "April 15, 2022 06:22:13 PM"
 related: "Carbon-Tracing-Wastewater.html,Smart-Spaces.html"
+order: 2
 ---
 ## About this Solution Accelerator
 

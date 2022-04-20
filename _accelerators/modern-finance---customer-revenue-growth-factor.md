@@ -15,6 +15,7 @@ hero_image: assets/images/Revenue_Growth_Hero.webp
 tags: "\"Solution Accelerator\",\"Financial\",\"Campaign Management\",\"Manufacturing\",\"Retail\",\"FSI\",\"HLS\",\"Media and Entertainment\",\"Synapse\",\"Azure Data Lake Storage\",\"Azure Machine Learning\",\"Azure Container Images\",\"Power BI\""
 last_updated: "April 15, 2022 06:35:23 PM"
 related: "Modern-Finance.html"
+order: 2
 ---
 ## About this Solution Accelerator
 

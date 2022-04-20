@@ -15,6 +15,7 @@ hero_image: assets/images/Tradable_Digital_Assets_Hero.webp
 tags: "\"Technology Accelerator\",\"Manufacturing\",\"Retail\",\"FSI\",\"HLS\",\"Automotive\",\"EDU\",\"Energy\",\"High Tech\",\"Media and Entertainment\",\"Professional Services\",\"SLG\",\"Horizontal\",\"Azure Blockchain\",\"Cosmos DB\",\"Azure Kubernetes Services\",\"Azure KeyVault\",\"Azure Container Registry\""
 last_updated: "April 15, 2022 06:44:17 PM"
 related: "Healthcare-Blockchain.html,Travel-Marketplace.html"
+order: 2
 ---
 ## About this Solution Accelerator
 

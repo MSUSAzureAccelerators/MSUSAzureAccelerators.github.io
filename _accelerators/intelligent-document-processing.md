@@ -15,6 +15,7 @@ hero_image: assets/images/Intelligent_Document_Processing_Hero.webp
 tags: "\"Solution Accelerator\",\"Process Automation\",\"Manufacturing\",\"Retail\",\"FSI\",\"HLS\",\"Cognitive Services\",\"Bot Framework\",\"Power BI\",\"Form Recognizer\",\"Cosmos DB\",\"Luis\""
 last_updated: "April 14, 2022 02:30:46 PM"
 related: "AI-Powered-Insurance-Claims-Automation.html,Customer-Complaint-Management.html,Knowledge-Mining.html,Risk-Classification-and-Loan-Modeling.html,Knowledge-Mining---AML.html"
+order: 2
 ---
 ## About this Solution Accelerator
 

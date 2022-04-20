@@ -15,6 +15,7 @@ hero_image: assets/images/Cognitive_Search_HOL_Hero.webp
 tags: "\"Hands-On-Lab\",\"Process Automation\",\"Horizontal\",\"Cognitive Search\",\"Power BI\",\"Azure App Service\",\"Azure Functions\""
 last_updated: "April 18, 2022 03:11:59 PM"
 related: "Knowledge-Mining.html,Knowledge-Mining---AML.html"
+order: 2
 ---
 ## About this Solution Accelerator
 

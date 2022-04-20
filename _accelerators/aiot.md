@@ -11,6 +11,7 @@ short_text: Drive outcomes related to building more agile factories, creating mo
 hero_image: 
 description: Manufacturing focused scenario that leverages AI and IOT devices to drive outcomes related to building more agile factories, creating more resilient supply chains, and transforming their workforces. 
 tags: "\"Manufacturing\",\"Supply Chain\",\"Solution Accelerator\""
+order: 1
 ---
 ​​## About this Solution Accelerator
 

@@ -15,6 +15,7 @@ hero_image: assets/images/Commodity_Price_Prediction_Hero.webp
 tags: "\"Solution Accelerator\",\"Supply Chain\",\"Manufacturing\",\"Retail\",\"FSI\",\"Media and Entertainment\",\"HLS\",\"Synapse\",\"Azure Machine Learning\",\"Azure Kubernetes Services\",\"Azure Logic Apps,\",\"Power BI\",\"Cognitive Services\""
 last_updated: "April 15, 2022 06:23:35 PM"
 related: ""
+order: 2
 ---
 ## About this Solution Accelerator
 

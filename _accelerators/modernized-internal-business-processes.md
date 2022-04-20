@@ -11,6 +11,7 @@ short_text: Extract data from structured and unstructured documents to streamlin
 hero_image: 
 description: Extract data from structured and unstructured documents to streamline processes and leverages workflow automation.
 tags: "\"Horizontal\", \"Azure Machine Learning\", \"Bot Services\", \"Cognitive Search\", \"Cognitive Services\", \"Solution Accelerator\""
+order: 1
 ---
 ​​## About this Solution Accelerator
 

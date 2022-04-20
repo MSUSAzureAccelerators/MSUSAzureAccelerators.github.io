@@ -14,6 +14,7 @@ short_text: "Automate processes to ensure compliance with SBA guidelines"
 hero_image: ./assets/images/Risk_Loan_Hero.webp
 tags: "\"Solution Accelerator\",\"Financial\",\"FSI\",\"Azure Data Lake Storage\",\"Synapse Analytics\""
 last_updated: "March 31, 2022 07:41:55 PM"
+order: 2
 ---
 ## About the Solution Accelerator
 

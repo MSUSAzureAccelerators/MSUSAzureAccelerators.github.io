@@ -15,6 +15,7 @@ hero_image: assets/images/Customer_Complaints_Hero.webp
 tags: "\"Solution Accelerator\",\"Personalization\",\"Retail\",\"FSI\",\"HLS\",\"Manufacturing\",\"Azure Kubernetes Services\",\"Cognitive Search\",\"Synapse\",\"Azure Machine Learning\",\"PowerApps\""
 last_updated: "April 15, 2022 06:27:34 PM"
 related: "AI-Powered-Insurance-Claims-Automation.html,Intelligent-Document-Processing.html,Knowledge-Mining.html,Knowledge-Mining---AML.html,Azure-Cognitive-Search-Hands-On-Lab.html"
+order: 2
 ---
 ## About this Solution Accelerator
 

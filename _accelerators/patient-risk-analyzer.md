@@ -15,6 +15,7 @@ hero_image: assets/images/Patient_Risk_Analyzer_Hero.webp
 tags: "\"Solution Accelerator\",\"Healthcare\",\"HLS\",\"Azure Machine Learning\",\"Cognitive Services\",\"Text-To-Speech\",\"Form Recognizer\",\"PVA\",\"PowerApps\",\"Azure Kubernetes Services\",\"Synapse Analytics\""
 last_updated: "April 15, 2022 06:38:20 PM"
 related: "ADX-Patient-Monitoring.html,Overdose-Prevention.html"
+order: 2
 ---
 ## About this Solution Accelerator
 

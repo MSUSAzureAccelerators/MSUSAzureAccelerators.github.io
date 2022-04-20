@@ -15,6 +15,7 @@ hero_image: assets/images/Fraud_Compliance_Hero.webp
 tags: "\"Solution Accelerator\",\"Financial\",\"FSI\",\"Python\""
 last_updated: "April 15, 2022 06:36:14 PM"
 related: ""
+order: 2
 ---
 ​​## About this Solution Accelerator
 

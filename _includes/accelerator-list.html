@@ -22,6 +22,8 @@
                 </div>
                 <h2 class="mb-1 mt-1 text-center">Accelerator Type</h2>
                 <div class="filter-links text-center" data-inview-showup="showup-translate-up">
+                    <a aria-label="Solution Accelerator Family" class="filter-link" href="#"
+                        data-filter='["SolutionAcceleratorFamily"]'><i class="fa-solid fa-people-group"></i> Accelerator Family</a>
                     <a aria-label="Solution Accelerator" class="filter-link" href="#"
                         data-filter='["SolutionAccelerator"]'><i class="fa-solid fa-gauge"></i> Solution
                         Accelerator</a>
@@ -105,7 +107,8 @@
                         type="search" id="filters-search-input" />
                 </div>
                 <div class="flex flex-wrap shuffle-items" role="contentinfo">
-                    {%- for accelerator in site.accelerators -%}
+                    {% assign sorted = site.accelerators | sort: 'order' %}
+                    {%- for accelerator in sorted -%}
                     {%- if accelerator.hero_image and accelerator.hero_image != "na" and accelerator.hero_image != "" -%}
                     <div class="shuffle-item m-2 max-w-sm bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700"
                         data-groups='[{{ accelerator.tags -}}]'>

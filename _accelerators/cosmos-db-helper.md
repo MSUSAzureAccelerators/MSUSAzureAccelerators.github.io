@@ -15,6 +15,7 @@ hero_image: assets/images/Cosmos_DB_Hero.webp
 tags: "\"Technology Accelerator\",\"Manufacturing\",\"Retail\",\"Other\",\"FSI\",\"HLS\",\"Automotive\",\"EDU\",\"Energy\",\"High Tech\",\"Media and Entertainment\",\"Professional Services\",\"SLG\",\"Horizontal\",\"Cosmos DB\",\"Mongo DB,\",\"SQL API\",\"Visual Studio\""
 last_updated: "April 18, 2022 03:12:01 PM"
 related: ""
+order: 2
 ---
 ## About this Solution Accelerator
 

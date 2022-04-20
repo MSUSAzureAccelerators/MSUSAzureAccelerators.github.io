@@ -11,6 +11,7 @@ short_text: Targeted, proactive approach in driving additional consumption.
 hero_image: 
 description: Quickly deploy a Synapse POC environment in their customer tenant that comes pre-populated. Provide quick demonstration of the capabilities of the service in a cost-effective way through a targeted, proactive approach in driving additional consumption.
 tags: "\"Horizontal\",\"Solution Accelerator\""
+order: 2
 ---
 ​​## About this Solution Accelerator
 

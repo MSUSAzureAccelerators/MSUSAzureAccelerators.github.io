@@ -11,6 +11,7 @@ short_text: Replicate multiple tables from across multiple sources in a performa
 hero_image: 
 description: Stats database that can handle replicating multiple tables from across multiple sources in a performant manner, regardless of where they are hosting their copies. 
 tags: "\"Tech Plug-Ins\", \"Horizontal\", \"SQL MI\", \"Technology Accelerator\""
+order: 2
 ---
 ​​## About this Solution Accelerator
 

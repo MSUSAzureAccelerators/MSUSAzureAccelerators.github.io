@@ -15,6 +15,7 @@ hero_image: assets/images/AIOT_Automated_Quality_Inspection_Hero.webp
 tags: "\"Solution Accelerator\",\"Process Automation\",\"Manufacturing\",\"Automotive\",\"Azure Container Registry\",\"Azure DevOps\",\"Azure IoT Hub\",\"Azure KeyVault\",\"Azure Storage\",\"Azure SQL\",\"Cognitive Services\",\"Power BI\",\"Python\",\"Docker\",\"Azure Machine Learning\""
 last_updated: "April 14, 2022 02:08:44 PM"
 related: "AIoT---Factory-and-Worker-Safety.html,AIoT---Inventory-Lifecycle-Management.html,AIoT---Predictive-Maintenance.html,Manufacturing-Vision---AMD64.html"
+order: 2
 ---
 ​​## About this Solution Accelerator
 

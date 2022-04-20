@@ -15,6 +15,7 @@ hero_image: assets/images/Workplace_Intelligence_Hero.webp
 tags: "\"Solution Accelerator\",\"Workplace Intelligence\",\"Manufacturing\",\"Retail\",\"FSI\",\"HLS\",\"Automotive\",\"EDU\",\"Energy\",\"High Tech\",\"Media and Entertainment\",\"Professional Services\",\"SLG\",\"Horizontal\",\"Workplace Analytics\",\"Viva\",\"Azure DevOps\",\"Synapse\",\"Power BI\""
 last_updated: "April 15, 2022 06:47:25 PM"
 related: "Workplace-Intelligence-for-Product-Development-Teams.html"
+order: 2
 ---
 ## About this Solution Accelerator
 

@@ -15,6 +15,7 @@ hero_image: assets/images/Digital_Documentation_Hero.webp
 tags: "\"Solution Accelerator\",\"Transportation\",\"Manufacturing\",\"Retail\",\"HLS\",\"Azure Blockchain\",\"Cosmos DB\",\"Azure Kubernetes Services\",\"Azure Container Registry\""
 last_updated: "April 15, 2022 06:28:13 PM"
 related: ""
+order: 2
 ---
 ​​## About this Solution Accelerator
 

@@ -11,6 +11,7 @@ short_text: Operational visibility into production processes and assets.
 hero_image: 
 description: Operational visibility into production processes and assets.
 tags: "\"Manufacturing\",\"Solution Accelerator\""
+order: 2
 ---
 ​​## About this Solution Accelerator
 

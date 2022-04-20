@@ -11,6 +11,7 @@ short_text: Assist urban foresters and stakeholders in reducing urban tree morta
 hero_image: 
 description: Aim to assist urban foresters and stakeholders in reducing urban tree mortality with prototype software that would link a network of soil moisture sensors and provide detailed information to improve urban forestry outcomes. Scientific literature, as well as certified arborists and departmental executives at the City of San Jose' were consulted and helped inform design.
 tags: "\"Sustainability\", \"State and Local Government\", \"Azure loT Hub\", \"Azure Cloud\", \"Azure Maps\", \"Solution Accelerator\""
+order: 2
 ---
 ​​## About this Solution Accelerator
 
