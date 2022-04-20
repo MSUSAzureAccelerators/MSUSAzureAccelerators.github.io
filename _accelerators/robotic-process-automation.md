@@ -1,18 +1,24 @@
 ---
-short_name: Robotic Process Automation
-name: Robotic Process Automation Solution Accelerator
-title: Robotic Process Automation Solution Accelerator
-accelerator_type: Solution Accelerator
+short_name: "Robotic Process Automation"
+name: "Robotic Process Automation"
+title: "Robotic Process Automation"
+accelerator_type: "Solution Accelerator"
 classification: "Process Automation"
-industries: "Horizontal"
-technology_stack: "Cognitive Services"
-github_url: na
-short_text: Completely automate the data extractive and entry from PDF form by using Azure Cognitive Services.
-hero_image: 
-description: Completely automate the data extractive and entry from PDF form by using Azure Cognitive Services. Organizations have multiple forms in various formats that go through a manual data entry process to extract all the relevant information before the data can be used by software applications which adds time and opex in the process. 
-tags: "\"Horizontal\",\"Solution Accelerator\",\"Process Automation\",\"Cognitive Services\""
+solution_area: "BizApps"
+status: "Submitted"
+industries: "FSI,Horizontal,Automotive,EDU,Energy,High Tech,HLS,Manufacturing,Media and Entertainment,Professional Services,Retail,SLG"
+technology_stack: "Azure Functions,Azure Storage,Azure Logic Apps,Form Recognizer,Cognitive Services,Cognitive Search,Cosmos DB,Azure App Service"
+github_url: https://github.com/MSUSSolutionAccelerators/Robotic-Process-Automation-Solution-Accelerator
+demo_url: 
+customer_overview_url: 
+customer_deck_url: 
+short_text: "Completely automate the data extraction and entry from pdf forms"
+hero_image: assets/images/RPA_Hero.webp
+tags: "\"Solution Accelerator\",\"Process Automation\",\"FSI\",\"Horizontal\",\"Automotive\",\"EDU\",\"Energy\",\"High Tech\",\"HLS\",\"Manufacturing\",\"Media and Entertainment\",\"Professional Services\",\"Retail\",\"SLG\",\"Azure Functions\",\"Azure Storage\",\"Azure Logic Apps\",\"Form Recognizer\",\"Cognitive Services\",\"Cognitive Search\",\"Cosmos DB\",\"Azure App Service\",\"BizApps\""
+last_updated: "April 20, 2022 07:22:42 PM"
+related: "Intelligent-Document-Processing.html"
 order: 2
 ---
-​​## About this Solution Accelerator
+## About this Solution Accelerator
 
-More information coming soon.
+Many organizations process different format of forms in various format. These forms go through a manual data entry process to extract all the relevant information before the data can be used by software applications. The manual processing adds time and opex in the process. The solution described here demonstrates how organizations can use Azure cognitive services to completely automate the data extraction and entry from pdf forms. The solution highlights the usage of the Form Recognizer and Azure Cognitive Search cognitive services. The pattern and template are data agnostic i.e. they can be easily customized to work on a custom set of forms as required by a POC, MVP or a demo. The demo also scales well through different kinds of forms and supports forms with multiple pages.
