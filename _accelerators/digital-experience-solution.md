@@ -37,7 +37,7 @@ The Digital Experience Solution brings together proven technology from partners 
 * **Simplify operations** by eliminating the need to coordinate with multiple vendors.​
 * **Reduce your carbon footprint** with remote production teams and Microsoft cloud sustainability initiatives.​
 * **Protect content and data** with advanced security and privacy features from Microsoft.​
-* **Reduce operating costs** by enabling producers to work remotely. 
+* **Reduce operating costs** by enabling producers to work remotely.
 * **Create monetization opportunities** and build your customer funnel with personalized ad experiences for users.
 * **Gain valuable, timely audience** insights to increase customer engagement and retention.​
 
