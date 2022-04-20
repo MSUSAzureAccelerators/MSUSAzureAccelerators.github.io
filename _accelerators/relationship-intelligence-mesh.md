@@ -12,3 +12,6 @@ hero_image:
 description: Build a mesh dashboard that will show how sellers are developing relationships with high priority customers and actions to take to improve the connectivity scores.
 tags: "\"Media and Entertainment\", \"Financial Services\", \"Azure Synapse\", \"Solution Accelerator\""
 ---
+​​## About this Solution Accelerator
+
+More information coming soon.

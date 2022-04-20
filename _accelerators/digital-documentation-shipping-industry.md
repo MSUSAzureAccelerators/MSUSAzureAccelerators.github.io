@@ -16,3 +16,6 @@ tags: "\"Solution Accelerator\",\"Transportation\",\"Manufacturing\",\"Retail\",
 last_updated: "April 15, 2022 06:28:13 PM"
 related: ""
 ---
+​​## About this Solution Accelerator
+
+More information coming soon.

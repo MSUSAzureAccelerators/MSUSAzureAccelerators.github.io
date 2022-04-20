@@ -16,3 +16,6 @@ tags: "\"Solution Accelerator\",\"Healthcare\",\"HLS\",\"SLG\""
 last_updated: "April 15, 2022 06:37:00 PM"
 related: "ADX-Patient-Monitoring.html,Patient-Risk-Analyzer.html"
 ---
+​​## About this Solution Accelerator
+
+More information coming soon.

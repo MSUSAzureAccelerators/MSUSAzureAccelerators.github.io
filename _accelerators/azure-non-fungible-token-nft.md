@@ -12,3 +12,6 @@ hero_image:
 description: Create an enterprise-class non-fungible-token solution that is secure, easy to use, and extensible to other enterprise applications. 
 tags: "\"Technology Accelerator\", \"Horizontal\",\"Tech Plug-Ins\", \"ERC-721\", \"Azure Key Vault\", \"Azure Cosmos DB\", \"Azure Kubernetes Clusters\", \"External Transaction Signing\", \"Sending to Blockchain Network\", \"User Key Management\", \"Business Transaction Indexing with REST API interfaces.\", \"Technology Accelerator\""
 ---
+​​## About this Solution Accelerator
+
+More information coming soon.

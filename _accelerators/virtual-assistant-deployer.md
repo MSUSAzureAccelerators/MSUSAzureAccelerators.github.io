@@ -16,4 +16,6 @@ tags: "\"Reusable Technology Accelerator\",\"Manufacturing\",\"Retail\",\"FSI\",
 last_updated: "April 15, 2022 06:47:25 PM"
 related: ""
 ---
-More information coming son
+​​## About this Solution Accelerator
+
+More information coming soon.

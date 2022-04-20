@@ -12,3 +12,6 @@ hero_image:
 description: Automate the checking of monthly and/or quarterly returns that often are produced by 3rd parties which must be reviewed and validated as well as reducing time commitment and errors by comparing docs against a defined set of data.
 tags: "\"Financial Services\",\"Solution Accelerator\""
 ---
+​​## About this Solution Accelerator
+
+More information coming soon.

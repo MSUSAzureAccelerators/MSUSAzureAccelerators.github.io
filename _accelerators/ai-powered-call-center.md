@@ -12,3 +12,6 @@ hero_image:
 description: Reduce contact center costs and improve user experience.
 tags: "\"Personalization\", \"Horizontal\", \"Azure Machine Learning\", \"Bot Services\", \"Cognitive Services\", \"Solution Accelerator\""
 ---
+​​## About this Solution Accelerator
+
+More information coming soon

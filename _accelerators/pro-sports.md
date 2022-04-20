@@ -12,3 +12,6 @@ hero_image:
 description: Offer professional sports teams an improved customer experience before, during and after games and events, both away from and in-stadium.
 tags: "\"Media and Entertainment\",\"Solution Accelerator\""
 ---
+​​## About this Solution Accelerator
+
+More information coming soon.

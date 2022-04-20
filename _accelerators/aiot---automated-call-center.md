@@ -16,4 +16,6 @@ tags: "\"Solution Accelerator\",\"Process Automation\",\"Manufacturing\",\"Autom
 last_updated: "April 15, 2022 06:10:26 PM"
 related: "Conversational-AI-for-Retail.html,Conversational-AI-for-State-and-Local-Government.html,AI-Powered-Call-Center-Intelligence.html"
 ---
+## About this Solution Accelerator
+
 More information coming soon about the AIoT - Automated Call Center Solution Accelerator

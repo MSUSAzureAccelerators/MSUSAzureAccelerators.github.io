@@ -12,3 +12,6 @@ hero_image:
 description: Analyze recurring customer payments to help combat increasing payment defaults and customer screening difficulties, which scales to provide predictive analytics for different payment services.
 tags: "\"Horizontal\",\"Solution Accelerator\""
 ---
+​​## About this Solution Accelerator
+
+More information coming soon.

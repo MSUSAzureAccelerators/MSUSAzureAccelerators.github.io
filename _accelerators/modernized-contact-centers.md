@@ -12,3 +12,6 @@ hero_image:
 description: Azure AI reduces customer's contact center costs and improves user experience.
 tags: "\"Personalization\", \"Horizontal\", \"Azure Machine Learning\", \"Bot Services\", \"Cognitive Search\", \"Cognitive Services\", \"Solution Accelerator\""
 ---
+​​## About this Solution Accelerator
+
+More information coming soon.

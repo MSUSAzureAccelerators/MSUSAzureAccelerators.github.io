@@ -17,4 +17,6 @@ tags: "\"Solution Accelerator\",\"Process Automation\",\"Automotive\",\"EDU\",\"
 last_updated: "April 15, 2022 06:07:47 PM"
 related: "AIoT---Automated-Call-Center.html,AIoT---Factory-and-Worker-Safety.html,AIoT---Predictive-Maintenance.html,AIoT---Automated-Quality-Inspection.html,AIoT---Inventory-Lifecycle-Management.html"
 ---
-​​More information coming soon.
+​​## About this Solution Accelerator
+
+More information coming soon.

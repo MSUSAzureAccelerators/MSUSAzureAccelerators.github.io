@@ -12,3 +12,6 @@ hero_image:
 description: Operational visibility into production processes and assets.
 tags: "\"Manufacturing\",\"Solution Accelerator\""
 ---
+​​## About this Solution Accelerator
+
+More information coming soon.

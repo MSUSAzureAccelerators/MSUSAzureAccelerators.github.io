@@ -12,3 +12,6 @@ hero_image:
 description: Information coming soon
 tags: "\"Retail & Consumer Goods\",\"Solution Accelerator\""
 ---
+​​## About this Solution Accelerator
+
+More information coming soon.

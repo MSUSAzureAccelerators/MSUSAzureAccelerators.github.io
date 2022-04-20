@@ -12,3 +12,6 @@ hero_image:
 description: Extract data from structured and unstructured documents to streamline processes and leverages workflow automation.
 tags: "\"Horizontal\", \"Azure Machine Learning\", \"Bot Services\", \"Cognitive Search\", \"Cognitive Services\", \"Solution Accelerator\""
 ---
+​​## About this Solution Accelerator
+
+More information coming soon.

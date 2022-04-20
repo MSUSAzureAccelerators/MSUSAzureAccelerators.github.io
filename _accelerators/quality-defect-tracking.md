@@ -12,3 +12,6 @@ hero_image:
 description: Detect product quality issues by typically using cognitive services over image data.
 tags: "\"Supply Chain\", \"Manufacturing\", \"AI\", \"Azure Machine Learning\", \"Solution Accelerator\""
 ---
+​​## About this Solution Accelerator
+
+More information coming soon.

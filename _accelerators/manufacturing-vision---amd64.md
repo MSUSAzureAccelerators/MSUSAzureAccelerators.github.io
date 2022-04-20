@@ -16,4 +16,6 @@ tags: "\"Solution Accelerator\",\"Process Automation\",\"Manufacturing\",\"Docke
 last_updated: "April 15, 2022 06:32:58 PM"
 related: "AIoT---Automated-Quality-Inspection.html,AIoT---Factory-and-Worker-Safety.html,AIoT---Inventory-Lifecycle-Management.html,AIoT---Predictive-Maintenance.html"
 ---
+​​## About this Solution Accelerator
+
 This is the base code for the Manufacturing Vision for amd64 architecture.

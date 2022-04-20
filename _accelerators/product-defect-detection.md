@@ -12,3 +12,6 @@ hero_image:
 description: Reduce quality defects through detecting and monitoring the production line using video analytics which reduces rework, waste, risk exposure and product recalls.
 tags: "\"Manufacturing\",\"Solution Accelerator\""
 ---
+​​## About this Solution Accelerator
+
+More information coming soon.

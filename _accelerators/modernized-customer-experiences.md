@@ -12,3 +12,6 @@ hero_image:
 description: Improve and standardize brand experience while empowering users to self-serve.
 tags: "\"Horizontal\", \"Azure Machine Learning\", \"Bot Services\", \"Cognitive Services (Translation)\", \"Solution Accelerator\""
 ---
+​​## About this Solution Accelerator
+
+More information coming soon.

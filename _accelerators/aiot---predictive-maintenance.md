@@ -15,4 +15,6 @@ hero_image: assets/images/AIOT_Predictive_Maintenance_Hero.webp
 tags: "\"Reference Architecture\",\"Process Automation\",\"Manufacturing\",\"Automotive\",\"Azure Container Registry\",\"Azure DevOps\",\"Azure IoT Hub\",\"Azure KeyVault\",\"Azure Machine Learning\",\"Azure SQL\",\"Azure Storage\",\"Cognitive Services\",\"Docker\",\"Power BI\",\"Python\""
 last_updated: "April 12, 2022 06:06:12 PM"
 ---
+​​## About this Solution Accelerator
+
 More information coming soon about the AIoT - Predictive Maintenance Solution Accelerator
