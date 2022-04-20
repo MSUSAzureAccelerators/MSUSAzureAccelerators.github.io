@@ -13,8 +13,8 @@ demo_url:
 short_text: "Leverage to find simple, cost-effective ways to gain consumer insights."
 hero_image: assets/images/Content_Recommendation_Hero.webp
 tags: "\"Solution Accelerator\",\"Personalization\",\"Manufacturing\",\"Retail\",\"FSI\",\"HLS\",\"Media and Entertainment\",\"Synapse\",\"Azure Data Lake Storage\",\"Power BI\""
-last_updated: "April 15, 2022 06:23:36 PM"
-related: "Azure-Intelligent-Recommendations.html,Retail-Recommender.html"
+last_updated: "April 20, 2022 01:23:47 PM"
+related: "Azure-Intelligent-Recommendations.html,Retail-Recommender.html,Recommender-Systems.html"
 ---
 ## About this Solution Accelerator
 

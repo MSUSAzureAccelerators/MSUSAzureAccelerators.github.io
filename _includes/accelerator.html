@@ -54,23 +54,24 @@
                         </a>
                 </div>
                 {%- endif -%}
+
+                <!-- Related Accelerators -->
+                {%- if page.related and page.related != "" -%}
+                <h3 class="mt-4">Related Accelerators</h3>
+                <div class="flex flex-col justify-start capitalize">
+                    {%- assign relatedItems = page.related | split: "," | sort -%}
+                    {%- for relatedItem in relatedItems -%}
+                    <p>
+                        <a href="{{ relatedItem | downcase }}">
+                            {{ relatedItem | remove_first: ".html" | replace: "-"," " | replace: "   ", " - "}}
+                        </a>
+                    </p>
+                    {% endfor %}
+                </div>
+                {%- endif -%}
+                <h3 class="mt-4">Share</h3>
+                {%- include social-links.html -%}
             </div>
-            <!-- Related Accelerators -->
-            {%- if page.related and page.related != "" -%}
-            <h3 class="mt-4">Related Accelerators</h3>
-            <div class="flex flex-col justify-start capitalize">
-                {%- assign relatedItems = page.related | split: "," | sort -%}
-                {%- for relatedItem in relatedItems -%}
-                <p>
-                    <a href="{{ relatedItem | downcase }}">
-                        {{ relatedItem | remove_first: ".html" | replace: "-"," " | replace: "   ", " - "}}
-                    </a>
-                </p>
-                {% endfor %}
-            </div>
-            {%- endif -%}
-            <h3 class="mt-4">Share</h3>
-            {%- include social-links.html -%}
         </div>
     </div>
 </div>

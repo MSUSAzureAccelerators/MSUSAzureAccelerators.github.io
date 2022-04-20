@@ -106,7 +106,7 @@
                 </div>
                 <div class="flex flex-wrap shuffle-items" role="contentinfo">
                     {%- for accelerator in site.accelerators -%}
-                    {%- if accelerator.github_url and accelerator.github_url != "na" and accelerator.github_url != "" -%}
+                    {%- if accelerator.hero_image and accelerator.hero_image != "na" and accelerator.hero_image != "" -%}
                     <div class="shuffle-item m-2 max-w-sm bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700"
                         data-groups='[{{ accelerator.tags -}}]'>
                         <div class="flex align-middle items-center justify-center opacity-70 hover:opacity-100 transition duration-300 ease-in-out">
@@ -134,8 +134,9 @@
                             <p class="mb-3 font-normal text-gray-700 dark:text-gray-400 card__text">
                                 {{ accelerator.short_text -}}
                             </p>
+                            {%- if accelerator.github_url and accelerator.github_url != "na" and accelerator.github_url != "" -%}
                             <a href="{{ accelerator.github_url }}" target="_blank"
-                                class="inline-flex items-center py-2 px-3 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
+                                class="inline-flex items-center py-2 px-3 text-sm font-medium text-center text-white bg-[#266EBB] rounded-lg hover:bg-[#184677] focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
                                 Browse Assets on GitHub
                                 <svg class="ml-2 -mr-1 w-4 h-4" fill="currentColor" viewBox="0 0 20 20"
                                     xmlns="http://www.w3.org/2000/svg">
@@ -144,6 +145,7 @@
                                         clip-rule="evenodd"></path>
                                 </svg>
                             </a>
+                            {%- endif -%}
                         </div>
                     </div>
                     {%- endif -%}

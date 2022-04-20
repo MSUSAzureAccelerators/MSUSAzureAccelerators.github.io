@@ -90,6 +90,18 @@
     @apply mt-4 text-3xl font-semibold tracking-tight;
   }
 
+  .prose table {
+    @apply m-auto w-2/3;
+  }
+
+  .prose td {
+    @apply align-top;
+  }
+
+  .prose td img {
+    @apply w-auto;
+  }
+
   .f-glass {
     @apply rounded-lg opacity-70 shadow-cta border border-white border-opacity-30 backdrop-filter backdrop-blur hover:opacity-100;
   }
