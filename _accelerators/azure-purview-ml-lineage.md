@@ -10,16 +10,16 @@ industries: "Horizontal,Automotive,EDU,Energy,FSI,High Tech,HLS,Manufacturing,Me
 technology_stack: "Purview,Azure Machine Learning,Azure Data Lake Storage,Synapse Analytics,Power BI"
 github_url: https://github.com/microsoft/Purview-Machine-Learning-Lineage-Solution-Accelerator
 demo_url: 
+customer_overview_url: 
+customer_deck_url: 
 short_text: "Enable organizations to get started with lineage in Purview for Machine Learning scenarios."
 hero_image: assets/images/Purview_ML_Lineage_Hero.webp
-tags: "\"Technology Accelerator\",\"Process Automation\",\"Horizontal\",\"Automotive\",\"EDU\",\"Energy\",\"FSI\",\"High Tech\",\"HLS\",\"Manufacturing\",\"Media and Entertainment\",\"Retail\",\"Professional Services\",\"SLG\",\"Purview\",\"Azure Machine Learning\",\"Azure Data Lake Storage\",\"Synapse Analytics\",\"Power BI\""
-last_updated: "April 18, 2022 03:15:03 PM"
+tags: "\"Technology Accelerator\",\"Process Automation\",\"Horizontal\",\"Automotive\",\"EDU\",\"Energy\",\"FSI\",\"High Tech\",\"HLS\",\"Manufacturing\",\"Media and Entertainment\",\"Retail\",\"Professional Services\",\"SLG\",\"Purview\",\"Azure Machine Learning\",\"Azure Data Lake Storage\",\"Synapse Analytics\",\"Power BI\",\"Apps & Infrastructure\""
+last_updated: "April 20, 2022 07:33:29 PM"
 related: "Azure-Purview-Custom-Connector.html,Azure-Purview-Custom-Types-Tool.html,Azure-Purview-Demo-Generator.html,Azure-Purview-Workshop.html"
 order: 2
 ---
 ## About this Solution Accelerator
-
-Azure Purview is a unified data governance service that helps you manage and govern data across different sources.
 
 Machine Learning project life cycle involves many steps to transform raw data into insights. This process usually requires individuals with different roles/skillsets across multiple teams to collaborate effectively. Azure Purview helps simplify this complex process by providing an end-to-end lineage of ML entities and processes to enable better collaboration, auditing and debugging capabilities.
 
