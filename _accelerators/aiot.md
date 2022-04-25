@@ -13,6 +13,6 @@ description: Manufacturing focused scenario that leverages AI and IOT devices to
 tags: "\"Manufacturing\",\"Supply Chain\",\"Solution Accelerator\""
 order: 1
 ---
-​​## About this Solution Accelerator
+## About this Solution Accelerator
 
 More information coming soon.

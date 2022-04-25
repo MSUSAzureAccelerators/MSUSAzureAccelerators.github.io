@@ -16,6 +16,6 @@ tags: "\"Reference Architecture\",\"Process Automation\",\"Manufacturing\",\"Aut
 last_updated: "April 12, 2022 06:06:12 PM"
 order: 2
 ---
-​​## About this Solution Accelerator
+## About this Solution Accelerator
 
 More information coming soon about the AIoT - Predictive Maintenance Solution Accelerator

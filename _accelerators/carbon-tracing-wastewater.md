@@ -21,11 +21,11 @@ order: 2
 ---
 ## About this Solution Accelerator
 
-As companies consider their environmental impact and cost of compliance, it’s important to include wastewater treatment emissions in their sustainability strategies. However, it’s commonly difficult to find the data and insights needed to understand what processes and operations drive emissions and how to reduce them efficiently and cost-effectively. 
+As companies consider their environmental impact and cost of compliance, it’s important to include wastewater treatment emissions in their sustainability strategies. However, it’s commonly difficult to find the data and insights needed to understand what processes and operations drive emissions and how to reduce them efficiently and cost-effectively.
 
 The Carbon Tracing Wastewater Solution Accelerator can help. It leverages domain knowledge with data analytics to transform your data into opportunities to cut your wastewater treatment emissions by streamlining and automating diverse types of data to provide a clear, auditable, and accurate view of emissions.
 
-### Challlenges
+### Challenges
 
 * Unable to identify and correct operational and compliance in a timely manner.
 * Unable to centralize and integrate data from disparate systems and data sources.
@@ -43,10 +43,11 @@ The Carbon Tracing Wastewater Solution Accelerator can help. It leverages domain
 * Easily report on emissions to meet regulatory requirements and stakeholder demand.
 * Reduce development time using pre-built, pre-configured code and architecture.
 * Recognize trends and predict corrective actions.
-* Leverage issue notification and escalation systems to alert relevant parties and reduce response time. 
+* Leverage issue notification and escalation systems to alert relevant parties and reduce response time.
 * Avoid costs of non-compliance.
 
 ### How It Works
+
 The Carbon Tracing Basic Wastewater Solution Accelerator consumes, tags, and organizes your existing and real-time data into streamlined databases to efficiently scale calculations and analytics.
 
 ![Carbon Tracing Wastewater Flow](../assets/images/Carbon_Tracing_Wastewater_Flow.webp)

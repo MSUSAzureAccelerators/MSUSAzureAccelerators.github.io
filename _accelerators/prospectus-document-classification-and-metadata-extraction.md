@@ -13,6 +13,6 @@ description: Build out more standardized methods of assessing impact and outcome
 tags: "\"Financial Services\",\"Solution Accelerator\""
 order: 2
 ---
-​​## About this Solution Accelerator
+## About this Solution Accelerator
 
 More information coming soon.

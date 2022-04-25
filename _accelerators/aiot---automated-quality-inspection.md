@@ -17,6 +17,6 @@ last_updated: "April 14, 2022 02:08:44 PM"
 related: "AIoT---Factory-and-Worker-Safety.html,AIoT---Inventory-Lifecycle-Management.html,AIoT---Predictive-Maintenance.html,Manufacturing-Vision---AMD64.html"
 order: 2
 ---
-​​## About this Solution Accelerator
+## About this Solution Accelerator
 
 More information coming soon about the AIoT - Automated Quality Inspection Solution Accelerator

@@ -13,6 +13,6 @@ description: Detect product quality issues by typically using cognitive services
 tags: "\"Supply Chain\", \"Manufacturing\", \"AI\", \"Azure Machine Learning\", \"Solution Accelerator\""
 order: 2
 ---
-​​## About this Solution Accelerator
+## About this Solution Accelerator
 
 More information coming soon.

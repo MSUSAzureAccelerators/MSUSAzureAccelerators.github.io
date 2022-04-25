@@ -13,6 +13,6 @@ description: Build a mesh dashboard that will show how sellers are developing re
 tags: "\"Media and Entertainment\", \"Financial Services\", \"Azure Synapse\", \"Solution Accelerator\""
 order: 2
 ---
-​​## About this Solution Accelerator
+## About this Solution Accelerator
 
 More information coming soon.

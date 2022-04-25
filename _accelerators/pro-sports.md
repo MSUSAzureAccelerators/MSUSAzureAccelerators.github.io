@@ -13,6 +13,6 @@ description: Offer professional sports teams an improved customer experience bef
 tags: "\"Media and Entertainment\",\"Solution Accelerator\""
 order: 2
 ---
-​​## About this Solution Accelerator
+## About this Solution Accelerator
 
 More information coming soon.

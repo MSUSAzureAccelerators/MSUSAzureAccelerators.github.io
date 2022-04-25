@@ -13,6 +13,6 @@ description: Create an enterprise-class non-fungible-token solution that is secu
 tags: "\"Technology Accelerator\", \"Horizontal\",\"Tech Plug-Ins\", \"ERC-721\", \"Azure Key Vault\", \"Azure Cosmos DB\", \"Azure Kubernetes Clusters\", \"External Transaction Signing\", \"Sending to Blockchain Network\", \"User Key Management\", \"Business Transaction Indexing with REST API interfaces.\", \"Technology Accelerator\""
 order: 2
 ---
-​​## About this Solution Accelerator
+## About this Solution Accelerator
 
 More information coming soon.

@@ -13,6 +13,6 @@ description: Improve and standardize brand experience while empowering users to 
 tags: "\"Horizontal\", \"Azure Machine Learning\", \"Bot Services\", \"Cognitive Services (Translation)\", \"Solution Accelerator\""
 order: 1
 ---
-​​## About this Solution Accelerator
+## About this Solution Accelerator
 
 More information coming soon.

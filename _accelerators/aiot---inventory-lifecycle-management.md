@@ -17,6 +17,6 @@ last_updated: "April 14, 2022 02:09:18 PM"
 related: "AIoT---Automated-Quality-Inspection.html,AIoT---Factory-and-Worker-Safety.html,AIoT---Predictive-Maintenance.html,Inventory-Management.html"
 order: 2
 ---
-​​## About this Solution Accelerator
+## About this Solution Accelerator
 
 More information coming soon about the AIoT - Inventory Lifecycle Management Solution Accelerator

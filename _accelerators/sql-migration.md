@@ -13,6 +13,6 @@ description: Stats database that can handle replicating multiple tables from acr
 tags: "\"Tech Plug-Ins\", \"Horizontal\", \"SQL MI\", \"Technology Accelerator\""
 order: 2
 ---
-​​## About this Solution Accelerator
+## About this Solution Accelerator
 
 More information coming soon.

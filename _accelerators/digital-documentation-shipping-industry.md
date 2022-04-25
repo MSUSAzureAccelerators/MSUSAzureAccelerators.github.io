@@ -17,6 +17,6 @@ last_updated: "April 15, 2022 06:28:13 PM"
 related: ""
 order: 2
 ---
-​​## About this Solution Accelerator
+## About this Solution Accelerator
 
 More information coming soon.

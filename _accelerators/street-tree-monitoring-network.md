@@ -13,6 +13,6 @@ description: Aim to assist urban foresters and stakeholders in reducing urban tr
 tags: "\"Sustainability\", \"State and Local Government\", \"Azure loT Hub\", \"Azure Cloud\", \"Azure Maps\", \"Solution Accelerator\""
 order: 2
 ---
-​​## About this Solution Accelerator
+## About this Solution Accelerator
 
 More information coming soon.

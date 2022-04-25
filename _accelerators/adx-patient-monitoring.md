@@ -17,6 +17,6 @@ last_updated: "April 15, 2022 06:09:25 PM"
 related: "COVID-19-Vaccine-Proof-and-Test-Verification.html,Health-and-Human-Services-Datahub.html,Healthcare-Blockchain.html,Overdose-Prevention.html,Patient-Risk-Analyzer.html"
 order: 2
 ---
-​​## About this Solution Accelerator
+## About this Solution Accelerator
 
 More information coming soon.

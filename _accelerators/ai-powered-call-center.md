@@ -13,6 +13,6 @@ description: Reduce contact center costs and improve user experience.
 tags: "\"Personalization\", \"Horizontal\", \"Azure Machine Learning\", \"Bot Services\", \"Cognitive Services\", \"Solution Accelerator\""
 order: 2
 ---
-​​## About this Solution Accelerator
+## About this Solution Accelerator
 
 More information coming soon

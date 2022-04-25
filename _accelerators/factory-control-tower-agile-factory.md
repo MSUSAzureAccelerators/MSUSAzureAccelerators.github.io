@@ -13,6 +13,6 @@ description: Operational visibility into production processes and assets.
 tags: "\"Manufacturing\",\"Solution Accelerator\""
 order: 2
 ---
-​​## About this Solution Accelerator
+## About this Solution Accelerator
 
 More information coming soon.

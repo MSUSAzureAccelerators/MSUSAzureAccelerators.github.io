@@ -13,6 +13,6 @@ description: Extract data from structured and unstructured documents to streamli
 tags: "\"Horizontal\", \"Azure Machine Learning\", \"Bot Services\", \"Cognitive Search\", \"Cognitive Services\", \"Solution Accelerator\""
 order: 1
 ---
-​​## About this Solution Accelerator
+## About this Solution Accelerator
 
 More information coming soon.

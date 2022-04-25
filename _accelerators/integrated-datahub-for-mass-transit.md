@@ -17,6 +17,6 @@ last_updated: "April 14, 2022 02:29:15 PM"
 related: "Health-and-Human-Services-Datahub.html,Digital-Documentation-Shipping-Industry.html"
 order: 2
 ---
-​​## About this Solution Accelerator
+## About this Solution Accelerator
 
 More information coming soon.

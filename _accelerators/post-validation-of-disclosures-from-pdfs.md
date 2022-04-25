@@ -13,6 +13,6 @@ description: Automate the checking of monthly and/or quarterly returns that ofte
 tags: "\"Financial Services\",\"Solution Accelerator\""
 order: 2
 ---
-​​## About this Solution Accelerator
+## About this Solution Accelerator
 
 More information coming soon.

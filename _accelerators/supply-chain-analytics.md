@@ -13,6 +13,6 @@ description: Information coming soon
 tags: "\"Supply Chain\", \"Manufacturing\",\"Solution Accelerator\""
 order: 2
 ---
-​​## About this Solution Accelerator
+## About this Solution Accelerator
 
 More information coming soon.

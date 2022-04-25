@@ -13,6 +13,6 @@ description: Leverage data in multiple digital formats and apply to enrich, filt
 tags: "\"State and Local Government\", \"Azure AI\", \"Azure Machine Learning\", \"Cognitive Services\", \"Data Storage\", \"Power Apps\", \"Solution Accelerator\""
 order: 2
 ---
-​​## About this Solution Accelerator
+## About this Solution Accelerator
 
 More information coming soon.
