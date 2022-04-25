@@ -10,13 +10,16 @@ industries: "Manufacturing,FSI,Automotive,EDU,Energy,High Tech,HLS,Media and Ent
 technology_stack: "Azure Machine Learning,Cognitive Search"
 github_url: https://github.com/microsoft/Accelerator-AzureML_CognitiveSearch
 demo_url: 
+customer_overview_url: 
+customer_deck_url: 
 short_text: "Extract business or industry specific terms from documents, such as extracting medical terms from medical documents, legal terms from contracts, or part names from engineering documents"
 hero_image: assets/images/Knowledge_Mining_AML_Hero.webp
-tags: "\"Reusable Technology Accelerator\",\"Process Automation\",\"Manufacturing\",\"FSI\",\"Automotive\",\"EDU\",\"Energy\",\"High Tech\",\"HLS\",\"Media and Entertainment\",\"Professional Services\",\"Retail\",\"SLG\",\"Horizontal\",\"Azure Machine Learning\",\"Cognitive Search\""
-last_updated: "April 15, 2022 06:33:02 PM"
+tags: "\"Reusable Technology Accelerator\",\"Process Automation\",\"Manufacturing\",\"FSI\",\"Automotive\",\"EDU\",\"Energy\",\"High Tech\",\"HLS\",\"Media and Entertainment\",\"Professional Services\",\"Retail\",\"SLG\",\"Horizontal\",\"Azure Machine Learning\",\"Cognitive Search\",\"Data & AI\""
+last_updated: "April 25, 2022 06:27:55 PM"
 related: "AI-Powered-Insurance-Claims-Automation.html,Customer-Complaint-Management.html,Azure-Cognitive-Search-Hands-On-Lab.html,Intelligent-Document-Processing.html,Knowledge-Mining.html,Risk-Classification-and-Loan-Modeling.html"
 order: 2
 ---
+
 ## About this Solution Accelerator
 
 This repo walks through the process of creating a knowledge mining solution to enrich your data by identifying custom entities in a corpus of data using an AI custom skill. We'll leverage a number of capabilities in [Azure Cognitive Search](https://azure.microsoft.com/en-us/services/search/) and [Azure Machine Learning](https://azure.microsoft.com/en-us/services/machine-learning/) to extract entities from documents.
