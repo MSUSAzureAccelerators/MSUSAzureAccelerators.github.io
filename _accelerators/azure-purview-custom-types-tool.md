@@ -12,11 +12,11 @@ github_url: https://github.com/microsoft/Purview-Custom-Types-Tool-Solution-Acce
 demo_url: 
 customer_overview_url: 
 customer_deck_url: 
-short_text: "Helps with custom development for Purview using the Atlas APIs."
+short_text: "Helps with custom development for Purview using the Atlas APIs"
 hero_image: assets/images/Purview_Custom_Types_Hero.svg
 tags: "\"Technology Accelerator\",\"Process Automation\",\"Horizontal\",\"Automotive\",\"EDU\",\"Energy\",\"FSI\",\"High Tech\",\"HLS\",\"Manufacturing\",\"Media and Entertainment\",\"Professional Services\",\"Retail\",\"SLG\",\"Purview\",\"node.js\",\"Apache Atlas\",\"Apps & Infrastructure\""
-last_updated: "April 20, 2022 07:31:47 PM"
-related: "Azure-Purview-Custom-Connector.html,Azure-Purview-Demo-Generator.html,Azure-Purview-ML-Lineage.html,Azure-Purview-Workshop.html"
+last_updated: "April 25, 2022 04:58:24 PM"
+related: "Azure-Purview-Custom-Connector.html,Data-Governance-Demo-Generator.html,Azure-Purview-ML-Lineage.html,Azure-Purview-Workshop.html"
 order: 2
 ---
 ## About this Solution Accelerator
