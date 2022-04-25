@@ -15,7 +15,7 @@ customer_deck_url:
 short_text: "Helps with custom development for Purview using the Atlas APIs"
 hero_image: assets/images/Purview_Custom_Types_Hero.svg
 tags: "\"Technology Accelerator\",\"Process Automation\",\"Horizontal\",\"Automotive\",\"EDU\",\"Energy\",\"FSI\",\"High Tech\",\"HLS\",\"Manufacturing\",\"Media and Entertainment\",\"Professional Services\",\"Retail\",\"SLG\",\"Purview\",\"node.js\",\"Apache Atlas\",\"Apps & Infrastructure\""
-last_updated: "April 25, 2022 04:58:24 PM"
+last_updated: "April 25, 2022 06:27:14 PM"
 related: "Azure-Purview-Custom-Connector.html,Data-Governance-Demo-Generator.html,Azure-Purview-ML-Lineage.html,Azure-Purview-Workshop.html"
 order: 2
 ---
@@ -31,4 +31,4 @@ This application supports the following actions:
 2. Create new enity & relationship type definitions
 3. Create entity templates to simplify source scanning
 
-When combined with the [Purview Custom Connector Solution Accelerator](Azure-Purview-Custom-Connector.html), this application provides entity templates to help create source scanning functionality.
+When combined with the [Purview Custom Connector Solution Accelerator](azure-purview-custom-connector.html), this application provides entity templates to help create source scanning functionality.

@@ -38,4 +38,4 @@ The solution will show you how to:
 
 ![indexing documents](../assets/images/Knowledge_Mining_AML_Hero.webp)
 
-This is designed to be used in conjunction with the [Knowledge Mining Solution Accelerator](Knowledge-Mining.html). After you train and deploy the model, you can easily integrate the model with the solution accelerator to showcase the results in a Web App.
+This is designed to be used in conjunction with the [Knowledge Mining Solution Accelerator](knowledge-mining.html). After you train and deploy the model, you can easily integrate the model with the solution accelerator to showcase the results in a Web App.
