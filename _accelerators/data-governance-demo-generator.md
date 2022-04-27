@@ -15,10 +15,10 @@ customer_deck_url:
 short_text: "Automate the deployment of a pre-populated Azure Purview demo environment."
 hero_image: assets/images/Purview_Demo_Generator_Hero.webp
 tags: "\"Technology Accelerator\",\"Process Automation\",\"Horizontal\",\"Automotive\",\"EDU\",\"Energy\",\"FSI\",\"High Tech\",\"HLS\",\"Manufacturing\",\"Media and Entertainment\",\"Professional Services\",\"Retail\",\"SLG\",\"Purview\",\"Azure KeyVault\",\"Azure SQL\",\"Synapse Analytics\",\"Azure Storage\",\"Apps & Infrastructure\""
-last_updated: "April 21, 2022 03:39:11 PM"
+last_updated: "April 27, 2022 01:32:52 PM"
 related: "Azure-Purview-Custom-Connector.html,Azure-Purview-Custom-Types-Tool.html,Azure-Purview-ML-Lineage.html,Azure-Purview-Workshop.html"
 order: 2
 ---
-## About this Solution Accelerator
+## About this Technology Accelerator
 
-More detailed information coming soon about the Data Governance Demo Generator
+More detailed information coming soon about the Azure Purview Demo Generator

@@ -7,7 +7,7 @@ classification: "Financial"
 solution_area: "Apps & Infrastructure"
 status: "Work In Progress"
 industries: "Horizontal,Automotive,EDU,Energy,FSI,High Tech,HLS,Manufacturing,Media and Entertainment,Professional Services,Retail,SLG"
-technology_stack: ""
+technology_stack: "ERC-721, Azure Key Vault, Azure Cosmos DB, Azure Kubernetes Clusters"
 github_url: https://github.com/microsoft/Azure-Non-Fungible-Token-Solution-Accelerator
 demo_url: 
 customer_overview_url: 

@@ -10,14 +10,16 @@ industries: "Manufacturing,Retail,Other,FSI,HLS,Automotive,EDU,Energy,High Tech,
 technology_stack: "Cosmos DB,Mongo DB,,SQL API,Visual Studio"
 github_url: https://github.com/microsoft/CosmosDB-Solution-Accelerator-CosmosDB-Helper
 demo_url: 
+customer_overview_url: 
+customer_deck_url: 
 short_text: "Allow developers to build Cosmos DB-based applications quickly and easily."
 hero_image: assets/images/Cosmos_DB_Hero.webp
-tags: "\"Technology Accelerator\",\"Manufacturing\",\"Retail\",\"Other\",\"FSI\",\"HLS\",\"Automotive\",\"EDU\",\"Energy\",\"High Tech\",\"Media and Entertainment\",\"Professional Services\",\"SLG\",\"Horizontal\",\"Cosmos DB\",\"Mongo DB,\",\"SQL API\",\"Visual Studio\""
-last_updated: "April 18, 2022 03:12:01 PM"
+tags: "\"Technology Accelerator\",\"Manufacturing\",\"Retail\",\"Other\",\"FSI\",\"HLS\",\"Automotive\",\"EDU\",\"Energy\",\"High Tech\",\"Media and Entertainment\",\"Professional Services\",\"SLG\",\"Horizontal\",\"Cosmos DB\",\"Mongo DB,\",\"SQL API\",\"Visual Studio\",\"Apps & Infrastructure\""
+last_updated: "April 27, 2022 01:27:07 PM"
 related: ""
 order: 2
 ---
-## About this Solution Accelerator
+## About this Technology Accelerator
 
 Welcome to Azure CosmosDB Solution Accelerator (Azure CosmosDB Helper).
 

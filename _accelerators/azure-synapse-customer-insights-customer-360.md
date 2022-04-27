@@ -10,14 +10,16 @@ industries: "Retail,Other,FSI,Automotive,EDU,Energy,High Tech,HLS,Manufacturing,
 technology_stack: "Customer Insights,Azure Data Lake Storage,Synapse,Azure Machine Learning,Power BI"
 github_url: https://github.com/microsoft/Azure-Synapse-Customer-Insights-Customer360-Solution-Accelerator
 demo_url: 
+customer_overview_url: 
+customer_deck_url: 
 short_text: "Improve customer experience, specifically around increasing customer retention."
 hero_image: assets/images/Customer_Insights_Hero.webp
-tags: "\"Technology Accelerator\",\"Professional Services\",\"Retail\",\"Other\",\"FSI\",\"Automotive\",\"EDU\",\"Energy\",\"High Tech\",\"HLS\",\"Manufacturing\",\"Media and Entertainment\",\"Professional Services\",\"SLG\",\"Horizontal\",\"Customer Insights\",\"Azure Data Lake Storage\",\"Synapse\",\"Azure Machine Learning\",\"Power BI\""
-last_updated: "April 18, 2022 03:14:15 PM"
+tags: "\"Technology Accelerator\",\"Professional Services\",\"Retail\",\"Other\",\"FSI\",\"Automotive\",\"EDU\",\"Energy\",\"High Tech\",\"HLS\",\"Manufacturing\",\"Media and Entertainment\",\"Professional Services\",\"SLG\",\"Horizontal\",\"Customer Insights\",\"Azure Data Lake Storage\",\"Synapse\",\"Azure Machine Learning\",\"Power BI\",\"Data & AI\",\"Modern Workplace\""
+last_updated: "April 27, 2022 12:37:02 PM"
 related: ""
 order: 2
 ---
-## About this Solution Accelerator
+## About this Technology Accelerator
 
 Managing customer data from multiple sources and building a unified Customer 360 view is not a new challenge. But it is becoming increasingly difficult with increased number of interaction channels and touch-points with customers. By combining the power of Azure Synapse Analytics with Dynamics 365 Customer Insights, we can help organizations build a comprehensive view of customers and enable them to provide the best customer experience.
 

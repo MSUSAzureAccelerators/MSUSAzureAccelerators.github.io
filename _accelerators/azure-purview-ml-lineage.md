@@ -15,11 +15,11 @@ customer_deck_url:
 short_text: "Enable organizations to get started with lineage in Purview for Machine Learning scenarios"
 hero_image: assets/images/Purview_ML_Lineage_Hero.webp
 tags: "\"Technology Accelerator\",\"Process Automation\",\"Horizontal\",\"Automotive\",\"EDU\",\"Energy\",\"FSI\",\"High Tech\",\"HLS\",\"Manufacturing\",\"Media and Entertainment\",\"Retail\",\"Professional Services\",\"SLG\",\"Purview\",\"Azure Machine Learning\",\"Azure Data Lake Storage\",\"Synapse Analytics\",\"Power BI\",\"Apps & Infrastructure\""
-last_updated: "April 25, 2022 04:58:25 PM"
+last_updated: "April 27, 2022 12:35:19 PM"
 related: "Azure-Purview-Custom-Connector.html,Azure-Purview-Custom-Types-Tool.html,Data-Governance-Demo-Generator.html,Azure-Purview-Workshop.html"
 order: 2
 ---
-## About this Solution Accelerator
+## About this Technology Accelerator
 
 Machine Learning project life cycle involves many steps to transform raw data into insights. This process usually requires individuals with different roles/skillsets across multiple teams to collaborate effectively. Azure Purview helps simplify this complex process by providing an end-to-end lineage of ML entities and processes to enable better collaboration, auditing and debugging capabilities.
 

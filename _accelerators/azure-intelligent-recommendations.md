@@ -10,14 +10,16 @@ industries: "Automotive,EDU,Energy,High Tech,Media and Entertainment,Professiona
 technology_stack: "Azure Data Lake Storage,Synapse,Power BI,Azure Intelligent Recommendations"
 github_url: 
 demo_url: https://intelligent-recommendations.microsoft.com/verticals
+customer_overview_url: 
+customer_deck_url: 
 short_text: "Intelligent Recommendations democratizes AI and machine learning recommendations through a codeless and powerful experience powered by the same technology that fuels Xbox, Microsoft 365, and Microsoft Azure"
 hero_image: assets/images/Intelligent_Recommendations_Hero.webp
-tags: "\"Technology Accelerator\",\"Personalization\",\"Automotive\",\"EDU\",\"Energy\",\"High Tech\",\"Media and Entertainment\",\"Professional Services\",\"Horizontal\",\"Manufacturing\",\"Retail\",\"Other\",\"HLS\",\"FSI\",\"SLG\",\"Azure Data Lake Storage\",\"Synapse\",\"Power BI\",\"Azure Intelligent Recommendations\""
-last_updated: "April 20, 2022 02:43:50 PM"
+tags: "\"Technology Accelerator\",\"Personalization\",\"Automotive\",\"EDU\",\"Energy\",\"High Tech\",\"Media and Entertainment\",\"Professional Services\",\"Horizontal\",\"Manufacturing\",\"Retail\",\"Other\",\"HLS\",\"FSI\",\"SLG\",\"Azure Data Lake Storage\",\"Synapse\",\"Power BI\",\"Azure Intelligent Recommendations\",\"BizApps\",\"Data & AI\""
+last_updated: "April 27, 2022 12:18:00 PM"
 related: "Content-Recommendations.html,Retail-Recommender.html,Recommender-Systems.html"
 order: 2
 ---
-## About this Solution Accelerator
+## About this Technology Accelerator
 
 Intelligent Recommendations democratizes AI and machine learning recommendations through a codeless and powerful experience powered by the same technology that fuels Xbox, Microsoft 365, and Microsoft Azure. Businesses can now provide relevant discovery for customers with this new, innovative AI for personalization and recommendations.
 
