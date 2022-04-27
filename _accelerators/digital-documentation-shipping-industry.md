@@ -15,12 +15,26 @@ customer_deck_url:
 short_text: "Reduces the time to complete business deals and empowers companies to easily and securely transact business with new companies all over the world"
 hero_image: assets/images/Digital_Documentation_Hero.webp
 tags: "\"Solution Accelerator\",\"Transportation\",\"Manufacturing\",\"Retail\",\"HLS\",\"Azure Blockchain\",\"Cosmos DB\",\"Azure Kubernetes Services\",\"Azure Container Registry\",\"Data & AI\",\"BizApps\""
-last_updated: "April 27, 2022 01:32:46 PM"
+last_updated: "April 27, 2022 02:59:48 PM"
 related: ""
 order: 2
 ---
 ## About this Solution Accelerator
 
-The Digital Documentation for the Shipping Industry Solution Accelerator shows you how to complete shipping agreements faster, with improved security, when transacting with new and existing customers all over the world. The solution uses a private blockchain network to document every step of the order process in a way that improves the overall experience for everyone involved.
+In a digital transformation world, business agility and transparency through a distributed network between untrusted members can be crucial.​ The Digital Documentation for Shipping Industry Solution Accelerator shows how the traditional order and shipping processes in the manufacturing industry can be agile within full and/or semi-trusted business relationships. ​It reduces the time to complete business deals and empowers companies to easily and securely transact business with new companies all over the world.
 
-Through the use of a secure, distributed, immutable, and automatable network of blockchain platforms, every business transaction between shippers and carriers is tokenized and shared. Use of blockchain technology practically eliminates the risk of data tampering in the shipment order process, between quotation and booking, as every business participant can access the shared ledger of transaction events. This solution accelerator is focused on the shipping industry, though with a little imagination it can serve as model for any number of use cases in a multitude of industries.
+​This Solution Accelerator uses a private blockchain network to track every step of the order process and improve communication, agility, and transparency. Through the secure, distributed, immutable, and automatable network of blockchain platforms, every business transaction between shippers and carriers is tokenized and shared. This eliminates the possibility of data tampering in the shipment order process (between quotation to booking) as every business participant can access their data sovereignty.​
+
+​While this Solution Accelerator was built to improve transparency within the order and shipping processes within the manufacturing industry, it's applicable for any business process that needs transparency and traceability between business participants.
+
+### What can it do?
+
+This Solution Accelerator enables the customer to build a fully distributed, tokenized order process within the shipping and manufacturing industries.
+
+This Solution Accelerator enables you to:
+
+1. Architect fully distributed Blockchain network-based application.
+2. Tokenize business entities with Token Standard Definitions (ERC Standard).
+3. Consolidate and organize business token entity collections within a single business incident.​​​​​​​
+
+You can adopt this Solution Accelerator to build any business tokenizing application.

@@ -10,10 +10,12 @@ industries: "Manufacturing,FSI,HLS,SLG,EDU,Automotive,Energy,High Tech,Media and
 technology_stack: ""
 github_url: https://github.com/MSUSSolutionAccelerators/Smart-Spaces-Sustainability-Solution-Accelerator
 demo_url: 
+customer_overview_url: 
+customer_deck_url: 
 short_text: "Builds smart buildings that can prove to be a gold standard in reducing environment impact and cost by driving energy efficiency, green purchasing, waste diversion, and water efficiency"
 hero_image: assets/images/Smart_Spaces_Hero2.webp
-tags: "\"Solution Accelerator\",\"Sustainability\",\"Manufacturing\",\"FSI\",\"HLS\",\"SLG\",\"EDU\",\"Automotive\",\"Energy\",\"High Tech\",\"Media and Entertainment\",\"Professional Services\",\"Retail\",\"Horizontal\""
-last_updated: "April 15, 2022 06:43:38 PM"
+tags: "\"Solution Accelerator\",\"Sustainability\",\"Manufacturing\",\"FSI\",\"HLS\",\"SLG\",\"EDU\",\"Automotive\",\"Energy\",\"High Tech\",\"Media and Entertainment\",\"Professional Services\",\"Retail\",\"Horizontal\",\"Data & AI\",\"BizApps\",\"Apps & Infrastructure\""
+last_updated: "April 27, 2022 03:43:50 PM"
 related: "Carbon-Tracing-Basic-Flare.html,Carbon-Tracing-Wastewater.html,ADX-IoT-Analytics.html,AIoT---Predictive-Maintenance.html,AIoT---Inventory-Lifecycle-Management.html"
 order: 2
 ---
@@ -25,11 +27,11 @@ The Smart Spaces Solution Accelerator helps facilities managers optimize HVAC sy
 
 ### Challenges
 
-* Operational inefficiencies can be challenging to pinpoint, leading to excess energy use.
-* Rising energy costs increase pressure to conserve.
-* Siloed data from internal and external sources does not integrate easily.
-* Lack of fast and accurate predictive modeling makes it difficult to effectively forecast energy needs.
-* A mobile application is needed so facilities managers can work from anywhere.
+* **Operational inefficiencies** can be challenging to pinpoint, leading to excess energy use.
+* **Rising energy costs** increase pressure to conserve.
+* **Siloed data** from internal and external sources does not integrate easily.
+* **Lack of fast and accurate predictive modeling** makes it difficult to effectively forecast energy needs.
+* **A mobile application is needed** so facilities managers can work from anywhere.
 
 > Excess energy use could cost US building owners $5.2 billion each year if buildings return to pre-COVID occupancy levels.
 

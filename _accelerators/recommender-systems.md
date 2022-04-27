@@ -15,7 +15,7 @@ customer_deck_url:
 short_text: "Provide personalized recommendations and telemetry insights to end users"
 hero_image: assets/images/Recommender_Systems_Hero.webp
 tags: "\"Solution Accelerator Family\",\"Personalization\",\"Automotive\",\"EDU\",\"Energy\",\"FSI\",\"High Tech\",\"HLS\",\"Manufacturing\",\"Media and Entertainment\",\"Professional Services\",\"SLG\",\"Retail\",\"Horizontal\",\"Azure Machine Learning\",\"Azure Intelligent Recommendations\",\"Synapse Analytics\",\"Azure Storage\",\"BizApps\",\"Data & AI\""
-last_updated: "April 20, 2022 08:10:15 PM"
+last_updated: "April 27, 2022 03:41:54 PM"
 related: "Azure-Intelligent-Recommendations.html,Content-Recommendations.html,Retail-Recommender.html"
 order: 1
 ---
@@ -25,26 +25,20 @@ Recommender Systems democratize artificial intelligence (AI) and machine learnin
 
 ### Customer Challenges
 
-* Lack of real-time audience insights for efficient, effective targeting and decision making.
-* Ever-increasing consumer expectations for personalization, immediacy, and choice.
-* Growing need for production of highly engaging direct-to-consumer offerings.
-* New competitors intensify competition for digital natives and traditional media companies alike.
-* Ad spend is rising while ad revenue is in decline, highlighting need for better targeting.
-* Solution integration can be complex and take months or years to complete.
+* **Siloed data across disparate departments** and channels challenge personalization
+* **Lack of real-time customer insights** for more efficient and effective targeting and decision making
+* **Ever-increasing customer expectations** for personalization, immediacy, and choice
+* **Low-tech and manual data analytics** and user experience creation is inefficient
 
-> 78% of consumers are more likely to shop at retailers and brands providing a personalized experience.
+> 52% of consumers anticipate all offers to ​
+be personalized.
 
 ### Benefits
 
-* Make data-driven content purchasing and creation decisions.
-* Recommend new, relevant content that fits customers’ unique interests.
-* Increase engagement and monetize insights via targeted content and advertising.
-* Create a foundational Digital Feedback Loop that provides actionable insights from your user data.
-* Reduce project time and costs associated with content procurement and delivery.
-* Easily launch accelerator and reduce deployment time using a pre-built, pre-configured solution.
-* Significantly improve catalog navigation and item discovery.
-* Create upsell and cross-sell opportunities.
-* Improve shoppers' experiences and product usability.
+* **Drive end-to-end analytics** across your organization and channels, to tailor the customer journey.
+* **Quickly surface data insights** to enhance targeting and optimize revenue streams.
+* **Improve customer experiences** with personalized recommendations based on user data and item metadata.
+* **Leverage AI and machine learning** to automate and refresh data analytics, insights, and recommendations.
 
 ### Capabilities
 
@@ -56,8 +50,26 @@ Recommender Systems democratize artificial intelligence (AI) and machine learnin
 
 ### Example Scenarios
 
-* **Personalized recommendations for end users:** Includes a list of unique content for a specific user based on their consumer habits and interactions. Businesses can recommend products, articles, videos, and more.
-* **Similar items:** Based on a variety of signals (user interactions) or metadata (such as images, text, friends, or demographics). Recommender Systems can recommend visually similar items in a catalog (for example, floral-patterned shirts) or show similar wine based on the description and taste notes.
-* **Real-time and session-based recommendations for users:** Each customer journey can now have unique recommendations, even new customers.
-* **Basket completion:** Shows complementary items for users based on what is already in their cart.
-These interactions can have other metadata, such as the time of transaction, amount of money, duration of interaction, and more.
+#### Picked for you recommendations
+
+> “I want to personalize customer recommendations based on their tastes and preferences”
+
+Leverage user activity data to create highly personalized recommendations from a large catalog of items. Build a user-to-item relational map to generate recommendations according to the distance between the user and a particular item.
+
+Picked for you recommendations are based on a known user’s entire activity history or recent activity, as well as a known or new user’s real-time, session-based data.
+
+#### Contextual recommendations​
+
+> “I want to personalize customer recommendations based on contextual relationships between items”
+
+Analyze user activity and interactions with items to create contextual, item-to-item relationships to recommend similar, alternative, or complimentary items.
+
+Contextual recommendations include items people also liked or viewed, basket completions, and visually or textually similar items.
+
+#### Trending recommendations​
+
+> “I want to personalize customer recommendations based new, popular, or trending items”​
+
+Analyze content a catalog of items using algorithmic charts sorted by information such as total sales, sum of clicks, release date, or a combination of different metrics.​
+
+Trending recommendations include new, popular, or trending items.
