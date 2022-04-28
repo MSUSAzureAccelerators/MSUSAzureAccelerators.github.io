@@ -1,14 +1,14 @@
 <div id="footer">
         <footer
-                class="p-4 bg-white rounded-lg shadow md:flex md:items-center md:justify-between md:p-6 dark:bg-gray-800">
-                <span class="text-sm text-gray-500 sm:text-center dark:text-gray-400 text-md">
+                class="p-4 bg-white rounded-lg shadow md:items-center md:justify-between xs:hidden sm:hidden md:flex">
+                <span class="text-sm text-gray-500 xs:hidden sm:hidden md:hidden lg:block">
                         {%- if page.last_updated -%}
                         Last Updated: {{- page.last_updated -}}
                         {%- else -%}
                         Last Updated: {{- site.time | date: "%a, %b %d, %Y %r" -}}
                         {%- endif -%}
                 </span>
-                <ul class="flex flex-wrap items-center mt-3 text-sm text-gray-500 dark:text-gray-400 sm:mt-0">
+                <ul class="flex flex-wrap items-center text-sm text-gray-500">
                         <li>
                                 <a href="mailto:solaccel@microsoft.com" class="mr-4 hover:underline md:mr-6 ">Email
                                         Us</a>
@@ -26,6 +26,6 @@
                                         class="hover:underline">Trademarks</a>
                         </li>
                 </ul>
-                <span class="text-sm text-gray-500 sm:text-center dark:text-gray-400">&copy; Microsoft 2022</span>
+                <span class="text-sm text-gray-500">&copy; Microsoft 2022</span>
         </footer>
 </div>

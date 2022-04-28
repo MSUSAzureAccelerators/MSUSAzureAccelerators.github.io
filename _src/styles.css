@@ -72,7 +72,7 @@
   }
 
   .prose p {
-    @apply mb-6 text-justify;
+    @apply mb-6;
   }
   .prose li {
     @apply list-inside list-disc last:mb-6;

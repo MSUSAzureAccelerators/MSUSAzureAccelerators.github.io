@@ -1,4 +1,4 @@
-    <nav class="flex -mt-16 ml-6 text-gray-700 bg-gray-50 rounded-lg border border-gray-200 dark:bg-gray-800 dark:border-gray-700"
+    <nav class="flex -mt-16 ml-6 text-gray-700 bg-gray-50 rounded-lg border border-gray-200 md:flex sm:hidden xs:hidden"
         aria-label="Breadcrumb">
         <ol class="inline-flex items-center space-x-1 md:space-x-3">
             <li class="inline-flex items-center" aria-current="page">
@@ -11,14 +11,14 @@
             </li>
         </ol>
     </nav>
-    <h1 class="mb-6">Solution Accelerator Directory</h1>
+    <h1 class="mb-6 md:text-3xl sm:text-2xl xs:text-xl">Solution Accelerator Directory</h1>
     <div class="shuffle-js">
         <div class="accelerator-grid" role="main">
             <div id="left-container" class="flex flex-col justify-start" role="group">
                 <div class="filter-links text-center border-0" data-inview-showup="showup-translate-up">
                     <a aria-label="All Items Filter" class="filter-link active" data-filter='all' href="#">All</a>
                 </div>
-                <h2 class="mb-1 mt-1 text-center">Accelerator Type</h2>
+                <h2 class="mb-1 mt-1 text-center md:text-2xl sm:text-xl xs:text-lg">Accelerator Type</h2>
                 <div class="filter-links text-center" data-inview-showup="showup-translate-up">
                     <a aria-label="Solution Accelerator Family" class="filter-link" href="#"
                         data-filter='["SolutionAcceleratorFamily"]'><i class="fa-solid fa-people-group"></i> Accelerator
@@ -37,7 +37,7 @@
                         data-filter='["ReferenceArchitecture"]'><i class="fa-solid fa-building-columns"></i>
                         Reference Architecture</a>
                 </div>
-                <h2 class="mb-1 mt-1 text-center">Industry Alignment</h2>
+                <h2 class="mb-1 mt-1 text-center md:text-2xl sm:text-xl xs:text-lg">Industry Alignment</h2>
                 <div class="filter-links text-center" data-inview-showup="showup-translate-up">
                     <a aria-label="Automotive" class="filter-link" href="#" data-filter='["Automotive"]'><i
                             class="fa-solid fa-car"></i> Automotive</a>
@@ -72,7 +72,7 @@
                     <a aria-label="Horizontal" class="filter-link" href="#" data-filter='["Horizontal"]'><i
                             class="fa-solid fa-arrows-left-right"></i> Horizontal</a>
                 </div>
-                <h2 class="mb-1 mt-1 text-center">Relevant Personas</h2>
+                <h2 class="mb-1 mt-1 text-center md:text-2xl sm:text-xl xs:text-lg">Relevant Personas</h2>
                 <div class="filter-links text-center" data-inview-showup="showup-translate-up">
                     <a aria-label="Campaign Management" class="filter-link" href="#"
                         data-filter='["CampaignManagement"]'>Campaign Management</a>
@@ -93,7 +93,7 @@
                     <a aria-label="Workplace Intelligence" class="filter-link" href="#"
                         data-filter='["WorkplaceIntelligence"]'>Workplace Intelligence</a>
                 </div>
-                <h2 class="mb-1 mt-1 text-center">Share</h2>
+                <h2 class="mb-1 mt-1 text-center md:text-2xl sm:text-xl xs:text-lg">Share</h2>
                 {%- include social-links.html -%}
             </div>
             <div id="right-container" class="mr-4" role="region" aria-label="Accelerator List">
@@ -108,7 +108,7 @@
                     {% assign sorted = site.accelerators | sort: 'order' %}
                     {%- for accelerator in sorted -%}
                     {%- if accelerator.hero_image and accelerator.hero_image != "na" and accelerator.hero_image != "" -%}
-                    <div class="shuffle-item m-2 max-w-sm bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700"
+                    <div class="shuffle-item m-2 max-w-sm bg-white rounded-lg border border-gray-200 shadow-md"
                         data-groups='[{{ accelerator.tags -}}]'>
                         <div
                             class="flex align-middle items-center justify-center opacity-70 hover:opacity-100 transition duration-300 ease-in-out">
@@ -130,15 +130,15 @@
                             {%- endif -%}
                             <a href="{{ accelerator.url -}}">
                                 <h5
-                                    class="mb-2 text-2xl font-semibold tracking-tight text-gray-900 dark:text-white card__title">
+                                    class="mb-2 text-2xl font-semibold tracking-tight text-gray-900 card__title">
                                     {{ accelerator.short_name -}}</h5>
                             </a>
-                            <p class="mb-3 font-normal text-gray-700 dark:text-gray-400 card__text">
+                            <p class="mb-3 font-normal text-gray-700 card__text">
                                 {{ accelerator.short_text -}}
                             </p>
                             {%- if accelerator.github_url and accelerator.github_url != "na" and accelerator.github_url != "" -%}
                             <a href="{{ accelerator.github_url }}" target="_blank"
-                                class="inline-flex items-center py-2 px-3 text-sm font-medium text-center text-white bg-[#266EBB] rounded-lg hover:bg-[#184677] focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
+                                class="inline-flex items-center py-2 px-3 text-sm font-medium text-center text-white bg-[#266EBB] rounded-lg hover:bg-[#184677] focus:ring-4 focus:outline-none focus:ring-blue-300">
                                 Browse Assets on GitHub
                                 <svg class="ml-2 -mr-1 w-4 h-4" fill="currentColor" viewBox="0 0 20 20"
                                     xmlns="http://www.w3.org/2000/svg">
