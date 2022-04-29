@@ -10,8 +10,8 @@ industries: "FSI, Horizontal"
 technology_stack: "Power BI"
 github_url: 
 demo_url: 
-customer_overview_url: assets/docs/Modern Finance General Customer Deck.pdf
-customer_one_pager_url: assets/docs/Modern Finance General Leave Behind (Overview).pptx
+customer_overview_url: assets/docs/Modern Finance General Leave Behind (Overview).pptx
+customer_deck_url: assets/docs/Modern Finance General Customer Deck.pdf
 short_text: "Transform the way you gather financial insights for driving growth."
 hero_image: assets/images/Modern_Finance_Hero.webp
 tags: "\"Solution Accelerator Family\",\"Financial\",\"FSI\",\"Horizontal\",\"Power BI\",\"BizApps\",\"Data & AI\",\"Apps & Infrastructure\""
