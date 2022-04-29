@@ -9,8 +9,8 @@ status: "Work In Progress"
 industries: "Manufacturing,Retail,FSI,HLS,Media and Entertainment"
 technology_stack: "Synapse,Azure Data Lake Storage,Azure Machine Learning,Azure Container Images,Power BI"
 github_url: https://github.com/microsoft/Azure-Synapse-Solution-Accelerator-Financial-Analytics-Customer-Revenue-Growth-Factor 
-customer_overview_url: assets/docs/Modern Finance General Customer Deck.pdf
-customer_one_pager_url: assets/docs/Modern Finance General Leave Behind (Overview).pptx
+customer_deck_url: assets/docs/Modern Finance General Customer Deck.pdf
+customer_overview_url: assets/docs/Modern Finance General Leave Behind (Overview).pptx
 demo_url: 
 short_text: "Easily identify factors for growth"
 hero_image: assets/images/Revenue_Growth_Hero.webp
