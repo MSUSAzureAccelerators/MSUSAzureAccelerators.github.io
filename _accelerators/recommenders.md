@@ -4,18 +4,18 @@ name: "Recommenders"
 title: "Recommenders"
 accelerator_type: "Technology Accelerator"
 classification: "Personalization"
-solution_area: "BizApps,Data & AI"
+solution_area: "Data & AI,BizApps"
 status: "Approved"
-industries: "Automotive,EDU,Energy,FSI,High Tech,HLS,Manufacturing,Media and Entertainment,Professional Services,SLG,Retail,Horizontal"
-technology_stack: "Azure Machine Learning,Azure Intelligent Recommendations,Synapse Analytics,Azure Storage"
+industries: "Automotive,EDU,Energy,FSI,High Tech,HLS,Manufacturing,Media and Entertainment,Professional Services,Retail,SLG,Horizontal"
+technology_stack: ""
 github_url: https://github.com/microsoft/recommenders
 demo_url: 
 customer_overview_url: 
 customer_deck_url: 
-short_text: "Examples and best practices for building recommendation system"
+short_text: "Examples and best practices for building recommendation systems"
 hero_image: assets/images/Recommenders_Hero.webp
-tags: "\"Solution Accelerator Family\",\"Personalization\",\"Automotive\",\"EDU\",\"Energy\",\"FSI\",\"High Tech\",\"HLS\",\"Manufacturing\",\"Media and Entertainment\",\"Professional Services\",\"SLG\",\"Retail\",\"Horizontal\",\"Azure Machine Learning\",\"Azure Intelligent Recommendations\",\"Synapse Analytics\",\"Azure Storage\",\"BizApps\",\"Data & AI\""
-last_updated: "April 29, 2022 03:41:54 PM"
+tags: "\"Technology Accelerator\",\"Personalization\",\"Automotive\",\"EDU\",\"Energy\",\"FSI\",\"High Tech\",\"HLS\",\"Manufacturing\",\"Media and Entertainment\",\"Professional Services\",\"Retail\",\"SLG\",\"Horizontal\",\"Data & AI\",\"BizApps\""
+last_updated: "April 29, 2022 06:43:34 PM"
 related: "Azure-Intelligent-Recommendations.html,Content-Recommendations.html,Retail-Recommender.html"
 order: 2
 ---
