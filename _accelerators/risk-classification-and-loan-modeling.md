@@ -9,6 +9,8 @@ status: "Work In Progress"
 industries: "FSI"
 technology_stack: "Azure Data Lake Storage,Synapse Analytics"
 github_url: https://github.com/MSUSSolutionAccelerators/Risk-Classification-and-Load-Modeling-Solution-Accelerator
+customer_deck_url: https://github.com/MSUSSolutionAccelerators/Risk-Classification-and-Load-Modeling-Solution-Accelerator/blob/main/assets/Risk%20Classification%20and%20Loan%20Modeling%20Customer%20Deck.pptx?raw=true
+customer_overview_url: https://github.com/MSUSSolutionAccelerators/Risk-Classification-and-Load-Modeling-Solution-Accelerator/blob/main/assets/Risk%20Classification%20and%20Loan%20Modeling%20Leave%20Behind%20(Overview).pptx?raw=true
 demo_url: 
 short_text: "Automate processes to ensure compliance with SBA guidelines"
 hero_image: ./assets/images/Risk_Loan_Hero.webp

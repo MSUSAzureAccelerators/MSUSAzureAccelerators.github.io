@@ -9,6 +9,8 @@ status: "Work In Progress"
 industries: "Retail,FSI,HLS,Media and Entertainment"
 technology_stack: "Synapse,Azure Data Lake Storage,Azure Machine Learning,Azure Kubernetes Services,Cosmos DB,Power BI"
 github_url: https://github.com/microsoft/Azure-Synapse-Retail-Recommender-Solution-Accelerator
+customer_overview_url: assets/docs/Retail Recommender Customer Deck.pdf
+customer_deck_url: assets/docs/Retail Recommender Customer Leave Behind (Overview).pptx
 demo_url: 
 short_text: "Provide personalized product recommendations to users based on their purchase history, product selection in the e-commerce channel, and their activity in the physical store"
 hero_image: assets/images/Retail_Recommender_Hero.webp

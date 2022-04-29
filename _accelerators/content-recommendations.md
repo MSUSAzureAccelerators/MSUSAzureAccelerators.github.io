@@ -10,6 +10,8 @@ industries: "Manufacturing,Retail,FSI,HLS,Media and Entertainment"
 technology_stack: "Synapse,Azure Data Lake Storage,Power BI"
 github_url: https://github.com/microsoft/Azure-Synapse-Content-Recommendations-Solution-Accelerator
 demo_url: 
+customer_overview_url: assets/docs/Content Recommendations Customer Leave Behind.pptx
+customer_deck_url: assets/docs/Content Recommendations Overview.pdf
 short_text: "Leverage to find simple, cost-effective ways to gain consumer insights."
 hero_image: assets/images/Content_Recommendation_Hero.webp
 tags: "\"Solution Accelerator\",\"Personalization\",\"Manufacturing\",\"Retail\",\"FSI\",\"HLS\",\"Media and Entertainment\",\"Synapse\",\"Azure Data Lake Storage\",\"Power BI\""

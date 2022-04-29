@@ -9,6 +9,8 @@ status: "Approved"
 industries: "FSI"
 technology_stack: "Cognitive Services,Azure Machine Learning,Power BI,Azure Speech Services,Azure SQL,Azure Storage"
 github_url: https://github.com/MSUSSolutionAccelerators/AI-Powered-Call-Center-Intelligence-Solution-Accelerator
+customer_overview_url: https://github.com/MSUSSolutionAccelerators/AI-Powered-Call-Center-Intelligence-Solution-Accelerator/blob/main/assets/Call%20Center%20Intelligence%20Overview.pdf?raw=true
+customer_deck_url: https://github.com/MSUSSolutionAccelerators/AI-Powered-Call-Center-Intelligence-Solution-Accelerator/blob/main/assets/Call%20Center%20Intelligence%20Customer%20Deck.pdf?raw=true
 demo_url: 
 short_text: "Automates call transcriptions for real-time and previously recorded calls"
 hero_image: assets/images/AI_Call_Center_Hero.webp

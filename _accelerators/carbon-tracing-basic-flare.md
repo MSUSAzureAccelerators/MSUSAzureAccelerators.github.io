@@ -10,8 +10,8 @@ industries: "Manufacturing,Retail,Other,FSI,HLS,Automotive,EDU,Energy,High Tech,
 technology_stack: "Azure Storage,Synapse,Azure Logic Apps,,Power BI,Azure IoT Hub"
 github_url: https://github.com/MSUSSolutionAccelerators/Carbon-Tracing-Basic-Flare-Solution-Accelerator
 demo_url: 
-customer_overview_url: 
-customer_deck_url: 
+customer_overview_url: https://github.com/MSUSSolutionAccelerators/Carbon-Tracing-Basic-Flare-Solution-Accelerator/blob/main/assets/Carbon%20Tracing%20Basic%20Flare%20Overview.pdf?raw=true
+customer_deck_url: https://github.com/MSUSSolutionAccelerators/Carbon-Tracing-Basic-Flare-Solution-Accelerator/blob/main/assets/Carbon%20Tracing%20Basic%20Flare%20Customer%20Leave%20Behind%20(Overview).PPT?raw=true
 short_text: "Speed up migration with ease of development and also use the same for production deployment."
 hero_image: assets/images/Carbon_Tracing_BF_Hero.webp
 tags: "\"Solution Accelerator\",\"Sustainability\",\"Manufacturing\",\"Retail\",\"Other\",\"FSI\",\"HLS\",\"Automotive\",\"EDU\",\"Energy\",\"High Tech\",\"Media and Entertainment\",\"Professional Services\",\"SLG\",\"Horizontal\",\"Azure Storage\",\"Synapse\",\"Azure Logic Apps,\",\"Power BI\",\"Azure IoT Hub\",\"BizApps\",\"Data & AI\""

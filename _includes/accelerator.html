@@ -65,16 +65,34 @@
                 <h3 class="mt-4">Business Value Assets</h3>
                 {%- if page.customer_overview_url  and page.customer_overview_url != "" -%}
                 <div>
+                    {% assign stringToCheck = page.customer_overview_url %}
+                    {% assign startsWith = '/' %}
+                    {% assign checkArray = stringToCheck | split:startsWith %}
+                    {%- if checkArray[0] != 'assets' -%}
                     <a href="{{ page.customer_overview_url -}}" target="_blank" rel="noopener noreferrer">
                         <i class="fa-solid fa-file-pdf fa-xs"></i> Solution Overview
                     </a>
+                    {%- else -%}
+                    <a href="../{{ page.customer_overview_url -}}" target="_blank" rel="noopener noreferrer">
+                        <i class="fa-solid fa-file-pdf fa-xs"></i> Solution Overview
+                    </a>
+                    {%- endif -%}
                 </div>
                 {%- endif -%}
                 {%- if page.customer_deck_url  and page.customer_deck_url != "" -%}
                 <div>
-                    <a href=" {{ page.customer_deck_url -}}" target="_blank" rel="noopener noreferrer">
+                    {% assign stringToCheck = page.customer_deck_url %}
+                    {% assign startsWith = '/' %}
+                    {% assign checkArray = stringToCheck | split:startsWith %}
+                    {%- if checkArray[0] != 'assets' -%}
+                    <a href="{{ page.customer_deck_url -}}" target="_blank" rel="noopener noreferrer">
                         <i class="fa-solid fa-file-pdf fa-xs"></i> Solution Deck
                     </a>
+                    {%- else -%}
+                    <a href="../{{ page.customer_deck_url -}}" target="_blank" rel="noopener noreferrer">
+                        <i class="fa-solid fa-file-pdf fa-xs"></i> Solution Deck
+                    </a>
+                    {%- endif -%}
                 </div>
                 {%- endif -%}
                 {%- endif -%}

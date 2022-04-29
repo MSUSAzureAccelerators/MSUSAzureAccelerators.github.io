@@ -9,6 +9,8 @@ status: "Approved"
 industries: "Media and Entertainment"
 technology_stack: ""
 github_url: https://github.com/MSUSSolutionAccelerators/Digital-Experience-Solution
+customer_overview_url: https://github.com/MSUSSolutionAccelerators/Digital-Experience-Solution/blob/main/assets/Digital%20Experience%20Solution%20Overview%20Deck.pdf?raw=true
+customer_deck_url: https://github.com/MSUSSolutionAccelerators/Digital-Experience-Solution/blob/main/assets/Digital%20Experience%20Solution%20One-Pager.pdf?raw=true
 demo_url: 
 short_text: "Move the entire live stream process offsite and into the cloud"
 hero_image: ./assets/images/Live_Events_Hero.webp

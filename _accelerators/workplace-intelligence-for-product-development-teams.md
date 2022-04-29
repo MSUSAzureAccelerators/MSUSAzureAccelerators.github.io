@@ -9,6 +9,8 @@ status: "Approved"
 industries: "High Tech,Automotive,EDU,Energy,FSI,HLS,Manufacturing,Media and Entertainment,Professional Services,Retail,SLG,Horizontal"
 technology_stack: "Azure DevOps,Workplace Analytics,Viva,Synapse,Power BI"
 github_url: https://github.com/MSUSSolutionAccelerators/Workplace-Intelligence-Solution-Accelerator
+customer_overview_url: https://github.com/MSUSSolutionAccelerators/Workplace-Intelligence-Solution-Accelerator/blob/main/assets/Workplace%20Intelligence%20for%20Product%20Development%20teams%20Customer%20Leave%20Behind%20(Overview).pptx?raw=true
+customer_deck_url: https://github.com/MSUSSolutionAccelerators/Workplace-Intelligence-Solution-Accelerator/blob/main/assets/Workplace%20Intelligence%20for%20Product%20Development%20teams%20Customer%20Deck.pdf?raw=true
 demo_url: 
 short_text: "Uncover and leverage the key drivers of productivity and success for product development teams"
 hero_image: assets/images/Workplace_Intelligence_Hero.webp

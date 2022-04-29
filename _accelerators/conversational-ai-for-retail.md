@@ -10,8 +10,8 @@ industries: "Retail"
 technology_stack: "Azure Machine Learning,Bot Framework,Cognitive Services"
 github_url: https://github.com/MSUSSolutionAccelerators/Conversational-AI-Solution-Accelerator
 demo_url: 
-customer_overview_url: 
-customer_deck_url: 
+customer_overview_url: https://github.com/MSUSSolutionAccelerators/Conversational-AI-Solution-Accelerator/blob/main/assets/Conversational%20AI%20(Retail)%20Overview.pdf?raw=true
+customer_deck_url: https://github.com/MSUSSolutionAccelerators/Conversational-AI-Solution-Accelerator/blob/main/assets/Conversational%20AI%20(Retail)%20Customer%20Desk.pdf?raw=true
 short_text: "Enables quick implementation of conversational AI into communication channels like chatbots, consumer voice assistants, and as an augmentation layer within existing IVR system."
 hero_image: assets/images/Conversational_AI_Hero.webp
 tags: "\"Solution Accelerator\",\"Personalization\",\"Process Automation\",\"Retail\",\"Azure Machine Learning\",\"Bot Framework\",\"Cognitive Services\",\"Modern Workplace\",\"Data & AI\""

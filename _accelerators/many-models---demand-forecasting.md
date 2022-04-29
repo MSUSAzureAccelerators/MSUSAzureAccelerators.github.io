@@ -9,6 +9,8 @@ status: "In Review"
 industries: "Manufacturing,Retail,FSI,HLS,Media and Entertainment"
 technology_stack: "Azure Machine Learning,Power BI"
 github_url: https://github.com/microsoft/solution-accelerator-many-models
+customer_overview_url: assets/docs/Demand Forecasting Customer Deck.pdf
+customer_deck_url: assets/docs/Demand Forecasting Customer Deck.pdf
 demo_url: 
 short_text: "Train data from multiple sources to forecast future demand."
 hero_image: assets/images/Many_Models_Hero.webp

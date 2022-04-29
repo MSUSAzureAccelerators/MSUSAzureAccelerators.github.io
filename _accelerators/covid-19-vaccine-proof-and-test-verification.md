@@ -9,6 +9,8 @@ status: "In Review"
 industries: "Manufacturing,Retail,FSI,HLS,SLG"
 technology_stack: "Form Recognizer,Azure Storage,Azure Logic Apps,Cosmos DB,Synapse Analytics,Power BI"
 github_url: https://github.com/microsoft/Azure-Solution-Accelerator-to-automate-COVID-19-Vaccination-Proof-and-Test-Verification-Forms
+customer_overview_url: assets/docs/COVID-19 Vaccine Proof and Test Verification Overview.pdf
+customer_deck_url: assets/docs/COVID-19 Vaccine Proof and Test Verification Customer Deck.pdf
 demo_url: 
 short_text: "Mass processes and digitizes vaccine and viral test result forms."
 hero_image: assets/images/COVID_Testing_Hero.webp
