@@ -6,7 +6,7 @@ accelerator_type: Solution Accelerator
 classification: 
 industries: "Horizontal"
 technology_stack: "Azure Machine Learning, Bot Services, Cognitive Search, Cognitive Services"
-github_url: na
+github_url: 
 short_text: Extract data from structured and unstructured documents to streamline processes and leverages workflow automation.
 hero_image: 
 description: Extract data from structured and unstructured documents to streamline processes and leverages workflow automation.

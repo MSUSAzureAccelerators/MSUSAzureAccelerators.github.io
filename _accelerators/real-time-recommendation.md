@@ -6,7 +6,7 @@ accelerator_type: Solution Accelerator
 classification: 
 industries: "Retail & Consumer Goods"
 technology_stack: "Azure Data Lake, Azure Synapse Analytics, Power BI, Azure Machine Learning, Azure Kubernetes, Azure Event Hub"
-github_url: na
+github_url: 
 short_text: Make customer item recommendations in real-time based on the customer's activity on website.
 hero_image: 
 description: Make customer item recommendations in real-time based on the customer's activity on website.

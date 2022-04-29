@@ -6,7 +6,7 @@ accelerator_type: Solution Accelerator
 classification: "Supply Chain"
 industries: "Manufacturing"
 technology_stack: "AI, Azure Machine Learning"
-github_url: na
+github_url: 
 short_text: Detect product quality issues by typically using cognitive services over image data.
 hero_image: 
 description: Detect product quality issues by typically using cognitive services over image data.

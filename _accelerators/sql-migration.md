@@ -6,7 +6,7 @@ accelerator_type: Technology Accelerator
 classification: "Technology Accelerator"
 industries: "Tech Plug-Ins, Horizontal"
 technology_stack: "SQL MI"
-github_url: na
+github_url: 
 short_text: Replicate multiple tables from across multiple sources in a performant manner, regardless of where they are hosting their copies. 
 hero_image: 
 description: Stats database that can handle replicating multiple tables from across multiple sources in a performant manner, regardless of where they are hosting their copies. 

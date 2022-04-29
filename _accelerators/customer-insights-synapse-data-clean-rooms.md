@@ -6,7 +6,7 @@ accelerator_type: Solution Accelerator
 classification: 
 industries: "Media and Entertainment"
 technology_stack: 
-github_url: na
+github_url: 
 short_text: Data cleaning rooms in cookie less world.
 hero_image: 
 description: The interface between data enrichment providers, Dynamics CI as store for Customer 360, Synapse as the analytics platform for Customer and other domain datasets. The role Synapse analytics play in Data cleaning rooms in cookie less world. 

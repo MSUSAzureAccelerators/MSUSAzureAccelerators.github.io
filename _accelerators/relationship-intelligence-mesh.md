@@ -6,7 +6,7 @@ accelerator_type: Solution Accelerator
 classification: 
 industries: "Media and Entertainment,Financial Services"
 technology_stack: "Azure Synapse"
-github_url: na
+github_url: 
 short_text: Insights about the strength of relationship with customers and their key contacts.
 hero_image: 
 description: Build a mesh dashboard that will show how sellers are developing relationships with high priority customers and actions to take to improve the connectivity scores.

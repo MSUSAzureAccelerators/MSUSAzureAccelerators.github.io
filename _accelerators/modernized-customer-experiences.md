@@ -6,7 +6,7 @@ accelerator_type: Solution Accelerator
 classification: 
 industries: "Horizontal"
 technology_stack: "Azure Machine Learning, Bot Services, Cognitive Services (Translation)"
-github_url: na
+github_url: 
 short_text: Improve and standardize brand experience while empowering users to self-serve.
 hero_image: 
 description: Improve and standardize brand experience while empowering users to self-serve.

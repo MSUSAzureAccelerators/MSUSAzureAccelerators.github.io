@@ -6,7 +6,7 @@ accelerator_type: Solution Accelerator
 classification: 
 industries: "State and Local Government"
 technology_stack: "Azure AI, Azure Machine Learning, Cognitive Services, Data Storage, Power Apps"
-github_url: na
+github_url: 
 short_text: Leverage data in multiple digital formats and apply to enrich, filter, and sort the raw data.
 hero_image: 
 description: Leverage data in multiple digital formats and apply to enrich, filter, and sort the raw data into context-based clusters for focused investigation. 

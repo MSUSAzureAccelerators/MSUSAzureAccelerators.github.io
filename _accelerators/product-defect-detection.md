@@ -6,7 +6,7 @@ accelerator_type: Solution Accelerator
 classification: 
 industries: "Manufacturing"
 technology_stack: 
-github_url: na
+github_url: 
 short_text: Reduce rework, waste, risk exposure and product recalls.
 hero_image: 
 description: Reduce quality defects through detecting and monitoring the production line using video analytics which reduces rework, waste, risk exposure and product recalls.

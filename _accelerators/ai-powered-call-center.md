@@ -6,7 +6,7 @@ accelerator_type: Solution Accelerator
 classification: "Personalization"
 industries: "Horizontal"
 technology_stack: "Azure Machine Learning, Bot Services, Cognitive Services (transcription)"
-github_url: na
+github_url: 
 short_text: Reduce contact center costs and improve user experience.
 hero_image: 
 description: Reduce contact center costs and improve user experience.

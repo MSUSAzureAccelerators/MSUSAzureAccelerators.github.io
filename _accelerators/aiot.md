@@ -6,7 +6,7 @@ accelerator_type: Solution Accelerator
 classification: 
 industries: "Manufacturing, Supply Chain"
 technology_stack: 
-github_url: na
+github_url: 
 short_text: Drive outcomes related to building more agile factories, creating more resilient supply chains, and transforming workforces. 
 hero_image: 
 description: Manufacturing focused scenario that leverages AI and IOT devices to drive outcomes related to building more agile factories, creating more resilient supply chains, and transforming their workforces. 

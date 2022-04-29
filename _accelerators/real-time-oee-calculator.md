@@ -6,7 +6,7 @@ accelerator_type: Solution Accelerator
 classification: 
 industries: "Manufacturing"
 technology_stack: 
-github_url: na
+github_url: 
 short_text: Information coming soon
 hero_image: 
 description: Information coming soon
