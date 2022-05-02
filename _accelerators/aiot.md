@@ -6,7 +6,7 @@ accelerator_type: "Solution Accelerator Family"
 classification: "Process Automation"
 solution_area: "Data & AI"
 status: "Submitted"
-industries: "Manufacturing,Automotive"
+industries: "Manufacturing,Automotive,Retail,HLS,SLG"
 technology_stack: "AIoT,IoT,Azure Custom Vision,Cognitive Services"
 github_url: 
 demo_url: 
@@ -21,4 +21,20 @@ order: 1
 ---
 ## About this Solution Accelerator Family
 
-More information coming soon.
+Artificial Intelligence (AI) and the Internet of Things (IoT) are transforming how people, devices, and data interact in every sphere of life.
+
+However, the pace of change is exponential. Organizations often struggle to spot new technologies quickly or they may miss important pieces to build their ecosystem - making them unable to move fast enough develop their potential.
+
+The Artificial Intelligence of Things (AIoT) is the combination of artificial intelligence (AI) technologies with the Internet of Things (IoT) infrastructure to achieve more efficient IoT operations, improve human-machine interactions and enhance data management and analytics. AI can be used to transform IoT data into useful information for improved decision making processes, thus creating a foundation for newer technology such as IoT Data as a Service (IoTDaaS).
+
+### Core Azure Services That Support AIoT
+
+__IoT__                 | __AI__
+--------------------|--------
+IoT Hub             | Cognitive Services
+IoT Central         | Bot Framework
+IoT Edge            | Azure Cognitive Search
+Azure Digital Twins | Azure Machine Learning
+Azure Sphere        | Custom Vision
+
+> Gartner estimates that over 80% of enterprise IoT projects will incorporate AI by the end of 2022
