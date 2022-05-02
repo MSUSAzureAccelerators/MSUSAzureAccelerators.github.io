@@ -5,7 +5,7 @@ title: "AIoT"
 accelerator_type: "Solution Accelerator Family"
 classification: "Process Automation"
 solution_area: "Data & AI"
-status: "Approved"
+status: "Submitted"
 industries: "Manufacturing,Automotive"
 technology_stack: "AIoT,IoT,Azure Custom Vision,Cognitive Services"
 github_url: 
