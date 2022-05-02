@@ -12,7 +12,7 @@ github_url:
 demo_url: 
 customer_overview_url: 
 customer_deck_url: 
-short_text: "More information coming soon."
+short_text: "Transform how people, devices, and data interact in daily life and work."
 hero_image: assets/images/AIOT_Hero.webp
 tags: "\"Solution Accelerator Family\",\"Process Automation\",\"Manufacturing\",\"Automotive\",\"AIoT\",\"IoT\",\"Azure Custom Vision\",\"Cognitive Services\",\"Data & AI\""
 last_updated: "May 02, 2022 08:21:25 PM"
