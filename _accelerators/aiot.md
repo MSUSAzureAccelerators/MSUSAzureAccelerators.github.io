@@ -6,7 +6,7 @@ accelerator_type: "Solution Accelerator Family"
 classification: "Process Automation"
 solution_area: "Data & AI"
 status: "Submitted"
-industries: "Manufacturing,Automotive,Retail,HLS,SLG"
+industries: "Manufacturing,Automotive"
 technology_stack: "AIoT,IoT,Azure Custom Vision,Cognitive Services"
 github_url: 
 demo_url: 
@@ -15,7 +15,7 @@ customer_deck_url:
 short_text: "Transform how people, devices, and data interact in daily life and work."
 hero_image: assets/images/AIOT_Hero.webp
 tags: "\"Solution Accelerator Family\",\"Process Automation\",\"Manufacturing\",\"Automotive\",\"AIoT\",\"IoT\",\"Azure Custom Vision\",\"Cognitive Services\",\"Data & AI\""
-last_updated: "May 02, 2022 08:21:25 PM"
+last_updated: "May 03, 2022 01:16:27 PM"
 related: "AIoT---Automated-Quality-Inspection.html,AIoT---Factory-and-Worker-Safety.html,AIoT---Inventory-Lifecycle-Management.html,AIoT---Predictive-Maintenance.html,Manufacturing-Vision---AMD64.html,Manufacturing-Vision---ARM64.html"
 order: 1
 ---
