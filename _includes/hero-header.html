@@ -1,0 +1,16 @@
+<div class="hero h-[200px] bg-[url('../../{{ page.hero_image }}')]">
+    <div class="hero-overlay bg-opacity-60">
+        <div class="hero-content text-left text-neutral-content">
+            <div class="w-[100vw]">
+                <h1>{{ page.title }}</h1>
+                {%- if page.status == "Approved" -%}
+                <p class="supertitle mt-0">{{ page.accelerator_type -}} (GA)</p>
+                {%- elsif page.status == "Submitted" -%}
+                <p class="supertitle mt-0">{{ page.accelerator_type -}} (BETA)</p>
+                {%- else -%}
+                <p class="supertitle mt-0">{{ page.accelerator_type -}} (RC)</p>
+                {%- endif -%}
+            </div>
+        </div>
+    </div>
+</div>
