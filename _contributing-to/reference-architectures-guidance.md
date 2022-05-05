@@ -1,4 +1,4 @@
-# Guidelines for Reference Architectures on MSUS Solution Accelerators
+# Guidelines for Reference Architectures on MSUS Solution Accelerators (DRAFT)
 
 ## What is a Reference Architecture?
 
@@ -46,7 +46,7 @@ In other cases, the series contains a set of recommended alternatives for a sing
 
 We use a consistent structure for reference architecture documents. That said, if the structure doesn't work for a particular case, we can and should evolve the structure.
 
-> See also: [Markdown template for reference architectures](./templates/reference-architecture.md)
+> See also: [Markdown template for reference architectures](./templates/reference-architecture-template.md)
 
 ### Title  - State the scenario
 
