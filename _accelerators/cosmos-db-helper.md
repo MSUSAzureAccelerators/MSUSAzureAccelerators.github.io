@@ -12,10 +12,10 @@ github_url: https://github.com/microsoft/CosmosDB-Solution-Accelerator-CosmosDB-
 demo_url: 
 customer_overview_url: 
 customer_deck_url: 
-short_text: "Allow developers to build Cosmos DB-based applications quickly and easily."
+short_text: "Allow developers to build Cosmos DB-based applications quickly and easily"
 hero_image: assets/images/Cosmos_DB_Hero.webp
 tags: "\"Technology Accelerator\",\"Manufacturing\",\"Retail\",\"Other\",\"FSI\",\"HLS\",\"Automotive\",\"EDU\",\"Energy\",\"High Tech\",\"Media and Entertainment\",\"Professional Services\",\"SLG\",\"Horizontal\",\"Cosmos DB\",\"Mongo DB,\",\"SQL API\",\"Visual Studio\",\"Apps & Infrastructure\""
-last_updated: "April 27, 2022 01:27:07 PM"
+last_updated: "May 06, 2022 07:26:59 PM"
 related: ""
 order: 2
 ---
