@@ -11,14 +11,14 @@
             </li>
         </ol>
     </nav>
-    <h1 class="mb-6 md:text-3xl sm:text-2xl xs:text-xl">Solution Accelerator Directory</h1>
+    <h2 class=" ml-6 mb-6 md:text-3xl sm:text-2xl xs:text-xl">Solution Accelerator Directory</h2>
     <div class="shuffle-js">
         <div class="accelerator-grid" role="main">
             <div id="left-container" class="flex flex-col justify-start" role="group">
                 <div class="filter-links text-center border-0" data-inview-showup="showup-translate-up">
                     <a aria-label="All Items Filter" class="filter-link active" data-filter='all' href="#">All</a>
                 </div>
-                <h2 class="mb-1 mt-1 text-center md:text-2xl sm:text-xl xs:text-lg">Accelerator Type</h2>
+                <h3 class="mb-1 mt-1 text-center md:text-2xl sm:text-xl xs:text-lg">Accelerator Type</h3>
                 <div class="filter-links text-center" data-inview-showup="showup-translate-up">
                     <a aria-label="Solution Accelerator Family" class="filter-link" href="#"
                         data-filter='["SolutionAcceleratorFamily"]'><i class="fa-solid fa-people-group"></i> Accelerator
@@ -37,7 +37,7 @@
                         data-filter='["ReferenceArchitecture"]'><i class="fa-solid fa-building-columns"></i>
                         Reference Architecture</a>
                 </div>
-                <h2 class="mb-1 mt-1 text-center md:text-2xl sm:text-xl xs:text-lg">Industry Alignment</h2>
+                <h3 class="mb-1 mt-1 text-center md:text-2xl sm:text-xl xs:text-lg">Industry Alignment</h3>
                 <div class="filter-links text-center" data-inview-showup="showup-translate-up">
                     <a aria-label="Automotive" class="filter-link" href="#" data-filter='["Automotive"]'><i
                             class="fa-solid fa-car"></i> Automotive</a>
@@ -72,7 +72,7 @@
                     <a aria-label="Horizontal" class="filter-link" href="#" data-filter='["Horizontal"]'><i
                             class="fa-solid fa-arrows-left-right"></i> Horizontal</a>
                 </div>
-                <h2 class="mb-1 mt-1 text-center md:text-2xl sm:text-xl xs:text-lg">Relevant Personas</h2>
+                <h3 class="mb-1 mt-1 text-center md:text-2xl sm:text-xl xs:text-lg">Relevant Personas</h3>
                 <div class="filter-links text-center" data-inview-showup="showup-translate-up">
                     <a aria-label="Campaign Management" class="filter-link" href="#"
                         data-filter='["CampaignManagement"]'>Campaign Management</a>
@@ -93,7 +93,7 @@
                     <a aria-label="Workplace Intelligence" class="filter-link" href="#"
                         data-filter='["WorkplaceIntelligence"]'>Workplace Intelligence</a>
                 </div>
-                <h2 class="mb-1 mt-1 text-center md:text-2xl sm:text-xl xs:text-lg">Share</h2>
+                <h3 class="mb-1 mt-1 text-center md:text-2xl sm:text-xl xs:text-lg">Share</h3>
                 {%- include social-links.html -%}
             </div>
             <div id="right-container" class="mr-4" role="region" aria-label="Accelerator List">
@@ -129,9 +129,9 @@
                                 {{ accelerator.accelerator_type -}} (RC)</div>
                             {%- endif -%}
                             <a href="{{ accelerator.url -}}">
-                                <h3
+                                <h4
                                     class="mb-2 text-xl font-semibold tracking-tight text-gray-900 card__title">
-                                    {{ accelerator.short_name -}}</h3>
+                                    {{ accelerator.short_name -}}</h4>
                             </a>
                             <p class="mb-3 font-normal text-gray-700 card__text">
                                 {{ accelerator.short_text -}}
