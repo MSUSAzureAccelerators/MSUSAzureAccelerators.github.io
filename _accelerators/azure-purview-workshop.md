@@ -5,7 +5,7 @@ title: "Azure Purview Workshop"
 accelerator_type: "Hands-On-Lab"
 classification: "Process Automation"
 solution_area: "Apps & Infrastructure"
-status: "Submitted"
+status: "GA"
 industries: "Horizontal,Automotive,EDU,Energy,FSI,High Tech,HLS,Manufacturing,Media and Entertainment,Professional Services,Retail,SLG"
 technology_stack: "Purview,Azure Data Lake Storage,Azure KeyVault,Azure SQL,Synapse Analytics"
 github_url: https://github.com/tayganr/purviewlab
@@ -15,7 +15,7 @@ customer_deck_url:
 short_text: "Hands-on-Lab to explore the functionality of Azure Purview, a unified data governance service that helps you manage and govern your on-premises, multi-cloud and software-as-a-service (SaaS) data"
 hero_image: assets/images/Purview_HOL_Hero.webp
 tags: "\"Hands-On-Lab\",\"Process Automation\",\"Horizontal\",\"Automotive\",\"EDU\",\"Energy\",\"FSI\",\"High Tech\",\"HLS\",\"Manufacturing\",\"Media and Entertainment\",\"Professional Services\",\"Retail\",\"SLG\",\"Purview\",\"Azure Data Lake Storage\",\"Azure KeyVault\",\"Azure SQL\",\"Synapse Analytics\",\"Apps & Infrastructure\""
-last_updated: "April 27, 2022 12:35:12 PM"
+last_updated: "May 06, 2022 09:41:52 PM"
 related: "Azure-Purview-Custom-Connector.html,Azure-Purview-Custom-Types-Tool.html,Data-Governance-Demo-Generator.html,Azure-Purview-ML-Lineage.html"
 order: 2
 ---

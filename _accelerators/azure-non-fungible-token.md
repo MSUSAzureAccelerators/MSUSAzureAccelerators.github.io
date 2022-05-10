@@ -5,7 +5,7 @@ title: "Azure Non-Fungible Token"
 accelerator_type: "Technology Accelerator"
 classification: "Financial"
 solution_area: "Apps & Infrastructure"
-status: "Work In Progress"
+status: "GA"
 industries: "Horizontal,Automotive,EDU,Energy,FSI,High Tech,HLS,Manufacturing,Media and Entertainment,Professional Services,Retail,SLG"
 technology_stack: "Cosmos DB,Azure Kubernetes Services,Azure Container Registry,Azure KeyVault,Azure Virtual Machine"
 github_url: https://github.com/microsoft/Azure-Non-Fungible-Token-Solution-Accelerator
@@ -15,7 +15,7 @@ customer_deck_url:
 short_text: "Create an enterprise-class NFT that is secure, easy to use, and extensible to other enterprise applications."
 hero_image: assets/images/NFT_Hero.webp
 tags: "\"Technology Accelerator\",\"Financial\",\"Horizontal\",\"Automotive\",\"EDU\",\"Energy\",\"FSI\",\"High Tech\",\"HLS\",\"Manufacturing\",\"Media and Entertainment\",\"Professional Services\",\"Retail\",\"SLG\",\"Cosmos DB\",\"Azure Kubernetes Services\",\"Azure Container Registry\",\"Azure KeyVault\",\"Azure Virtual Machine\",\"Apps & Infrastructure\""
-last_updated: "April 27, 2022 03:39:51 PM"
+last_updated: "May 06, 2022 09:39:16 PM"
 related: ""
 order: 2
 ---

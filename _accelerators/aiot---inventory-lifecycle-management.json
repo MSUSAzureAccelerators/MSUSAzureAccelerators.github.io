@@ -1,0 +1,25 @@
+{
+  "aiot---inventory-lifecycle-management": {
+    "short_name": "AIoT - Inventory Lifecycle Management",
+    "name": "AIoT - Inventory Lifecycle Management",
+    "title": "AIoT - Inventory Lifecycle Management",
+    "accelerator_type": "Reference Architecture",
+    "classification": "Process Automation,Supply Chain",
+    "solution_area": "Data & AI",
+    "status": "Nominated",
+    "industries": "Manufacturing,Automotive",
+    "technology_stack": "Azure Container Registry,Azure DevOps,Azure IoT Hub,Azure Machine Learning,Azure SQL,Azure Storage,Cognitive Services,Docker,Power BI,Python",
+    "github_url": "https://github.com/MSUSSolutionAccelerators/Manufacturing-Vision-Solution-Accelerator-AMD64",
+    "demo_url": null,
+    "customer_overview_url": null,
+    "customer_deck_url": null,
+    "short_text": "Drive outcomes related to building more agile factories, creating more resilient supply chains, and transforming workforces.",
+    "hero_image": "assets/images/AIOT_Inventory_Lifecycle_Management_Hero.webp",
+    "tags": "\"Reference Architecture\",\"Process Automation\",\"Supply Chain\",\"Manufacturing\",\"Automotive\",\"Azure Container Registry\",\"Azure DevOps\",\"Azure IoT Hub\",\"Azure Machine Learning\",\"Azure SQL\",\"Azure Storage\",\"Cognitive Services\",\"Docker\",\"Power BI\",\"Python\",\"Data & AI\"",
+    "last_updated": "May 06, 2022 09:44:11 PM",
+    "related": "AIoT---Automated-Quality-Inspection.html,AIoT---Factory-and-Worker-Safety.html,AIoT---Predictive-Maintenance.html,Inventory-Management.html",
+    "order": 2,
+    "preview": "## About this Solution Accelerator\n\nThe Artificial Intelligence of Things (AIoT) is the combination of artificial intelligence (AI) technologies with the Internet of Things (IoT) infrastructure to achieve more efficient IoT operations, improve human-machine interactions and enhance data management and analytics. AI can be used to transform IoT data into useful information for improved decision-making processes, thus creating a foundation for newer technology such as IoT Data as a Service (IoTDaaS).",
+    "basename": "aiot---inventory-lifecycle-management"
+  }
+}

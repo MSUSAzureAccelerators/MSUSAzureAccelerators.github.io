@@ -1,0 +1,19 @@
+{
+  "factory-control-tower-agile-factory": {
+    "short_name": "Factory Control Tower (Agile Factory)",
+    "name": "Factory Control Tower (Agile Factory) Solution Accelerator",
+    "title": "Factory Control Tower (Agile Factory) Solution Accelerator",
+    "accelerator_type": "Solution Accelerator",
+    "classification": null,
+    "industries": "Manufacturing",
+    "technology_stack": null,
+    "github_url": null,
+    "short_text": "Operational visibility into production processes and assets.",
+    "hero_image": null,
+    "description": "Operational visibility into production processes and assets.",
+    "tags": "\"Manufacturing\",\"Solution Accelerator\"",
+    "order": 2,
+    "preview": "## About this Solution Accelerator\r\n\r\nMore information coming soon.",
+    "basename": "factory-control-tower-agile-factory"
+  }
+}

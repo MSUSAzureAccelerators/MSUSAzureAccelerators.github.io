@@ -5,7 +5,7 @@ title: "AIoT - Predictive Maintenance"
 accelerator_type: "Reference Architecture"
 classification: "Process Automation"
 solution_area: "Data & AI"
-status: "Submitted"
+status: "Nominated"
 industries: "Manufacturing,Automotive"
 technology_stack: "Azure Container Registry,Azure DevOps,Azure IoT Hub,Azure KeyVault,Azure Machine Learning,Azure SQL,Azure Storage,Cognitive Services,Docker,Power BI,Python"
 github_url: https://github.com/MSUSSolutionAccelerators/Manufacturing-Vision-Solution-Accelerator-AMD64
@@ -15,7 +15,7 @@ customer_deck_url:
 short_text: "Drive outcomes related to building more agile factories, creating more resilient supply chains, and transforming workforces."
 hero_image: assets/images/AIOT_Predictive_Maintenance_Hero.webp
 tags: "\"Reference Architecture\",\"Process Automation\",\"Manufacturing\",\"Automotive\",\"Azure Container Registry\",\"Azure DevOps\",\"Azure IoT Hub\",\"Azure KeyVault\",\"Azure Machine Learning\",\"Azure SQL\",\"Azure Storage\",\"Cognitive Services\",\"Docker\",\"Power BI\",\"Python\",\"Data & AI\""
-last_updated: "April 27, 2022 01:16:16 PM"
+last_updated: "May 06, 2022 09:44:11 PM"
 related: ""
 order: 2
 ---

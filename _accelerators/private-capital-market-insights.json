@@ -1,0 +1,19 @@
+{
+  "private-capital-market-insights": {
+    "short_name": "Private Capital Market insights",
+    "name": "Private Capital Market insights Solution Accelerator",
+    "title": "Private Capital Market insights Solution Accelerator",
+    "accelerator_type": "Solution Accelerator",
+    "classification": null,
+    "industries": "Financial Services",
+    "technology_stack": null,
+    "github_url": null,
+    "short_text": "Private market due diligence around investment decisions.",
+    "hero_image": null,
+    "description": "Combine organizational relationship insights with data insights from Pitchbook an industry data knowledge base around VC, PE, and M&A landscapes for the private market due diligence around investment decisions.",
+    "tags": "\"Financial Services\",\"Solution Accelerator\"",
+    "order": 2,
+    "preview": "## About this Solution Accelerator\r\n\r\nMore information coming soon.",
+    "basename": "private-capital-market-insights"
+  }
+}

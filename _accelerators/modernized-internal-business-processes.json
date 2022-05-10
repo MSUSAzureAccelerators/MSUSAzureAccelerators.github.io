@@ -1,0 +1,19 @@
+{
+  "modernized-internal-business-processes": {
+    "short_name": "Modernized Internal Business Processes",
+    "name": "Modernized Internal Business Processes Solution Accelerator",
+    "title": "Modernized Internal Business Processes Solution Accelerator",
+    "accelerator_type": "Solution Accelerator",
+    "classification": null,
+    "industries": "Horizontal",
+    "technology_stack": "Azure Machine Learning, Bot Services, Cognitive Search, Cognitive Services",
+    "github_url": null,
+    "short_text": "Extract data from structured and unstructured documents to streamline processes and leverages workflow automation.",
+    "hero_image": null,
+    "description": "Extract data from structured and unstructured documents to streamline processes and leverages workflow automation.",
+    "tags": "\"Horizontal\", \"Azure Machine Learning\", \"Bot Services\", \"Cognitive Search\", \"Cognitive Services\", \"Solution Accelerator\"",
+    "order": 1,
+    "preview": "## About this Solution Accelerator\r\n\r\nMore information coming soon.",
+    "basename": "modernized-internal-business-processes"
+  }
+}

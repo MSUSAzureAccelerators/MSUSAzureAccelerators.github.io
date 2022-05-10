@@ -1,0 +1,19 @@
+{
+  "propensity-to-pay": {
+    "short_name": "Propensity to Pay",
+    "name": "Propensity to Pay Solution Accelerator",
+    "title": "Propensity to Pay Solution Accelerator",
+    "accelerator_type": "Solution Accelerator",
+    "classification": "Financial",
+    "industries": "Horizontal,Finance",
+    "technology_stack": null,
+    "github_url": null,
+    "short_text": "Provide predictive analytics for different payment services.",
+    "hero_image": null,
+    "description": "Analyze recurring customer payments to help combat increasing payment defaults and customer screening difficulties, which scales to provide predictive analytics for different payment services.",
+    "tags": "\"Horizontal\",\"Solution Accelerator\"",
+    "order": 2,
+    "preview": "## About this Solution Accelerator\r\n\r\nMore information coming soon.",
+    "basename": "propensity-to-pay"
+  }
+}

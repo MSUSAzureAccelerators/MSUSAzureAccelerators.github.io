@@ -1,3 +1,4 @@
 .vscode/*
 .jekyll-cache/*
 _site/*
+_accelerators/files.txt

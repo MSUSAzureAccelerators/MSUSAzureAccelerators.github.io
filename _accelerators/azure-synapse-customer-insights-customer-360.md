@@ -5,7 +5,7 @@ title: "Azure Synapse Customer Insights Customer 360"
 accelerator_type: "Technology Accelerator"
 classification: "Professional Services"
 solution_area: "Data & AI,Modern Workplace"
-status: "Approved"
+status: "GA"
 industries: "Retail,Other,FSI,Automotive,EDU,Energy,High Tech,HLS,Manufacturing,Media and Entertainment,Professional Services,SLG,Horizontal"
 technology_stack: "Customer Insights,Azure Data Lake Storage,Synapse,Azure Machine Learning,Power BI"
 github_url: https://github.com/microsoft/Azure-Synapse-Customer-Insights-Customer360-Solution-Accelerator
@@ -15,7 +15,7 @@ customer_deck_url:
 short_text: "Improve customer experience, specifically around increasing customer retention."
 hero_image: assets/images/Customer_Insights_Hero.webp
 tags: "\"Technology Accelerator\",\"Professional Services\",\"Retail\",\"Other\",\"FSI\",\"Automotive\",\"EDU\",\"Energy\",\"High Tech\",\"HLS\",\"Manufacturing\",\"Media and Entertainment\",\"Professional Services\",\"SLG\",\"Horizontal\",\"Customer Insights\",\"Azure Data Lake Storage\",\"Synapse\",\"Azure Machine Learning\",\"Power BI\",\"Data & AI\",\"Modern Workplace\""
-last_updated: "April 27, 2022 12:37:02 PM"
+last_updated: "May 06, 2022 09:46:48 PM"
 related: ""
 order: 2
 ---

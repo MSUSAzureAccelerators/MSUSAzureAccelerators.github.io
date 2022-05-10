@@ -1,0 +1,19 @@
+{
+  "data-migration-consumption-plays": {
+    "short_name": "Data Migration Consumption Plays",
+    "name": "Data Migration Consumption Plays Solution Accelerator",
+    "title": "Data Migration Consumption Plays Solution Accelerator",
+    "accelerator_type": "Solution Accelerator",
+    "classification": null,
+    "industries": "Horizontal",
+    "technology_stack": null,
+    "github_url": null,
+    "short_text": "Targeted, proactive approach in driving additional consumption.",
+    "hero_image": null,
+    "description": "Quickly deploy a Synapse POC environment in their customer tenant that comes pre-populated. Provide quick demonstration of the capabilities of the service in a cost-effective way through a targeted, proactive approach in driving additional consumption.",
+    "tags": "\"Horizontal\",\"Solution Accelerator\"",
+    "order": 2,
+    "preview": "## About this Solution Accelerator\r\n\r\nMore information coming soon.",
+    "basename": "data-migration-consumption-plays"
+  }
+}

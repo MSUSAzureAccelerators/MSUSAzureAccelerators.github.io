@@ -1,0 +1,19 @@
+{
+  "digital-factory-agility": {
+    "short_name": "Digital Factory Agility",
+    "name": "Digital Factory Agility Solution Accelerator",
+    "title": "Digital Factory Agility Solution Accelerator",
+    "accelerator_type": "Solution Accelerator",
+    "classification": null,
+    "industries": "Retail & Consumer Goods",
+    "technology_stack": null,
+    "github_url": null,
+    "short_text": "Information coming soon",
+    "hero_image": null,
+    "description": "Information coming soon",
+    "tags": "\"Retail & Consumer Goods\",\"Solution Accelerator\"",
+    "order": 2,
+    "preview": "## About this Solution Accelerator\r\n\r\nMore information coming soon.",
+    "basename": "digital-factory-agility"
+  }
+}

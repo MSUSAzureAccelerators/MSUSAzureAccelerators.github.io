@@ -1,0 +1,19 @@
+{
+  "prospectus-document-classification-and-metadata-extraction": {
+    "short_name": "Prospectus Document Classification and Metadata Extraction",
+    "name": "Prospectus Document Classification and Metadata Extraction Solution Accelerator",
+    "title": "Prospectus Document Classification and Metadata Extraction Solution Accelerator",
+    "accelerator_type": "Solution Accelerator",
+    "classification": null,
+    "industries": "Financial Services",
+    "technology_stack": null,
+    "github_url": null,
+    "short_text": "Standardize methods of assessing impact and outcomes from certain opaque asset classes (e.g. ESG).",
+    "hero_image": null,
+    "description": "Build out more standardized methods of assessing impact and outcomes from certain opaque asset classes (e.g. ESG).  Use in municipal bond offerings and/or emerging asset classes with the help of human-assisted labelling, train against a broader data set.",
+    "tags": "\"Financial Services\",\"Solution Accelerator\"",
+    "order": 2,
+    "preview": "## About this Solution Accelerator\r\n\r\nMore information coming soon.",
+    "basename": "prospectus-document-classification-and-metadata-extraction"
+  }
+}

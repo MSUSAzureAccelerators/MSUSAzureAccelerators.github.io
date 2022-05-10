@@ -1,0 +1,19 @@
+{
+  "biz-process-automation": {
+    "short_name": "Biz Process Automation",
+    "name": "Biz Process Automation Solution Accelerator",
+    "title": "Biz Process Automation Solution Accelerator",
+    "accelerator_type": "Solution Accelerator",
+    "classification": null,
+    "industries": "Horizontal",
+    "technology_stack": null,
+    "github_url": null,
+    "short_text": "Information coming soon",
+    "hero_image": null,
+    "description": "Information coming soon",
+    "tags": "\"Horizontal\",\"Solution Accelerator\"",
+    "order": 2,
+    "preview": "## About this Solution Accelerator\r\n\r\nMore information coming soon.",
+    "basename": "biz-process-automation"
+  }
+}

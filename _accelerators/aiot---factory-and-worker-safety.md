@@ -5,7 +5,7 @@ title: "AIoT - Factory and Worker Safety"
 accelerator_type: "Solution Accelerator"
 classification: "Process Automation"
 solution_area: "Data & AI"
-status: "Submitted"
+status: "Nominated"
 industries: "Manufacturing,Automotive"
 technology_stack: "Azure Container Registry,Azure DevOps,Azure IoT Hub,Azure KeyVault,Azure Machine Learning,Azure SQL,Azure Storage,Cognitive Services,Docker,Power BI,Python"
 github_url: https://github.com/MSUSSolutionAccelerators/Manufacturing-Vision-Solution-Accelerator-AMD64
@@ -15,7 +15,7 @@ customer_deck_url:
 short_text: "Drive outcomes related to building more agile factories, creating more resilient supply chains, and transforming workforces."
 hero_image: assets/images/AIOT_Worker_Safety_Hero.webp
 tags: "\"Solution Accelerator\",\"Process Automation\",\"Manufacturing\",\"Automotive\",\"Azure Container Registry\",\"Azure DevOps\",\"Azure IoT Hub\",\"Azure KeyVault\",\"Azure Machine Learning\",\"Azure SQL\",\"Azure Storage\",\"Cognitive Services\",\"Docker\",\"Power BI\",\"Python\",\"Data & AI\""
-last_updated: "April 27, 2022 01:14:31 PM"
+last_updated: "May 06, 2022 09:44:10 PM"
 related: "AIoT---Automated-Quality-Inspection.html,AIoT---Inventory-Lifecycle-Management.html,AIoT---Predictive-Maintenance.html,Manufacturing-Vision---AMD64.html"
 order: 2
 ---

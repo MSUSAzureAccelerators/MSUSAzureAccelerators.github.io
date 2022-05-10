@@ -5,7 +5,7 @@ title: "Azure Intelligent Recommendations"
 accelerator_type: "Technology Accelerator"
 classification: "Personalization"
 solution_area: "BizApps,Data & AI"
-status: "In Review"
+status: "GA"
 industries: "Automotive,EDU,Energy,High Tech,Media and Entertainment,Professional Services,Horizontal,Manufacturing,Retail,Other,HLS,FSI,SLG"
 technology_stack: "Azure Data Lake Storage,Synapse,Power BI,Azure Intelligent Recommendations"
 github_url: 
@@ -15,7 +15,7 @@ customer_deck_url:
 short_text: "Intelligent Recommendations democratizes AI and machine learning recommendations through a codeless and powerful experience powered by the same technology that fuels Xbox, Microsoft 365, and Microsoft Azure"
 hero_image: assets/images/Intelligent_Recommendations_Hero.webp
 tags: "\"Technology Accelerator\",\"Personalization\",\"Automotive\",\"EDU\",\"Energy\",\"High Tech\",\"Media and Entertainment\",\"Professional Services\",\"Horizontal\",\"Manufacturing\",\"Retail\",\"Other\",\"HLS\",\"FSI\",\"SLG\",\"Azure Data Lake Storage\",\"Synapse\",\"Power BI\",\"Azure Intelligent Recommendations\",\"BizApps\",\"Data & AI\""
-last_updated: "April 27, 2022 12:18:00 PM"
+last_updated: "May 06, 2022 09:45:13 PM"
 related: "Content-Recommendations.html,Retail-Recommender.html,Recommender-Systems.html"
 order: 2
 ---
