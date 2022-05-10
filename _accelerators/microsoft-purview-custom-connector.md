@@ -1,12 +1,12 @@
 ---
-short_name: "Azure Purview Custom Connector"
-name: "Azure Purview Custom Connector"
-title: "Azure Purview Custom Connector"
+short_name: "Microsoft Purview Custom Connector"
+name: "Microsoft Purview Custom Connector"
+title: "Microsoft Purview Custom Connector"
 accelerator_type: "Technology Accelerator"
 classification: "Process Automation"
 solution_area: "Apps & Infrastructure"
 status: "GA"
-industries: "Horizontal,Automotive,EDU,Energy,FSI,High Tech,HLS,Manufacturing,Media and Entertainment,Professional Services,Retail,SLG"
+industries: "Horizontal"
 technology_stack: "Synapse,Purview,Azure Data Lake Storage"
 github_url: https://github.com/microsoft/Purview-Custom-Connector-Solution-Accelerator
 demo_url: 
@@ -14,14 +14,14 @@ customer_overview_url:
 customer_deck_url: 
 short_text: "Shorten most Purview Custom Connector MVP engagements from 4-6 weeks to 1-2 weeks"
 hero_image: assets/images/Purview_Custom_Connector_Hero.svg
-tags: "\"Technology Accelerator\",\"Process Automation\",\"Horizontal\",\"Automotive\",\"EDU\",\"Energy\",\"FSI\",\"High Tech\",\"HLS\",\"Manufacturing\",\"Media and Entertainment\",\"Professional Services\",\"Retail\",\"SLG\",\"Synapse\",\"Purview\",\"Azure Data Lake Storage\",\"Apps & Infrastructure\""
-last_updated: "May 06, 2022 09:39:16 PM"
-related: "Azure-Purview-Custom-Types-Tool.html,Data-Governance-Demo-Generator.html,Azure-Purview-ML-Lineage.html,Azure-Purview-Workshop.html"
+tags: "\"Technology Accelerator\",\"Process Automation\",\"Horizontal\",\"Synapse\",\"Purview\",\"Azure Data Lake Storage\",\"Apps & Infrastructure\""
+last_updated: "May 10, 2022 02:28:53 PM"
+related: "Microsoft-Purview-Custom-Types-Tool.html,Data-Governance-Demo-Generator.html,Microsoft-Purview-ML-Lineage.html,Microsoft-Purview-Workshop.html"
 order: 2
 ---
 ## About this Technology Accelerator
 
-Azure Purview is a unified data governance service that helps you manage and govern your on-premises, multi-cloud, and software-as-a-service (SaaS) data. Azure Purview Data Map provides the foundation for data discovery and effective data governance, however, no solution can support scanning metadata for all existing data sources or lineage for every ETL tool or process that exists today. That is why Purview was built for extensibility using the open Apache Atlas API set. This API set allows customers to develop their own scanning capabilities for data sources or ETL tools which are not yet supported out of the box. This Solution Accelerator is designed to jump start the development process and provide patterns and reusable tooling to help accelerate the creation of Custom Connectors for Azure Purview.
+Microsoft Purview is a unified data governance service that helps you manage and govern your on-premises, multi-cloud, and software-as-a-service (SaaS) data. Microsoft Purview Data Map provides the foundation for data discovery and effective data governance, however, no solution can support scanning metadata for all existing data sources or lineage for every ETL tool or process that exists today. That is why Purview was built for extensibility using the open Apache Atlas API set. This API set allows customers to develop their own scanning capabilities for data sources or ETL tools which are not yet supported out of the box. This Solution Accelerator is designed to jump start the development process and provide patterns and reusable tooling to help accelerate the creation of Custom Connectors for Azure Purview.
 
 The accelerator includes documentation, resources and examples to inform about the custom connector development process, tools, and APIs. It further works with utilities to make it easier to create a meta-model for your connector (Purview Custom Types Tool) with examples including ETL tool lineage as well as a custom data source. It includes infrastructure / architecture to support scanning of on-prem and complex data sources using Azure Synapse Spark for compute and Synapse pipelines for orchestration.
 
