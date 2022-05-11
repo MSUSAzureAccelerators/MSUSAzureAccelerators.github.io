@@ -2,21 +2,9 @@
     <div>
         <div class="flex align-middle justify-between mb-3">
             <div class="w-2/3">
-                <!-- <h1>{{ page.title -}}</h1>
-                {%- if page.status == "Approved" -%}
-                <div class="supertitle">
-                    {{ page.accelerator_type -}} (GA)</div>
-                {%- elsif page.status == "Submitted" -%}
-                <div class="supertitle">
-                    {{ page.accelerator_type -}} (BETA)</div>
-                {%- else -%}
-                <div class="supertitle">
-                    {{ page.accelerator_type -}} (RC)</div>
-                {%- endif -%} -->
                 <article class="pl-6 pt-2 w-full prose">{{ content -}}</article>
             </div>
             <div class="w-1/3 ml-8">
-                <!-- <img src="../{{ page.hero_image -}}" alt="{{ page.title -}} Hero Image" /> -->
                 <!-- Relevant Personas -->
                 {%- if page.classification and page.classification != "" -%}
                 {%- assign classifications = page.classification | split: "," | sort -%}

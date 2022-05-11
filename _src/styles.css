@@ -13,7 +13,7 @@
     @apply mt-4 text-2xl font-semibold tracking-tight;
   }
   a {
-    @apply text-[#266EBB] no-underline transition duration-100 ease-in-out hover:underline;
+    @apply text-ms-dark-blue no-underline transition duration-100 ease-in-out hover:underline;
   }
 }
 
@@ -60,19 +60,43 @@
   }
 
   .fa-facebook {
-    @apply bg-[#3b5998] text-white;
+    @apply bg-fb-blue text-ms-white;
+  }
+  .fa-facebook:hover {
+    @apply text-fb-blue bg-ms-white border-fb-blue border;
+  }
+  .fa-facebook:visited {
+    @apply bg-fb-blue text-ms-white;
   }
 
   .fa-twitter {
-    @apply bg-[#55acee] text-white;
+    @apply bg-tw-blue text-ms-white;
+  }
+  .fa-twitter:hover {
+    @apply text-tw-blue bg-ms-white border-tw-blue border;
+  }
+  .fa-twitter:visited {
+    @apply bg-tw-blue text-ms-white;
   }
 
   .fa-linkedin {
-    @apply bg-[#007bb5] text-white;
+    @apply bg-li-blue text-ms-white;
+  }
+  .fa-linkedin:hover {
+    @apply text-li-blue bg-ms-white border-li-blue border;
+  }
+  .fa-linkedin:visited {
+    @apply bg-li-blue text-ms-white;
   }
 
   .fa-envelope {
-    @apply bg-[#266EBB] text-white;
+    @apply bg-ms-blue text-ms-white;
+  }
+  .fa-envelope:hover {
+    @apply text-ms-blue bg-ms-white border-ms-blue border;
+  }
+  .fa-envelope:visited {
+    @apply bg-ms-blue text-ms-white;
   }
 
   .filter-links a {
@@ -80,19 +104,19 @@
   }
 
   .filter-link {
-    @apply bg-[#266EBB] px-4 py-[.125rem] text-left text-white drop-shadow-lg transition duration-300 ease-in-out xs:w-[210px] xs:text-xs xs:px-2 lg:h-[30px] lg:w-[250px] lg:text-base rounded-full ;
+    @apply px-4 py-[.125rem] bg-ms-blue text-left text-ms-white drop-shadow-lg transition duration-300 ease-in-out xs:w-[210px] xs:text-xs xs:px-2 lg:h-[30px] lg:w-[250px] lg:text-base rounded-full ;
   }
 
   .filter-link:hover {
-    @apply !bg-white !text-[#266EBB] transition duration-300 ease-in-out;
+    @apply bg-ms-white text-ms-blue transition duration-300 ease-in-out;
   }
 
   .filter-link:visited {
-    @apply bg-[#266EBB] text-white;
+    @apply bg-ms-white text-ms-blue;
   }
 
   .filter-link.active {
-    @apply pointer-events-none bg-white text-[#266EBB];
+    @apply bg-ms-white text-ms-blue pointer-events-none;
   }
 
   .float-button {
@@ -116,7 +140,7 @@
   }
 
   .prose blockquote p {
-    @apply rounded-lg bg-gray-100 p-8 text-justify font-semibold text-[#266EBB];
+    @apply text-ms-blue bg-ms-extra-light-gray rounded-lg p-8 text-justify font-semibold;
   }
 
   .prose {
@@ -140,7 +164,7 @@
   }
 
   .f-glass {
-    @apply rounded-lg opacity-70 shadow-cta border border-white border-opacity-30 backdrop-filter backdrop-blur hover:opacity-100;
+    @apply border-ms-white rounded-lg opacity-70 shadow-cta border border-opacity-30 backdrop-filter backdrop-blur hover:opacity-100;
   }
 
   .hero{
