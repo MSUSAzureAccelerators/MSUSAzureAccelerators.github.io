@@ -112,7 +112,7 @@
   }
 
   .filter-link:visited {
-    @apply bg-ms-white text-ms-blue;
+    @apply text-ms-white bg-ms-blue;
   }
 
   .filter-link.active {
