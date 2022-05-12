@@ -104,7 +104,7 @@
   }
 
   .filter-link {
-    @apply bg-ms-blue text-ms-white px-4 py-[.125rem] text-left drop-shadow-lg transition duration-300 ease-in-out xs:w-[210px] xs:text-xs xs:px-2 lg:h-[30px] lg:w-[250px] lg:text-base rounded-full ;
+    @apply bg-ms-blue text-ms-white px-4 py-[.125rem] text-left transition duration-300 ease-in-out xs:w-[210px] xs:text-xs xs:px-2 lg:h-[30px] lg:w-[250px] lg:text-base rounded-full;
   }
 
   .filter-link:visited {
