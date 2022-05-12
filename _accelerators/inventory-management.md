@@ -5,15 +5,17 @@ title: "Inventory Management"
 accelerator_type: "Solution Accelerator"
 classification: "Supply Chain"
 solution_area: "Data & AI"
-status: "Submitted"
+status: "Nominated"
 industries: "Retail,Manufacturing"
 technology_stack: ""
 github_url: 
 demo_url: 
+customer_overview_url: 
+customer_deck_url: 
 short_text: "Empowering workforce, intelligent supply chain with intelligent sales and efficient devices to help gather invaluable data; telemetry, compliance, stock, sales patterns, compete, location and performance"
 hero_image: assets/images/Inventory_Management_Hero.webp
-tags: "\"Solution Accelerator\",\"Supply Chain\",\"Retail\",\"Manufacturing\""
-last_updated: "April 20, 2022 02:48:35 PM"
+tags: "\"Solution Accelerator\",\"Supply Chain\",\"Retail\",\"Manufacturing\",\"Data & AI\""
+last_updated: "May 12, 2022 09:05:26 PM"
 related: "AIoT---Inventory-Lifecycle-Management.html"
 order: 2
 ---

@@ -5,7 +5,7 @@ title: "Social Media Analytics"
 accelerator_type: "Solution Accelerator"
 classification: "Process Automation,Personalization"
 solution_area: "Data & AI,BizApps"
-status: "Submitted"
+status: "Beta"
 industries: "Automotive,EDU,Energy,FSI,High Tech,HLS,Manufacturing,Media and Entertainment,Professional Services,Retail,SLG,Horizontal"
 technology_stack: "Synapse Analytics,Power BI"
 github_url: https://github.com/microsoft/Azure-Social-Media-Analytics-Solution-Accelerator/
@@ -15,7 +15,7 @@ customer_deck_url:
 short_text: "Build a Social Media Analytics solution that provides a summary view of social media posts, people, organizations, sentiments, and locations the company can act on."
 hero_image: assets/images/Social_Media_Hero.webp
 tags: "\"Solution Accelerator\",\"Process Automation\",\"Personalization\",\"Automotive\",\"EDU\",\"Energy\",\"FSI\",\"High Tech\",\"HLS\",\"Manufacturing\",\"Media and Entertainment\",\"Professional Services\",\"Retail\",\"SLG\",\"Horizontal\",\"Synapse Analytics\",\"Power BI\",\"Data & AI\",\"BizApps\""
-last_updated: "April 27, 2022 02:56:22 PM"
+last_updated: "May 12, 2022 09:16:56 PM"
 related: ""
 order: 2
 ---

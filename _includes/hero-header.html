@@ -3,13 +3,7 @@
         <div class="hero-content text-left">
             <div class="w-[100vw]">
                 <h1 class="text-neutral-content">{{ page.title }}</h1>
-                {%- if page.status == "Approved" -%}
-                <p class="supertitle mt-0 text-neutral-content">{{ page.accelerator_type -}} (GA)</p>
-                {%- elsif page.status == "Submitted" -%}
-                <p class="supertitle mt-0 text-neutral-content">{{ page.accelerator_type -}} (BETA)</p>
-                {%- else -%}
-                <p class="supertitle mt-0 text-neutral-content">{{ page.accelerator_type -}} (RC)</p>
-                {%- endif -%}
+                <p class="supertitle mt-0 text-neutral-content">{{ page.accelerator_type -}} ({{ page.status -}})</p>
             </div>
         </div>
     </div>

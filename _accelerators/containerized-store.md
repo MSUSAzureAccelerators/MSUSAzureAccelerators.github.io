@@ -5,15 +5,17 @@ title: "Containerized Store"
 accelerator_type: "Solution Accelerator"
 classification: ""
 solution_area: "BizApps"
-status: "Work In Progress"
+status: "Beta"
 industries: "Retail"
 technology_stack: "Azure Custom Vision,VoTT,Video Studio"
 github_url: https://github.com/microsoft/solution-accelerator-containerized-store
 demo_url: 
+customer_overview_url: 
+customer_deck_url: 
 short_text: "Modernize traditional retail stores and provide customers with new, easier ways to purchase goods while on-the-go, or find new ways to engage their customers."
 hero_image: assets/images/Containerized_Store_Hero.webp
-tags: "\"Solution Accelerator\",\"Retail\",\"Azure Custom Vision\",\"VoTT\",\"Video Studio\""
-last_updated: "April 15, 2022 06:23:32 PM"
+tags: "\"Solution Accelerator\",\"Retail\",\"Azure Custom Vision\",\"VoTT\",\"Video Studio\",\"BizApps\""
+last_updated: "May 12, 2022 08:57:48 PM"
 related: ""
 order: 2
 ---

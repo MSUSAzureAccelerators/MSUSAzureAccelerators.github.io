@@ -5,7 +5,7 @@ title: "Digital Documentation Shipping Industry"
 accelerator_type: "Solution Accelerator"
 classification: "Transportation"
 solution_area: "Data & AI,BizApps"
-status: "Work In Progress"
+status: "Beta"
 industries: "Manufacturing,Retail,HLS"
 technology_stack: "Azure Blockchain,Cosmos DB,Azure Kubernetes Services,Azure Container Registry"
 github_url: https://github.com/microsoft/Digital-Documentation-Shipping-Industry-Solution-Accelerator
@@ -15,7 +15,7 @@ customer_deck_url:
 short_text: "Reduces the time to complete business deals and empowers companies to easily and securely transact business with new companies all over the world"
 hero_image: assets/images/Digital_Documentation_Hero.webp
 tags: "\"Solution Accelerator\",\"Transportation\",\"Manufacturing\",\"Retail\",\"HLS\",\"Azure Blockchain\",\"Cosmos DB\",\"Azure Kubernetes Services\",\"Azure Container Registry\",\"Data & AI\",\"BizApps\""
-last_updated: "April 27, 2022 02:59:48 PM"
+last_updated: "May 12, 2022 09:01:41 PM"
 related: ""
 order: 2
 ---

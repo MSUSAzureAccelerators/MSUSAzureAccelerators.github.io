@@ -5,7 +5,7 @@ title: "Carbon Tracing Basic Flare"
 accelerator_type: "Solution Accelerator"
 classification: "Sustainability"
 solution_area: "BizApps,Data & AI"
-status: "Beta"
+status: "GA"
 industries: "Manufacturing,Retail,Other,FSI,HLS,Automotive,EDU,Energy,High Tech,Media and Entertainment,Professional Services,SLG,Horizontal"
 technology_stack: "Azure Storage,Synapse,Azure Logic Apps,,Power BI,Azure IoT Hub"
 github_url: https://github.com/MSUSSolutionAccelerators/Carbon-Tracing-Basic-Flare-Solution-Accelerator
@@ -15,7 +15,7 @@ customer_deck_url:
 short_text: "Speed up migration with ease of development and also use the same for production deployment."
 hero_image: assets/images/Carbon_Tracing_BF_Hero.webp
 tags: "\"Solution Accelerator\",\"Sustainability\",\"Manufacturing\",\"Retail\",\"Other\",\"FSI\",\"HLS\",\"Automotive\",\"EDU\",\"Energy\",\"High Tech\",\"Media and Entertainment\",\"Professional Services\",\"SLG\",\"Horizontal\",\"Azure Storage\",\"Synapse\",\"Azure Logic Apps,\",\"Power BI\",\"Azure IoT Hub\",\"BizApps\",\"Data & AI\""
-last_updated: "May 06, 2022 09:48:41 PM"
+last_updated: "May 12, 2022 08:55:45 PM"
 related: "Carbon-Tracing-Wastewater.html,Smart-Spaces.html"
 order: 2
 ---

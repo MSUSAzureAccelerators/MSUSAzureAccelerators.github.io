@@ -5,7 +5,7 @@ title: "Patient Risk Analyzer"
 accelerator_type: "Solution Accelerator"
 classification: "Healthcare"
 solution_area: "Data & AI,Apps & Infrastructure,BizApps"
-status: "Work In Progress"
+status: "Beta"
 industries: "HLS"
 technology_stack: "Azure Machine Learning,Cognitive Services,Text-To-Speech,Form Recognizer,PVA,PowerApps,Azure Kubernetes Services,Synapse Analytics"
 github_url: https://github.com/microsoft/Machine-Learning-Patient-Risk-Analyzer-SA
@@ -15,7 +15,7 @@ customer_deck_url:
 short_text: "Uncover patterns and deliver insights about data quickly, improving healthcare professionals' ability to provide personalized care, also known as precision medicine"
 hero_image: assets/images/Patient_Risk_Analyzer_Hero.webp
 tags: "\"Solution Accelerator\",\"Healthcare\",\"HLS\",\"Azure Machine Learning\",\"Cognitive Services\",\"Text-To-Speech\",\"Form Recognizer\",\"PVA\",\"PowerApps\",\"Azure Kubernetes Services\",\"Synapse Analytics\",\"Data & AI\",\"Apps & Infrastructure\",\"BizApps\""
-last_updated: "May 05, 2022 03:37:40 PM"
+last_updated: "May 12, 2022 09:11:40 PM"
 related: "ADX-Patient-Monitoring.html,Overdose-Prevention.html"
 order: 2
 ---

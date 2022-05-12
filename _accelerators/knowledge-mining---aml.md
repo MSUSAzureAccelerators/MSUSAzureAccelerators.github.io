@@ -5,7 +5,7 @@ title: "Knowledge Mining - AML"
 accelerator_type: "Technology Accelerator"
 classification: "Process Automation"
 solution_area: "Data & AI"
-status: "Approved"
+status: "Beta"
 industries: "Manufacturing,FSI,Automotive,EDU,Energy,High Tech,HLS,Media and Entertainment,Professional Services,Retail,SLG,Horizontal"
 technology_stack: "Azure Machine Learning,Cognitive Search"
 github_url: https://github.com/microsoft/Accelerator-AzureML_CognitiveSearch
@@ -15,7 +15,7 @@ customer_deck_url:
 short_text: "Extract business or industry specific terms from documents, such as extracting medical terms from medical documents, legal terms from contracts, or part names from engineering documents"
 hero_image: assets/images/Knowledge_Mining_AML_Hero.webp
 tags: "\"Technology Accelerator\",\"Process Automation\",\"Manufacturing\",\"FSI\",\"Automotive\",\"EDU\",\"Energy\",\"High Tech\",\"HLS\",\"Media and Entertainment\",\"Professional Services\",\"Retail\",\"SLG\",\"Horizontal\",\"Azure Machine Learning\",\"Cognitive Search\",\"Data & AI\""
-last_updated: "April 27, 2022 01:40:18 PM"
+last_updated: "May 12, 2022 09:07:47 PM"
 related: "AI-Powered-Insurance-Claims-Automation.html,Customer-Complaint-Management.html,Azure-Cognitive-Search-Hands-On-Lab.html,Intelligent-Document-Processing.html,Knowledge-Mining.html,Risk-Classification-and-Loan-Modeling.html"
 order: 2
 ---

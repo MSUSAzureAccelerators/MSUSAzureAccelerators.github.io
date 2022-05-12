@@ -5,7 +5,7 @@ title: "AIoT - Automated Quality Inspection"
 accelerator_type: "Solution Accelerator"
 classification: "Process Automation"
 solution_area: "Data & AI"
-status: "Nominated"
+status: "Beta"
 industries: "Manufacturing,Automotive"
 technology_stack: "Azure Container Registry,Azure DevOps,Azure IoT Hub,Azure KeyVault,Azure Storage,Azure SQL,Cognitive Services,Power BI,Python,Docker,Azure Machine Learning"
 github_url: https://github.com/MSUSSolutionAccelerators/Manufacturing-Vision-Solution-Accelerator-AMD64
@@ -15,7 +15,7 @@ customer_deck_url:
 short_text: "Azure Computer Vision infers product quality at the point of manufacture on the assembly line in real-time "
 hero_image: assets/images/AIOT_Automated_Quality_Inspection_Hero.webp
 tags: "\"Solution Accelerator\",\"Process Automation\",\"Manufacturing\",\"Automotive\",\"Azure Container Registry\",\"Azure DevOps\",\"Azure IoT Hub\",\"Azure KeyVault\",\"Azure Storage\",\"Azure SQL\",\"Cognitive Services\",\"Power BI\",\"Python\",\"Docker\",\"Azure Machine Learning\",\"Data & AI\""
-last_updated: "May 06, 2022 09:44:10 PM"
+last_updated: "May 12, 2022 08:52:53 PM"
 related: "AIoT---Factory-and-Worker-Safety.html,AIoT---Inventory-Lifecycle-Management.html,AIoT---Predictive-Maintenance.html,Manufacturing-Vision---AMD64.html"
 order: 2
 ---

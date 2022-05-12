@@ -118,16 +118,9 @@
                             </a>
                         </div>
                         <div class="p-5">
-                            {%- if accelerator.status == "Approved" -%}
                             <div class="leading-5 uppercase text-sm tracking-widest text-ms-gray">
-                                {{ accelerator.accelerator_type -}} (GA)</div>
-                            {%- elsif accelerator.status == "Submitted" -%}
-                            <div class="leading-5 uppercase text-sm tracking-widest text-ms-gray">
-                                {{ accelerator.accelerator_type -}} (BETA)</div>
-                            {%- else -%}
-                            <div class="leading-5 uppercase text-sm tracking-widest text-ms-gray">
-                                {{ accelerator.accelerator_type -}} (RC)</div>
-                            {%- endif -%}
+                                {{ accelerator.accelerator_type -}} ({{ accelerator.status -}})
+                            </div>
                             <a href="{{ accelerator.url -}}">
                                 <h4
                                     class="mb-2 text-xl font-semibold tracking-tight text-ms-mid-gray card__title">

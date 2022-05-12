@@ -5,15 +5,17 @@ title: "Intelligent Document Processing"
 accelerator_type: "Solution Accelerator"
 classification: "Process Automation"
 solution_area: "Data & AI,Modern Workplace"
-status: "Approved"
+status: "Beta"
 industries: "Manufacturing,Retail,FSI,HLS"
 technology_stack: "Cognitive Services,Bot Framework,Power BI,Form Recognizer,Cosmos DB,Luis"
 github_url: https://github.com/MSUSSolutionAccelerators/Intelligent-Document-Processing-Solution-Accelerator
 demo_url: 
+customer_overview_url: 
+customer_deck_url: 
 short_text: "Reduce human intervention and decrease the time to find the key Data points in 100+page documents/contracts"
 hero_image: assets/images/Intelligent_Document_Processing_Hero.webp
-tags: "\"Solution Accelerator\",\"Process Automation\",\"Manufacturing\",\"Retail\",\"FSI\",\"HLS\",\"Cognitive Services\",\"Bot Framework\",\"Power BI\",\"Form Recognizer\",\"Cosmos DB\",\"Luis\""
-last_updated: "April 14, 2022 02:30:46 PM"
+tags: "\"Solution Accelerator\",\"Process Automation\",\"Manufacturing\",\"Retail\",\"FSI\",\"HLS\",\"Cognitive Services\",\"Bot Framework\",\"Power BI\",\"Form Recognizer\",\"Cosmos DB\",\"Luis\",\"Data & AI\",\"Modern Workplace\""
+last_updated: "May 12, 2022 09:04:35 PM"
 related: "AI-Powered-Insurance-Claims-Automation.html,Customer-Complaint-Management.html,Knowledge-Mining.html,Risk-Classification-and-Loan-Modeling.html,Knowledge-Mining---AML.html"
 order: 2
 ---

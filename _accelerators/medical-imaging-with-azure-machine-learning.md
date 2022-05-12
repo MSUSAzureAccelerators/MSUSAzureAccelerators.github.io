@@ -5,15 +5,17 @@ title: "Medical Imaging with Azure Machine Learning"
 accelerator_type: "Solution Accelerator"
 classification: "Healthcare"
 solution_area: "Modern Workplace,Data & AI"
-status: "Work In Progress"
+status: "Beta"
 industries: "HLS"
 technology_stack: "Azure Machine Learning"
 github_url: https://github.com/Azure/medical-imaging
 demo_url: 
+customer_overview_url: 
+customer_deck_url: 
 short_text: "Support medical imaging and other use cases in areas like data and model management, deployment, experiment tracking and explainability"
 hero_image: assets/images/med-imaging.webp
-tags: "\"Solution Accelerator\",\"Healthcare\",\"HLS\",\"Azure Machine Learning\""
-last_updated: "April 14, 2022 02:43:14 PM"
+tags: "\"Solution Accelerator\",\"Healthcare\",\"HLS\",\"Azure Machine Learning\",\"Modern Workplace\",\"Data & AI\""
+last_updated: "May 12, 2022 09:08:24 PM"
 related: "Manufacturing-Vision---AMD64.html,Part-Comparator.html"
 order: 2
 ---

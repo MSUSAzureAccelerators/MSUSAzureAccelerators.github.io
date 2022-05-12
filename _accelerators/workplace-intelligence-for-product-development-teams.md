@@ -5,17 +5,17 @@ title: "Workplace Intelligence for Product Development Teams"
 accelerator_type: "Solution Accelerator"
 classification: "Workplace Intelligence"
 solution_area: "Modern Workplace,Data & AI,BizApps,Apps & Infrastructure"
-status: "Approved"
+status: "GA"
 industries: "High Tech,Automotive,EDU,Energy,FSI,HLS,Manufacturing,Media and Entertainment,Professional Services,Retail,SLG,Horizontal"
 technology_stack: "Azure DevOps,Workplace Analytics,Viva,Synapse,Power BI"
 github_url: https://github.com/MSUSSolutionAccelerators/Workplace-Intelligence-Solution-Accelerator
-customer_overview_url: https://github.com/MSUSSolutionAccelerators/Workplace-Intelligence-Solution-Accelerator/blob/main/assets/Workplace%20Intelligence%20for%20Product%20Development%20teams%20Customer%20Leave%20Behind%20(Overview).pptx?raw=true
-customer_deck_url: https://github.com/MSUSSolutionAccelerators/Workplace-Intelligence-Solution-Accelerator/blob/main/assets/Workplace%20Intelligence%20for%20Product%20Development%20teams%20Customer%20Deck.pdf?raw=true
 demo_url: 
+customer_overview_url: 
+customer_deck_url: 
 short_text: "Uncover and leverage the key drivers of productivity and success for product development teams"
 hero_image: assets/images/Workplace_Intelligence_Hero.webp
-tags: "\"Solution Accelerator\",\"Workplace Intelligence\",\"High Tech\",\"Automotive\",\"EDU\",\"Energy\",\"FSI\",\"HLS\",\"Manufacturing\",\"Media and Entertainment\",\"Professional Services\",\"Retail\",\"SLG\",\"Horizontal\",\"Azure DevOps\",\"Workplace Analytics\",\"Viva\",\"Synapse\",\"Power BI\""
-last_updated: "April 15, 2022 06:47:23 PM"
+tags: "\"Solution Accelerator\",\"Workplace Intelligence\",\"High Tech\",\"Automotive\",\"EDU\",\"Energy\",\"FSI\",\"HLS\",\"Manufacturing\",\"Media and Entertainment\",\"Professional Services\",\"Retail\",\"SLG\",\"Horizontal\",\"Azure DevOps\",\"Workplace Analytics\",\"Viva\",\"Synapse\",\"Power BI\",\"Modern Workplace\",\"Data & AI\",\"BizApps\",\"Apps & Infrastructure\""
+last_updated: "May 12, 2022 09:18:20 PM"
 related: "Workplace-Intelligence-for-Human-Resources.html"
 order: 2
 ---

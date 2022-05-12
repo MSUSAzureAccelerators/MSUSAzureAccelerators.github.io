@@ -5,15 +5,17 @@ title: "Health and Human Services Datahub"
 accelerator_type: "Solution Accelerator"
 classification: "Healthcare"
 solution_area: "Modern Workplace"
-status: "Work In Progress"
+status: "Beta"
 industries: "HLS,SLG"
 technology_stack: "Synapse"
 github_url: https://github.com/MSUSSolutionAccelerators/Health-and-Human-Services-Datahub-Solution-Accelerator
 demo_url: 
+customer_overview_url: 
+customer_deck_url: 
 short_text: "Tackle the challenges presented by siloed, insecure solutions that many counties use"
 hero_image: assets/images/HHS_Datahub_Hero.webp
-tags: "\"Solution Accelerator\",\"Healthcare\",\"HLS\",\"SLG\",\"Synapse\""
-last_updated: "April 14, 2022 02:25:16 PM"
+tags: "\"Solution Accelerator\",\"Healthcare\",\"HLS\",\"SLG\",\"Synapse\",\"Modern Workplace\""
+last_updated: "May 12, 2022 09:04:34 PM"
 related: "Integrated-Datahub-for-Mass-Transit.html,ADX-Patient-Monitoring.html,Healthcare-Blockchain.html,Medical-Imaging-with-Azure-Machine-Learning.html,Overdose-Prevention.html,Patient-Risk-Analyzer.html,COVID-19-Vaccine-Proof-and-Test-Verification.html"
 order: 2
 ---

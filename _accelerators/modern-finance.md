@@ -5,7 +5,7 @@ title: "Modern Finance"
 accelerator_type: "Solution Accelerator Family"
 classification: "Financial"
 solution_area: "BizApps,Data & AI,Apps & Infrastructure"
-status: "Submitted"
+status: "GA"
 industries: "FSI, Horizontal"
 technology_stack: "Power BI"
 github_url: 

@@ -5,7 +5,7 @@ title: "Modernized Contact Centers"
 accelerator_type: "Solution Accelerator Family"
 classification: "Personalization"
 solution_area: "Data & AI"
-status: "Submitted"
+status: "GA"
 industries: "Horizontal,Automotive,EDU,Energy,FSI,High Tech,HLS,Manufacturing,Media and Entertainment,Professional Services,Retail,SLG"
 technology_stack: ""
 github_url: 

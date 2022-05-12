@@ -5,15 +5,17 @@ title: "Customer Complaint Management"
 accelerator_type: "Solution Accelerator"
 classification: "Personalization"
 solution_area: "Data & AI"
-status: "Approved"
+status: "GA"
 industries: "Retail,FSI,HLS,Manufacturing"
 technology_stack: "Azure Kubernetes Services,Cognitive Search,Synapse,Azure Machine Learning,PowerApps"
 github_url: https://github.com/microsoft/Azure-Solution-Accelerator-Customer-Complaint-Management
 demo_url: 
+customer_overview_url: 
+customer_deck_url: 
 short_text: "Quickly surface customer complaints from various platforms to the correct support."
 hero_image: assets/images/Customer_Complaints_Hero.webp
-tags: "\"Solution Accelerator\",\"Personalization\",\"Retail\",\"FSI\",\"HLS\",\"Manufacturing\",\"Azure Kubernetes Services\",\"Cognitive Search\",\"Synapse\",\"Azure Machine Learning\",\"PowerApps\""
-last_updated: "April 15, 2022 06:27:34 PM"
+tags: "\"Solution Accelerator\",\"Personalization\",\"Retail\",\"FSI\",\"HLS\",\"Manufacturing\",\"Azure Kubernetes Services\",\"Cognitive Search\",\"Synapse\",\"Azure Machine Learning\",\"PowerApps\",\"Data & AI\""
+last_updated: "May 12, 2022 09:00:48 PM"
 related: "AI-Powered-Insurance-Claims-Automation.html,Intelligent-Document-Processing.html,Knowledge-Mining.html,Knowledge-Mining---AML.html,Azure-Cognitive-Search-Hands-On-Lab.html"
 order: 2
 ---

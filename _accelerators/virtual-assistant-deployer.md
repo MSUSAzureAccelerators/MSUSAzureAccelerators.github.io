@@ -5,7 +5,7 @@ title: "Virtual Assistant Deployer"
 accelerator_type: "Technology Accelerator"
 classification: ""
 solution_area: "Data & AI"
-status: "Work In Progress"
+status: "GA"
 industries: "Manufacturing,Retail,FSI,HLS,Automotive,EDU,Energy,High Tech,Media and Entertainment,Professional Services,SLG,Horizontal"
 technology_stack: "Bot Framework,Visual Studio Code,Docker"
 github_url: https://github.com/microsoft/Virtual-Assistant-Deployer
@@ -15,7 +15,7 @@ customer_deck_url:
 short_text: "Deploy a Microsoft Virtual Assistant Solution without needing to install all the prerequisite tools on your own machine"
 hero_image: assets/images/Virtual_Assistant_Hero.webp
 tags: "\"Technology Accelerator\",\"Manufacturing\",\"Retail\",\"FSI\",\"HLS\",\"Automotive\",\"EDU\",\"Energy\",\"High Tech\",\"Media and Entertainment\",\"Professional Services\",\"SLG\",\"Horizontal\",\"Bot Framework\",\"Visual Studio Code\",\"Docker\",\"Data & AI\""
-last_updated: "May 12, 2022 03:05:31 PM"
+last_updated: "May 12, 2022 09:18:21 PM"
 related: ""
 order: 2
 ---

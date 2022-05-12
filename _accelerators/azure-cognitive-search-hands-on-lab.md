@@ -5,7 +5,7 @@ title: "Azure Cognitive Search Hands-On-Lab"
 accelerator_type: "Hands-On-Lab"
 classification: "Process Automation"
 solution_area: "Data & AI"
-status: "Beta"
+status: "GA"
 industries: "Horizontal"
 technology_stack: "Cognitive Search,Power BI,Azure App Service,Azure Functions"
 github_url: https://github.com/MSUSSolutionAccelerators/Azure-Cognitive-Search-Hands-On-Lab
@@ -15,7 +15,7 @@ customer_deck_url:
 short_text: "Self-paced workshop that teaches you everything you need to know to get up and running with Azure Cognitive Search quickly."
 hero_image: assets/images/Cognitive_Search_HOL_Hero.webp
 tags: "\"Hands-On-Lab\",\"Process Automation\",\"Horizontal\",\"Cognitive Search\",\"Power BI\",\"Azure App Service\",\"Azure Functions\",\"Data & AI\""
-last_updated: "May 06, 2022 09:37:15 PM"
+last_updated: "May 12, 2022 08:55:41 PM"
 related: "Knowledge-Mining.html,Knowledge-Mining---AML.html"
 order: 2
 ---

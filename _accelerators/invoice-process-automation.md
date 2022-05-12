@@ -5,7 +5,7 @@ title: "Invoice Process Automation"
 accelerator_type: "Solution Accelerator"
 classification: "Financial"
 solution_area: "BizApps,Data & AI"
-status: "Submitted"
+status: "Beta"
 industries: "Automotive,EDU,Energy,FSI,High Tech,HLS,Manufacturing,Media and Entertainment,Professional Services,Retail,SLG,Horizontal"
 technology_stack: "Form Recognizer,Azure Logic Apps,Power BI,Azure Storage,Cosmos DB"
 github_url: https://github.com/microsoft/Azure-Invoice-Process-Automation-Solution-Accelerator
@@ -15,7 +15,7 @@ customer_deck_url:
 short_text: "Automate invoice processing and analysis using Azure Form Recognizer"
 hero_image: assets/images/Invoice_Automation_Hero.webp
 tags: "\"Solution Accelerator\",\"Financial\",\"Automotive\",\"EDU\",\"Energy\",\"FSI\",\"High Tech\",\"HLS\",\"Manufacturing\",\"Media and Entertainment\",\"Professional Services\",\"Retail\",\"SLG\",\"Horizontal\",\"Form Recognizer\",\"Azure Logic Apps\",\"Power BI\",\"Azure Storage\",\"Cosmos DB\",\"BizApps\",\"Data & AI\""
-last_updated: "May 12, 2022 03:25:53 PM"
+last_updated: "May 12, 2022 09:07:12 PM"
 related: ""
 order: 2
 ---

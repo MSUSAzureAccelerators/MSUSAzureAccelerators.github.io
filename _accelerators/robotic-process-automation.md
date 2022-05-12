@@ -5,7 +5,7 @@ title: "Robotic Process Automation"
 accelerator_type: "Solution Accelerator"
 classification: "Process Automation"
 solution_area: "BizApps"
-status: "Submitted"
+status: "Beta"
 industries: "FSI,Horizontal,Automotive,EDU,Energy,High Tech,HLS,Manufacturing,Media and Entertainment,Professional Services,Retail,SLG"
 technology_stack: "Azure Functions,Azure Storage,Azure Logic Apps,Form Recognizer,Cognitive Services,Cognitive Search,Cosmos DB,Azure App Service"
 github_url: https://github.com/MSUSSolutionAccelerators/Robotic-Process-Automation-Solution-Accelerator
@@ -15,7 +15,7 @@ customer_deck_url:
 short_text: "Completely automate the data extraction and entry from pdf forms"
 hero_image: assets/images/RPA_Hero.webp
 tags: "\"Solution Accelerator\",\"Process Automation\",\"FSI\",\"Horizontal\",\"Automotive\",\"EDU\",\"Energy\",\"High Tech\",\"HLS\",\"Manufacturing\",\"Media and Entertainment\",\"Professional Services\",\"Retail\",\"SLG\",\"Azure Functions\",\"Azure Storage\",\"Azure Logic Apps\",\"Form Recognizer\",\"Cognitive Services\",\"Cognitive Search\",\"Cosmos DB\",\"Azure App Service\",\"BizApps\""
-last_updated: "April 20, 2022 07:22:42 PM"
+last_updated: "May 12, 2022 09:16:18 PM"
 related: "Intelligent-Document-Processing.html"
 order: 2
 ---

@@ -5,7 +5,7 @@ title: "Recommender Systems"
 accelerator_type: "Solution Accelerator Family"
 classification: "Personalization"
 solution_area: "BizApps,Data & AI"
-status: "Submitted"
+status: "GA"
 industries: "Automotive,EDU,Energy,FSI,High Tech,HLS,Manufacturing,Media and Entertainment,Professional Services,SLG,Retail,Horizontal"
 technology_stack: "Azure Machine Learning,Azure Intelligent Recommendations,Synapse Analytics,Azure Storage"
 github_url: 

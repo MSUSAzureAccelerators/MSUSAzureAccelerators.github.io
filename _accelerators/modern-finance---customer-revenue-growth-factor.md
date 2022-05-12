@@ -5,17 +5,17 @@ title: "Modern Finance - Customer Revenue Growth Factor"
 accelerator_type: "Solution Accelerator"
 classification: "Financial,Campaign Management"
 solution_area: "Data & AI,BizApps,Apps & Infrastructure"
-status: "Work In Progress"
+status: "GA"
 industries: "Manufacturing,Retail,FSI,HLS,Media and Entertainment"
 technology_stack: "Synapse,Azure Data Lake Storage,Azure Machine Learning,Azure Container Images,Power BI"
-github_url: https://github.com/microsoft/Azure-Synapse-Solution-Accelerator-Financial-Analytics-Customer-Revenue-Growth-Factor 
-customer_deck_url: assets/docs/Modern Finance General Customer Deck.pdf
-customer_overview_url: assets/docs/Modern Finance General Leave Behind (Overview).pptx
+github_url: https://github.com/microsoft/Azure-Synapse-Solution-Accelerator-Financial-Analytics-Customer-Revenue-Growth-Factor
 demo_url: 
+customer_overview_url: 
+customer_deck_url: 
 short_text: "Easily identify factors for growth"
 hero_image: assets/images/Revenue_Growth_Hero.webp
-tags: "\"Solution Accelerator\",\"Financial\",\"Campaign Management\",\"Manufacturing\",\"Retail\",\"FSI\",\"HLS\",\"Media and Entertainment\",\"Synapse\",\"Azure Data Lake Storage\",\"Azure Machine Learning\",\"Azure Container Images\",\"Power BI\""
-last_updated: "April 15, 2022 06:35:23 PM"
+tags: "\"Solution Accelerator\",\"Financial\",\"Campaign Management\",\"Manufacturing\",\"Retail\",\"FSI\",\"HLS\",\"Media and Entertainment\",\"Synapse\",\"Azure Data Lake Storage\",\"Azure Machine Learning\",\"Azure Container Images\",\"Power BI\",\"Data & AI\",\"BizApps\",\"Apps & Infrastructure\""
+last_updated: "May 12, 2022 09:11:02 PM"
 related: "Modern-Finance.html"
 order: 2
 ---

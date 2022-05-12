@@ -5,17 +5,18 @@ title: "Digital Experience Solution"
 accelerator_type: "Solution Accelerator"
 classification: "Campaign Management"
 solution_area: "Modern Workplace,BizApps"
-status: "Approved"
+status: "GA"
 industries: "Media and Entertainment"
 technology_stack: ""
 github_url: https://github.com/MSUSSolutionAccelerators/Digital-Experience-Solution
-customer_overview_url: https://github.com/MSUSSolutionAccelerators/Digital-Experience-Solution/blob/main/assets/Digital%20Experience%20Solution%20Overview%20Deck.pdf?raw=true
-customer_deck_url: https://github.com/MSUSSolutionAccelerators/Digital-Experience-Solution/blob/main/assets/Digital%20Experience%20Solution%20One-Pager.pdf?raw=true
 demo_url: 
+customer_overview_url: 
+customer_deck_url: 
 short_text: "Move the entire live stream process offsite and into the cloud"
-hero_image: ./assets/images/Live_Events_Hero.webp
-tags: "\"Solution Accelerator\",\"Campaign Management\",\"Media and Entertainment\""
-last_updated: "March 31, 2022 07:40:01 PM"
+hero_image: assets/images/Live_Events_Hero.webp
+tags: "\"Solution Accelerator\",\"Campaign Management\",\"Media and Entertainment\",\"Modern Workplace\",\"BizApps\""
+last_updated: "May 12, 2022 08:59:29 PM"
+related: ""
 order: 2
 ---
 ## About this Solution Accelerator
@@ -39,8 +40,8 @@ The Digital Experience Solution brings together proven technology from partners 
 * **Simplify operations** by eliminating the need to coordinate with multiple vendors.​
 * **Reduce your carbon footprint** with remote production teams and Microsoft cloud sustainability initiatives.​
 * **Protect content and data** with advanced security and privacy features from Microsoft.​
-* **Reduce operating costs** by enabling producers to work remotely.
-* **Create monetization opportunities** and build your customer funnel with personalized ad experiences for users.
+* **Reduce operating costs** by enabling producers to work remotely. 
+* **Create monetization opportunities** and build your customer funnel with personalized ad experiences for users. 
 * **Gain valuable, timely audience** insights to increase customer engagement and retention.​
 
-![Digital Experience Solution Accelerator Architecture](.././assets/images/Digital%20Experience%20Solution%20Architecture.webp)
+![Digital Experience Solution Accelerator Architecture](../assets/images/Digital%20Experience%20Solution%20Architecture.webp)

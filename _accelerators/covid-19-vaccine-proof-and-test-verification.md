@@ -5,17 +5,17 @@ title: "COVID-19 Vaccine Proof and Test Verification"
 accelerator_type: "Solution Accelerator"
 classification: "Healthcare"
 solution_area: "Data & AI,BizApps"
-status: "In Review"
+status: "GA"
 industries: "Manufacturing,Retail,FSI,HLS,SLG"
 technology_stack: "Form Recognizer,Azure Storage,Azure Logic Apps,Cosmos DB,Synapse Analytics,Power BI"
 github_url: https://github.com/microsoft/Azure-Solution-Accelerator-to-automate-COVID-19-Vaccination-Proof-and-Test-Verification-Forms
-customer_overview_url: assets/docs/COVID-19 Vaccine Proof and Test Verification Overview.pdf
-customer_deck_url: assets/docs/COVID-19 Vaccine Proof and Test Verification Customer Deck.pdf
 demo_url: 
+customer_overview_url: 
+customer_deck_url: 
 short_text: "Mass processes and digitizes vaccine and viral test result forms."
 hero_image: assets/images/COVID_Testing_Hero.webp
-tags: "\"Solution Accelerator\",\"Healthcare\",\"Manufacturing\",\"Retail\",\"FSI\",\"HLS\",\"SLG\",\"Form Recognizer\",\"Azure Storage\",\"Azure Logic Apps\",\"Cosmos DB\",\"Synapse Analytics\",\"Power BI\""
-last_updated: "April 15, 2022 06:25:35 PM"
+tags: "\"Solution Accelerator\",\"Healthcare\",\"Manufacturing\",\"Retail\",\"FSI\",\"HLS\",\"SLG\",\"Form Recognizer\",\"Azure Storage\",\"Azure Logic Apps\",\"Cosmos DB\",\"Synapse Analytics\",\"Power BI\",\"Data & AI\",\"BizApps\""
+last_updated: "May 12, 2022 08:58:46 PM"
 related: "ADX-Patient-Monitoring.html,Health-and-Human-Services-Datahub.html,Healthcare-Blockchain.html,Medical-Imaging-with-Azure-Machine-Learning.html,Overdose-Prevention.html,Patient-Risk-Analyzer.html"
 order: 2
 ---
@@ -23,7 +23,7 @@ order: 2
 
 The rapid, accurate verification of COVID-19 vaccination and infection statuses has become a global priority for returning to work. Manual data entry slows and introduces errors to any COVID-19 compliance effort, and many organizations lack the internal expertise to deploy automated solutions that deliver reliable insights.
 
-The COVID-19 Vaccine Proof and Test  Verification Solution Accelerator mass processes and digitizes vaccine and viral test result forms. The AI-powered Azure Form Recognizer turns those documents into usable data that is translated into actionable insights, visualized in Power BIto help validate compliance and inform evolving health and safety strategies.
+The COVID-19 Vaccine Proof and Test  Verification Solution Accelerator mass processes and digitizes vaccine and viral test result forms. The AI-powered Azure Form Recognizer turns those documents into usable data that is translated into actionable insights, visualized in Power BIto help validate compliance and inform evolving health and safety strategies. 
 
 ### Challenges
 

@@ -5,17 +5,17 @@ title: "Workplace Intelligence for Human Resources"
 accelerator_type: "Solution Accelerator"
 classification: "Workplace Intelligence"
 solution_area: "Modern Workplace,Data & AI,BizApps,Apps & Infrastructure"
-status: "Work In Progress"
+status: "GA"
 industries: "Manufacturing,Retail,FSI,HLS,Automotive,EDU,Energy,High Tech,Media and Entertainment,Professional Services,SLG,Horizontal"
 technology_stack: "Workplace Analytics,Viva,Azure DevOps,Synapse,Power BI"
 github_url: https://github.com/MSUSSolutionAccelerators/Workplace-Intelligence-Solution-Accelerator
-customer_overview_url: https://github.com/MSUSSolutionAccelerators/Workplace-Intelligence-Solution-Accelerator/blob/main/assets/Workplace%20Intelligence%20Customer%20Leave%20Behind%20(Overview).pptx?raw=true
-customer_deck_url: https://github.com/MSUSSolutionAccelerators/Workplace-Intelligence-Solution-Accelerator/blob/main/assets/Workplace%20Intelligence%20Customer%20Deck.pdf?raw=true
 demo_url: 
+customer_overview_url: 
+customer_deck_url: 
 short_text: "Easily identify factors that influence productivity and engagement"
 hero_image: assets/images/Workplace_Intelligence_Hero.webp
-tags: "\"Solution Accelerator\",\"Workplace Intelligence\",\"Manufacturing\",\"Retail\",\"FSI\",\"HLS\",\"Automotive\",\"EDU\",\"Energy\",\"High Tech\",\"Media and Entertainment\",\"Professional Services\",\"SLG\",\"Horizontal\",\"Workplace Analytics\",\"Viva\",\"Azure DevOps\",\"Synapse\",\"Power BI\""
-last_updated: "April 15, 2022 06:47:25 PM"
+tags: "\"Solution Accelerator\",\"Workplace Intelligence\",\"Manufacturing\",\"Retail\",\"FSI\",\"HLS\",\"Automotive\",\"EDU\",\"Energy\",\"High Tech\",\"Media and Entertainment\",\"Professional Services\",\"SLG\",\"Horizontal\",\"Workplace Analytics\",\"Viva\",\"Azure DevOps\",\"Synapse\",\"Power BI\",\"Modern Workplace\",\"Data & AI\",\"BizApps\",\"Apps & Infrastructure\""
+last_updated: "May 12, 2022 09:18:23 PM"
 related: "Workplace-Intelligence-for-Product-Development-Teams.html"
 order: 2
 ---

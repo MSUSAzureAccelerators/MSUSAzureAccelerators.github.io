@@ -5,7 +5,7 @@ title: "Commodity Price Prediction"
 accelerator_type: "Solution Accelerator"
 classification: "Supply Chain"
 solution_area: "Data & AI"
-status: "In Review"
+status: "Beta"
 industries: "Manufacturing,Retail,FSI,Media and Entertainment,HLS"
 technology_stack: "Synapse,Azure Machine Learning,Azure Kubernetes Services,Azure Logic Apps,,Power BI,Cognitive Services"
 github_url: https://github.com/microsoft/Azure-Synapse-Solution-Accelerator-Commodity-Price-Prediction
@@ -15,7 +15,7 @@ customer_deck_url:
 short_text: "Resource to build a solution to forecast prices of commodities and identify anomalies in the time-series data"
 hero_image: assets/images/Commodity_Price_Prediction_Hero.webp
 tags: "\"Solution Accelerator\",\"Supply Chain\",\"Manufacturing\",\"Retail\",\"FSI\",\"Media and Entertainment\",\"HLS\",\"Synapse\",\"Azure Machine Learning\",\"Azure Kubernetes Services\",\"Azure Logic Apps,\",\"Power BI\",\"Cognitive Services\",\"Data & AI\""
-last_updated: "April 20, 2022 05:28:54 PM"
+last_updated: "May 12, 2022 08:56:41 PM"
 related: ""
 order: 2
 ---
