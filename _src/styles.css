@@ -108,7 +108,7 @@
   }
 
   .filter-link:hover {
-    @apply bg-ms-white text-ms-blue border-ms-blue border transition duration-300 ease-in-out;
+    @apply bg-ms-white text-ms-blue border-ms-blue;
   }
 
   .filter-link:visited {
