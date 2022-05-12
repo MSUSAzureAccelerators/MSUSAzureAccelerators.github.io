@@ -14,7 +14,7 @@ customer_overview_url:
 customer_deck_url: 
 short_text: "Shorten most Purview Custom Connector MVP engagements from 4-6 weeks to 1-2 weeks"
 hero_image: assets/images/Purview_Custom_Connector_Hero.svg
-tags: "\"Technology Accelerator\",\"Process Automation\",\"Horizontal\",\"Synapse\",\"Purview\",\"Azure Data Lake Storage\",\"Apps & Infrastructure\""
+tags: "\"Technology Accelerator\",\"Process Automation\",\"Horizontal\",\"Synapse\",\"Purview\",\"Azure Data Lake Storage\",\"Apps & Infrastructure\",\"GA\""
 last_updated: "May 10, 2022 02:28:53 PM"
 related: "Microsoft-Purview-Custom-Types-Tool.html,Data-Governance-Demo-Generator.html,Microsoft-Purview-ML-Lineage.html,Microsoft-Purview-Workshop.html"
 order: 2

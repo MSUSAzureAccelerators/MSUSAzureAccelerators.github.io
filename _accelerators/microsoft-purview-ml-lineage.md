@@ -14,7 +14,7 @@ customer_overview_url:
 customer_deck_url: 
 short_text: "Enable organizations to get started with lineage in Purview for Machine Learning scenarios"
 hero_image: assets/images/Purview_ML_Lineage_Hero.webp
-tags: "\"Technology Accelerator\",\"Process Automation\",\"Horizontal\",\"Purview\",\"Azure Machine Learning\",\"Azure Data Lake Storage\",\"Synapse Analytics\",\"Power BI\",\"Apps & Infrastructure\""
+tags: "\"Technology Accelerator\",\"Process Automation\",\"Horizontal\",\"Purview\",\"Azure Machine Learning\",\"Azure Data Lake Storage\",\"Synapse Analytics\",\"Power BI\",\"Apps & Infrastructure\",\"GA\""
 last_updated: "May 10, 2022 02:26:43 PM"
 related: "Microsoft-Purview-Custom-Connector.html,Microsoft-Purview-Custom-Types-Tool.html,Data-Governance-Demo-Generator.html,Microsoft-Purview-Workshop.html"
 order: 2

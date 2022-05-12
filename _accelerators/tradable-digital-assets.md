@@ -14,7 +14,7 @@ customer_overview_url:
 customer_deck_url: 
 short_text: "Enable traditional assets to be easily digitalized (tokenized), exchanged as a token, and securely stored in digital wallets"
 hero_image: assets/images/Tradable_Digital_Assets_Hero.webp
-tags: "\"Technology Accelerator\",\"Manufacturing\",\"Retail\",\"FSI\",\"HLS\",\"Automotive\",\"EDU\",\"Energy\",\"High Tech\",\"Media and Entertainment\",\"Professional Services\",\"SLG\",\"Horizontal\",\"Azure Blockchain\",\"Cosmos DB\",\"Azure Kubernetes Services\",\"Azure KeyVault\",\"Azure Container Registry\",\"Data & AI\",\"Apps & Infrastructure\""
+tags: "\"Technology Accelerator\",\"Manufacturing\",\"Retail\",\"FSI\",\"HLS\",\"Automotive\",\"EDU\",\"Energy\",\"High Tech\",\"Media and Entertainment\",\"Professional Services\",\"SLG\",\"Horizontal\",\"Azure Blockchain\",\"Cosmos DB\",\"Azure Kubernetes Services\",\"Azure KeyVault\",\"Azure Container Registry\",\"Data & AI\",\"Apps & Infrastructure\",\"Beta\""
 last_updated: "May 12, 2022 09:18:20 PM"
 related: "Healthcare-Blockchain.html,Travel-Marketplace.html"
 order: 2

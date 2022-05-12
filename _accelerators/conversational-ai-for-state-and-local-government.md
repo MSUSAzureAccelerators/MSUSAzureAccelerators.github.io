@@ -14,7 +14,7 @@ customer_overview_url:
 customer_deck_url: 
 short_text: "Rich analytics served to a dashboard for valuable insights that can help you serve your public"
 hero_image: assets/images/Conversational_AI_SLG_Hero.webp
-tags: "\"Solution Accelerator\",\"Personalization\",\"Process Automation\",\"SLG\",\"Data & AI\",\"Modern Workplace\""
+tags: "\"Solution Accelerator\",\"Personalization\",\"Process Automation\",\"SLG\",\"Data & AI\",\"Modern Workplace\",\"GA\""
 last_updated: "May 12, 2022 08:58:43 PM"
 related: "AIoT---Automated-Call-Center.html,AI-Powered-Call-Center-Intelligence.html,Conversational-AI-for-Retail.html"
 order: 2

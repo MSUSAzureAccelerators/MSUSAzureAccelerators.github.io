@@ -14,7 +14,7 @@ customer_overview_url:
 customer_deck_url: 
 short_text: "Tackle the challenges presented by siloed, insecure solutions that many counties use"
 hero_image: assets/images/HHS_Datahub_Hero.webp
-tags: "\"Solution Accelerator\",\"Healthcare\",\"HLS\",\"SLG\",\"Synapse\",\"Modern Workplace\""
+tags: "\"Solution Accelerator\",\"Healthcare\",\"HLS\",\"SLG\",\"Synapse\",\"Modern Workplace\",\"Beta\""
 last_updated: "May 12, 2022 09:04:34 PM"
 related: "Integrated-Datahub-for-Mass-Transit.html,ADX-Patient-Monitoring.html,Healthcare-Blockchain.html,Medical-Imaging-with-Azure-Machine-Learning.html,Overdose-Prevention.html,Patient-Risk-Analyzer.html,COVID-19-Vaccine-Proof-and-Test-Verification.html"
 order: 2

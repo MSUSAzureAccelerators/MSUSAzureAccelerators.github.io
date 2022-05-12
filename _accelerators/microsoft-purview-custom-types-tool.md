@@ -14,7 +14,7 @@ customer_overview_url:
 customer_deck_url: 
 short_text: "Helps with custom development for Purview using the Atlas APIs"
 hero_image: assets/images/Purview_Custom_Types_Hero.svg
-tags: "\"Technology Accelerator\",\"Process Automation\",\"Horizontal\",\"Purview\",\"node.js\",\"Apache Atlas\",\"Apps & Infrastructure\""
+tags: "\"Technology Accelerator\",\"Process Automation\",\"Horizontal\",\"Purview\",\"node.js\",\"Apache Atlas\",\"Apps & Infrastructure\",\"GA\""
 last_updated: "May 10, 2022 02:28:54 PM"
 related: "Microsoft-Purview-Custom-Connector.html,Data-Governance-Demo-Generator.html,Microsoft-Purview-ML-Lineage.html,Microsoft-Purview-Workshop.html"
 order: 2

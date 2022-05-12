@@ -14,7 +14,7 @@ customer_overview_url:
 customer_deck_url: 
 short_text: "Transform how people, devices, and data interact in daily life and work."
 hero_image: assets/images/AIOT_Hero.webp
-tags: "\"Solution Accelerator Family\",\"Process Automation\",\"Manufacturing\",\"Automotive\",\"AIoT\",\"IoT\",\"Azure Custom Vision\",\"Cognitive Services\",\"Data & AI\""
+tags: "\"Solution Accelerator Family\",\"Process Automation\",\"Manufacturing\",\"Automotive\",\"AIoT\",\"IoT\",\"Azure Custom Vision\",\"Cognitive Services\",\"Data & AI\",\"GA\""
 last_updated: "May 06, 2022 09:44:11 PM"
 related: "AIoT---Automated-Quality-Inspection.html,AIoT---Factory-and-Worker-Safety.html,AIoT---Inventory-Lifecycle-Management.html,AIoT---Predictive-Maintenance.html,Manufacturing-Vision---AMD64.html,Manufacturing-Vision---ARM64.html"
 order: 1

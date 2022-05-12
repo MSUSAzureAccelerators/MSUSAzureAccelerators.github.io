@@ -14,7 +14,7 @@ customer_overview_url:
 customer_deck_url: 
 short_text: "Quickly surface customer complaints from various platforms to the correct support."
 hero_image: assets/images/Customer_Complaints_Hero.webp
-tags: "\"Solution Accelerator\",\"Personalization\",\"Retail\",\"FSI\",\"HLS\",\"Manufacturing\",\"Azure Kubernetes Services\",\"Cognitive Search\",\"Synapse\",\"Azure Machine Learning\",\"PowerApps\",\"Data & AI\""
+tags: "\"Solution Accelerator\",\"Personalization\",\"Retail\",\"FSI\",\"HLS\",\"Manufacturing\",\"Azure Kubernetes Services\",\"Cognitive Search\",\"Synapse\",\"Azure Machine Learning\",\"PowerApps\",\"Data & AI\",\"GA\""
 last_updated: "May 12, 2022 09:00:48 PM"
 related: "AI-Powered-Insurance-Claims-Automation.html,Intelligent-Document-Processing.html,Knowledge-Mining.html,Knowledge-Mining---AML.html,Azure-Cognitive-Search-Hands-On-Lab.html"
 order: 2

@@ -14,7 +14,7 @@ customer_overview_url:
 customer_deck_url: 
 short_text: "Quickly build an initial Knowledge Mining prototype with Azure Cognitive Search"
 hero_image: assets/images/Knowledge_Mining_Hero.webp
-tags: "\"Technology Accelerator\",\"Financial\",\"Process Automation\",\"Manufacturing\",\"FSI\",\"Automotive\",\"EDU\",\"Energy\",\"High Tech\",\"HLS\",\"Media and Entertainment\",\"Professional Services\",\"Retail\",\"SLG\",\"Horizontal\",\"Cognitive Search\",\"Azure Storage\",\"Power BI\",\"Data & AI\""
+tags: "\"Technology Accelerator\",\"Financial\",\"Process Automation\",\"Manufacturing\",\"FSI\",\"Automotive\",\"EDU\",\"Energy\",\"High Tech\",\"HLS\",\"Media and Entertainment\",\"Professional Services\",\"Retail\",\"SLG\",\"Horizontal\",\"Cognitive Search\",\"Azure Storage\",\"Power BI\",\"Data & AI\",\"Beta\""
 last_updated: "May 12, 2022 09:07:11 PM"
 related: "Azure-Cognitive-Search-Hands-On-Lab.html,AI-Powered-Insurance-Claims-Automation.html,Intelligent-Document-Processing.html"
 order: 2

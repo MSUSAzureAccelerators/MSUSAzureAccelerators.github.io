@@ -14,7 +14,7 @@ customer_overview_url:
 customer_deck_url: 
 short_text: "Automate the deployment of a pre-populated Azure Purview demo environment."
 hero_image: assets/images/Purview_Demo_Generator_Hero.webp
-tags: "\"Technology Accelerator\",\"Process Automation\",\"Horizontal\",\"Automotive\",\"EDU\",\"Energy\",\"FSI\",\"High Tech\",\"HLS\",\"Manufacturing\",\"Media and Entertainment\",\"Professional Services\",\"Retail\",\"SLG\",\"Purview\",\"Azure KeyVault\",\"Azure SQL\",\"Synapse Analytics\",\"Azure Storage\",\"Apps & Infrastructure\""
+tags: "\"Technology Accelerator\",\"Process Automation\",\"Horizontal\",\"Automotive\",\"EDU\",\"Energy\",\"FSI\",\"High Tech\",\"HLS\",\"Manufacturing\",\"Media and Entertainment\",\"Professional Services\",\"Retail\",\"SLG\",\"Purview\",\"Azure KeyVault\",\"Azure SQL\",\"Synapse Analytics\",\"Azure Storage\",\"Apps & Infrastructure\",\"GA\""
 last_updated: "May 12, 2022 09:01:45 PM"
 related: "Microsoft-Purview-Custom-Connector.html,Microsoft-Purview-Custom-Types-Tool.html,Microsoft-Purview-ML-Lineage.html,Microsoft-Purview-Workshop.html"
 order: 2

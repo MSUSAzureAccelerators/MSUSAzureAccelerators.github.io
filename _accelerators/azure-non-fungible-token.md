@@ -14,7 +14,7 @@ customer_overview_url:
 customer_deck_url: 
 short_text: "Create an enterprise-class NFT that is secure, easy to use, and extensible to other enterprise applications."
 hero_image: assets/images/NFT_Hero.webp
-tags: "\"Technology Accelerator\",\"Financial\",\"Horizontal\",\"Automotive\",\"EDU\",\"Energy\",\"FSI\",\"High Tech\",\"HLS\",\"Manufacturing\",\"Media and Entertainment\",\"Professional Services\",\"Retail\",\"SLG\",\"Cosmos DB\",\"Azure Kubernetes Services\",\"Azure Container Registry\",\"Azure KeyVault\",\"Azure Virtual Machine\",\"Apps & Infrastructure\""
+tags: "\"Technology Accelerator\",\"Financial\",\"Horizontal\",\"Automotive\",\"EDU\",\"Energy\",\"FSI\",\"High Tech\",\"HLS\",\"Manufacturing\",\"Media and Entertainment\",\"Professional Services\",\"Retail\",\"SLG\",\"Cosmos DB\",\"Azure Kubernetes Services\",\"Azure Container Registry\",\"Azure KeyVault\",\"Azure Virtual Machine\",\"Apps & Infrastructure\",\"GA\""
 last_updated: "May 06, 2022 09:39:16 PM"
 related: ""
 order: 2

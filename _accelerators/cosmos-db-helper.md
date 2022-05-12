@@ -14,7 +14,7 @@ customer_overview_url:
 customer_deck_url: 
 short_text: "Allow developers to build Cosmos DB-based applications quickly and easily"
 hero_image: assets/images/Cosmos_DB_Hero.webp
-tags: "\"Technology Accelerator\",\"Manufacturing\",\"Retail\",\"Other\",\"FSI\",\"HLS\",\"Automotive\",\"EDU\",\"Energy\",\"High Tech\",\"Media and Entertainment\",\"Professional Services\",\"SLG\",\"Horizontal\",\"Cosmos DB\",\"Mongo DB,\",\"SQL API\",\"Visual Studio\",\"Apps & Infrastructure\""
+tags: "\"Technology Accelerator\",\"Manufacturing\",\"Retail\",\"Other\",\"FSI\",\"HLS\",\"Automotive\",\"EDU\",\"Energy\",\"High Tech\",\"Media and Entertainment\",\"Professional Services\",\"SLG\",\"Horizontal\",\"Cosmos DB\",\"Mongo DB,\",\"SQL API\",\"Visual Studio\",\"Apps & Infrastructure\",\"GA\""
 last_updated: "May 12, 2022 08:58:45 PM"
 related: ""
 order: 2

@@ -14,7 +14,7 @@ customer_overview_url:
 customer_deck_url: 
 short_text: "Provide predictive analytics for different prescription and distribution services"
 hero_image: assets/images/Overdose_Prevention_Hero.webp
-tags: "\"Solution Accelerator\",\"Healthcare\",\"HLS\",\"SLG\",\"Data & AI\""
+tags: "\"Solution Accelerator\",\"Healthcare\",\"HLS\",\"SLG\",\"Data & AI\",\"Nominated\""
 last_updated: "May 12, 2022 09:10:59 PM"
 related: "ADX-Patient-Monitoring.html,Patient-Risk-Analyzer.html"
 order: 2

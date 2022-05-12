@@ -14,7 +14,7 @@ customer_overview_url:
 customer_deck_url: 
 short_text: "Builds smart buildings that can prove to be a gold standard in reducing environment impact and cost by driving energy efficiency, green purchasing, waste diversion, and water efficiency"
 hero_image: assets/images/Smart_Spaces_Hero2.webp
-tags: "\"Solution Accelerator\",\"Sustainability\",\"Manufacturing\",\"FSI\",\"HLS\",\"SLG\",\"EDU\",\"Automotive\",\"Energy\",\"High Tech\",\"Media and Entertainment\",\"Professional Services\",\"Retail\",\"Horizontal\",\"Data & AI\",\"BizApps\",\"Apps & Infrastructure\""
+tags: "\"Solution Accelerator\",\"Sustainability\",\"Manufacturing\",\"FSI\",\"HLS\",\"SLG\",\"EDU\",\"Automotive\",\"Energy\",\"High Tech\",\"Media and Entertainment\",\"Professional Services\",\"Retail\",\"Horizontal\",\"Data & AI\",\"BizApps\",\"Apps & Infrastructure\",\"Beta\""
 last_updated: "May 12, 2022 09:16:17 PM"
 related: "Carbon-Tracing-Basic-Flare.html,Carbon-Tracing-Wastewater.html,ADX-IoT-Analytics.html,AIoT---Predictive-Maintenance.html,AIoT---Inventory-Lifecycle-Management.html"
 order: 2

@@ -37,6 +37,15 @@
                         data-filter='["ReferenceArchitecture"]'><i class="fa-solid fa-building-columns"></i>
                         Reference Architecture</a>
                 </div>
+                <h3 class="mb-1 mt-1 text-center md:text-2xl sm:text-xl xs:text-lg">Status</h3>
+                <div class="filter-links text-center" data-inview-showup="showup-translate-up">
+                    <a aria-label="GA" class="filter-link" href="#"
+                        data-filter='["GA"]'>GA</a>
+                    <a aria-label="Beta" class="filter-link" href="#"
+                        data-filter='["Beta"]'>Beta</a>
+                    <a aria-label="Nominated" class="filter-link" href="#"
+                        data-filter='["Nominated"]'>Nominated</a>
+                </div>
                 <h3 class="mb-1 mt-1 text-center md:text-2xl sm:text-xl xs:text-lg">Industry Alignment</h3>
                 <div class="filter-links text-center" data-inview-showup="showup-translate-up">
                     <a aria-label="Automotive" class="filter-link" href="#" data-filter='["Automotive"]'><i
@@ -122,8 +131,7 @@
                                 {{ accelerator.accelerator_type -}} ({{ accelerator.status -}})
                             </div>
                             <a href="{{ accelerator.url -}}">
-                                <h4
-                                    class="mb-2 text-xl font-semibold tracking-tight text-ms-mid-gray card__title">
+                                <h4 class="mb-2 text-xl font-semibold tracking-tight text-ms-mid-gray card__title">
                                     {{ accelerator.short_name -}}</h4>
                             </a>
                             <p class="mb-3 font-normal text-ms-dark-gray card__text">

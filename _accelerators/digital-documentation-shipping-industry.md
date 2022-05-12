@@ -14,7 +14,7 @@ customer_overview_url:
 customer_deck_url: 
 short_text: "Reduces the time to complete business deals and empowers companies to easily and securely transact business with new companies all over the world"
 hero_image: assets/images/Digital_Documentation_Hero.webp
-tags: "\"Solution Accelerator\",\"Transportation\",\"Manufacturing\",\"Retail\",\"HLS\",\"Azure Blockchain\",\"Cosmos DB\",\"Azure Kubernetes Services\",\"Azure Container Registry\",\"Data & AI\",\"BizApps\""
+tags: "\"Solution Accelerator\",\"Transportation\",\"Manufacturing\",\"Retail\",\"HLS\",\"Azure Blockchain\",\"Cosmos DB\",\"Azure Kubernetes Services\",\"Azure Container Registry\",\"Data & AI\",\"BizApps\",\"Beta\""
 last_updated: "May 12, 2022 09:01:41 PM"
 related: ""
 order: 2

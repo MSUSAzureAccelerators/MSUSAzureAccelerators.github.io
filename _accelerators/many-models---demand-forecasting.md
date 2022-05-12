@@ -14,7 +14,7 @@ customer_overview_url:
 customer_deck_url: 
 short_text: "Train data from multiple sources to forecast future demand."
 hero_image: assets/images/Many_Models_Hero.webp
-tags: "\"Solution Accelerator\",\"Supply Chain\",\"Manufacturing\",\"Retail\",\"FSI\",\"HLS\",\"Media and Entertainment\",\"Azure Machine Learning\",\"Power BI\",\"Data & AI\",\"BizApps\""
+tags: "\"Solution Accelerator\",\"Supply Chain\",\"Manufacturing\",\"Retail\",\"FSI\",\"HLS\",\"Media and Entertainment\",\"Azure Machine Learning\",\"Power BI\",\"Data & AI\",\"BizApps\",\"GA\""
 last_updated: "May 12, 2022 09:08:29 PM"
 related: ""
 order: 2

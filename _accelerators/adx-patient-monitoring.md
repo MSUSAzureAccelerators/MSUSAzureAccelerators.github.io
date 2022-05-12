@@ -14,7 +14,7 @@ customer_overview_url:
 customer_deck_url: 
 short_text: "Continuous Patient Monitoring solution to generate telemetry readings for two IoT Consumer devices"
 hero_image: assets/images/Patient_Monitoring_Hero.webp
-tags: "\"Solution Accelerator\",\"Healthcare\",\"Process Automation\",\"HLS\",\"Azure IoT Hub\",\"IoT\",\"Event Hub\",\"Bicep\",\"Digital Twins\",\"Azure Data Explorer\",\"Modern Workplace\""
+tags: "\"Solution Accelerator\",\"Healthcare\",\"Process Automation\",\"HLS\",\"Azure IoT Hub\",\"IoT\",\"Event Hub\",\"Bicep\",\"Digital Twins\",\"Azure Data Explorer\",\"Modern Workplace\",\"Beta\""
 last_updated: "May 06, 2022 09:28:05 PM"
 related: "COVID-19-Vaccine-Proof-and-Test-Verification.html,Health-and-Human-Services-Datahub.html,Healthcare-Blockchain.html,Overdose-Prevention.html,Patient-Risk-Analyzer.html"
 order: 2

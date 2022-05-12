@@ -14,7 +14,7 @@ customer_overview_url:
 customer_deck_url: 
 short_text: "Decentralized, managed marketplace platform for transacting between multiple individuals or organizations."
 hero_image: assets/images/Travel_Marketplace_Hero.webp
-tags: "\"Solution Accelerator\",\"Manufacturing\",\"HLS\",\"FSI\",\"Media and Entertainment\",\"Retail\",\"Azure Blockchain\",\"Mongo DB,\",\"Hyperledger Service Fabric\",\"Visual Studio\",\"BizApps\",\"Data & AI\""
+tags: "\"Solution Accelerator\",\"Manufacturing\",\"HLS\",\"FSI\",\"Media and Entertainment\",\"Retail\",\"Azure Blockchain\",\"Mongo DB,\",\"Hyperledger Service Fabric\",\"Visual Studio\",\"BizApps\",\"Data & AI\",\"Beta\""
 last_updated: "May 12, 2022 09:18:19 PM"
 related: "Healthcare-Blockchain.html,Tradable-Digital-Assets.html"
 order: 2

@@ -14,7 +14,7 @@ customer_overview_url:
 customer_deck_url: 
 short_text: "Drive outcomes related to building more agile factories, creating more resilient supply chains, and transforming workforces"
 hero_image: assets/images/AIOT_Call_Center_Hero.webp
-tags: "\"Solution Accelerator\",\"Process Automation\",\"Manufacturing\",\"Automotive\",\"Docker\",\"Python\",\"Azure Custom Vision\",\"Azure IoT Hub\",\"Azure SQL\",\"Azure Container Registry\",\"Azure Storage\",\"Power BI\",\"Azure Machine Learning\",\"Azure KeyVault\",\"Cognitive Services\",\"Azure DevOps\",\"Data & AI\",\"Modern Workplace\""
+tags: "\"Solution Accelerator\",\"Process Automation\",\"Manufacturing\",\"Automotive\",\"Docker\",\"Python\",\"Azure Custom Vision\",\"Azure IoT Hub\",\"Azure SQL\",\"Azure Container Registry\",\"Azure Storage\",\"Power BI\",\"Azure Machine Learning\",\"Azure KeyVault\",\"Cognitive Services\",\"Azure DevOps\",\"Data & AI\",\"Modern Workplace\",\"Beta\""
 last_updated: "May 12, 2022 08:52:53 PM"
 related: "Conversational-AI-for-Retail.html,Conversational-AI-for-State-and-Local-Government.html,AI-Powered-Call-Center-Intelligence.html"
 order: 2

@@ -14,7 +14,7 @@ customer_overview_url:
 customer_deck_url: 
 short_text: "Simplify the fraud detection and reporting process"
 hero_image: assets/images/Fraud_Compliance_Hero.webp
-tags: "\"Solution Accelerator\",\"Financial\",\"FSI\",\"Python\",\"BizApps\""
+tags: "\"Solution Accelerator\",\"Financial\",\"FSI\",\"Python\",\"BizApps\",\"Beta\""
 last_updated: "May 12, 2022 09:10:59 PM"
 related: ""
 order: 2

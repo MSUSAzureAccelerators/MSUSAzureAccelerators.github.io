@@ -14,7 +14,7 @@ customer_overview_url: assets/docs/Modern Finance General Leave Behind (Overview
 customer_deck_url: assets/docs/Modern Finance General Customer Deck.pdf
 short_text: "Transform the way you gather financial insights for driving growth."
 hero_image: assets/images/Modern_Finance_Hero.webp
-tags: "\"Solution Accelerator Family\",\"Financial\",\"FSI\",\"Horizontal\",\"Power BI\",\"BizApps\",\"Data & AI\",\"Apps & Infrastructure\""
+tags: "\"Solution Accelerator Family\",\"Financial\",\"FSI\",\"Horizontal\",\"Power BI\",\"BizApps\",\"Data & AI\",\"Apps & Infrastructure\",\"GA\""
 last_updated: "April 20, 2022 04:22:58 PM"
 related: "Modern-Finance---Customer-Revenue-Growth-Factor.html"
 order: 1

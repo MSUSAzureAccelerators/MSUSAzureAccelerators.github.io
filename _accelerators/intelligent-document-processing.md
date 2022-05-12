@@ -14,7 +14,7 @@ customer_overview_url:
 customer_deck_url: 
 short_text: "Reduce human intervention and decrease the time to find the key Data points in 100+page documents/contracts"
 hero_image: assets/images/Intelligent_Document_Processing_Hero.webp
-tags: "\"Solution Accelerator\",\"Process Automation\",\"Manufacturing\",\"Retail\",\"FSI\",\"HLS\",\"Cognitive Services\",\"Bot Framework\",\"Power BI\",\"Form Recognizer\",\"Cosmos DB\",\"Luis\",\"Data & AI\",\"Modern Workplace\""
+tags: "\"Solution Accelerator\",\"Process Automation\",\"Manufacturing\",\"Retail\",\"FSI\",\"HLS\",\"Cognitive Services\",\"Bot Framework\",\"Power BI\",\"Form Recognizer\",\"Cosmos DB\",\"Luis\",\"Data & AI\",\"Modern Workplace\",\"Beta\""
 last_updated: "May 12, 2022 09:04:35 PM"
 related: "AI-Powered-Insurance-Claims-Automation.html,Customer-Complaint-Management.html,Knowledge-Mining.html,Risk-Classification-and-Loan-Modeling.html,Knowledge-Mining---AML.html"
 order: 2

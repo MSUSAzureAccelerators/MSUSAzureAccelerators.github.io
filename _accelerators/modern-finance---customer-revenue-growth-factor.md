@@ -14,7 +14,7 @@ customer_overview_url:
 customer_deck_url: 
 short_text: "Easily identify factors for growth"
 hero_image: assets/images/Revenue_Growth_Hero.webp
-tags: "\"Solution Accelerator\",\"Financial\",\"Campaign Management\",\"Manufacturing\",\"Retail\",\"FSI\",\"HLS\",\"Media and Entertainment\",\"Synapse\",\"Azure Data Lake Storage\",\"Azure Machine Learning\",\"Azure Container Images\",\"Power BI\",\"Data & AI\",\"BizApps\",\"Apps & Infrastructure\""
+tags: "\"Solution Accelerator\",\"Financial\",\"Campaign Management\",\"Manufacturing\",\"Retail\",\"FSI\",\"HLS\",\"Media and Entertainment\",\"Synapse\",\"Azure Data Lake Storage\",\"Azure Machine Learning\",\"Azure Container Images\",\"Power BI\",\"Data & AI\",\"BizApps\",\"Apps & Infrastructure\",\"GA\""
 last_updated: "May 12, 2022 09:11:02 PM"
 related: "Modern-Finance.html"
 order: 2

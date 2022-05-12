@@ -14,7 +14,7 @@ customer_overview_url:
 customer_deck_url: 
 short_text: "Automates call transcriptions for real-time and previously recorded calls"
 hero_image: assets/images/AI_Call_Center_Hero.webp
-tags: "\"Solution Accelerator\",\"Personalization\",\"Process Automation\",\"FSI\",\"Cognitive Services\",\"Azure Machine Learning\",\"Power BI\",\"Azure Speech Services\",\"Azure SQL\",\"Azure Storage\",\"Data & AI\""
+tags: "\"Solution Accelerator\",\"Personalization\",\"Process Automation\",\"FSI\",\"Cognitive Services\",\"Azure Machine Learning\",\"Power BI\",\"Azure Speech Services\",\"Azure SQL\",\"Azure Storage\",\"Data & AI\",\"GA\""
 last_updated: "May 12, 2022 08:54:15 PM"
 related: "AIoT---Automated-Call-Center.html,Conversational-AI-for-Retail.html,Conversational-AI-for-State-and-Local-Government.html"
 order: 2

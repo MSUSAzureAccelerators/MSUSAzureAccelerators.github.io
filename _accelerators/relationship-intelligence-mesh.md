@@ -14,7 +14,7 @@ customer_overview_url:
 customer_deck_url: 
 short_text: "Insights about the strength of relationship with customers and their key contacts."
 hero_image: assets/images/Relationship_Mesh_Hero.webp
-tags: "\"Solution Accelerator\",\"Workplace Intelligence\",\"Media and Entertainment\",\"FSI\",\"Synapse Analytics\",\"Power BI\",\"BizApps\",\"Data & AI\",\"Modern Workplace\""
+tags: "\"Solution Accelerator\",\"Workplace Intelligence\",\"Media and Entertainment\",\"FSI\",\"Synapse Analytics\",\"Power BI\",\"BizApps\",\"Data & AI\",\"Modern Workplace\",\"Beta\""
 last_updated: "May 12, 2022 09:14:57 PM"
 related: ""
 order: 2
