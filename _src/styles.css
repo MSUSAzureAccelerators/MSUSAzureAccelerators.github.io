@@ -107,12 +107,12 @@
     @apply bg-ms-blue text-ms-white px-4 py-[.125rem] text-left drop-shadow-lg transition duration-300 ease-in-out xs:w-[210px] xs:text-xs xs:px-2 lg:h-[30px] lg:w-[250px] lg:text-base rounded-full ;
   }
 
-  .filter-link:hover {
-    @apply bg-ms-white text-ms-blue border-ms-blue;
-  }
-
   .filter-link:visited {
     @apply bg-ms-blue text-ms-white;
+  }
+
+  .filter-link:hover {
+    @apply bg-ms-white text-ms-blue border-ms-blue;
   }
 
   .filter-link.active {
