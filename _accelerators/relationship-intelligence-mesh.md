@@ -5,7 +5,7 @@ title: "Relationship Intelligence (Mesh)"
 accelerator_type: "Solution Accelerator"
 classification: "Workplace Intelligence"
 solution_area: "BizApps,Data & AI,Modern Workplace"
-status: "Work In Progress"
+status: "Beta"
 industries: "Media and Entertainment,FSI"
 technology_stack: "Synapse Analytics,Power BI"
 github_url: https://github.com/microsoft/Relationship-Mesh-Solution-Accelerator-with-MGDC-and-Azure-Synapse-Analytics
@@ -15,7 +15,7 @@ customer_deck_url:
 short_text: "Insights about the strength of relationship with customers and their key contacts."
 hero_image: assets/images/Relationship_Mesh_Hero.webp
 tags: "\"Solution Accelerator\",\"Workplace Intelligence\",\"Media and Entertainment\",\"FSI\",\"Synapse Analytics\",\"Power BI\",\"BizApps\",\"Data & AI\",\"Modern Workplace\""
-last_updated: "April 20, 2022 06:59:26 PM"
+last_updated: "May 12, 2022 09:14:57 PM"
 related: ""
 order: 2
 ---
