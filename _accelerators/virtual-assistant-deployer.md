@@ -2,7 +2,7 @@
 short_name: "Virtual Assistant Deployer"
 name: "Virtual Assistant Deployer"
 title: "Virtual Assistant Deployer"
-accelerator_type: "Reusable Technology Accelerator"
+accelerator_type: "Technology Accelerator"
 classification: ""
 solution_area: "Data & AI"
 status: "Work In Progress"
@@ -14,8 +14,8 @@ customer_overview_url:
 customer_deck_url: 
 short_text: "Deploy a Microsoft Virtual Assistant Solution without needing to install all the prerequisite tools on your own machine"
 hero_image: assets/images/Virtual_Assistant_Hero.webp
-tags: "\"Reusable Technology Accelerator\",\"Manufacturing\",\"Retail\",\"FSI\",\"HLS\",\"Automotive\",\"EDU\",\"Energy\",\"High Tech\",\"Media and Entertainment\",\"Professional Services\",\"SLG\",\"Horizontal\",\"Bot Framework\",\"Visual Studio Code\",\"Docker\",\"Data & AI\""
-last_updated: "April 27, 2022 01:58:51 PM"
+tags: "\"Technology Accelerator\",\"Manufacturing\",\"Retail\",\"FSI\",\"HLS\",\"Automotive\",\"EDU\",\"Energy\",\"High Tech\",\"Media and Entertainment\",\"Professional Services\",\"SLG\",\"Horizontal\",\"Bot Framework\",\"Visual Studio Code\",\"Docker\",\"Data & AI\""
+last_updated: "May 12, 2022 03:05:31 PM"
 related: ""
 order: 2
 ---
