@@ -63,7 +63,7 @@
     @apply bg-fb-blue text-ms-white;
   }
   .fa-facebook:hover {
-    @apply text-fb-blue bg-ms-white border-fb-blue border;
+    @apply bg-ms-white text-fb-blue  border-fb-blue border;
   }
   .fa-facebook:visited {
     @apply bg-fb-blue text-ms-white;
@@ -73,7 +73,7 @@
     @apply bg-tw-blue text-ms-white;
   }
   .fa-twitter:hover {
-    @apply text-tw-blue bg-ms-white border-tw-blue border;
+    @apply bg-ms-white text-tw-blue  border-tw-blue border;
   }
   .fa-twitter:visited {
     @apply bg-tw-blue text-ms-white;
@@ -83,7 +83,7 @@
     @apply bg-li-blue text-ms-white;
   }
   .fa-linkedin:hover {
-    @apply text-li-blue bg-ms-white border-li-blue border;
+    @apply bg-ms-white text-li-blue  border-li-blue border;
   }
   .fa-linkedin:visited {
     @apply bg-li-blue text-ms-white;
@@ -93,7 +93,7 @@
     @apply bg-ms-blue text-ms-white;
   }
   .fa-envelope:hover {
-    @apply text-ms-blue bg-ms-white border-ms-blue border;
+    @apply bg-ms-white text-ms-blue  border-ms-blue border;
   }
   .fa-envelope:visited {
     @apply bg-ms-blue text-ms-white;
@@ -104,15 +104,15 @@
   }
 
   .filter-link {
-    @apply px-4 py-[.125rem] bg-ms-blue text-left text-ms-white drop-shadow-lg transition duration-300 ease-in-out xs:w-[210px] xs:text-xs xs:px-2 lg:h-[30px] lg:w-[250px] lg:text-base rounded-full ;
+    @apply bg-ms-blue text-ms-white px-4 py-[.125rem] text-left drop-shadow-lg transition duration-300 ease-in-out xs:w-[210px] xs:text-xs xs:px-2 lg:h-[30px] lg:w-[250px] lg:text-base rounded-full ;
   }
 
   .filter-link:hover {
-    @apply bg-ms-white text-ms-blue transition duration-300 ease-in-out;
+    @apply bg-ms-white text-ms-blue border-ms-blue border transition duration-300 ease-in-out;
   }
 
   .filter-link:visited {
-    @apply text-ms-white bg-ms-blue;
+    @apply bg-ms-blue text-ms-white;
   }
 
   .filter-link.active {
