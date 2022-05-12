@@ -112,7 +112,7 @@
   }
 
   .filter-link:hover {
-    @apply bg-ms-white text-ms-blue border-ms-blue;
+    @apply bg-ms-white text-ms-blue;
   }
 
   .filter-link.active {
