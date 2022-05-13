@@ -134,11 +134,6 @@
                             <p class="mb-3 font-normal text-ms-rich-black card__text">
                                 {{ accelerator.short_text -}}
                             </p>
-                            {%- if accelerator.status == "GA" -%}
-                            <span class="flex absolute right-0 bottom-1 justify-end w-full filter opacity-50">
-                                <img class="h-[50px] w-[50px] mb-2 mr-2 ml-auto" src="../assets/images/badge/GA_Badge.webp" alt="Generally Available">
-                            </span>
-                            {%- endif -%}
                             {%- if accelerator.github_url and accelerator.github_url != "na" and accelerator.github_url != "" -%}
                             <a href="{{ accelerator.github_url }}" target="_blank"
                                 class="inline-flex items-center py-2 px-3 text-sm font-medium text-center text-ms-white bg-ms-blue rounded-lg hover:bg-ms-dark-blue">
@@ -150,6 +145,11 @@
                                         clip-rule="evenodd"></path>
                                 </svg>
                             </a>
+                            {%- endif -%}
+                            {%- if accelerator.status == "GA" -%}
+                            <span class="flex absolute right-0 bottom-1 items-end w-full filter opacity-50">
+                                <img class="h-[50px] w-[50px] mb-2 mr-2 ml-auto" src="../assets/images/badge/GA_Badge.webp" alt="Generally Available">
+                            </span>
                             {%- endif -%}
                         </div>
                     </div>
