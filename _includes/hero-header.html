@@ -3,7 +3,24 @@
         <div class="hero-content text-left">
             <div class="w-[100vw]">
                 <h1 class="text-neutral-content">{{ page.title }}</h1>
-                <p class="supertitle mt-0 text-neutral-content">{{ page.accelerator_type -}} ({{ page.status -}})</p>
+                <p class="supertitle mt-0 text-neutral-content">{{ page.accelerator_type -}}
+                    {%- if page.status == "GA" -%}
+                    <div class="flex space-x-2 justify-end absolute top-1 right-1 mr-4 mt-4 w-full">
+                        <span
+                            class="text-xs inline-block py-1 px-2.5 leading-none text-center whitespace-nowrap align-baseline font-bold bg-ms-blue text-ms-light-gray rounded-full border border-ms-dark-blue">{{ page.status -}}</span>
+                    </div>
+                    {%- elsif page.status == "Beta" -%}
+                    <div class="flex space-x-2 justify-end absolute top-1 right-1 mr-4 mt-4 w-full">
+                        <span
+                            class="text-xs inline-block py-1 px-2.5 leading-none text-center whitespace-nowrap align-baseline font-bold bg-ms-yellow text-ms-dark-yellow rounded-full border border-ms-dark-yellow">{{ page.status -}}</span>
+                    </div>
+                    {%- elsif page.status == "Nominated" -%}
+                    <div class="flex space-x-2 justify-end absolute top-1 right-1 mr-4 mt-4 w-full">
+                        <span
+                            class="text-xs inline-block py-1 px-2.5 leading-none text-center whitespace-nowrap align-baseline font-bold bg-ms-mid-gray text-ms-light-gray rounded-full border border-ms-dark-gray">{{ page.status -}}</span>
+                    </div>
+                    {%- endif -%}
+                </p>
             </div>
         </div>
     </div>
