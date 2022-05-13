@@ -7,17 +7,17 @@
                     {%- if page.status == "GA" -%}
                     <div class="flex space-x-2 justify-end absolute top-1 right-1 mr-4 mt-4 w-full">
                         <span
-                            class="text-xs inline-block py-1 px-2.5 leading-none text-center whitespace-nowrap align-baseline font-bold bg-ms-blue text-ms-light-gray rounded-full border border-ms-dark-blue">{{ page.status -}}</span>
+                            class="text-xs inline-block py-1 px-2.5 leading-none text-center whitespace-nowrap align-baseline font-bold bg-ms-blue text-ms-light-gray rounded-full border border-ms-dark-blue"><i class="fa-solid fa-gauge-high"></i> {{ page.status -}}</span>
                     </div>
                     {%- elsif page.status == "Beta" -%}
                     <div class="flex space-x-2 justify-end absolute top-1 right-1 mr-4 mt-4 w-full">
                         <span
-                            class="text-xs inline-block py-1 px-2.5 leading-none text-center whitespace-nowrap align-baseline font-bold bg-ms-yellow text-ms-dark-yellow rounded-full border border-ms-dark-yellow">{{ page.status -}}</span>
+                            class="text-xs inline-block py-1 px-2.5 leading-none text-center whitespace-nowrap align-baseline font-bold bg-ms-yellow text-ms-dark-yellow rounded-full border border-ms-dark-yellow"><i class="fa-solid fa-flask-vial"></i> {{ page.status -}}</span>
                     </div>
                     {%- elsif page.status == "Nominated" -%}
                     <div class="flex space-x-2 justify-end absolute top-1 right-1 mr-4 mt-4 w-full">
                         <span
-                            class="text-xs inline-block py-1 px-2.5 leading-none text-center whitespace-nowrap align-baseline font-bold bg-ms-mid-gray text-ms-light-gray rounded-full border border-ms-dark-gray">{{ page.status -}}</span>
+                            class="text-xs inline-block py-1 px-2.5 leading-none text-center whitespace-nowrap align-baseline font-bold bg-ms-mid-gray text-ms-light-gray rounded-full border border-ms-dark-gray"><i class="fa-solid fa-pen-to-square"></i> {{ page.status -}}</span>
                     </div>
                     {%- endif -%}
                 </p>
