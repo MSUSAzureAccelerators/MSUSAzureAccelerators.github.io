@@ -39,12 +39,9 @@
                 </div>
                 <h3 class="mb-1 mt-1 text-center md:text-2xl sm:text-xl xs:text-lg">Status</h3>
                 <div class="filter-links text-center" data-inview-showup="showup-translate-up">
-                    <a aria-label="GA" class="filter-link" href="#"
-                        data-filter='["GA"]'>GA</a>
-                    <a aria-label="Beta" class="filter-link" href="#"
-                        data-filter='["Beta"]'>Beta</a>
-                    <a aria-label="Nominated" class="filter-link" href="#"
-                        data-filter='["Nominated"]'>Nominated</a>
+                    <a aria-label="GA" class="filter-link" href="#" data-filter='["GA"]'><i class="fa-solid fa-gauge-high"></i> GA</a>
+                    <a aria-label="Beta" class="filter-link" href="#" data-filter='["Beta"]'><i class="fa-solid fa-flask-vial"></i> Beta</a>
+                    <a aria-label="Nominated" class="filter-link" href="#" data-filter='["Nominated"]'><i class="fa-solid fa-pen-to-square"></i> Nominated</a>
                 </div>
                 <h3 class="mb-1 mt-1 text-center md:text-2xl sm:text-xl xs:text-lg">Industry Alignment</h3>
                 <div class="filter-links text-center" data-inview-showup="showup-translate-up">
@@ -84,23 +81,23 @@
                 <h3 class="mb-1 mt-1 text-center md:text-2xl sm:text-xl xs:text-lg">Relevant Personas</h3>
                 <div class="filter-links text-center" data-inview-showup="showup-translate-up">
                     <a aria-label="Campaign Management" class="filter-link" href="#"
-                        data-filter='["CampaignManagement"]'>Campaign Management</a>
-                    <a aria-label="Financial" class="filter-link" href="#" data-filter='["Financial"]'>Financial</a>
-                    <a aria-label="Healthcare" class="filter-link" href="#" data-filter='["Healthcare"]'>Healthcare</a>
+                        data-filter='["CampaignManagement"]'><i class="fa-solid fa-chart-simple"></i> Campaign Management</a>
+                    <a aria-label="Financial" class="filter-link" href="#" data-filter='["Financial"]'><i class="fa-solid fa-money-bill-trend-up"></i> Financial</a>
+                    <a aria-label="Healthcare" class="filter-link" href="#" data-filter='["Healthcare"]'><i class="fa-solid fa-staff-aesculapius"></i> Healthcare</a>
                     <a aria-label="Personalization" class="filter-link" href="#"
-                        data-filter='["Personalization"]'>Personalization</a>
+                        data-filter='["Personalization"]'><i class="fa-solid fa-person-chalkboard"></i> Personalization</a>
                     <a aria-label="Process Automation" class="filter-link" href="#"
-                        data-filter='["ProcessAutomation"]'>Process Automation</a>
+                        data-filter='["ProcessAutomation"]'><i class="fa-solid fa-robot"></i> Process Automation</a>
                     <a aria-label="Professional Services" class="filter-link" href="#"
-                        data-filter='["ProfessionalServices"]'>Professional Services</a>
-                    <a aria-label="Supply Chain" class="filter-link" href="#" data-filter='["SupplyChain"]'>Supply
+                        data-filter='["ProfessionalServices"]'><i class="fa-solid fa-user-tie"></i> Professional Services</a>
+                    <a aria-label="Supply Chain" class="filter-link" href="#" data-filter='["SupplyChain"]'><i class="fa-solid fa-boxes-packing"></i> Supply
                         Chain</a>
                     <a aria-label="Sustainability" class="filter-link" href="#"
-                        data-filter='["Sustainability"]'>Sustainability</a>
+                        data-filter='["Sustainability"]'><i class="fa-solid fa-leaf"></i> Sustainability</a>
                     <a aria-label="Transportation" class="filter-link" href="#"
-                        data-filter='["Transportation"]'>Transportation</a>
+                        data-filter='["Transportation"]'><i class="fa-solid fa-truck-plane"></i> Transportation</a>
                     <a aria-label="Workplace Intelligence" class="filter-link" href="#"
-                        data-filter='["WorkplaceIntelligence"]'>Workplace Intelligence</a>
+                        data-filter='["WorkplaceIntelligence"]'><i class="fa-solid fa-brain"></i> Workplace Intelligence</a>
                 </div>
                 <h3 class="mb-1 mt-1 text-center md:text-2xl sm:text-xl xs:text-lg">Share</h3>
                 {%- include social-links.html -%}
@@ -127,16 +124,21 @@
                             </a>
                         </div>
                         <div class="p-5">
-                            <div class="leading-5 uppercase text-sm tracking-widest text-ms-gray">
+                            <div class="leading-5 uppercase text-sm tracking-widest text-ms-mid-gray">
                                 {{ accelerator.accelerator_type -}} ({{ accelerator.status -}})
                             </div>
                             <a href="{{ accelerator.url -}}">
-                                <h4 class="mb-2 text-xl font-semibold tracking-tight text-ms-mid-gray card__title">
+                                <h4 class="mb-2 text-xl font-semibold tracking-tight text-ms-dark-blue card__title">
                                     {{ accelerator.short_name -}}</h4>
                             </a>
-                            <p class="mb-3 font-normal text-ms-dark-gray card__text">
+                            <p class="mb-3 font-normal text-ms-rich-black card__text">
                                 {{ accelerator.short_text -}}
                             </p>
+                            {%- if accelerator.status == "GA" -%}
+                            <span class="flex absolute right-0 bottom-1 justify-end w-full filter opacity-50">
+                                <img class="h-[50px] w-[50px] mb-2 mr-2 ml-auto" src="../assets/images/badge/GA_Badge.webp" alt="Generally Available">
+                            </span>
+                            {%- endif -%}
                             {%- if accelerator.github_url and accelerator.github_url != "na" and accelerator.github_url != "" -%}
                             <a href="{{ accelerator.github_url }}" target="_blank"
                                 class="inline-flex items-center py-2 px-3 text-sm font-medium text-center text-ms-white bg-ms-blue rounded-lg hover:bg-ms-dark-blue">
