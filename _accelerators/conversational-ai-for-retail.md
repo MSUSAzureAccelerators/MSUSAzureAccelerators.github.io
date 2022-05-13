@@ -15,8 +15,8 @@ customer_deck_url:
 short_text: "Enables quick implementation of conversational AI into communication channels like chatbots, consumer voice assistants, and as an augmentation layer within existing IVR system."
 hero_image: assets/images/Conversational_AI_Hero.webp
 tags: "\"Solution Accelerator\",\"Personalization\",\"Process Automation\",\"Retail\",\"Azure Machine Learning\",\"Bot Framework\",\"Cognitive Services\",\"Modern Workplace\",\"Data & AI\",\"GA\""
-last_updated: "May 12, 2022 08:58:44 PM"
-related: "Conversational-AI-for-State-and-Local-Government.html,AI-Powered-Call-Center-Intelligence.html,AIoT---Automated-Call-Center.html"
+last_updated: "May 13, 2022 04:54:57 PM"
+related: "Conversational-AI-for-State-and-Local-Government.html,AI-Powered-Call-Center-Intelligence.html,Conversational-AI-for-Manufacturing.html,Conversational-AI-for-Education.html,Conversational-AI-for-Finance.html,Conversational-AI-for-Healthcare.html"
 order: 2
 ---
 ## About this Solution Accelerator
