@@ -125,7 +125,7 @@
                         </div>
                         <div class="p-5">
                             <div class="leading-5 uppercase text-sm tracking-widest text-ms-mid-gray">
-                                {{ accelerator.accelerator_type -}} ({{ accelerator.status -}})
+                                {{ accelerator.accelerator_type -}}
                             </div>
                             <a href="{{ accelerator.url -}}">
                                 <h4 class="mb-2 text-xl font-semibold tracking-tight text-ms-dark-blue card__title">
@@ -147,9 +147,17 @@
                             </a>
                             {%- endif -%}
                             {%- if accelerator.status == "GA" -%}
-                            <span class="flex absolute right-0 bottom-1 items-end w-full filter opacity-50">
-                                <img class="h-[50px] w-[50px] mb-2 mr-2 ml-auto" src="../assets/images/badge/GA_Badge.webp" alt="Generally Available">
-                            </span>
+                            <div class="flex space-x-2 justify-end absolute top-1 right-1 mr-4 mt-4 w-full">
+                                <span class="text-xs inline-block py-1 px-2.5 leading-none text-center whitespace-nowrap align-baseline font-bold bg-ms-blue text-ms-light-gray rounded-full border border-ms-dark-blue">{{ accelerator.status -}}</span>
+                            </div>
+                            {%- elsif accelerator.status == "Beta" -%}
+                            <div class="flex space-x-2 justify-end absolute top-1 right-1 mr-4 mt-4 w-full">
+                                <span class="text-xs inline-block py-1 px-2.5 leading-none text-center whitespace-nowrap align-baseline font-bold bg-ms-yellow text-ms-dark-yellow rounded-full border border-ms-dark-yellow">{{ accelerator.status -}}</span>
+                            </div>
+                            {%- elsif accelerator.status == "Nominated" -%}
+                            <div class="flex space-x-2 justify-end absolute top-1 right-1 mr-4 mt-4 w-full">
+                                <span class="text-xs inline-block py-1 px-2.5 leading-none text-center whitespace-nowrap align-baseline font-bold bg-ms-mid-gray text-ms-light-gray rounded-full border border-ms-dark-gray">{{ accelerator.status -}}</span>
+                            </div>
                             {%- endif -%}
                         </div>
                     </div>
