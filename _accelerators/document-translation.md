@@ -24,3 +24,5 @@ order: 2
 Today’s enterprise is facing new challenges in communicating effectively with its customers, employees, and suppliers.  Companies are expanding into new markets and one of the key challenges they face is localizing content so everyone can read the information in their native language.  The Document Translation Solution Accelerator was developed to enable enterprises to quickly leverage the Azure Document Translation API within their organization by deploying a desktop application for employees to submit translation requests.
 
 The Document Translation Solution Accelerator was developed to enable enterprises to quickly leverage the Azure Document Translation API within their organization by deploying a desktop application for employees to submit requests.  Supported formats include HTML, PDF, all Office document formats, Markdown and plain text.  This solution ensures corporate data is translated within the enterprise's Azure tenant.
+
+![Document Translation Architecture](../assets/images/document-translation-architecture.webp)
