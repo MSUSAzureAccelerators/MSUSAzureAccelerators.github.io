@@ -15,7 +15,7 @@ customer_deck_url:
 short_text: "Resource to build a solution to forecast prices of commodities and identify anomalies in the time-series data"
 hero_image: assets/images/Commodity_Price_Prediction_Hero.webp
 tags: "\"Solution Accelerator\",\"Supply Chain\",\"Manufacturing\",\"Retail\",\"FSI\",\"Media and Entertainment\",\"HLS\",\"Synapse\",\"Azure Machine Learning\",\"Azure Kubernetes Services\",\"Azure Logic Apps,\",\"Power BI\",\"Cognitive Services\",\"Data & AI\",\"Beta\""
-last_updated: "May 12, 2022 08:56:41 PM"
+last_updated: "May 17, 2022 05:09:29 PM"
 related: ""
 order: 2
 ---

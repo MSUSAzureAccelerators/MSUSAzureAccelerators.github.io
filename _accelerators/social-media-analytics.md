@@ -13,9 +13,9 @@ demo_url:
 customer_overview_url: 
 customer_deck_url: 
 short_text: "Build a Social Media Analytics solution that provides a summary view of social media posts, people, organizations, sentiments, and locations the company can act on."
-hero_image: assets/images/Social_Media_Hero.webp
+hero_image: assets/images/Social_Analytics_Hero.webp
 tags: "\"Solution Accelerator\",\"Process Automation\",\"Personalization\",\"Automotive\",\"EDU\",\"Energy\",\"FSI\",\"High Tech\",\"HLS\",\"Manufacturing\",\"Media and Entertainment\",\"Professional Services\",\"Retail\",\"SLG\",\"Horizontal\",\"Synapse Analytics\",\"Power BI\",\"Data & AI\",\"BizApps\",\"Beta\""
-last_updated: "May 12, 2022 09:16:56 PM"
+last_updated: "May 17, 2022 05:26:21 PM"
 related: ""
 order: 2
 ---

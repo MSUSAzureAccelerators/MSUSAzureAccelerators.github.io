@@ -13,9 +13,9 @@ demo_url:
 customer_overview_url: 
 customer_deck_url: 
 short_text: "Automate invoice processing and analysis using Azure Form Recognizer"
-hero_image: assets/images/Invoice_Automation_Hero.webp
+hero_image: assets/images/Invoice_Processing_Automation_Hero.webp
 tags: "\"Solution Accelerator\",\"Financial\",\"Automotive\",\"EDU\",\"Energy\",\"FSI\",\"High Tech\",\"HLS\",\"Manufacturing\",\"Media and Entertainment\",\"Professional Services\",\"Retail\",\"SLG\",\"Horizontal\",\"Form Recognizer\",\"Azure Logic Apps\",\"Power BI\",\"Azure Storage\",\"Cosmos DB\",\"BizApps\",\"Data & AI\",\"Beta\""
-last_updated: "May 12, 2022 09:07:12 PM"
+last_updated: "May 17, 2022 05:18:12 PM"
 related: ""
 order: 2
 ---

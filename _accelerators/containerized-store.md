@@ -13,9 +13,9 @@ demo_url:
 customer_overview_url: 
 customer_deck_url: 
 short_text: "Modernize traditional retail stores and provide customers with new, easier ways to purchase goods while on-the-go, or find new ways to engage their customers."
-hero_image: assets/images/Containerized_Store_Hero.webp
+hero_image: assets/images/Container_Store_Hero.webp
 tags: "\"Solution Accelerator\",\"Retail\",\"Azure Custom Vision\",\"VoTT\",\"Video Studio\",\"BizApps\",\"Beta\""
-last_updated: "May 12, 2022 08:57:48 PM"
+last_updated: "May 17, 2022 05:09:27 PM"
 related: ""
 order: 2
 ---

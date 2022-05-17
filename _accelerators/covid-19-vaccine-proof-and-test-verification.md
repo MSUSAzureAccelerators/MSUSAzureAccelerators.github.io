@@ -13,9 +13,9 @@ demo_url:
 customer_overview_url: 
 customer_deck_url: 
 short_text: "Mass processes and digitizes vaccine and viral test result forms."
-hero_image: assets/images/COVID_Testing_Hero.webp
+hero_image: assets/images/COVID19_Hero.webp
 tags: "\"Solution Accelerator\",\"Healthcare\",\"Manufacturing\",\"Retail\",\"FSI\",\"HLS\",\"SLG\",\"Form Recognizer\",\"Azure Storage\",\"Azure Logic Apps\",\"Cosmos DB\",\"Synapse Analytics\",\"Power BI\",\"Data & AI\",\"BizApps\",\"GA\""
-last_updated: "May 12, 2022 08:58:46 PM"
+last_updated: "May 17, 2022 05:11:48 PM"
 related: "ADX-Patient-Monitoring.html,Health-and-Human-Services-Datahub.html,Healthcare-Blockchain.html,Medical-Imaging-with-Azure-Machine-Learning.html,Overdose-Prevention.html,Patient-Risk-Analyzer.html"
 order: 2
 ---
