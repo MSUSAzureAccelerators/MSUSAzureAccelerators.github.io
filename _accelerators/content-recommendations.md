@@ -9,13 +9,13 @@ status: "GA"
 industries: "Manufacturing,Retail,FSI,HLS,Media and Entertainment"
 technology_stack: "Synapse,Azure Data Lake Storage,Power BI"
 github_url: https://github.com/microsoft/Azure-Synapse-Content-Recommendations-Solution-Accelerator
-demo_url: 
+demo_url: https://admin.cloudlabs.ai
 customer_overview_url: 
 customer_deck_url: 
 short_text: "Leverage to find simple, cost-effective ways to gain consumer insights."
 hero_image: assets/images/Content_Recommendations_Hero.webp
 tags: "\"Solution Accelerator\",\"Personalization\",\"Manufacturing\",\"Retail\",\"FSI\",\"HLS\",\"Media and Entertainment\",\"Synapse\",\"Azure Data Lake Storage\",\"Power BI\",\"Data & AI\",\"GA\""
-last_updated: "May 17, 2022 05:10:52 PM"
+last_updated: "May 18, 2022 08:23:57 PM"
 related: "Azure-Intelligent-Recommendations.html,Retail-Recommender.html,Recommender-Systems.html"
 order: 2
 ---
