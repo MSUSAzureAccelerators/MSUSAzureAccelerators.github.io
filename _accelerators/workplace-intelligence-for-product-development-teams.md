@@ -13,9 +13,9 @@ demo_url:
 customer_overview_url: 
 customer_deck_url: 
 short_text: "Uncover and leverage the key drivers of productivity and success for product development teams"
-hero_image: assets/images/Workplace_Intelligence_Hero.webp
+hero_image: assets/images/WP_Intelligence_Tech_Hero.webp
 tags: "\"Solution Accelerator\",\"Workplace Intelligence\",\"High Tech\",\"Automotive\",\"EDU\",\"Energy\",\"FSI\",\"HLS\",\"Manufacturing\",\"Media and Entertainment\",\"Professional Services\",\"Retail\",\"SLG\",\"Horizontal\",\"Azure DevOps\",\"Workplace Analytics\",\"Viva\",\"Synapse\",\"Power BI\",\"Modern Workplace\",\"Data & AI\",\"BizApps\",\"Apps & Infrastructure\",\"GA\""
-last_updated: "May 12, 2022 09:18:20 PM"
+last_updated: "May 23, 2022 01:08:56 PM"
 related: "Workplace-Intelligence-for-Human-Resources.html"
 order: 2
 ---
