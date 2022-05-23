@@ -15,7 +15,7 @@ customer_deck_url:
 short_text: "Speed up migration with ease of development and also use the same for production deployment"
 hero_image: assets/images/ADF_Ingestion_Framework_Hero.webp
 tags: "\"Solution Accelerator\",\"Process Automation\",\"Horizontal\",\"Automotive\",\"EDU\",\"Energy\",\"FSI\",\"High Tech\",\"HLS\",\"Manufacturing\",\"Media and Entertainment\",\"Professional Services\",\"Retail\",\"SLG\",\"Synapse\",\"Azure SQL\",\"Azure Data Lake Storage\",\"Power BI\",\"Azure Data Factory\",\"Data & AI\",\"Beta\""
-last_updated: "May 12, 2022 10:38:04 PM"
+last_updated: "May 23, 2022 04:52:31 PM"
 related: ""
 order: 2
 ---

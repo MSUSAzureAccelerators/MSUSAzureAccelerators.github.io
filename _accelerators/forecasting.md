@@ -1,7 +1,7 @@
 ---
-short_name: Forecasting 
-name: Forecasting  Solution Accelerator
-title: Forecasting  Solution Accelerator
+short_name: Forecasting
+name: Forecasting Solution Accelerator
+title: Forecasting Solution Accelerator
 accelerator_type: Solution Accelerator
 classification: 
 industries: "Horizontal"
