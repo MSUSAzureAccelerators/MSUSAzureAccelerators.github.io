@@ -15,7 +15,7 @@ customer_deck_url:
 short_text: "Examples and best practices for building recommendation systems"
 hero_image: assets/images/Recommenders_Hero.webp
 tags: "\"Technology Accelerator\",\"Personalization\",\"Automotive\",\"EDU\",\"Energy\",\"FSI\",\"High Tech\",\"HLS\",\"Manufacturing\",\"Media and Entertainment\",\"Professional Services\",\"Retail\",\"SLG\",\"Horizontal\",\"Data & AI\",\"BizApps\",\"GA\""
-last_updated: "May 12, 2022 09:15:00 PM"
+last_updated: "May 24, 2022 07:41:04 PM"
 related: "Azure-Intelligent-Recommendations.html,Content-Recommendations.html,Retail-Recommender.html"
 order: 2
 ---

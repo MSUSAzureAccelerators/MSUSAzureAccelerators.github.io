@@ -12,10 +12,10 @@ github_url: https://github.com/MSUSSolutionAccelerators/Carbon-Tracing-Wastewate
 demo_url: 
 customer_overview_url: 
 customer_deck_url: 
-short_text: "Transform your data into opportunities to cut your wastewater treatment emissions."
+short_text: "Transform your data into opportunities to cut your wastewater treatment emissions"
 hero_image: assets/images/Carbon_Tracing_Wastewater_Hero.webp
 tags: "\"Solution Accelerator\",\"Sustainability\",\"Retail\",\"FSI\",\"HLS\",\"Automotive\",\"EDU\",\"Energy\",\"High Tech\",\"Media and Entertainment\",\"Professional Services\",\"SLG\",\"Horizontal\",\"Manufacturing\",\"Azure IoT Hub\",\"Synapse\",\"Azure Storage\",\"Power BI\",\"Azure Logic Apps\",\"BizApps\",\"Data & AI\",\"GA\""
-last_updated: "May 12, 2022 08:56:44 PM"
+last_updated: "May 24, 2022 08:02:33 PM"
 related: "Carbon-Tracing-Basic-Flare.html,Smart-Spaces.html"
 order: 2
 ---

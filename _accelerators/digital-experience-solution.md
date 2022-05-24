@@ -12,10 +12,10 @@ github_url: https://github.com/MSUSSolutionAccelerators/Digital-Experience-Solut
 demo_url: 
 customer_overview_url: 
 customer_deck_url: 
-short_text: "Move the entire live stream process offsite and into the cloud"
+short_text: "Move the entire live stream process offsite and into the cloud."
 hero_image: assets/images/Live_Events_Hero.webp
 tags: "\"Solution Accelerator\",\"Campaign Management\",\"Media and Entertainment\",\"Modern Workplace\",\"BizApps\",\"GA\""
-last_updated: "May 12, 2022 08:59:29 PM"
+last_updated: "May 24, 2022 08:07:09 PM"
 related: ""
 order: 2
 ---

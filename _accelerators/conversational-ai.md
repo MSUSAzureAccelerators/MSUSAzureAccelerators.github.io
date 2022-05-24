@@ -12,10 +12,10 @@ github_url: https://github.com/MSUSSolutionAccelerators/Conversational-AI-Soluti
 demo_url: https://zammo.ai/pocrequest/
 customer_overview_url: 
 customer_deck_url: 
-short_text: "Enables quick implementation of conversational AI into communication channels like chatbots, consumer voice assistants, and as an augmentation layer within existing IVR system."
+short_text: "Enables quick implementation of conversational AI into communication channels like chatbots, consumer voice assistants, and as an augmentation layer within existing IVR system"
 hero_image: assets/images/Conversational_AI_General_Hero.webp
 tags: "\"Solution Accelerator\",\"Process Automation\",\"Horizontal\",\"Azure Machine Learning\",\"Bot Framework\",\"Cognitive Services\",\"Data & AI\",\"BizApps\",\"GA\""
-last_updated: "May 20, 2022 02:50:37 PM"
+last_updated: "May 24, 2022 08:04:12 PM"
 related: "Conversational-AI-for-Education.html,Conversational-AI-for-Finance.html,Conversational-AI-for-Healthcare.html,Conversational-AI-for-Manufacturing.html,Conversational-AI-for-Retail.html,Conversational-AI-for-State-and-Local-Government.html"
 order: 2
 ---

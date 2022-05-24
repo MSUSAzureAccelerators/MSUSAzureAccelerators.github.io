@@ -12,10 +12,10 @@ github_url: https://github.com/MSUSSolutionAccelerators/ADF-Ingestion-Framework-
 demo_url: 
 customer_overview_url: 
 customer_deck_url: 
-short_text: "Speed up migration with ease of development and also use the same for production deployment"
+short_text: "Speed up migration with ease of development and also use the same for production deployment."
 hero_image: assets/images/ADF_Ingestion_Framework_Hero.webp
 tags: "\"Solution Accelerator\",\"Process Automation\",\"Horizontal\",\"Automotive\",\"EDU\",\"Energy\",\"FSI\",\"High Tech\",\"HLS\",\"Manufacturing\",\"Media and Entertainment\",\"Professional Services\",\"Retail\",\"SLG\",\"Synapse\",\"Azure SQL\",\"Azure Data Lake Storage\",\"Power BI\",\"Azure Data Factory\",\"Data & AI\",\"Beta\""
-last_updated: "May 23, 2022 04:52:31 PM"
+last_updated: "May 24, 2022 08:01:08 PM"
 related: ""
 order: 2
 ---

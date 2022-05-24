@@ -12,10 +12,10 @@ github_url: https://github.com/Azure/medical-imaging
 demo_url: 
 customer_overview_url: 
 customer_deck_url: 
-short_text: "Support medical imaging and other use cases in areas like data and model management, deployment, experiment tracking and explainability"
+short_text: "Support medical imaging and other use cases in areas like data and model management, deployment, experiment tracking and explainability."
 hero_image: assets/images/med-imaging.webp
 tags: "\"Solution Accelerator\",\"Healthcare\",\"HLS\",\"Azure Machine Learning\",\"Modern Workplace\",\"Data & AI\",\"Beta\""
-last_updated: "May 12, 2022 09:08:24 PM"
+last_updated: "May 24, 2022 08:10:34 PM"
 related: "Manufacturing-Vision---AMD64.html,Part-Comparator.html"
 order: 2
 ---

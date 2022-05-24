@@ -15,7 +15,7 @@ customer_deck_url:
 short_text: "Improve customer experience, specifically around increasing customer retention."
 hero_image: assets/images/Customer360_Hero.webp
 tags: "\"Technology Accelerator\",\"Professional Services\",\"Retail\",\"Other\",\"FSI\",\"Automotive\",\"EDU\",\"Energy\",\"High Tech\",\"HLS\",\"Manufacturing\",\"Media and Entertainment\",\"Professional Services\",\"SLG\",\"Horizontal\",\"Customer Insights\",\"Azure Data Lake Storage\",\"Synapse\",\"Azure Machine Learning\",\"Power BI\",\"Data & AI\",\"Modern Workplace\",\"Nominated\""
-last_updated: "May 17, 2022 05:14:31 PM"
+last_updated: "May 24, 2022 07:37:16 PM"
 related: ""
 order: 2
 ---

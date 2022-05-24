@@ -5,17 +5,17 @@ title: "Modern Finance"
 accelerator_type: "Solution Accelerator Family"
 classification: "Financial"
 solution_area: "BizApps,Data & AI,Apps & Infrastructure"
-status: "GA"
-industries: "FSI, Horizontal"
+status: "Work In Progress"
+industries: "FSI"
 technology_stack: "Power BI"
 github_url: 
 demo_url: 
-customer_overview_url: assets/docs/Modern Finance General Leave Behind (Overview).pptx
-customer_deck_url: assets/docs/Modern Finance General Customer Deck.pdf
+customer_overview_url: 
+customer_deck_url: 
 short_text: "Transform the way you gather financial insights for driving growth."
 hero_image: assets/images/Modern_Finance_Hero.webp
-tags: "\"Solution Accelerator Family\",\"Financial\",\"FSI\",\"Horizontal\",\"Power BI\",\"BizApps\",\"Data & AI\",\"Apps & Infrastructure\",\"GA\""
-last_updated: "April 20, 2022 04:22:58 PM"
+tags: "\"Solution Accelerator Family\",\"Financial\",\"FSI\",\"Power BI\",\"BizApps\",\"Data & AI\",\"Apps & Infrastructure\",\"Work In Progress\""
+last_updated: "May 24, 2022 08:11:32 PM"
 related: "Modern-Finance---Customer-Revenue-Growth-Factor.html"
 order: 1
 ---

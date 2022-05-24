@@ -15,7 +15,7 @@ customer_deck_url:
 short_text: "Automate processes to ensure compliance with SBA guidelines"
 hero_image: assets/images/Risk_Loan_Hero.webp
 tags: "\"Solution Accelerator\",\"Financial\",\"FSI\",\"Azure Data Lake Storage\",\"Synapse Analytics\",\"Data & AI\",\"BizApps\",\"GA\""
-last_updated: "May 12, 2022 09:16:13 PM"
+last_updated: "May 24, 2022 08:13:52 PM"
 related: ""
 order: 2
 ---

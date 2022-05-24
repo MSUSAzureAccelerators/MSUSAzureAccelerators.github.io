@@ -12,10 +12,10 @@ github_url: https://github.com/MSUSSolutionAccelerators/Digital-Marketing-Campai
 demo_url: 
 customer_overview_url: 
 customer_deck_url: 
-short_text: "Effectively spend money on advertising media that is more impactful to customers"
+short_text: "Effectively spend money on advertising media that is more impactful to customers."
 hero_image: assets/images/Digital_Marketing_Hero.webp
 tags: "\"Solution Accelerator\",\"Campaign Management\",\"Retail\",\"Modern Workplace\",\"Nominated\""
-last_updated: "May 12, 2022 09:03:23 PM"
+last_updated: "May 24, 2022 08:07:10 PM"
 related: ""
 order: 2
 ---

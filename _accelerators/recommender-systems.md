@@ -12,10 +12,10 @@ github_url:
 demo_url: 
 customer_overview_url: 
 customer_deck_url: 
-short_text: "Provide personalized recommendations and telemetry insights to end users"
+short_text: "Provide personalized recommendations and telemetry insights to end users."
 hero_image: assets/images/Recommender_Systems_Hero.webp
 tags: "\"Solution Accelerator Family\",\"Personalization\",\"Automotive\",\"EDU\",\"Energy\",\"FSI\",\"High Tech\",\"HLS\",\"Manufacturing\",\"Media and Entertainment\",\"Professional Services\",\"SLG\",\"Retail\",\"Horizontal\",\"Azure Machine Learning\",\"Azure Intelligent Recommendations\",\"Synapse Analytics\",\"Azure Storage\",\"BizApps\",\"Data & AI\",\"Submitted\""
-last_updated: "May 13, 2022 09:17:30 PM"
+last_updated: "May 24, 2022 08:13:02 PM"
 related: "Azure-Intelligent-Recommendations.html,Content-Recommendations.html,Retail-Recommender.html"
 order: 1
 ---

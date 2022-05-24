@@ -12,11 +12,11 @@ github_url: https://github.com/MSUSSolutionAccelerators/ADX-IoT-Analytics-Soluti
 demo_url: 
 customer_overview_url: 
 customer_deck_url: 
-short_text: "Azure Data Explorer can provide valuable insights into your IoT workloads."
+short_text: "Azure Data Explorer can provide valuable insights into your IoT workloads"
 hero_image: assets/images/IOT_Hero.webp
 tags: "\"Solution Accelerator\",\"Process Automation\",\"Automotive\",\"EDU\",\"Energy\",\"FSI\",\"High Tech\",\"HLS\",\"Manufacturing\",\"Media and Entertainment\",\"Professional Services\",\"Retail\",\"SLG\",\"Horizontal\",\"Azure IoT Hub\",\"Bicep\",\"IoT\",\"Digital Twins\",\"Event Hub\",\"Azure Data Explorer\",\"Modern Workplace\",\"Beta\""
-last_updated: "May 06, 2022 09:28:06 PM"
-related: "AIoT---Automated-Call-Center.html,AIoT---Factory-and-Worker-Safety.html,AIoT---Predictive-Maintenance.html,AIoT---Automated-Quality-Inspection.html,AIoT---Inventory-Lifecycle-Management.html"
+last_updated: "May 24, 2022 08:01:15 PM"
+related: "Conversational-AI-for-Manufacturing.html,AIoT---Factory-and-Worker-Safety.html,AIoT---Predictive-Maintenance.html,AIoT---Automated-Quality-Inspection.html,AIoT---Inventory-Lifecycle-Management.html"
 order: 2
 ---
 ## About this Solution Accelerator

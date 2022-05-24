@@ -12,10 +12,10 @@ github_url: https://github.com/MSUSSolutionAccelerators/Manufacturing-Vision-Sol
 demo_url: 
 customer_overview_url: 
 customer_deck_url: 
-short_text: "Drive outcomes related to building more agile factories, creating more resilient supply chains, and transforming workforces."
+short_text: "Drive outcomes related to building more agile factories, creating more resilient supply chains, and transforming workforces"
 hero_image: assets/images/AIOT_Inventory_Lifecycle_Management_Hero.webp
 tags: "\"Reference Architecture\",\"Process Automation\",\"Supply Chain\",\"Manufacturing\",\"Automotive\",\"Azure Container Registry\",\"Azure DevOps\",\"Azure IoT Hub\",\"Azure Machine Learning\",\"Azure SQL\",\"Azure Storage\",\"Cognitive Services\",\"Docker\",\"Power BI\",\"Python\",\"Data & AI\",\"Nominated\""
-last_updated: "May 06, 2022 09:44:11 PM"
+last_updated: "May 24, 2022 08:01:08 PM"
 related: "AIoT---Automated-Quality-Inspection.html,AIoT---Factory-and-Worker-Safety.html,AIoT---Predictive-Maintenance.html,Inventory-Management.html"
 order: 2
 ---
