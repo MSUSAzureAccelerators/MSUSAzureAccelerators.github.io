@@ -169,10 +169,10 @@
 
   .hero{
     display: grid;
-    width: 100%;
+    width: 100vw;
     place-items: center;
     background-size: cover;
-    background-position: center;
+    background-position: left;
   }
   .hero-overlay{
     grid-column-start: 1;

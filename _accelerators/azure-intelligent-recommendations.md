@@ -15,7 +15,7 @@ customer_deck_url:
 short_text: "Intelligent Recommendations democratizes AI and machine learning recommendations through a codeless and powerful experience powered by the same technology that fuels Xbox, Microsoft 365, and Microsoft Azure."
 hero_image: assets/images/Intelligent_Recommendations_Hero.webp
 tags: "\"Technology Accelerator\",\"Personalization\",\"Automotive\",\"EDU\",\"Energy\",\"High Tech\",\"Media and Entertainment\",\"Professional Services\",\"Horizontal\",\"Manufacturing\",\"Retail\",\"Other\",\"HLS\",\"FSI\",\"SLG\",\"Azure Data Lake Storage\",\"Synapse\",\"Power BI\",\"Azure Intelligent Recommendations\",\"BizApps\",\"Data & AI\",\"GA\""
-last_updated: "May 24, 2022 08:02:03 PM"
+last_updated: "May 25, 2022 12:59:08 AM"
 related: "Content-Recommendations.html,Retail-Recommender.html,Recommender-Systems.html"
 order: 2
 ---

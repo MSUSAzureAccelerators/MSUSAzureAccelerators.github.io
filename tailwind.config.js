@@ -9,6 +9,13 @@ module.exports = {
           huge: '2000px',
         },
         colors: {
+          'az-blue': '#0078D4',
+          'az-accent-light-blue': '#50E6FF',
+          'az-dark-gray': '#3C3C41',
+          'az-medium-gray': '#75757A',
+          'az-light-gray': '#EBEBEB',
+          'az-black':'#000000',
+          'az-white':'#FFFFFF',
           'ms-orange': '#d83b01',
           'ms-yellow': '#ffb900',
           'ms-green': '#107c10',
