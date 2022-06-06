@@ -43,6 +43,7 @@
         crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="stylesheet" href="../assets/css/styles.css" />
 
+    <script src="https://wcpstatic.microsoft.com/mscc/lib/v2/wcp-consent.js"></script>
     <script>
         (function (c, l, a, r, i, t, y) {
             c[a] = c[a] || function () {
@@ -69,15 +70,30 @@
         gtag('config', 'G-VTCHQB63MB');
     </script>
 
+    <script>
+        function onConsentChanged(categoryPreferences) {
+            console.log("onConsentChanged", categoryPreferences);
+        }
+
+        window.WcpConsent && WcpConsent.init("en-US", "cookie-banner", function (err, _siteConsent) {
+            if (!err) {
+                siteConsent = _siteConsent; //siteConsent is used to get the current consent          
+            } else {
+                console.log("Error initializing WcpConsent: " + err);
+            }
+        }, onConsentChanged, WcpConsent.themes.light);
+    </script>
+
     <title>{{ page.accelerator_type -}} - {{ page.title -}}</title>
 </head>
 
 <body class="h-full">
-    
+
     {%- include hero-header.html -%}
     {%- include breadcrumbs.html -%}
     {%- include accelerator.html -%}
     {%- include footer.html -%}
+    <div id="cookie-banner"></div>
     <script defer src="https://code.jquery.com/jquery-3.6.0.min.js"
         integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
     <script defer src="../assets/js/script.js"></script>
