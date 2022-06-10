@@ -104,23 +104,23 @@
   }
 
   .filter-link {
-    @apply bg-ms-blue text-ms-white px-4 py-[.125rem] text-left transition duration-300 ease-in-out xs:w-[210px] xs:text-xs xs:px-2 lg:h-[30px] lg:w-[250px] lg:text-base rounded-full;
+    @apply bg-ms-blue text-ms-white border border-ms-white px-4 py-[.125rem] text-left transition duration-300 ease-in-out xs:w-[210px] xs:text-xs xs:px-2 lg:h-[30px] lg:w-[250px] lg:text-base rounded-full;
   }
 
   .filter-link:visited {
-    @apply bg-ms-blue text-ms-white;
+    @apply bg-ms-blue text-ms-white border border-ms-white ;
   }
 
   .filter-link:hover {
-    @apply bg-ms-white text-ms-blue;
+    @apply bg-ms-white text-ms-blue border border-ms-blue ;
   }
 
   .filter-link.active {
-    @apply bg-ms-white text-ms-blue pointer-events-none;
+    @apply bg-ms-white text-ms-blue pointer-events-none border border-ms-blue;
   }
 
   .float-button {
-    @apply fixed -right-[77px] top-[270px] z-[9999] cursor-pointer;
+    @apply fixed -right-[77px] top-[270px] z-[9999] cursor-pointer transition;
   }
 
   .float-button:hover {
