@@ -1,4 +1,4 @@
-    <nav class="flex text-ms-dark-gray bg-ms-extra-light-gray rounded-lg border border-ms-gray md:flex sm:hidden xs:hidden -mt-16"
+    <nav class="flex text-az-dark-gray bg-az-light-gray rounded-lg border border-az-medium-gray md:flex sm:hidden xs:hidden -mt-16"
         aria-label="Breadcrumb">
         <ol class="inline-flex items-center space-x-1 md:space-x-3 ml-6">
             <li class="inline-flex items-center" aria-current="page">
@@ -105,16 +105,16 @@
             <div id="right-container" class="mr-4" role="region" aria-label="Accelerator List">
                 <div class="filters-group mb-3 pt-0">
                     <label for="filters-search-input"
-                        class="block p-0 mt-2 mb-1 text-ms-mid-gray text-sm uppercase leading-5 tracking-widest">Search</label>
+                        class="block p-0 mt-2 mb-1 text-az-medium-gray text-sm uppercase leading-5 tracking-widest">Search</label>
                     <input name="Textbox for searching"
-                        class="px-3 py-3 placeholder-ms-light-gray text-ms-mid-gray relative bg-ms-white rounded text-sm border border-ms-gray outline-none focus:outline-none focus:ring w-full filter__search js-shuffle-search"
+                        class="px-3 py-3 placeholder-az-light-gray text-az-medium-gray relative bg-az-white rounded text-sm border border-az-light-gray outline-none focus:outline-none focus:ring w-full filter__search js-shuffle-search"
                         type="search" id="filters-search-input" />
                 </div>
                 <div class="flex flex-wrap shuffle-items" role="contentinfo">
                     {% assign sorted = site.accelerators | sort: 'order' %}
                     {%- for accelerator in sorted -%}
                     {%- if accelerator.hero_image and accelerator.hero_image != "na" and accelerator.hero_image != "" -%}
-                    <div class="shuffle-item m-2 max-w-sm bg-ms-white rounded-lg border border-ms-light-gray shadow-md"
+                    <div class="shuffle-item m-2 max-w-sm bg-az-white rounded-lg border border-az-light-gray shadow-md"
                         data-groups='[{{ accelerator.tags -}}]'>
                         <div
                             class="flex align-middle items-center justify-center opacity-70 hover:opacity-100 transition duration-300 ease-in-out">
@@ -124,19 +124,19 @@
                             </a>
                         </div>
                         <div class="p-5">
-                            <div class="leading-5 uppercase text-sm tracking-widest text-ms-mid-gray">
+                            <div class="leading-5 uppercase text-sm tracking-widest text-az-medium-gray">
                                 {{ accelerator.accelerator_type -}}
                             </div>
                             <a href="{{ accelerator.url -}}">
-                                <h4 class="mb-2 text-xl font-semibold tracking-tight text-ms-dark-blue card__title">
+                                <h4 class="mb-2 text-xl font-semibold tracking-tight text-az-blue card__title">
                                     {{ accelerator.short_name -}}</h4>
                             </a>
-                            <p class="mb-3 font-normal text-ms-rich-black card__text">
+                            <p class="mb-3 font-normal text-az-black card__text">
                                 {{ accelerator.short_text -}}
                             </p>
                             {%- if accelerator.github_url and accelerator.github_url != "na" and accelerator.github_url != "" -%}
                             <a href="{{ accelerator.github_url }}" target="_blank"
-                                class="inline-flex items-center py-2 px-3 text-sm font-medium text-center text-ms-white bg-ms-blue rounded-lg hover:bg-ms-dark-blue">
+                                class="inline-flex items-center py-2 px-3 text-sm font-medium text-center text-az-white bg-az-blue rounded-lg hover:bg-ms-dark-blue">
                                 Browse Assets on GitHub
                                 <svg class="ml-2 -mr-1 w-4 h-4" fill="currentColor" viewBox="0 0 20 20"
                                     xmlns="http://www.w3.org/2000/svg">
@@ -148,7 +148,7 @@
                             {%- endif -%}
                             {%- if accelerator.status == "GA" -%}
                             <div class="flex space-x-2 justify-end absolute top-1 right-1 mr-4 mt-4 w-full">
-                                <span class="text-xs inline-block py-1 px-2.5 leading-none text-center whitespace-nowrap align-baseline font-bold bg-ms-blue text-ms-light-gray rounded-full border border-ms-dark-blue"><i class="fa-solid fa-gauge-high"></i> {{ accelerator.status -}}</span>
+                                <span class="text-xs inline-block py-1 px-2.5 leading-none text-center whitespace-nowrap align-baseline font-bold bg-az-blue text-az-light-gray rounded-full border border-ms-dark-blue"><i class="fa-solid fa-gauge-high"></i> {{ accelerator.status -}}</span>
                             </div>
                             {%- elsif accelerator.status == "Beta" -%}
                             <div class="flex space-x-2 justify-end absolute top-1 right-1 mr-4 mt-4 w-full">
@@ -156,7 +156,7 @@
                             </div>
                             {%- elsif accelerator.status == "Nominated" -%}
                             <div class="flex space-x-2 justify-end absolute top-1 right-1 mr-4 mt-4 w-full">
-                                <span class="text-xs inline-block py-1 px-2.5 leading-none text-center whitespace-nowrap align-baseline font-bold bg-ms-mid-gray text-ms-light-gray rounded-full border border-ms-dark-gray"><i class="fa-solid fa-pen-to-square"></i> {{ accelerator.status -}}</span>
+                                <span class="text-xs inline-block py-1 px-2.5 leading-none text-center whitespace-nowrap align-baseline font-bold bg-az-medium-gray text-az-light-gray rounded-full border border-az-dark-gray"><i class="fa-solid fa-pen-to-square"></i> {{ accelerator.status -}}</span>
                             </div>
                             {%- endif -%}
                         </div>

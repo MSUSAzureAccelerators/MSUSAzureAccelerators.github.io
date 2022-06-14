@@ -60,43 +60,43 @@
   }
 
   .fa-facebook {
-    @apply bg-fb-blue text-ms-white;
+    @apply bg-fb-blue text-az-white;
   }
   .fa-facebook:hover {
-    @apply bg-ms-white text-fb-blue  border-fb-blue border;
+    @apply bg-az-white text-fb-blue  border-fb-blue border;
   }
   .fa-facebook:visited {
-    @apply bg-fb-blue text-ms-white;
+    @apply bg-fb-blue text-az-white;
   }
 
   .fa-twitter {
-    @apply bg-tw-blue text-ms-white;
+    @apply bg-tw-blue text-az-white;
   }
   .fa-twitter:hover {
-    @apply bg-ms-white text-tw-blue  border-tw-blue border;
+    @apply bg-az-white text-tw-blue  border-tw-blue border;
   }
   .fa-twitter:visited {
-    @apply bg-tw-blue text-ms-white;
+    @apply bg-tw-blue text-az-white;
   }
 
   .fa-linkedin {
-    @apply bg-li-blue text-ms-white;
+    @apply bg-li-blue text-az-white;
   }
   .fa-linkedin:hover {
-    @apply bg-ms-white text-li-blue  border-li-blue border;
+    @apply bg-az-white text-li-blue  border-li-blue border;
   }
   .fa-linkedin:visited {
-    @apply bg-li-blue text-ms-white;
+    @apply bg-li-blue text-az-white;
   }
 
   .fa-envelope {
-    @apply bg-ms-blue text-ms-white;
+    @apply bg-az-blue text-az-white;
   }
   .fa-envelope:hover {
-    @apply bg-ms-white text-ms-blue  border-ms-blue border;
+    @apply bg-az-white text-az-blue  border-az-blue border;
   }
   .fa-envelope:visited {
-    @apply bg-ms-blue text-ms-white;
+    @apply bg-az-blue text-az-white;
   }
 
   .filter-links a {
@@ -104,19 +104,19 @@
   }
 
   .filter-link {
-    @apply bg-ms-blue text-ms-white border border-ms-white px-4 py-[.125rem] text-left transition duration-300 ease-in-out xs:w-[210px] xs:text-xs xs:px-2 lg:h-[30px] lg:w-[250px] lg:text-base rounded-full;
+    @apply bg-az-blue text-az-white border border-az-white px-4 py-[.125rem] text-left transition duration-300 ease-in-out xs:w-[210px] xs:text-xs xs:px-2 lg:h-[30px] lg:w-[250px] lg:text-base rounded-full;
   }
 
   .filter-link:visited {
-    @apply bg-ms-blue text-ms-white border border-ms-white ;
+    @apply bg-az-blue text-az-white border border-az-white ;
   }
 
   .filter-link:hover {
-    @apply bg-ms-white text-ms-blue border border-ms-blue ;
+    @apply bg-az-white text-az-blue border border-az-blue ;
   }
 
   .filter-link.active {
-    @apply bg-ms-white text-ms-blue pointer-events-none border border-ms-blue;
+    @apply bg-az-white text-az-blue pointer-events-none border border-az-blue;
   }
 
   .float-button {
@@ -140,7 +140,7 @@
   }
 
   .prose blockquote p {
-    @apply text-ms-blue bg-ms-extra-light-gray rounded-lg p-8 text-justify font-semibold;
+    @apply text-az-blue bg-az-light-gray rounded-lg p-8 text-justify font-semibold;
   }
 
   .prose {
@@ -164,36 +164,23 @@
   }
 
   .f-glass {
-    @apply border-ms-white rounded-lg opacity-70 shadow-cta border border-opacity-30 backdrop-filter backdrop-blur hover:opacity-100;
+    @apply border-az-white rounded-lg opacity-70 shadow-cta border border-opacity-30 backdrop-filter backdrop-blur hover:opacity-100;
   }
 
   .hero{
-    display: grid;
-    width: 100vw;
-    place-items: center;
-    background-size: cover;
-    background-position: left;
+    @apply grid w-screen place-items-center bg-cover bg-left;
   }
   .hero-overlay{
-    grid-column-start: 1;
-    grid-row-start: 1;
-    height: 100%;
-    width: 100%;
+    @apply col-start-1 row-start-1 h-full w-full;
     background-color: hsl(var(--n)/var(--tw-bg-opacity));
   }
 
   .hero-content{
-    z-index: 0;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    max-width: 80rem;
-    gap: 1rem;
-    padding: 1rem;
+    @apply z-0 flex items-center justify-center max-w-[80rem] gap-4 p-4;
   }
 
   .text-neutral-content {
     --tw-text-opacity: 1;
     color: hsl(var(--nc)/var(--tw-text-opacity));
-}
+  }
 }
