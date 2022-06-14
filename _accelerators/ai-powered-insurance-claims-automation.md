@@ -3,10 +3,11 @@ short_name: "AI-Powered Insurance Claims Automation"
 name: "AI-Powered Insurance Claims Automation"
 title: "AI-Powered Insurance Claims Automation"
 accelerator_type: "Solution Accelerator"
-classification: "Financial,Process Automation"
+classification: "Process Automation"
 solution_area: "Data & AI"
-status: "Beta"
-industries: "FSI"
+status: "In Progress"
+primary_industry: "Financial Services"
+industries: ""
 technology_stack: "Cognitive Services,Cosmos DB,Bot Framework,Azure Storage,Form Recognizer,Luis"
 github_url: https://github.com/MSUSSolutionAccelerators/AI-Powered-Insurance-Claims-Automation-Solution-Accelerator
 demo_url: 
@@ -14,9 +15,9 @@ customer_overview_url:
 customer_deck_url: 
 short_text: "Reduce claims processing time and manual effort in end-to-end claims processing for better customer experience"
 hero_image: assets/images/AI_Powered_Insurance_Hero.webp
-tags: "\"Solution Accelerator\",\"Financial\",\"Process Automation\",\"FSI\",\"Cognitive Services\",\"Cosmos DB\",\"Bot Framework\",\"Azure Storage\",\"Form Recognizer\",\"Luis\",\"Data & AI\",\"Beta\""
-last_updated: "May 24, 2022 08:01:58 PM"
-related: "Intelligent-Document-Processing.html,Knowledge-Mining.html,Knowledge-Mining---AML.html"
+tags: "\"Solution Accelerator\",\"Process Automation\",\"Financial Services\",\"Cognitive Services\",\"Cosmos DB\",\"Bot Framework\",\"Azure Storage\",\"Form Recognizer\",\"Luis\",\"Data & AI\",\"In Progress\""
+last_updated: "2022-06-14T12:54:52Z"
+related: ""
 order: 2
 ---
 ## About this Solution Accelerator

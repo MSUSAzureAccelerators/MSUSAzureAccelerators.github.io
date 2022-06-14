@@ -4,19 +4,20 @@ name: "Recommender Systems"
 title: "Recommender Systems"
 accelerator_type: "Solution Accelerator Family"
 classification: "Personalization"
-solution_area: "BizApps,Data & AI"
-status: "Submitted"
-industries: "Automotive,EDU,Energy,FSI,High Tech,HLS,Manufacturing,Media and Entertainment,Professional Services,SLG,Retail,Horizontal"
+solution_area: "Data & AI, BizApps"
+status: "In Progress"
+primary_industry: "Horizontal"
+industries: "Automotive,Education,Energy,Financial Services,High Tech,Health & Life Sciences,Manufacturing,Media & Entertainment,Professional Services,Retail & Consumer Goods,State & Local Government"
 technology_stack: "Azure Machine Learning,Azure Intelligent Recommendations,Synapse Analytics,Azure Storage"
 github_url: 
 demo_url: 
 customer_overview_url: 
 customer_deck_url: 
-short_text: "Provide personalized recommendations and telemetry insights to end users."
+short_text: "Provide personalized recommendations and telemetry insights to end users"
 hero_image: assets/images/Recommender_Systems_Hero.webp
-tags: "\"Solution Accelerator Family\",\"Personalization\",\"Automotive\",\"EDU\",\"Energy\",\"FSI\",\"High Tech\",\"HLS\",\"Manufacturing\",\"Media and Entertainment\",\"Professional Services\",\"SLG\",\"Retail\",\"Horizontal\",\"Azure Machine Learning\",\"Azure Intelligent Recommendations\",\"Synapse Analytics\",\"Azure Storage\",\"BizApps\",\"Data & AI\",\"Submitted\""
-last_updated: "May 24, 2022 08:13:02 PM"
-related: "Azure-Intelligent-Recommendations.html,Content-Recommendations.html,Retail-Recommender.html"
+tags: "\"Solution Accelerator Family\",\"Personalization\",\"Horizontal\",\"Automotive\",\"Education\",\"Energy\",\"Financial Services\",\"High Tech\",\"Health & Life Sciences\",\"Manufacturing\",\"Media & Entertainment\",\"Professional Services\",\"Retail & Consumer Goods\",\"State & Local Government\",\"Azure Machine Learning\",\"Azure Intelligent Recommendations\",\"Synapse Analytics\",\"Azure Storage\",\"Data & AI, BizApps\",\"In Progress\""
+last_updated: "2022-06-13T20:33:11Z"
+related: ""
 order: 1
 ---
 ## About this Solution Accelerator Family

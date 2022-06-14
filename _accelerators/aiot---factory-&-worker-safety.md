@@ -1,22 +1,23 @@
 ---
-short_name: "AIoT - Factory and Worker Safety"
-name: "AIoT - Factory and Worker Safety"
-title: "AIoT - Factory and Worker Safety"
+short_name: "AIoT - Factory & Worker Safety"
+name: "AIoT - Factory & Worker Safety"
+title: "AIoT - Factory & Worker Safety"
 accelerator_type: "Solution Accelerator"
 classification: "Process Automation"
-solution_area: "Data & AI"
+solution_area: "Modern Workplace"
 status: "Beta"
-industries: "Manufacturing,Automotive"
-technology_stack: "Azure Container Registry,Azure DevOps,Azure IoT Hub,Azure KeyVault,Azure Machine Learning,Azure SQL,Azure Storage,Cognitive Services,Docker,Power BI,Python"
+primary_industry: "Manufacturing"
+industries: "Automotive"
+technology_stack: "Azure Container Registery,Azure DevOps,Azure IoT Hub,Azure KeyVault,Azure Machine Learning,Azure SQL,Azure Storage,Cognitive Services,Docker,Power BI,Python"
 github_url: https://github.com/MSUSSolutionAccelerators/Manufacturing-Vision-Solution-Accelerator-AMD64
 demo_url: https://vulcan-steel.azurewebsites.net/login
 customer_overview_url: 
 customer_deck_url: 
-short_text: "Drive outcomes related to building more agile factories, creating more resilient supply chains, and transforming workforces"
+short_text: "Azure Computer Vision infers product quality at the point of manufacture on the assembly line in real-time "
 hero_image: assets/images/AIOT_Worker_Safety_Hero.webp
-tags: "\"Solution Accelerator\",\"Process Automation\",\"Manufacturing\",\"Automotive\",\"Azure Container Registry\",\"Azure DevOps\",\"Azure IoT Hub\",\"Azure KeyVault\",\"Azure Machine Learning\",\"Azure SQL\",\"Azure Storage\",\"Cognitive Services\",\"Docker\",\"Power BI\",\"Python\",\"Data & AI\",\"Beta\""
-last_updated: "May 24, 2022 08:01:02 PM"
-related: "AIoT---Automated-Quality-Inspection.html,AIoT---Inventory-Lifecycle-Management.html,AIoT---Predictive-Maintenance.html,Manufacturing-Vision---AMD64.html"
+tags: "\"Solution Accelerator\",\"Process Automation\",\"Manufacturing\",\"Automotive\",\"Azure Container Registery\",\"Azure DevOps\",\"Azure IoT Hub\",\"Azure KeyVault\",\"Azure Machine Learning\",\"Azure SQL\",\"Azure Storage\",\"Cognitive Services\",\"Docker\",\"Power BI\",\"Python\",\"Modern Workplace\",\"Beta\""
+last_updated: "2022-06-13T20:21:35Z"
+related: ""
 order: 2
 ---
 ## About this Solution Accelerator

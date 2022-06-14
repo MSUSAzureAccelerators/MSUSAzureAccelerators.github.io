@@ -3,20 +3,21 @@ short_name: "Azure Intelligent Recommendations"
 name: "Azure Intelligent Recommendations"
 title: "Azure Intelligent Recommendations"
 accelerator_type: "Technology Accelerator"
-classification: "Personalization"
+classification: "Technology Accelerator"
 solution_area: "BizApps,Data & AI"
 status: "GA"
-industries: "Automotive,EDU,Energy,High Tech,Media and Entertainment,Professional Services,Horizontal,Manufacturing,Retail,Other,HLS,FSI,SLG"
-technology_stack: "Azure Data Lake Storage,Synapse,Power BI,Azure Intelligent Recommendations"
+primary_industry: "Tech Plug-In"
+industries: "Automotive,Education,Energy,Financial Services,High Tech,Health & Life Sciences,Manufacturing,Media & Entertainment,Professional Services,Retail & Consumer Goods,State & Local Government"
+technology_stack: "Azure Data Lake Storage,Synapse,Power BI,Azure Intelligent Recommendation"
 github_url: 
 demo_url: https://intelligent-recommendations.microsoft.com/verticals
 customer_overview_url: 
 customer_deck_url: 
-short_text: "Intelligent Recommendations democratizes AI and machine learning recommendations through a codeless and powerful experience powered by the same technology that fuels Xbox, Microsoft 365, and Microsoft Azure."
+short_text: "Provide personalized product recommendations and telemetry insights."
 hero_image: assets/images/Intelligent_Recommendations_Hero.webp
-tags: "\"Technology Accelerator\",\"Personalization\",\"Automotive\",\"EDU\",\"Energy\",\"High Tech\",\"Media and Entertainment\",\"Professional Services\",\"Horizontal\",\"Manufacturing\",\"Retail\",\"Other\",\"HLS\",\"FSI\",\"SLG\",\"Azure Data Lake Storage\",\"Synapse\",\"Power BI\",\"Azure Intelligent Recommendations\",\"BizApps\",\"Data & AI\",\"GA\""
-last_updated: "May 25, 2022 12:59:08 AM"
-related: "Content-Recommendations.html,Retail-Recommender.html,Recommender-Systems.html"
+tags: "\"Technology Accelerator\",\"Technology Accelerator\",\"Tech Plug-In\",\"Automotive\",\"Education\",\"Energy\",\"Financial Services\",\"High Tech\",\"Health & Life Sciences\",\"Manufacturing\",\"Media & Entertainment\",\"Professional Services\",\"Retail & Consumer Goods\",\"State & Local Government\",\"Azure Data Lake Storage\",\"Synapse\",\"Power BI\",\"Azure Intelligent Recommendation\",\"BizApps\",\"Data & AI\",\"GA\""
+last_updated: "2022-06-13T20:13:23Z"
+related: ""
 order: 2
 ---
 ## About this Technology Accelerator

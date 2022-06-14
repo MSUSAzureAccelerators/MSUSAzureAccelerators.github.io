@@ -3,10 +3,11 @@ short_name: "AI-Powered Call Center Intelligence"
 name: "AI-Powered Call Center Intelligence"
 title: "AI-Powered Call Center Intelligence"
 accelerator_type: "Solution Accelerator"
-classification: "Personalization,Process Automation"
+classification: "Personalization"
 solution_area: "Data & AI"
-status: "GA"
-industries: "FSI"
+status: "In Progress"
+primary_industry: "Financial Services"
+industries: "Horizontal"
 technology_stack: "Cognitive Services,Azure Machine Learning,Power BI,Azure Speech Services,Azure SQL,Azure Storage"
 github_url: https://github.com/MSUSSolutionAccelerators/AI-Powered-Call-Center-Intelligence-Solution-Accelerator
 demo_url: 
@@ -14,9 +15,9 @@ customer_overview_url:
 customer_deck_url: 
 short_text: "Automates call transcriptions for real-time and previously recorded calls."
 hero_image: assets/images/AI_Call_Center_Hero.webp
-tags: "\"Solution Accelerator\",\"Personalization\",\"Process Automation\",\"FSI\",\"Cognitive Services\",\"Azure Machine Learning\",\"Power BI\",\"Azure Speech Services\",\"Azure SQL\",\"Azure Storage\",\"Data & AI\",\"GA\""
-last_updated: "May 24, 2022 08:00:57 PM"
-related: "Conversational-AI-for-Manufacturing.html,Conversational-AI-for-Retail.html,Conversational-AI-for-State-and-Local-Government.html"
+tags: "\"Solution Accelerator\",\"Personalization\",\"Financial Services\",\"Horizontal\",\"Cognitive Services\",\"Azure Machine Learning\",\"Power BI\",\"Azure Speech Services\",\"Azure SQL\",\"Azure Storage\",\"Data & AI\",\"In Progress\""
+last_updated: "2022-06-13T19:59:59Z"
+related: ""
 order: 2
 ---
 ## About this Solution Accelerator

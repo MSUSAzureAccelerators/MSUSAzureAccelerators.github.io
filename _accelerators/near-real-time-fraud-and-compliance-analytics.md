@@ -1,21 +1,22 @@
 ---
-short_name: "Near Real-Time Fraud and Compliance Analytics"
-name: "Near Real-Time Fraud and Compliance Analytics"
-title: "Near Real-Time Fraud and Compliance Analytics"
+short_name: "Near Real-time Fraud and Compliance Analytics"
+name: "Near Real-time Fraud and Compliance Analytics"
+title: "Near Real-time Fraud and Compliance Analytics"
 accelerator_type: "Solution Accelerator"
 classification: "Financial"
 solution_area: "BizApps"
 status: "Beta"
-industries: "FSI"
+primary_industry: "Financial Services"
+industries: ""
 technology_stack: "Python"
 github_url: https://github.com/MSUSSolutionAccelerators/Near-Real-Time-Fraud-and-Compliance-Analytics-Solution-Accelerator
 demo_url: 
 customer_overview_url: 
 customer_deck_url: 
-short_text: "Simplify the fraud detection and reporting process."
+short_text: "Simplify the fraud detection and reporting process"
 hero_image: assets/images/Fraud_Compliance_Hero.webp
-tags: "\"Solution Accelerator\",\"Financial\",\"FSI\",\"Python\",\"BizApps\",\"Beta\""
-last_updated: "May 24, 2022 08:11:31 PM"
+tags: "\"Solution Accelerator\",\"Financial\",\"Financial Services\",\"Python\",\"BizApps\",\"Beta\""
+last_updated: "2022-06-14T13:52:03Z"
 related: ""
 order: 2
 ---

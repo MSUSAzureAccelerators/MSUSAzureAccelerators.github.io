@@ -4,19 +4,20 @@ name: "Modern Finance"
 title: "Modern Finance"
 accelerator_type: "Solution Accelerator Family"
 classification: "Financial"
-solution_area: "BizApps,Data & AI,Apps & Infrastructure"
-status: "Work In Progress"
-industries: "FSI"
-technology_stack: "Power BI"
+solution_area: "Apps & Infrastructure, BizApps, Data & AI"
+status: "In Progress"
+primary_industry: "Financial Services"
+industries: ""
+technology_stack: "Synapse,Azure Data Lake Storage,Azure Machine Learning,Azure Container Images,Power BI"
 github_url: 
 demo_url: 
 customer_overview_url: 
 customer_deck_url: 
-short_text: "Transform the way you gather financial insights for driving growth."
+short_text: "Transform the way you gather financial insights for driving growth"
 hero_image: assets/images/Modern_Finance_Hero.webp
-tags: "\"Solution Accelerator Family\",\"Financial\",\"FSI\",\"Power BI\",\"BizApps\",\"Data & AI\",\"Apps & Infrastructure\",\"Work In Progress\""
-last_updated: "May 24, 2022 08:11:32 PM"
-related: "Modern-Finance---Customer-Revenue-Growth-Factor.html"
+tags: "\"Solution Accelerator Family\",\"Financial\",\"Financial Services\",\"Synapse\",\"Azure Data Lake Storage\",\"Azure Machine Learning\",\"Azure Container Images\",\"Power BI\",\"Apps & Infrastructure, BizApps, Data & AI\",\"In Progress\""
+last_updated: "2022-06-14T13:48:26Z"
+related: ""
 order: 1
 ---
 ## About this Solution Accelerator

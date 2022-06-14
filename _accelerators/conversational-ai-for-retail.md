@@ -3,20 +3,21 @@ short_name: "Conversational AI for Retail"
 name: "Conversational AI for Retail"
 title: "Conversational AI for Retail"
 accelerator_type: "Solution Accelerator"
-classification: "Personalization,Process Automation"
-solution_area: "Modern Workplace,Data & AI"
+classification: "Personalization"
+solution_area: "Data & AI,Modern Workplace"
 status: "GA"
-industries: "Retail"
+primary_industry: "Retail & Consumer Goods"
+industries: "Horizontal"
 technology_stack: "Azure Machine Learning,Bot Framework,Cognitive Services"
 github_url: https://github.com/MSUSSolutionAccelerators/Conversational-AI-Solution-Accelerator
-demo_url: 
+demo_url: https://zammo.ai/pocrequest/
 customer_overview_url: 
 customer_deck_url: 
-short_text: "Enables quick implementation of conversational AI into communication channels like chatbots, consumer voice assistants, and as an augmentation layer within existing IVR system"
+short_text: "Collect data from every interaction in a feedback loop for optimization"
 hero_image: assets/images/Conversational_AI_Hero.webp
-tags: "\"Solution Accelerator\",\"Personalization\",\"Process Automation\",\"Retail\",\"Azure Machine Learning\",\"Bot Framework\",\"Cognitive Services\",\"Modern Workplace\",\"Data & AI\",\"GA\""
-last_updated: "May 24, 2022 08:40:01 PM"
-related: "Conversational-AI-for-State-and-Local-Government.html,AI-Powered-Call-Center-Intelligence.html,Conversational-AI-for-Manufacturing.html,Conversational-AI-for-Education.html,Conversational-AI-for-Finance.html,Conversational-AI-for-Healthcare.html"
+tags: "\"Solution Accelerator\",\"Personalization\",\"Retail & Consumer Goods\",\"Horizontal\",\"Azure Machine Learning\",\"Bot Framework\",\"Cognitive Services\",\"Data & AI\",\"Modern Workplace\",\"GA\""
+last_updated: "2022-06-14T13:06:23Z"
+related: ""
 order: 2
 ---
 ## About this Solution Accelerator

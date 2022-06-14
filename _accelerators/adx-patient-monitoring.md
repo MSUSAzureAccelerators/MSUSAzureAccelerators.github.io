@@ -3,20 +3,21 @@ short_name: "ADX Patient Monitoring"
 name: "ADX Patient Monitoring"
 title: "ADX Patient Monitoring"
 accelerator_type: "Solution Accelerator"
-classification: "Healthcare,Process Automation"
+classification: "Process Automation"
 solution_area: "Modern Workplace"
 status: "Beta"
-industries: "HLS"
-technology_stack: "Azure IoT Hub,IoT,Event Hub,Bicep,Digital Twins,Azure Data Explorer"
+primary_industry: "Health & Life Sciences"
+industries: "Automotive,Manufacturing,State & Local Government"
+technology_stack: "Azure IoT Hub,Bicep,IoT,Digital Twins,Event Hub,Azure Data Explorer"
 github_url: https://github.com/MSUSSolutionAccelerators/ADX-Patient-Monitoring-Solution-Accelerator
 demo_url: 
 customer_overview_url: 
 customer_deck_url: 
-short_text: "Continuous Patient Monitoring solution to generate telemetry readings for two IoT Consumer devices."
+short_text: "Continuous Patient Monitoring solution to generate telemetry readings for two IoT Consumer devices"
 hero_image: assets/images/Patient_Monitoring_Hero.webp
-tags: "\"Solution Accelerator\",\"Healthcare\",\"Process Automation\",\"HLS\",\"Azure IoT Hub\",\"IoT\",\"Event Hub\",\"Bicep\",\"Digital Twins\",\"Azure Data Explorer\",\"Modern Workplace\",\"Beta\""
-last_updated: "May 24, 2022 08:01:02 PM"
-related: "COVID-19-Vaccine-Proof-and-Test-Verification.html,Health-and-Human-Services-Datahub.html,Healthcare-Blockchain.html,Overdose-Prevention.html,Patient-Risk-Analyzer.html"
+tags: "\"Solution Accelerator\",\"Process Automation\",\"Health & Life Sciences\",\"Automotive\",\"Manufacturing\",\"State & Local Government\",\"Azure IoT Hub\",\"Bicep\",\"IoT\",\"Digital Twins\",\"Event Hub\",\"Azure Data Explorer\",\"Modern Workplace\",\"Beta\""
+last_updated: "2022-06-14T12:57:00Z"
+related: ""
 order: 2
 ---
 ## About this Solution Accelerator

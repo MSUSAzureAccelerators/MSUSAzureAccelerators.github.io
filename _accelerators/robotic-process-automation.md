@@ -6,17 +6,18 @@ accelerator_type: "Solution Accelerator"
 classification: "Process Automation"
 solution_area: "BizApps"
 status: "Beta"
-industries: "FSI,Horizontal,Automotive,EDU,Energy,High Tech,HLS,Manufacturing,Media and Entertainment,Professional Services,Retail,SLG"
+primary_industry: "Horizontal"
+industries: "Financial Services,Manufacturing"
 technology_stack: "Azure Functions,Azure Storage,Azure Logic Apps,Form Recognizer,Cognitive Services,Cognitive Search,Cosmos DB,Azure App Service"
 github_url: https://github.com/MSUSSolutionAccelerators/Robotic-Process-Automation-Solution-Accelerator
 demo_url: 
 customer_overview_url: 
 customer_deck_url: 
-short_text: "Completely automate the data extraction and entry from pdf forms."
+short_text: "Completely automate the data extractive and entry from PDF form by using Azure Cognitive Services."
 hero_image: assets/images/RPA_Hero.webp
-tags: "\"Solution Accelerator\",\"Process Automation\",\"FSI\",\"Horizontal\",\"Automotive\",\"EDU\",\"Energy\",\"High Tech\",\"HLS\",\"Manufacturing\",\"Media and Entertainment\",\"Professional Services\",\"Retail\",\"SLG\",\"Azure Functions\",\"Azure Storage\",\"Azure Logic Apps\",\"Form Recognizer\",\"Cognitive Services\",\"Cognitive Search\",\"Cosmos DB\",\"Azure App Service\",\"BizApps\",\"Beta\""
-last_updated: "May 24, 2022 08:13:56 PM"
-related: "Intelligent-Document-Processing.html"
+tags: "\"Solution Accelerator\",\"Process Automation\",\"Horizontal\",\"Financial Services\",\"Manufacturing\",\"Azure Functions\",\"Azure Storage\",\"Azure Logic Apps\",\"Form Recognizer\",\"Cognitive Services\",\"Cognitive Search\",\"Cosmos DB\",\"Azure App Service\",\"BizApps\",\"Beta\""
+last_updated: "2022-06-13T20:44:40Z"
+related: ""
 order: 2
 ---
 ## About this Solution Accelerator

@@ -4,19 +4,20 @@ name: "Workplace Intelligence for Product Development Teams"
 title: "Workplace Intelligence for Product Development Teams"
 accelerator_type: "Solution Accelerator"
 classification: "Workplace Intelligence"
-solution_area: "Modern Workplace,Data & AI,BizApps,Apps & Infrastructure"
-status: "GA"
-industries: "High Tech,Automotive,EDU,Energy,FSI,HLS,Manufacturing,Media and Entertainment,Professional Services,Retail,SLG,Horizontal"
-technology_stack: "Azure DevOps,Workplace Analytics,Viva,Synapse,Power BI"
+solution_area: "Apps & Infrastructure, BizApps, Data & AI, Modern Workplace"
+status: "In Progress"
+primary_industry: "Horizontal"
+industries: "Automotive,Education,Energy,Financial Services,High Tech,Health & Life Sciences,Manufacturing,Media & Entertainment,Professional Services,Retail & Consumer Goods,State & Local Government"
+technology_stack: "Workplace Analytics,Viva,Azure DevOps,Synapse,Power BI"
 github_url: https://github.com/MSUSSolutionAccelerators/Workplace-Intelligence-Solution-Accelerator
 demo_url: 
 customer_overview_url: 
 customer_deck_url: 
 short_text: "Uncover and leverage the key drivers of productivity and success for product development teams."
 hero_image: assets/images/WP_Intelligence_Tech_Hero.webp
-tags: "\"Solution Accelerator\",\"Workplace Intelligence\",\"High Tech\",\"Automotive\",\"EDU\",\"Energy\",\"FSI\",\"HLS\",\"Manufacturing\",\"Media and Entertainment\",\"Professional Services\",\"Retail\",\"SLG\",\"Horizontal\",\"Azure DevOps\",\"Workplace Analytics\",\"Viva\",\"Synapse\",\"Power BI\",\"Modern Workplace\",\"Data & AI\",\"BizApps\",\"Apps & Infrastructure\",\"GA\""
-last_updated: "May 24, 2022 08:15:18 PM"
-related: "Workplace-Intelligence-for-Human-Resources.html"
+tags: "\"Solution Accelerator\",\"Workplace Intelligence\",\"Horizontal\",\"Automotive\",\"Education\",\"Energy\",\"Financial Services\",\"High Tech\",\"Health & Life Sciences\",\"Manufacturing\",\"Media & Entertainment\",\"Professional Services\",\"Retail & Consumer Goods\",\"State & Local Government\",\"Workplace Analytics\",\"Viva\",\"Azure DevOps\",\"Synapse\",\"Power BI\",\"Apps & Infrastructure, BizApps, Data & AI, Modern Workplace\",\"In Progress\""
+last_updated: "2022-06-13T20:34:52Z"
+related: ""
 order: 2
 ---
 ## About this Solution Accelerator

@@ -4,9 +4,10 @@ name: "Risk Classification and Loan Modeling"
 title: "Risk Classification and Loan Modeling"
 accelerator_type: "Solution Accelerator"
 classification: "Financial"
-solution_area: "Data & AI,BizApps"
-status: "GA"
-industries: "FSI"
+solution_area: "BizApps"
+status: "In Progress"
+primary_industry: "Financial Services"
+industries: ""
 technology_stack: "Azure Data Lake Storage,Synapse Analytics"
 github_url: https://github.com/MSUSSolutionAccelerators/Risk-Classification-and-Load-Modeling-Solution-Accelerator
 demo_url: 
@@ -14,8 +15,8 @@ customer_overview_url:
 customer_deck_url: 
 short_text: "Automate processes to ensure compliance with SBA guidelines"
 hero_image: assets/images/Risk_Loan_Hero.webp
-tags: "\"Solution Accelerator\",\"Financial\",\"FSI\",\"Azure Data Lake Storage\",\"Synapse Analytics\",\"Data & AI\",\"BizApps\",\"GA\""
-last_updated: "May 24, 2022 08:13:52 PM"
+tags: "\"Solution Accelerator\",\"Financial\",\"Financial Services\",\"Azure Data Lake Storage\",\"Synapse Analytics\",\"BizApps\",\"In Progress\""
+last_updated: "2022-06-14T13:53:13Z"
 related: ""
 order: 2
 ---

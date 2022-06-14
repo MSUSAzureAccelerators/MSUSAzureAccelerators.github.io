@@ -34,7 +34,7 @@
     <meta name="page_type" content="welcome" />
     <meta name="schema" content="Welcome" />
     <meta name="site_name" content="Solution Accelerators | Microsoft US" />
-    <meta name="updated_at" content="3/28/2022 09:03:00" />
+    <meta name="updated_at" content="{{ page.last_updated -}}" />
 
     <link rel="icon" href="/favicon.ico" type="image/x-icon">
 
@@ -87,12 +87,13 @@
     <title>{{ page.accelerator_type -}} - {{ page.title -}}</title>
 </head>
 
-<body class="h-full">
-
+<body>
+<div class="min-h-screen">
     {%- include hero-header.html -%}
     {%- include breadcrumbs.html -%}
     {%- include accelerator.html -%}
     {%- include footer.html -%}
+</div>
     <div id="cookie-banner"></div>
     <script defer src="https://code.jquery.com/jquery-3.6.0.min.js"
         integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>

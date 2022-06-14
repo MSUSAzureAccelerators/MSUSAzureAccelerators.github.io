@@ -3,19 +3,20 @@ short_name: "Data Governance"
 name: "Data Governance"
 title: "Data Governance"
 accelerator_type: "Technology Accelerator"
-classification: ""
+classification: "Technology Accelerator"
 solution_area: "Apps & Infrastructure"
 status: "Nominated"
-industries: "Automotive,EDU,Energy,FSI,High Tech,HLS,Manufacturing,Media and Entertainment,Professional Services,Retail,SLG,Horizontal"
-technology_stack: "Purview"
+primary_industry: "Tech Plug-In"
+industries: ""
+technology_stack: "Azure Purview,Synapse Analytics,Azure Machine Learning"
 github_url: 
 demo_url: 
 customer_overview_url: 
 customer_deck_url: 
 short_text: "Information coming soon about the Data Governance Solution Accelerator"
 hero_image: assets/images/Data_Governance_Hero.webp
-tags: "\"Technology Accelerator\",\"Automotive\",\"EDU\",\"Energy\",\"FSI\",\"High Tech\",\"HLS\",\"Manufacturing\",\"Media and Entertainment\",\"Professional Services\",\"Retail\",\"SLG\",\"Horizontal\",\"Purview\",\"Apps & Infrastructure\",\"Nominated\""
-last_updated: "May 27, 2022 03:33:24 PM"
+tags: "\"Technology Accelerator\",\"Technology Accelerator\",\"Tech Plug-In\",\"Azure Purview\",\"Synapse Analytics\",\"Azure Machine Learning\",\"Apps & Infrastructure\",\"Nominated\""
+last_updated: "2022-06-14T14:22:12Z"
 related: ""
 order: 2
 ---

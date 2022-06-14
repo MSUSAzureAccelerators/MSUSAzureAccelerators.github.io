@@ -14,10 +14,15 @@
                 <p>{{ classification -}}</p>
                 {%- endfor -%}
                 {%- endif -%}
+                <!-- Primary Industry -->
+                {%- if page.primary_industry and page.primary_industry != "" -%}
+                <h3 class="mt-4">Primary Industry</h3>
+                <p>{{ page.primary_industry -}}</p>
+                {%- endif -%}
                 <!-- Relevant Industries -->
                 {%- if page.industries and page.industries != "" -%}
                 {%- assign industries = page.industries | split: "," | sort -%}
-                <h3 class="mt-4">Relevant Industries</h3>
+                <h3 class="mt-4">Other Relevant Industries</h3>
                 {%- for industry in industries -%}
                 <p>{{ industry -}}</p>
                 {%- endfor -%}
@@ -25,7 +30,7 @@
                 <!-- Technology Stack -->
                 {%- if page.technology_stack  and page.technology_stack != "" -%}
                 {%- assign technologies = page.technology_stack | split: "," | sort -%}
-                <h3 class="mt-4">Technology Stack</h3>
+                <h3 class="mt-4">Products</h3>
                 {%- for technology in technologies -%}
                 <p>{{ technology -}}</p>
                 {%- endfor -%}

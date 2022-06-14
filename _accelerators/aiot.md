@@ -5,18 +5,19 @@ title: "AIoT"
 accelerator_type: "Solution Accelerator Family"
 classification: "Process Automation"
 solution_area: "Data & AI"
-status: "Nominated"
-industries: "Manufacturing,Automotive"
-technology_stack: "AIoT,IoT,Azure Custom Vision,Cognitive Services"
+status: "In Progress"
+primary_industry: "Manufacturing"
+industries: "Automotive,Retail & Consumer Goods,State & Local Government"
+technology_stack: "IoT,IoT Hub,Synapse Analytics,Azure Data Lake Storage,Azure Machine Learning"
 github_url: 
 demo_url: 
 customer_overview_url: 
 customer_deck_url: 
-short_text: "Transform how people, devices, and data interact in daily life and work"
+short_text: "Transform how people, devices, and data interact in daily life and work."
 hero_image: assets/images/AIOT_Hero.webp
-tags: "\"Solution Accelerator Family\",\"Process Automation\",\"Manufacturing\",\"Automotive\",\"AIoT\",\"IoT\",\"Azure Custom Vision\",\"Cognitive Services\",\"Data & AI\",\"Nominated\""
-last_updated: "June 08, 2022 03:06:59 PM"
-related: "AIoT---Automated-Quality-Inspection.html,AIoT---Factory-and-Worker-Safety.html,AIoT---Inventory-Lifecycle-Management.html,AIoT---Predictive-Maintenance.html,Manufacturing-Vision---AMD64.html,Manufacturing-Vision---ARM64.html"
+tags: "\"Solution Accelerator Family\",\"Process Automation\",\"Manufacturing\",\"Automotive\",\"Retail & Consumer Goods\",\"State & Local Government\",\"IoT\",\"IoT Hub\",\"Synapse Analytics\",\"Azure Data Lake Storage\",\"Azure Machine Learning\",\"Data & AI\",\"In Progress\""
+last_updated: "2022-06-14T13:32:55Z"
+related: ""
 order: 1
 ---
 ## About this Solution Accelerator Family

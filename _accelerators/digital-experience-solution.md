@@ -4,18 +4,19 @@ name: "Digital Experience Solution"
 title: "Digital Experience Solution"
 accelerator_type: "Solution Accelerator"
 classification: "Campaign Management"
-solution_area: "Modern Workplace,BizApps"
-status: "GA"
-industries: "Media and Entertainment"
+solution_area: "BizApps, Modern Workplace"
+status: "In Progress"
+primary_industry: "Media & Entertainment"
+industries: ""
 technology_stack: ""
 github_url: https://github.com/MSUSSolutionAccelerators/Digital-Experience-Solution
 demo_url: 
 customer_overview_url: 
 customer_deck_url: 
 short_text: "Move the entire live stream process offsite and into the cloud."
-hero_image: assets/images/Live_Events_Hero.webp
-tags: "\"Solution Accelerator\",\"Campaign Management\",\"Media and Entertainment\",\"Modern Workplace\",\"BizApps\",\"GA\""
-last_updated: "May 24, 2022 08:07:09 PM"
+hero_image: assets/images/Digital_Experience_Hero.webp
+tags: "\"Solution Accelerator\",\"Campaign Management\",\"Media & Entertainment\",\"BizApps, Modern Workplace\",\"In Progress\""
+last_updated: "2022-06-14T15:09:52Z"
 related: ""
 order: 2
 ---

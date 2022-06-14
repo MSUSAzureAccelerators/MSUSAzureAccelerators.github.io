@@ -4,9 +4,10 @@ name: "Intelligent Document Processing"
 title: "Intelligent Document Processing"
 accelerator_type: "Solution Accelerator"
 classification: "Process Automation"
-solution_area: "Data & AI,Modern Workplace"
-status: "Beta"
-industries: "Manufacturing,Retail,FSI,HLS"
+solution_area: "Data & AI, Modern Workplace"
+status: "GA"
+primary_industry: "Financial Services"
+industries: "Financial Services,Health & Life Sciences,Manufacturing,Retail & Consumer Goods,"
 technology_stack: "Cognitive Services,Bot Framework,Power BI,Form Recognizer,Cosmos DB,Luis"
 github_url: https://github.com/MSUSSolutionAccelerators/Intelligent-Document-Processing-Solution-Accelerator
 demo_url: 
@@ -14,9 +15,9 @@ customer_overview_url:
 customer_deck_url: 
 short_text: "Reduce human intervention and decrease the time to find the key Data points in 100+page documents/contracts."
 hero_image: assets/images/Intelligent_Document_Processing_Hero.webp
-tags: "\"Solution Accelerator\",\"Process Automation\",\"Manufacturing\",\"Retail\",\"FSI\",\"HLS\",\"Cognitive Services\",\"Bot Framework\",\"Power BI\",\"Form Recognizer\",\"Cosmos DB\",\"Luis\",\"Data & AI\",\"Modern Workplace\",\"Beta\""
-last_updated: "May 24, 2022 08:08:38 PM"
-related: "AI-Powered-Insurance-Claims-Automation.html,Customer-Complaint-Management.html,Knowledge-Mining.html,Risk-Classification-and-Loan-Modeling.html,Knowledge-Mining---AML.html"
+tags: "\"Solution Accelerator\",\"Process Automation\",\"Financial Services\",\"Financial Services\",\"Health & Life Sciences\",\"Manufacturing\",\"Retail & Consumer Goods\",\"\",\"Cognitive Services\",\"Bot Framework\",\"Power BI\",\"Form Recognizer\",\"Cosmos DB\",\"Luis\",\"Data & AI, Modern Workplace\",\"GA\""
+last_updated: "2022-06-13T20:29:40Z"
+related: ""
 order: 2
 ---
 ## About this Solution Accelerator

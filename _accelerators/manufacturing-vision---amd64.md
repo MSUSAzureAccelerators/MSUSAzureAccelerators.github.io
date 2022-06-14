@@ -6,17 +6,18 @@ accelerator_type: "Solution Accelerator"
 classification: "Process Automation"
 solution_area: "Data & AI"
 status: "Beta"
-industries: "Manufacturing"
+primary_industry: "Manufacturing"
+industries: "Automotive"
 technology_stack: "Docker,Python"
 github_url: https://github.com/MSUSSolutionAccelerators/Manufacturing-Vision-Solution-Accelerator-AMD64
 demo_url: 
 customer_overview_url: 
 customer_deck_url: 
-short_text: "This is the base code for the Manufacturing Vision for amd64 architecture."
+short_text: "Information coming soon about the Data Governance Solution Accelerator"
 hero_image: assets/images/Manufacturing_Vision_Hero.webp
-tags: "\"Solution Accelerator\",\"Process Automation\",\"Manufacturing\",\"Docker\",\"Python\",\"Data & AI\",\"Beta\""
-last_updated: "May 24, 2022 08:09:13 PM"
-related: "AIoT---Automated-Quality-Inspection.html,AIoT---Factory-and-Worker-Safety.html,AIoT---Inventory-Lifecycle-Management.html,AIoT---Predictive-Maintenance.html"
+tags: "\"Solution Accelerator\",\"Process Automation\",\"Manufacturing\",\"Automotive\",\"Docker\",\"Python\",\"Data & AI\",\"Beta\""
+last_updated: "2022-06-14T13:40:05Z"
+related: ""
 order: 2
 ---
 ## About this Solution Accelerator

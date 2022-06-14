@@ -4,19 +4,20 @@ name: "Smart Spaces"
 title: "Smart Spaces"
 accelerator_type: "Solution Accelerator"
 classification: "Sustainability"
-solution_area: "Data & AI,BizApps,Apps & Infrastructure"
+solution_area: "Apps & Infrastructure, BizApps, Data & AI"
 status: "Beta"
-industries: "Manufacturing,FSI,HLS,SLG,EDU,Automotive,Energy,High Tech,Media and Entertainment,Professional Services,Retail,Horizontal"
-technology_stack: ""
+primary_industry: "Horizontal"
+industries: "Education,Health & Life Sciences,Manufacturing"
+technology_stack: "IoT,IoT Hub,Azure App Service,Application Insights,Azure Functions,Logic Apps.Stream Analytics,Azure SQL"
 github_url: https://github.com/MSUSSolutionAccelerators/Smart-Spaces-Sustainability-Solution-Accelerator
 demo_url: 
 customer_overview_url: 
 customer_deck_url: 
-short_text: "Builds smart buildings that can prove to be a gold standard in reducing environment impact and cost by driving energy efficiency, green purchasing, waste diversion, and water efficiency."
+short_text: "Optimize HVAC systems quickly and proactively for efficient and cost-effective energy use."
 hero_image: assets/images/Smart_Spaces_Hero2.webp
-tags: "\"Solution Accelerator\",\"Sustainability\",\"Manufacturing\",\"FSI\",\"HLS\",\"SLG\",\"EDU\",\"Automotive\",\"Energy\",\"High Tech\",\"Media and Entertainment\",\"Professional Services\",\"Retail\",\"Horizontal\",\"Data & AI\",\"BizApps\",\"Apps & Infrastructure\",\"Beta\""
-last_updated: "May 24, 2022 08:13:55 PM"
-related: "Carbon-Tracing-Basic-Flare.html,Carbon-Tracing-Wastewater.html,ADX-IoT-Analytics.html,AIoT---Predictive-Maintenance.html,AIoT---Inventory-Lifecycle-Management.html"
+tags: "\"Solution Accelerator\",\"Sustainability\",\"Horizontal\",\"Education\",\"Health & Life Sciences\",\"Manufacturing\",\"IoT\",\"IoT Hub\",\"Azure App Service\",\"Application Insights\",\"Azure Functions\",\"Logic Apps.Stream Analytics\",\"Azure SQL\",\"Apps & Infrastructure, BizApps, Data & AI\",\"Beta\""
+last_updated: "2022-06-13T20:42:19Z"
+related: ""
 order: 2
 ---
 ## About this Solution Accelerator

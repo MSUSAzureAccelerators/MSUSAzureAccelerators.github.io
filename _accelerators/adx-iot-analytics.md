@@ -6,17 +6,18 @@ accelerator_type: "Solution Accelerator"
 classification: "Process Automation"
 solution_area: "Modern Workplace"
 status: "Beta"
-industries: "Automotive,EDU,Energy,FSI,High Tech,HLS,Manufacturing,Media and Entertainment,Professional Services,Retail,SLG,Horizontal"
+primary_industry: "Horizontal"
+industries: "Automotive,Manufacturing,State & Local Government"
 technology_stack: "Azure IoT Hub,Bicep,IoT,Digital Twins,Event Hub,Azure Data Explorer"
 github_url: https://github.com/MSUSSolutionAccelerators/ADX-IoT-Analytics-Solution-Accelerator
 demo_url: 
 customer_overview_url: 
 customer_deck_url: 
-short_text: "Azure Data Explorer can provide valuable insights into your IoT workloads"
+short_text: "Azure Data Explorer can provide valuable insights into your IoT workloads."
 hero_image: assets/images/IOT_Hero.webp
-tags: "\"Solution Accelerator\",\"Process Automation\",\"Automotive\",\"EDU\",\"Energy\",\"FSI\",\"High Tech\",\"HLS\",\"Manufacturing\",\"Media and Entertainment\",\"Professional Services\",\"Retail\",\"SLG\",\"Horizontal\",\"Azure IoT Hub\",\"Bicep\",\"IoT\",\"Digital Twins\",\"Event Hub\",\"Azure Data Explorer\",\"Modern Workplace\",\"Beta\""
-last_updated: "May 24, 2022 08:01:15 PM"
-related: "Conversational-AI-for-Manufacturing.html,AIoT---Factory-and-Worker-Safety.html,AIoT---Predictive-Maintenance.html,AIoT---Automated-Quality-Inspection.html,AIoT---Inventory-Lifecycle-Management.html"
+tags: "\"Solution Accelerator\",\"Process Automation\",\"Horizontal\",\"Automotive\",\"Manufacturing\",\"State & Local Government\",\"Azure IoT Hub\",\"Bicep\",\"IoT\",\"Digital Twins\",\"Event Hub\",\"Azure Data Explorer\",\"Modern Workplace\",\"Beta\""
+last_updated: "2022-06-14T12:57:16Z"
+related: ""
 order: 2
 ---
 ## About this Solution Accelerator

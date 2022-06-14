@@ -4,9 +4,10 @@ name: "Workplace Intelligence for Human Resources"
 title: "Workplace Intelligence for Human Resources"
 accelerator_type: "Solution Accelerator"
 classification: "Workplace Intelligence"
-solution_area: "Modern Workplace,Data & AI,BizApps,Apps & Infrastructure"
-status: "GA"
-industries: "Manufacturing,Retail,FSI,HLS,Automotive,EDU,Energy,High Tech,Media and Entertainment,Professional Services,SLG,Horizontal"
+solution_area: "Apps & Infrastructure, BizApps, Data & AI, Modern Workplace"
+status: "In Progress"
+primary_industry: "Horizontal"
+industries: "Automotive,Education,Energy,Financial Services,High Tech,Health & Life Sciences,Manufacturing,Media & Entertainment,Professional Services,Retail & Consumer Goods,State & Local Government"
 technology_stack: "Workplace Analytics,Viva,Azure DevOps,Synapse,Power BI"
 github_url: https://github.com/MSUSSolutionAccelerators/Workplace-Intelligence-Solution-Accelerator
 demo_url: 
@@ -14,9 +15,9 @@ customer_overview_url:
 customer_deck_url: 
 short_text: "Easily identify factors that influence productivity and engagement."
 hero_image: assets/images/WP_Intelligence_HR_Hero.webp
-tags: "\"Solution Accelerator\",\"Workplace Intelligence\",\"Manufacturing\",\"Retail\",\"FSI\",\"HLS\",\"Automotive\",\"EDU\",\"Energy\",\"High Tech\",\"Media and Entertainment\",\"Professional Services\",\"SLG\",\"Horizontal\",\"Workplace Analytics\",\"Viva\",\"Azure DevOps\",\"Synapse\",\"Power BI\",\"Modern Workplace\",\"Data & AI\",\"BizApps\",\"Apps & Infrastructure\",\"GA\""
-last_updated: "May 24, 2022 08:15:19 PM"
-related: "Workplace-Intelligence-for-Product-Development-Teams.html"
+tags: "\"Solution Accelerator\",\"Workplace Intelligence\",\"Horizontal\",\"Automotive\",\"Education\",\"Energy\",\"Financial Services\",\"High Tech\",\"Health & Life Sciences\",\"Manufacturing\",\"Media & Entertainment\",\"Professional Services\",\"Retail & Consumer Goods\",\"State & Local Government\",\"Workplace Analytics\",\"Viva\",\"Azure DevOps\",\"Synapse\",\"Power BI\",\"Apps & Infrastructure, BizApps, Data & AI, Modern Workplace\",\"In Progress\""
+last_updated: "2022-06-13T20:34:32Z"
+related: ""
 order: 2
 ---
 ## About this Solution Accelerator
