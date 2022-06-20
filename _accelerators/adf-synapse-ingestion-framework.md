@@ -4,19 +4,18 @@ name: "ADF/Synapse Ingestion Framework"
 title: "ADF/Synapse Ingestion Framework"
 accelerator_type: "Solution Accelerator"
 classification: "Process Automation"
-solution_area: ""
+solution_area: "Data & AI"
 status: "Beta"
-primary_industry: "Horizontal"
-industries: "Automotive,Education,Energy,Financial Services,High Tech,Health & Life Sciences,Manufacturing,Media & Entertainment,Professional Services,Retail & Consumer Goods,State & Local Government"
+industries: "Horizontal,Automotive,EDU,Energy,FSI,High Tech,HLS,Manufacturing,Media and Entertainment,Professional Services,Retail,SLG"
 technology_stack: "Synapse,Azure SQL,Azure Data Lake Storage,Power BI,Azure Data Factory"
 github_url: https://github.com/MSUSSolutionAccelerators/ADF-Ingestion-Framework-Solution-Accelerator
 demo_url: 
 customer_overview_url: 
 customer_deck_url: 
-short_text: "Speed up migration with ease of development and also use the same for production deployment. "
+short_text: "Speed up migration with ease of development and also use the same for production deployment."
 hero_image: assets/images/ADF_Ingestion_Framework_Hero.webp
-tags: "\"Solution Accelerator\",\"Process Automation\",\"Horizontal\",\"Automotive\",\"Education\",\"Energy\",\"Financial Services\",\"High Tech\",\"Health & Life Sciences\",\"Manufacturing\",\"Media & Entertainment\",\"Professional Services\",\"Retail & Consumer Goods\",\"State & Local Government\",\"Synapse\",\"Azure SQL\",\"Azure Data Lake Storage\",\"Power BI\",\"Azure Data Factory\",\"Beta\""
-last_updated: "2022-06-13T20:19:12Z"
+tags: "\"Solution Accelerator\",\"Process Automation\",\"Horizontal\",\"Automotive\",\"EDU\",\"Energy\",\"FSI\",\"High Tech\",\"HLS\",\"Manufacturing\",\"Media and Entertainment\",\"Professional Services\",\"Retail\",\"SLG\",\"Synapse\",\"Azure SQL\",\"Azure Data Lake Storage\",\"Power BI\",\"Azure Data Factory\",\"Data & AI\",\"Beta\""
+last_updated: "June 20, 2022 07:59:26 PM"
 related: ""
 order: 2
 ---
