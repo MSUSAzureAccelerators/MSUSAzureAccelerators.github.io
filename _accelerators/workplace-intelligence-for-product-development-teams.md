@@ -15,6 +15,7 @@ customer_overview_url:
 customer_deck_url: 
 short_text: "Uncover and leverage the key drivers of productivity and success for product development teams."
 hero_image: assets/images/WP_Intelligence_Tech_Hero.webp
+partner_image: assets/images/logo/Microsoft-Office-365-Logo.png
 tags: "\"Business Accelerator\",\"Workplace Intelligence\",\"Horizontal\",\"Automotive\",\"Education\",\"Energy\",\"Financial Services\",\"High Tech\",\"Health & Life Sciences\",\"Manufacturing\",\"Media & Entertainment\",\"Professional Services\",\"Retail & Consumer Goods\",\"State & Local Government\",\"Workplace Analytics\",\"Viva\",\"Azure DevOps\",\"Synapse\",\"Power BI\",\"Apps & Infrastructure, BizApps, Data & AI, Modern Workplace\",\"In Progress\""
 last_updated: "2022-06-29T16:38:59Z"
 related: ""

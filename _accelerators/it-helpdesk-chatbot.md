@@ -15,7 +15,7 @@ customer_overview_url:
 customer_deck_url: 
 short_text: "Multiply the productivity of your employees and cut down your IT support costs"
 hero_image: assets/images/IT_Helpdesk_Bot_Hero.webp
-partner_image: assets/images/logo/acuvate.png
+partner_image: assets/images/logo/acuvate_logo.png
 tags: "\"Business Accelerator\",\"Process Automation\",\"Horizontal\",\"Bot Framework\",\"Cognitive Services\",\"Azure Machine Learning\",\"BizApps\",\"Data & AI\",\"Beta\""
 last_updated: "2022-06-30T16:37:35Z"
 related: ""
