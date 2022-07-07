@@ -1,8 +1,19 @@
 <div id="accelerator">
     <div>
         <div class="flex align-middle justify-between mb-3">
-            <div class="w-2/3">                
-                <img src="../../assets/images/logo/MS-Azure_logo_horiz_c-gray_rgb.png" alt="Microsoft Logo" class="w-72">
+            <div class="w-2/3">
+                <div class="flex m-auto">
+                    <img src="../../assets/images/logo/MS-Azure_logo_horiz_c-gray_rgb.png" alt="Microsoft Logo"
+                        class="w-72">
+                    {%- if page.partner_image and page.partner_image != '' %}
+                    <div class="border-l-2 border-ms-light-gray my-4 ml-4">&nbsp;</div>
+                    <div class="">
+                        <img src="../../{{ page.partner_image -}}" alt="Partner Logo"
+                        class="h-10 my-8 ml-8 align-middle opacity-60">
+                    </div>
+                    {%- endif %}
+                </div>
+
                 <article class="pl-6 w-full prose">{{ content -}}</article>
             </div>
             <div class="w-1/3 ml-8">

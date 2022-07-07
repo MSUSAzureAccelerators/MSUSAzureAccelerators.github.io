@@ -2,7 +2,7 @@
 short_name: "Near Real-time Fraud and Compliance Analytics"
 name: "Near Real-time Fraud and Compliance Analytics"
 title: "Near Real-time Fraud and Compliance Analytics"
-accelerator_type: "Solution Accelerator"
+accelerator_type: "Business Accelerator"
 classification: "Financial"
 solution_area: "BizApps"
 status: "Beta"
@@ -15,8 +15,8 @@ customer_overview_url:
 customer_deck_url: 
 short_text: "Simplify the fraud detection and reporting process"
 hero_image: assets/images/Fraud_Compliance_Hero.webp
-tags: "\"Solution Accelerator\",\"Financial\",\"Financial Services\",\"Python\",\"BizApps\",\"Beta\""
-last_updated: "2022-06-14T13:52:03Z"
+tags: "\"Business Accelerator\",\"Financial\",\"Financial Services\",\"Python\",\"BizApps\",\"Beta\""
+last_updated: "2022-06-29T16:31:48Z"
 related: ""
 order: 2
 ---

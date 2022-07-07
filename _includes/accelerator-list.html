@@ -20,11 +20,8 @@
                 </div>
                 <h3 class="mb-1 mt-1 text-center md:text-2xl sm:text-xl xs:text-lg">Accelerator Type</h3>
                 <div class="filter-links text-center" data-inview-showup="showup-translate-up">
-                    <a aria-label="Solution Accelerator Family" class="filter-link" href="#"
-                        data-filter='["SolutionAcceleratorFamily"]'><i class="fa-solid fa-people-group"></i> Accelerator
-                        Family</a>
-                    <a aria-label="Solution Accelerator" class="filter-link" href="#"
-                        data-filter='["SolutionAccelerator"]'><i class="fa-solid fa-gauge"></i> Solution
+                    <a aria-label="Business Accelerator" class="filter-link" href="#"
+                        data-filter='["BusinessAccelerator"]'><i class="fa-solid fa-gauge"></i> Business
                         Accelerator</a>
                     <a aria-label="Technology Accelerator" class="filter-link" href="#"
                         data-filter='["TechnologyAccelerator"]'><i class="fa-solid fa-microchip"></i>
@@ -41,6 +38,7 @@
                 <div class="filter-links text-center" data-inview-showup="showup-translate-up">
                     <a aria-label="GA" class="filter-link" href="#" data-filter='["GA"]'><i class="fa-solid fa-gauge-high"></i> GA</a>
                     <a aria-label="Beta" class="filter-link" href="#" data-filter='["Beta"]'><i class="fa-solid fa-flask-vial"></i> Beta</a>
+                    <a aria-label="In Progress" class="filter-link" href="#" data-filter='["InProgress"]'><i class="fa-solid fa-hammer"></i> In Progress</a>
                     <a aria-label="Nominated" class="filter-link" href="#" data-filter='["Nominated"]'><i class="fa-solid fa-pen-to-square"></i> Nominated</a>
                 </div>
                 <h3 class="mb-1 mt-1 text-center md:text-2xl sm:text-xl xs:text-lg">Industry Alignment</h3>
@@ -152,7 +150,11 @@
                             </div>
                             {%- elsif accelerator.status == "Beta" -%}
                             <div class="flex space-x-2 justify-end absolute top-1 right-1 mr-4 mt-4 w-full">
-                                <span class="text-xs inline-block py-1 px-2.5 leading-none text-center whitespace-nowrap align-baseline font-bold bg-ms-yellow text-ms-dark-yellow rounded-full border border-ms-dark-yellow"><i class="fa-solid fa-flask-vial"></i> {{ accelerator.status -}}</span>
+                                <span class="text-xs inline-block py-1 px-2.5 leading-none text-center whitespace-nowrap align-baseline font-bold bg-ms-yellow text-az-dark-gray rounded-full border border-ms-dark-yellow"><i class="fa-solid fa-flask-vial"></i> {{ accelerator.status -}}</span>
+                            </div>
+                            {%- elsif accelerator.status == "In Progress" -%}
+                            <div class="flex space-x-2 justify-end absolute top-1 right-1 mr-4 mt-4 w-full">
+                                <span class="text-xs inline-block py-1 px-2.5 leading-none text-center whitespace-nowrap align-baseline font-bold bg-ms-teal text-az-light-gray rounded-full border border-ms-dark-teal"><i class="fa-solid fa-hammer"></i> {{ accelerator.status -}}</span>
                             </div>
                             {%- elsif accelerator.status == "Nominated" -%}
                             <div class="flex space-x-2 justify-end absolute top-1 right-1 mr-4 mt-4 w-full">

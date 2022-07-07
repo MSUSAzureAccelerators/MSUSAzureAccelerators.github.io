@@ -2,7 +2,7 @@
 short_name: "Medical Imaging with Azure Machine Learning"
 name: "Medical Imaging with Azure Machine Learning"
 title: "Medical Imaging with Azure Machine Learning"
-accelerator_type: "Solution Accelerator"
+accelerator_type: "Business Accelerator"
 classification: "Healthcare"
 solution_area: "Data & AI,Modern Workplace"
 status: "Beta"
@@ -15,8 +15,8 @@ customer_overview_url:
 customer_deck_url: 
 short_text: "Support medical imaging and other use cases in areas like data and model management, deployment, experiment tracking and explainability"
 hero_image: assets/images/med-imaging.webp
-tags: "\"Solution Accelerator\",\"Healthcare\",\"Health & Life Sciences\",\"Azure Machine Learning\",\"Data & AI\",\"Modern Workplace\",\"Beta\""
-last_updated: "2022-06-14T13:42:43Z"
+tags: "\"Business Accelerator\",\"Healthcare\",\"Health & Life Sciences\",\"Azure Machine Learning\",\"Data & AI\",\"Modern Workplace\",\"Beta\""
+last_updated: "2022-06-29T16:31:52Z"
 related: ""
 order: 2
 ---

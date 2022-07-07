@@ -2,7 +2,7 @@
 short_name: "Overdose Prevention"
 name: "Overdose Prevention"
 title: "Overdose Prevention"
-accelerator_type: "Solution Accelerator"
+accelerator_type: "Business Accelerator"
 classification: "Healthcare"
 solution_area: "Data & AI"
 status: "Beta"
@@ -13,10 +13,10 @@ github_url: https://github.com/MSUSSolutionAccelerators/Overdose-Prevention-Solu
 demo_url: 
 customer_overview_url: 
 customer_deck_url: 
-short_text: "Provide predictive analytics for different prescription and distribution services."
+short_text: "Provide predictive analytics for different prescription and distribution services"
 hero_image: assets/images/Overdose_Prevention_Hero.webp
-tags: "\"Solution Accelerator\",\"Healthcare\",\"Horizontal\",\"Health & Life Sciences\",\"State & Local Government\",\"IoT\",\"IoT Hub\",\"Synapse Analytics\",\"Data & AI\",\"Beta\""
-last_updated: "2022-06-13T20:32:34Z"
+tags: "\"Business Accelerator\",\"Healthcare\",\"Horizontal\",\"Health & Life Sciences\",\"State & Local Government\",\"IoT\",\"IoT Hub\",\"Synapse Analytics\",\"Data & AI\",\"Beta\""
+last_updated: "2022-06-29T16:31:39Z"
 related: ""
 order: 2
 ---

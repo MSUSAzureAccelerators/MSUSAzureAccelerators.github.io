@@ -2,7 +2,7 @@
 short_name: "AI-Powered Insurance Claims Automation"
 name: "AI-Powered Insurance Claims Automation"
 title: "AI-Powered Insurance Claims Automation"
-accelerator_type: "Solution Accelerator"
+accelerator_type: "Business Accelerator"
 classification: "Process Automation"
 solution_area: "Data & AI"
 status: "In Progress"
@@ -15,8 +15,8 @@ customer_overview_url:
 customer_deck_url: 
 short_text: "Reduce claims processing time and manual effort in end-to-end claims processing for better customer experience"
 hero_image: assets/images/AI_Powered_Insurance_Hero.webp
-tags: "\"Solution Accelerator\",\"Process Automation\",\"Financial Services\",\"Cognitive Services\",\"Cosmos DB\",\"Bot Framework\",\"Azure Storage\",\"Form Recognizer\",\"Luis\",\"Data & AI\",\"In Progress\""
-last_updated: "2022-06-14T12:54:52Z"
+tags: "\"Business Accelerator\",\"Process Automation\",\"Financial Services\",\"Cognitive Services\",\"Cosmos DB\",\"Bot Framework\",\"Azure Storage\",\"Form Recognizer\",\"Luis\",\"Data & AI\",\"In Progress\""
+last_updated: "2022-06-29T16:32:37Z"
 related: ""
 order: 2
 ---

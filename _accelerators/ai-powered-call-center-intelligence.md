@@ -2,7 +2,7 @@
 short_name: "AI-Powered Call Center Intelligence"
 name: "AI-Powered Call Center Intelligence"
 title: "AI-Powered Call Center Intelligence"
-accelerator_type: "Solution Accelerator"
+accelerator_type: "Business Accelerator"
 classification: "Personalization"
 solution_area: "Data & AI"
 status: "In Progress"
@@ -15,8 +15,8 @@ customer_overview_url:
 customer_deck_url: 
 short_text: "Automates call transcriptions for real-time and previously recorded calls."
 hero_image: assets/images/AI_Call_Center_Hero.webp
-tags: "\"Solution Accelerator\",\"Personalization\",\"Financial Services\",\"Horizontal\",\"Cognitive Services\",\"Azure Machine Learning\",\"Power BI\",\"Azure Speech Services\",\"Azure SQL\",\"Azure Storage\",\"Data & AI\",\"In Progress\""
-last_updated: "2022-06-13T19:59:59Z"
+tags: "\"Business Accelerator\",\"Personalization\",\"Financial Services\",\"Horizontal\",\"Cognitive Services\",\"Azure Machine Learning\",\"Power BI\",\"Azure Speech Services\",\"Azure SQL\",\"Azure Storage\",\"Data & AI\",\"In Progress\""
+last_updated: "2022-06-29T16:39:12Z"
 related: ""
 order: 2
 ---

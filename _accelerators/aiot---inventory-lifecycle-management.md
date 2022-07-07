@@ -2,10 +2,10 @@
 short_name: "AIoT - Inventory Lifecycle Management"
 name: "AIoT - Inventory Lifecycle Management"
 title: "AIoT - Inventory Lifecycle Management"
-accelerator_type: "Reference Architecture"
+accelerator_type: "Technology Accelerator"
 classification: "Process Automation"
 solution_area: "Data & AI"
-status: "GA"
+status: "Beta"
 primary_industry: "Manufacturing"
 industries: "Automotive"
 technology_stack: "Azure Container Registry,Azure DevOps,Azure IoT Hub,Azure Machine Learning,Azure SQL,Azure Storage,Cognitive Services,Docker,PowerBI,Python"
@@ -15,8 +15,8 @@ customer_overview_url:
 customer_deck_url: 
 short_text: "Drive outcomes related to building more agile factories, creating more resilient supply chains, and transforming workforces."
 hero_image: assets/images/AIOT_Inventory_Lifecycle_Management_Hero.webp
-tags: "\"Reference Architecture\",\"Process Automation\",\"Manufacturing\",\"Automotive\",\"Azure Container Registry\",\"Azure DevOps\",\"Azure IoT Hub\",\"Azure Machine Learning\",\"Azure SQL\",\"Azure Storage\",\"Cognitive Services\",\"Docker\",\"PowerBI\",\"Python\",\"Data & AI\",\"GA\""
-last_updated: "2022-06-13T20:21:54Z"
+tags: "\"Technology Accelerator\",\"Process Automation\",\"Manufacturing\",\"Automotive\",\"Azure Container Registry\",\"Azure DevOps\",\"Azure IoT Hub\",\"Azure Machine Learning\",\"Azure SQL\",\"Azure Storage\",\"Cognitive Services\",\"Docker\",\"PowerBI\",\"Python\",\"Data & AI\",\"Beta\""
+last_updated: "2022-07-06T21:24:11Z"
 related: ""
 order: 2
 ---

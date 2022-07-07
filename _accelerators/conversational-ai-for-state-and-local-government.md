@@ -2,7 +2,7 @@
 short_name: "Conversational AI for State and Local Government"
 name: "Conversational AI for State and Local Government"
 title: "Conversational AI for State and Local Government"
-accelerator_type: "Solution Accelerator"
+accelerator_type: "Business Accelerator"
 classification: "Personalization"
 solution_area: "Data & AI,Modern Workplace"
 status: "GA"
@@ -15,8 +15,9 @@ customer_overview_url:
 customer_deck_url: 
 short_text: "Rich analytics served to a dashboard for valuable insights that can help you serve your public"
 hero_image: assets/images/Conversational_AI_SLG_Hero.webp
-tags: "\"Solution Accelerator\",\"Personalization\",\"State & Local Government\",\"Horizontal\",\"Azure Machine Learning\",\"Bot Services\",\"Cognitive Search\",\"Cognitive Services\",\"Data & AI\",\"Modern Workplace\",\"GA\""
-last_updated: "2022-06-14T13:07:20Z"
+partner_image: assets/images/logo/zammo_logo.svg
+tags: "\"Business Accelerator\",\"Personalization\",\"State & Local Government\",\"Horizontal\",\"Azure Machine Learning\",\"Bot Services\",\"Cognitive Search\",\"Cognitive Services\",\"Data & AI\",\"Modern Workplace\",\"GA\""
+last_updated: "2022-06-29T16:38:50Z"
 related: ""
 order: 2
 ---

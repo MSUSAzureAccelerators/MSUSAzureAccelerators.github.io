@@ -2,7 +2,7 @@
 short_name: "Intelligent Document Processing"
 name: "Intelligent Document Processing"
 title: "Intelligent Document Processing"
-accelerator_type: "Solution Accelerator"
+accelerator_type: "Business Accelerator"
 classification: "Process Automation"
 solution_area: "Data & AI, Modern Workplace"
 status: "GA"
@@ -15,8 +15,8 @@ customer_overview_url:
 customer_deck_url: 
 short_text: "Reduce human intervention and decrease the time to find the key Data points in 100+page documents/contracts."
 hero_image: assets/images/Intelligent_Document_Processing_Hero.webp
-tags: "\"Solution Accelerator\",\"Process Automation\",\"Financial Services\",\"Financial Services\",\"Health & Life Sciences\",\"Manufacturing\",\"Retail & Consumer Goods\",\"\",\"Cognitive Services\",\"Bot Framework\",\"Power BI\",\"Form Recognizer\",\"Cosmos DB\",\"Luis\",\"Data & AI, Modern Workplace\",\"GA\""
-last_updated: "2022-06-13T20:29:40Z"
+tags: "\"Business Accelerator\",\"Process Automation\",\"Financial Services\",\"Financial Services\",\"Health & Life Sciences\",\"Manufacturing\",\"Retail & Consumer Goods\",\"\",\"Cognitive Services\",\"Bot Framework\",\"Power BI\",\"Form Recognizer\",\"Cosmos DB\",\"Luis\",\"Data & AI, Modern Workplace\",\"GA\""
+last_updated: "2022-06-29T16:32:57Z"
 related: ""
 order: 2
 ---

@@ -2,7 +2,7 @@
 short_name: "Manufacturing Vision - AMD64"
 name: "Manufacturing Vision - AMD64"
 title: "Manufacturing Vision - AMD64"
-accelerator_type: "Solution Accelerator"
+accelerator_type: "Business Accelerator"
 classification: "Process Automation"
 solution_area: "Data & AI"
 status: "Beta"
@@ -15,8 +15,8 @@ customer_overview_url:
 customer_deck_url: 
 short_text: "Information coming soon about the Data Governance Solution Accelerator"
 hero_image: assets/images/Manufacturing_Vision_Hero.webp
-tags: "\"Solution Accelerator\",\"Process Automation\",\"Manufacturing\",\"Automotive\",\"Docker\",\"Python\",\"Data & AI\",\"Beta\""
-last_updated: "2022-06-14T13:40:05Z"
+tags: "\"Business Accelerator\",\"Process Automation\",\"Manufacturing\",\"Automotive\",\"Docker\",\"Python\",\"Data & AI\",\"Beta\""
+last_updated: "2022-06-29T16:31:55Z"
 related: ""
 order: 2
 ---

@@ -2,7 +2,7 @@
 short_name: "AIoT - Automated Quality Inspection"
 name: "AIoT - Automated Quality Inspection"
 title: "AIoT - Automated Quality Inspection"
-accelerator_type: "Solution Accelerator"
+accelerator_type: "Business Accelerator"
 classification: "Process Automation"
 solution_area: "Data & AI"
 status: "In Progress"
@@ -15,8 +15,8 @@ customer_overview_url:
 customer_deck_url: 
 short_text: "Azure Computer Vision infers product quality at the point of manufacture on the assembly line in real-time "
 hero_image: assets/images/AIOT_Automated_Quality_Inspection_Hero.webp
-tags: "\"Solution Accelerator\",\"Process Automation\",\"Manufacturing\",\"Automotive\",\"Azure Container Registery\",\"Azure DevOps\",\"Azure IoT Hub\",\"Azure KeyVault\",\"Azure Machine Learning\",\"Azure SQL\",\"Azure Storage\",\"Cognitive Services\",\"Docker\",\"Power BI\",\"Python\",\"Data & AI\",\"In Progress\""
-last_updated: "2022-06-14T13:32:55Z"
+tags: "\"Business Accelerator\",\"Process Automation\",\"Manufacturing\",\"Automotive\",\"Azure Container Registery\",\"Azure DevOps\",\"Azure IoT Hub\",\"Azure KeyVault\",\"Azure Machine Learning\",\"Azure SQL\",\"Azure Storage\",\"Cognitive Services\",\"Docker\",\"Power BI\",\"Python\",\"Data & AI\",\"In Progress\""
+last_updated: "2022-06-29T16:32:02Z"
 related: ""
 order: 2
 ---

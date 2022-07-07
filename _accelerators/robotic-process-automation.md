@@ -2,7 +2,7 @@
 short_name: "Robotic Process Automation"
 name: "Robotic Process Automation"
 title: "Robotic Process Automation"
-accelerator_type: "Solution Accelerator"
+accelerator_type: "Business Accelerator"
 classification: "Process Automation"
 solution_area: "BizApps"
 status: "Beta"
@@ -15,8 +15,8 @@ customer_overview_url:
 customer_deck_url: 
 short_text: "Completely automate the data extractive and entry from PDF form by using Azure Cognitive Services."
 hero_image: assets/images/RPA_Hero.webp
-tags: "\"Solution Accelerator\",\"Process Automation\",\"Horizontal\",\"Financial Services\",\"Manufacturing\",\"Azure Functions\",\"Azure Storage\",\"Azure Logic Apps\",\"Form Recognizer\",\"Cognitive Services\",\"Cognitive Search\",\"Cosmos DB\",\"Azure App Service\",\"BizApps\",\"Beta\""
-last_updated: "2022-06-13T20:44:40Z"
+tags: "\"Business Accelerator\",\"Process Automation\",\"Horizontal\",\"Financial Services\",\"Manufacturing\",\"Azure Functions\",\"Azure Storage\",\"Azure Logic Apps\",\"Form Recognizer\",\"Cognitive Services\",\"Cognitive Search\",\"Cosmos DB\",\"Azure App Service\",\"BizApps\",\"Beta\""
+last_updated: "2022-06-29T16:32:41Z"
 related: ""
 order: 2
 ---

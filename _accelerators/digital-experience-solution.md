@@ -2,7 +2,7 @@
 short_name: "Digital Experience Solution"
 name: "Digital Experience Solution"
 title: "Digital Experience Solution"
-accelerator_type: "Solution Accelerator"
+accelerator_type: "Business Accelerator"
 classification: "Campaign Management"
 solution_area: "BizApps, Modern Workplace"
 status: "In Progress"
@@ -15,8 +15,8 @@ customer_overview_url:
 customer_deck_url: 
 short_text: "Move the entire live stream process offsite and into the cloud."
 hero_image: assets/images/Digital_Experience_Hero.webp
-tags: "\"Solution Accelerator\",\"Campaign Management\",\"Media & Entertainment\",\"BizApps, Modern Workplace\",\"In Progress\""
-last_updated: "2022-06-14T15:09:52Z"
+tags: "\"Business Accelerator\",\"Campaign Management\",\"Media & Entertainment\",\"BizApps, Modern Workplace\",\"In Progress\""
+last_updated: "2022-06-29T16:38:42Z"
 related: ""
 order: 2
 ---

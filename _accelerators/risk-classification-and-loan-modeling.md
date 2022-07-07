@@ -2,7 +2,7 @@
 short_name: "Risk Classification and Loan Modeling"
 name: "Risk Classification and Loan Modeling"
 title: "Risk Classification and Loan Modeling"
-accelerator_type: "Solution Accelerator"
+accelerator_type: "Business Accelerator"
 classification: "Financial"
 solution_area: "BizApps"
 status: "In Progress"
@@ -15,8 +15,8 @@ customer_overview_url:
 customer_deck_url: 
 short_text: "Automate processes to ensure compliance with SBA guidelines"
 hero_image: assets/images/Risk_Loan_Hero.webp
-tags: "\"Solution Accelerator\",\"Financial\",\"Financial Services\",\"Azure Data Lake Storage\",\"Synapse Analytics\",\"BizApps\",\"In Progress\""
-last_updated: "2022-06-14T13:53:13Z"
+tags: "\"Business Accelerator\",\"Financial\",\"Financial Services\",\"Azure Data Lake Storage\",\"Synapse Analytics\",\"BizApps\",\"In Progress\""
+last_updated: "2022-06-29T16:38:47Z"
 related: ""
 order: 2
 ---

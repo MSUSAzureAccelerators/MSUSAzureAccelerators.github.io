@@ -2,7 +2,7 @@
 short_name: "Conversational AI for Retail"
 name: "Conversational AI for Retail"
 title: "Conversational AI for Retail"
-accelerator_type: "Solution Accelerator"
+accelerator_type: "Business Accelerator"
 classification: "Personalization"
 solution_area: "Data & AI,Modern Workplace"
 status: "GA"
@@ -15,8 +15,9 @@ customer_overview_url:
 customer_deck_url: 
 short_text: "Collect data from every interaction in a feedback loop for optimization"
 hero_image: assets/images/Conversational_AI_Hero.webp
-tags: "\"Solution Accelerator\",\"Personalization\",\"Retail & Consumer Goods\",\"Horizontal\",\"Azure Machine Learning\",\"Bot Framework\",\"Cognitive Services\",\"Data & AI\",\"Modern Workplace\",\"GA\""
-last_updated: "2022-06-14T13:06:23Z"
+partner_image: assets/images/logo/zammo_logo.svg
+tags: "\"Business Accelerator\",\"Personalization\",\"Retail & Consumer Goods\",\"Horizontal\",\"Azure Machine Learning\",\"Bot Framework\",\"Cognitive Services\",\"Data & AI\",\"Modern Workplace\",\"GA\""
+last_updated: "2022-06-29T16:38:54Z"
 related: ""
 order: 2
 ---
