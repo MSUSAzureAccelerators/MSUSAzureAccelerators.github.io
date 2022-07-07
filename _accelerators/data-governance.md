@@ -13,13 +13,13 @@ github_url:
 demo_url: 
 customer_overview_url: 
 customer_deck_url: 
-short_text: "Information coming soon about the Data Governance Solution Accelerator"
+short_text: "Information coming soon about the Data Governance Accelerator"
 hero_image: assets/images/Data_Governance_Hero.webp
 tags: "\"Technology Accelerator\",\"Technology Accelerator\",\"Horizontal\",\"Azure Purview\",\"Synapse Analytics\",\"Azure Machine Learning\",\"Apps & Infrastructure\",\"Nominated\""
 last_updated: "2022-06-29T16:43:05Z"
 related: ""
 order: 2
 ---
-## About this Solution Accelerator
+## About this Accelerator
 
-Information coming soon about the Data Governance Solution Accelerator.
+Information coming soon about the Data Governance Accelerator.

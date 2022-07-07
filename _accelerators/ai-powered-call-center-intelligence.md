@@ -20,11 +20,11 @@ last_updated: "2022-06-29T16:39:12Z"
 related: ""
 order: 2
 ---
-## About this Solution Accelerator
+## About this Accelerator
 
 At many call centers, wait times, re-routing, and the human-to-human interactions between agents and customers can make or break the customer experience. Without modern tools like AI and advanced automation, many organizations find it difficult to maintain high customer service standards and improve call center employee efficiency.
 
-The AI-Powered Call Center Intelligence Solution Accelerator automates call transcriptions for real-time and previously recorded calls with Azure Cognitive Services by using custom speech models, text analytics, and industry-specific natural language processing. Data insights on customer sentiment, topic analysis, and other valuable call attributes are served up in a user-friendly visual dashboard in Power BI.
+The AI-Powered Call Center Intelligence Accelerator automates call transcriptions for real-time and previously recorded calls with Azure Cognitive Services by using custom speech models, text analytics, and industry-specific natural language processing. Data insights on customer sentiment, topic analysis, and other valuable call attributes are served up in a user-friendly visual dashboard in Power BI.
 
 ### Challenges
 

@@ -20,7 +20,7 @@ last_updated: "2022-06-29T16:31:48Z"
 related: ""
 order: 2
 ---
-## About this Solution Accelerator
+## About this Accelerator
 
 ### Challenges
 

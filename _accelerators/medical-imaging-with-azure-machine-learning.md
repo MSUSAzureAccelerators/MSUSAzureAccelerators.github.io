@@ -20,11 +20,11 @@ last_updated: "2022-06-29T16:31:52Z"
 related: ""
 order: 2
 ---
-## About this Solution Accelerator
+## About this Accelerator
 
 Welcome to our medical imaging demo repository! The content includes several Python notebooks that cover medical imaging use cases based on classification, object detection and instance segmentation.
 
-![Medical Imaging Solution Accelerator](../assets/images/med-imaging.webp)
+![Medical Imaging Accelerator](../assets/images/med-imaging.webp)
 
 All use cases are based on publicly available datasets like brain RMI scans, cell micrographs, chest x-ray images and more. Since we cannot distribute the data directly, we refer to publicly available download locations.
 

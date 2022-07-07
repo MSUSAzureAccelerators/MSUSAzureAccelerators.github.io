@@ -20,11 +20,11 @@ last_updated: "2022-06-29T16:39:04Z"
 related: ""
 order: 2
 ---
-## About this Solution Accelerator
+## About this Accelerator
 
 Businesses are using the power of data to transform their organization's systems and processes, but many overlook that impact of applying the same principles to its workforce.
 
-The Workplace Intelligence Solution Accelerator can help. It leverages machine learning and big data analytics to bring together and transform your data, allowing you to build and deploy a machine learning model to easily identify factors that influence productivity and engagement
+The Workplace Intelligence Accelerator can help. It leverages machine learning and big data analytics to bring together and transform your data, allowing you to build and deploy a machine learning model to easily identify factors that influence productivity and engagement
 
 ### Challenges
 

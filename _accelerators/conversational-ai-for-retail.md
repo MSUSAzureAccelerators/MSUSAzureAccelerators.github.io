@@ -21,11 +21,11 @@ last_updated: "2022-06-29T16:38:54Z"
 related: ""
 order: 2
 ---
-## About this Solution Accelerator
+## About this Accelerator
 
 Contact centers are facing growing pressure to adapt digital experiences for delivery of enhanced multi-modal content. They must also minimize additional costs and improve operational efficiency.
 
-The Modernized Contact Center Conversational AI Solution Accelerator combines Microsoft Azure AI Cognitive Services and machine learning into a user-friendly platform. This enables you to create content once and deploy it simultaneously to multiple channels with a single click.
+The Modernized Contact Center Conversational AI Accelerator combines Microsoft Azure AI Cognitive Services and machine learning into a user-friendly platform. This enables you to create content once and deploy it simultaneously to multiple channels with a single click.
 
 Conversational AI drives customer interactions with human-like responses, collecting data from every interaction in a feedback loop for optimization. Rich analytics are served to a dashboard for valuable business insights.
 

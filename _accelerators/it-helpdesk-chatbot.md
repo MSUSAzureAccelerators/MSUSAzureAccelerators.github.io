@@ -21,7 +21,7 @@ last_updated: "2022-06-30T16:37:35Z"
 related: ""
 order: 2
 ---
-## About This Solution Accelerator
+## About This Accelerator
 
 The IT Helpdesk Chatbot Solution is a conversational bot designed for fast and easy integration with existing environments to provide multi-channel, multi-lingual, 24-7 support for common IT queries and requests. The solution is built with the Microsoft Bot Framework and integrated with Azure Cognitive Services to leverage the best of Microsoft natural language processing and​ AI, and provides more than 300 pre-trained IT scenarios out of the box.
 

@@ -13,13 +13,13 @@ github_url: https://github.com/MSUSSolutionAccelerators/Manufacturing-Vision-Sol
 demo_url: 
 customer_overview_url: 
 customer_deck_url: 
-short_text: "More information coming soon on the Manufacturing Vision Solution Accelerator for ARM64 devices."
+short_text: "More information coming soon on the Manufacturing Vision Accelerator for ARM64 devices."
 hero_image: assets/images/Manufacturing_Vision_Hero.webp
 tags: "\"Business Accelerator\",\"Process Automation\",\"Manufacturing\",\"Data & AI\",\"Beta\""
 last_updated: "2022-06-29T16:31:06Z"
 related: ""
 order: 2
 ---
-## About this Solution Accelerator
+## About this Accelerator
 
-More information coming soon on the Manufacturing Vision Solution Accelerator for ARM64 devices
+More information coming soon on the Manufacturing Vision Accelerator for ARM64 devices

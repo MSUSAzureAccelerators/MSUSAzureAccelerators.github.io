@@ -7,7 +7,7 @@ github_url:
 demo_url: 
 short_text: Describe the solution accelerator in a sentence
 ---
-## About this Solution Accelerator
+## About this Accelerator
 
 ### Challenges
 

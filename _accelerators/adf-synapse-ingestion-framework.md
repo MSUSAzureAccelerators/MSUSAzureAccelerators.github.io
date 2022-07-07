@@ -20,6 +20,6 @@ last_updated: "2022-06-29T16:32:59Z"
 related: ""
 order: 2
 ---
-## About this Solution Accelerator
+## About this Accelerator
 
 Accelerate ingestion of data into Synapse with standard architecture pattern which can speed up migration with ease of development and also use the same for production deployment. 

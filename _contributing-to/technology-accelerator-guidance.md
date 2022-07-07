@@ -1,4 +1,4 @@
-# Guidelines for Technology Accelerators on MSUS Solution Accelerators (DRAFT)
+# Guidelines for Technology Accelerators on MSUS Accelerators (DRAFT)
 
 ## What is a Technology Accelerator?
 

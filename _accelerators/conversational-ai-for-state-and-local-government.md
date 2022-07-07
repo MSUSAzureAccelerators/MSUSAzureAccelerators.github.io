@@ -21,11 +21,11 @@ last_updated: "2022-06-29T16:38:50Z"
 related: ""
 order: 2
 ---
-## About this Solution Accelerator
+## About this Accelerator
 
 Government agencies are facing near-constant change in their information environments. This can be especially challenging when existing systems are already overwhelmed, provide limited solutions for ADA and multilingual needs, and require workers to spend valuable time manually routing calls and answering simple frequently asked questions.
 
-The Modernized Contact Center Conversational AI Solution Accelerator combines Microsoft Azure AI Cognitive Services and Machine Learning in a user-friendly platform that augments your existing system. It automates resident engagements and deploys content to multiple channels with a single click. 
+The Modernized Contact Center Conversational AI Accelerator combines Microsoft Azure AI Cognitive Services and Machine Learning in a user-friendly platform that augments your existing system. It automates resident engagements and deploys content to multiple channels with a single click. 
 
 Conversational AI drives communications with human-like responses to quickly answer or re-route inquiries. Rich analytics are served to a dashboard for valuable insights that can help you serve your public.
 

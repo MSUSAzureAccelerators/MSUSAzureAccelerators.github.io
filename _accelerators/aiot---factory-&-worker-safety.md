@@ -20,7 +20,7 @@ last_updated: "2022-06-29T16:31:17Z"
 related: ""
 order: 2
 ---
-## About this Solution Accelerator
+## About this Accelerator
 
 The Artificial Intelligence of Things (AIoT) is the combination of artificial intelligence (AI) technologies with the Internet of Things (IoT) infrastructure to achieve more efficient IoT operations, improve human-machine interactions and enhance data management and analytics. AI can be used to transform IoT data into useful information for improved decision-making processes, thus creating a foundation for newer technology such as IoT Data as a Service (IoTDaaS).
 

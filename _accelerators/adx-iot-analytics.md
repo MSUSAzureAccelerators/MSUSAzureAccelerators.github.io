@@ -20,6 +20,6 @@ last_updated: "2022-06-29T16:32:33Z"
 related: ""
 order: 2
 ---
-## About this Solution Accelerator
+## About this Accelerator
 
-​​More information coming soon about the ADX IoT Analytics Solution Accelerator
+​​More information coming soon about the ADX IoT Analytics Accelerator
