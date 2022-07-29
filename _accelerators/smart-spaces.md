@@ -2,29 +2,28 @@
 short_name: "Smart Spaces"
 name: "Smart Spaces"
 title: "Smart Spaces"
-accelerator_type: "Business Accelerator"
+accelerator_type: "Solution Accelerator"
 classification: "Sustainability"
-solution_area: "Apps & Infrastructure, BizApps, Data & AI"
+solution_area: "Data & AI,BizApps,Apps & Infrastructure"
 status: "Beta"
-primary_industry: "Horizontal"
-industries: "Education,Health & Life Sciences,Manufacturing"
-technology_stack: "IoT,IoT Hub,Azure App Service,Application Insights,Azure Functions,Logic Apps.Stream Analytics,Azure SQL"
+industries: "Manufacturing,FSI,HLS,SLG,EDU,Automotive,Energy,High Tech,Media and Entertainment,Professional Services,Retail,Horizontal"
+technology_stack: ""
 github_url: https://github.com/MSUSSolutionAccelerators/Smart-Spaces-Sustainability-Solution-Accelerator
 demo_url: 
 customer_overview_url: 
 customer_deck_url: 
-short_text: "Optimize HVAC systems quickly and proactively for efficient and cost-effective energy use."
+short_text: "Builds smart buildings that can prove to be a gold standard in reducing environment impact and cost by driving energy efficiency, green purchasing, waste diversion, and water efficiency."
 hero_image: assets/images/Smart_Spaces_Hero2.webp
-tags: "\"Business Accelerator\",\"Sustainability\",\"Horizontal\",\"Education\",\"Health & Life Sciences\",\"Manufacturing\",\"IoT\",\"IoT Hub\",\"Azure App Service\",\"Application Insights\",\"Azure Functions\",\"Logic Apps.Stream Analytics\",\"Azure SQL\",\"Apps & Infrastructure, BizApps, Data & AI\",\"Beta\""
-last_updated: "2022-06-29T16:37:58Z"
-related: ""
+tags: "\"Solution Accelerator\",\"Sustainability\",\"Manufacturing\",\"FSI\",\"HLS\",\"SLG\",\"EDU\",\"Automotive\",\"Energy\",\"High Tech\",\"Media and Entertainment\",\"Professional Services\",\"Retail\",\"Horizontal\",\"Data & AI\",\"BizApps\",\"Apps & Infrastructure\",\"Beta\""
+last_updated: "July 14, 2022 02:04:08 PM"
+related: "Carbon-Tracing-Basic-Flare.html,Carbon-Tracing-Wastewater.html,ADX-IoT-Analytics.html,AIoT---Predictive-Maintenance.html,AIoT---Inventory-Lifecycle-Management.html"
 order: 2
 ---
-## About this Accelerator
+## About this Solution Accelerator
 
 Facilities managers are under more pressure than ever to respond quickly and with greater precision to fluctuating demands on their HVAC systems. Energy costs are continuing to rise, flexible and hybrid work models are changing the way space is used, and new technologies like Internet of Things sensors are creating more opportunities to track and optimize energy use in real time.
 
-The Smart Spaces Accelerator helps facilities managers optimize HVAC systems quickly and proactively for efficient and cost-effective energy use. It integrates your building management system (BMS) with external weather data and uses predictive modeling to deliver real-time reports and actionable insights to a visual dashboard in desktop and mobile applications.
+The Smart Spaces Solution Accelerator helps facilities managers optimize HVAC systems quickly and proactively for efficient and cost-effective energy use. It integrates your building management system (BMS) with external weather data and uses predictive modeling to deliver real-time reports and actionable insights to a visual dashboard in desktop and mobile applications.
 
 ### Challenges
 
