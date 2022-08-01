@@ -19,7 +19,7 @@ last_updated: "July 11, 2022 04:57:31 PM"
 related: "Intelligent-Document-Processing.html,Knowledge-Mining.html,Knowledge-Mining---AML.html"
 order: 2
 ---
-## About this Solution Accelerator
+## About this Accelerator
 
 Handling Claims processing through an intelligent agent with cognitive skills to handle image, ID, and documents with goal to reduce claims processing time and manual effort in end-to-end claims processing for better customer experience
 

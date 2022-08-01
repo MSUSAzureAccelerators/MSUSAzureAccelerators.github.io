@@ -20,6 +20,6 @@ last_updated: "2022-07-08T16:00:36Z"
 related: ""
 order: 2
 ---
-## About this Solution Accelerator
+## About this Accelerator
 
 Reduce contact center costs and improve user experience.

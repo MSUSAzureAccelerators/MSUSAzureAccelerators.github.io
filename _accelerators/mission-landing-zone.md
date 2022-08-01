@@ -20,7 +20,7 @@ last_updated: "2022-08-01T19:15:41Z"
 related: ""
 order: 2
 ---
-** About this Technology Accelerator
+## About this Accelerator
 
 Mission Landing Zone is a highly opinionated Infrastructure-as-Code (IaC) template which IT oversight organizations can use to create a cloud management system to deploy Azure environments for their workloads and teams.
 

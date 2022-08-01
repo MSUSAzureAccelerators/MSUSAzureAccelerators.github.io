@@ -20,6 +20,6 @@ last_updated: "2022-07-06T21:24:24Z"
 related: ""
 order: 2
 ---
-## About this Technology Accelerator
+## About this Accelerator
 
 More detailed information coming soon about the Data Governance Demo Generator

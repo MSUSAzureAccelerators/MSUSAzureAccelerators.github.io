@@ -20,7 +20,7 @@ last_updated: "2022-06-13T20:13:23Z"
 related: ""
 order: 2
 ---
-## About this Technology Accelerator
+## About this Accelerator
 
 Intelligent Recommendations democratizes AI and machine learning recommendations through a codeless and powerful experience powered by the same technology that fuels Xbox, Microsoft 365, and Microsoft Azure. Businesses can now provide relevant discovery for customers with this new, innovative AI for personalization and recommendations.
 

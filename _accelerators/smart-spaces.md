@@ -19,7 +19,7 @@ last_updated: "July 14, 2022 02:04:08 PM"
 related: "Carbon-Tracing-Basic-Flare.html,Carbon-Tracing-Wastewater.html,ADX-IoT-Analytics.html,AIoT---Predictive-Maintenance.html,AIoT---Inventory-Lifecycle-Management.html"
 order: 2
 ---
-## About this Solution Accelerator
+## About this Accelerator
 
 Facilities managers are under more pressure than ever to respond quickly and with greater precision to fluctuating demands on their HVAC systems. Energy costs are continuing to rise, flexible and hybrid work models are changing the way space is used, and new technologies like Internet of Things sensors are creating more opportunities to track and optimize energy use in real time.
 
