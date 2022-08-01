@@ -8,14 +8,14 @@ solution_area: "Apps & Infrastructure"
 status: "Beta"
 primary_industry: "State & Local Government"
 industries: "Horizontal"
-technology_stack: "Bicep,Terraform,Azure Bastion Azure Virtual Machine,Azure Firewall,Azure Defender,Azure Policy,Azure Sentinel,Azure Storage,Log Analytics"
+technology_stack: "Bicep,Terraform,Azure Bastion,Azure Virtual Machine,Azure Firewall,Azure Defender,Azure Policy,Azure Sentinel,Azure Storage,Log Analytics"
 github_url: https://github.com/azure/missionlz
 demo_url: 
 customer_overview_url: 
 customer_deck_url: 
 short_text: "Create a cloud management system to deploy Azure environments."
 hero_image: assets/images/Mission-Landing-Zone-Hero.png
-tags: "\"Technology Accelerator\",\"Technology Accelerator\",\"State & Local Government\",\"Horizontal\",\"Bicep\",\"Terraform\",\"Azure Bastion Azure Virtual Machine\",\"Azure Firewall\",\"Azure Defender\",\"Azure Policy\",\"Azure Sentinel\",\"Azure Storage\",\"Log Analytics\",\"Apps & Infrastructure\",\"Beta\""
+tags: "\"Technology Accelerator\",\"Technology Accelerator\",\"State & Local Government\",\"Horizontal\",\"Bicep\",\"Terraform\",\"Azure Bastion\",\"Azure Virtual Machine\",\"Azure Firewall\",\"Azure Defender\",\"Azure Policy\",\"Azure Sentinel\",\"Azure Storage\",\"Log Analytics\",\"Apps & Infrastructure\",\"Beta\""
 last_updated: "2022-08-01T19:15:41Z"
 related: ""
 order: 2
