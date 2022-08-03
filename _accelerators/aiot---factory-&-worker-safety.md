@@ -16,7 +16,7 @@ customer_deck_url:
 short_text: "Azure Computer Vision infers product quality at the point of manufacture on the assembly line in real-time "
 hero_image: assets/images/AIOT_Worker_Safety_Hero.webp
 tags: "\"Business Accelerator\",\"Process Automation\",\"Manufacturing\",\"Automotive\",\"Azure Container Registery\",\"Azure DevOps\",\"Azure IoT Hub\",\"Azure KeyVault\",\"Azure Machine Learning\",\"Azure SQL\",\"Azure Storage\",\"Cognitive Services\",\"Docker\",\"Power BI\",\"Python\",\"Modern Workplace\",\"In Progress\""
-last_updated: "2022-08-03T15:43:12Z"
+last_updated: "2022-08-03T17:08:56Z"
 related: ""
 order: 2
 ---
@@ -28,13 +28,13 @@ The Artificial Intelligence of Things (AIoT) is the combination of artificial in
 
 * **Human condition and environment monitoring**
 * **PPE and emergency response**
-* **Unsafe operations** due to fatigue, sleep deprivation, speeding. 
+* **Unsafe operations** due to fatigue, sleep deprivation, speeding.
 
-> Workplace injuries cost U.S. companies $60b per year 
+> Workplace injuries cost U.S. companies $60b per year
 
 ### Benefits
 
-* **Decreased workplace incidents** The most important is keeping the safety of your workers.
+* **Decreased workplace incidents** The most important is keeping the safety of your workers.
 * **Increased employee satisfaction** Appeal of the workplace for the workforce
 * **Increased productivity and bottom line** Ensuring your workforce is healthy and safe
 * **Meet compliance standards and gain brand credibility** Injuries can also significantly hurt a brand’s credibility

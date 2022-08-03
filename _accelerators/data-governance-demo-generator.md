@@ -16,7 +16,7 @@ customer_deck_url:
 short_text: "Automate the deployment of a pre-populated Azure Purview demo environment."
 hero_image: assets/images/Purview_Demo_Generator_Hero.webp
 tags: "\"Technology Accelerator\",\"Process Automation\",\"Horizontal\",\"Purview\",\"Azure KeyVautl\",\"Azure SQL\",\"Synapse Analytics\",\"Azure Storage\",\"Apps & Infrastructure\",\"Beta\""
-last_updated: "2022-08-03T05:01:45Z"
+last_updated: "2022-08-03T16:49:56Z"
 related: ""
 order: 2
 ---

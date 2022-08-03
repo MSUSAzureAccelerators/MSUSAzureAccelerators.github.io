@@ -16,7 +16,7 @@ customer_deck_url:
 short_text: "Optimize HVAC systems quickly and proactively for efficient and cost-effective energy use."
 hero_image: assets/images/Smart_Spaces_Hero2.webp
 tags: "\"Business Accelerator\",\"Sustainability\",\"Horizontal\",\"Education\",\"Health & Life Sciences\",\"Manufacturing\",\"IoT\",\"IoT Hub\",\"Azure App Service\",\"Application Insights\",\"Azure Functions\",\"Logic Apps.Stream Analytics\",\"Azure SQL\",\"Apps & Infrastructure, BizApps, Data & AI\",\"Beta\""
-last_updated: "2022-08-03T05:01:56Z"
+last_updated: "2022-08-03T16:50:10Z"
 related: ""
 order: 2
 ---

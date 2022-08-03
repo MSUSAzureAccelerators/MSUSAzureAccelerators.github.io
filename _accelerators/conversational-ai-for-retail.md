@@ -16,7 +16,7 @@ customer_deck_url:
 short_text: "Collect data from every interaction in a feedback loop for optimization"
 hero_image: assets/images/Conversational_AI_Hero.webp
 tags: "\"Business Accelerator\",\"Personalization\",\"Retail & Consumer Goods\",\"Horizontal\",\"Azure Machine Learning\",\"Bot Framework\",\"Cognitive Services\",\"Data & AI\",\"Modern Workplace\",\"GA\""
-last_updated: "2022-08-03T15:44:29Z"
+last_updated: "2022-08-03T17:09:40Z"
 related: ""
 order: 2
 ---

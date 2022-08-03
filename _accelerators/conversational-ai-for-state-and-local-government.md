@@ -16,7 +16,7 @@ customer_deck_url:
 short_text: "Rich analytics served to a dashboard for valuable insights that can help you serve your public"
 hero_image: assets/images/Conversational_AI_SLG_Hero.webp
 tags: "\"Business Accelerator\",\"Personalization\",\"State & Local Government\",\"Horizontal\",\"Azure Machine Learning\",\"Bot Services\",\"Cognitive Search\",\"Cognitive Services\",\"Data & AI\",\"Modern Workplace\",\"GA\""
-last_updated: "2022-08-03T15:44:44Z"
+last_updated: "2022-08-03T17:09:51Z"
 related: ""
 order: 2
 ---

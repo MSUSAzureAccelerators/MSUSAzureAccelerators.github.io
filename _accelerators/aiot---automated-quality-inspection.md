@@ -16,7 +16,7 @@ customer_deck_url:
 short_text: "Azure Computer Vision infers product quality at the point of manufacture on the assembly line in real-time "
 hero_image: assets/images/AIOT_Automated_Quality_Inspection_Hero.webp
 tags: "\"Business Accelerator\",\"Process Automation\",\"Manufacturing\",\"Automotive\",\"Azure Container Registery\",\"Azure DevOps\",\"Azure IoT Hub\",\"Azure KeyVault\",\"Azure Machine Learning\",\"Azure SQL\",\"Azure Storage\",\"Cognitive Services\",\"Docker\",\"Power BI\",\"Python\",\"Data & AI\",\"In Progress\""
-last_updated: "2022-08-03T15:42:51Z"
+last_updated: "2022-08-03T17:08:41Z"
 related: ""
 order: 2
 ---

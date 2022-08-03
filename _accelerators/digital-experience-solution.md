@@ -16,7 +16,7 @@ customer_deck_url:
 short_text: "Move the entire live stream process offsite and into the cloud."
 hero_image: assets/images/Digital_Experience_Hero.webp
 tags: "\"Business Accelerator\",\"Campaign Management\",\"Media & Entertainment\",\"BizApps, Modern Workplace\",\"In Progress\""
-last_updated: "2022-08-03T15:45:13Z"
+last_updated: "2022-08-03T17:10:20Z"
 related: ""
 order: 2
 ---
