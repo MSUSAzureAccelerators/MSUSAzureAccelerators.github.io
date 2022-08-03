@@ -15,17 +15,16 @@ customer_overview_url:
 customer_deck_url: 
 short_text: "Rich analytics served to a dashboard for valuable insights that can help you serve your public"
 hero_image: assets/images/Conversational_AI_SLG_Hero.webp
-partner_image: assets/images/logo/zammo-logo.png
 tags: "\"Business Accelerator\",\"Personalization\",\"State & Local Government\",\"Horizontal\",\"Azure Machine Learning\",\"Bot Services\",\"Cognitive Search\",\"Cognitive Services\",\"Data & AI\",\"Modern Workplace\",\"GA\""
-last_updated: "2022-06-29T16:38:50Z"
+last_updated: "2022-08-03T15:44:44Z"
 related: ""
 order: 2
 ---
-## About this Accelerator
+## About this Solution Accelerator
 
 Government agencies are facing near-constant change in their information environments. This can be especially challenging when existing systems are already overwhelmed, provide limited solutions for ADA and multilingual needs, and require workers to spend valuable time manually routing calls and answering simple frequently asked questions.
 
-The Modernized Contact Center Conversational AI Accelerator combines Microsoft Azure AI Cognitive Services and Machine Learning in a user-friendly platform that augments your existing system. It automates resident engagements and deploys content to multiple channels with a single click. 
+The Modernized Contact Center Conversational AI Solution Accelerator combines Microsoft Azure AI Cognitive Services and Machine Learning in a user-friendly platform that augments your existing system. It automates resident engagements and deploys content to multiple channels with a single click. 
 
 Conversational AI drives communications with human-like responses to quickly answer or re-route inquiries. Rich analytics are served to a dashboard for valuable insights that can help you serve your public.
 

@@ -2,24 +2,25 @@
 short_name: "Smart Spaces"
 name: "Smart Spaces"
 title: "Smart Spaces"
-accelerator_type: "Solution Accelerator"
+accelerator_type: "Business Accelerator"
 classification: "Sustainability"
-solution_area: "Data & AI,BizApps,Apps & Infrastructure"
+solution_area: "Apps & Infrastructure, BizApps, Data & AI"
 status: "Beta"
-industries: "Manufacturing,FSI,HLS,SLG,EDU,Automotive,Energy,High Tech,Media and Entertainment,Professional Services,Retail,Horizontal"
-technology_stack: ""
+primary_industry: "Horizontal"
+industries: "Education,Health & Life Sciences,Manufacturing"
+technology_stack: "IoT,IoT Hub,Azure App Service,Application Insights,Azure Functions,Logic Apps.Stream Analytics,Azure SQL"
 github_url: https://github.com/MSUSSolutionAccelerators/Smart-Spaces-Sustainability-Solution-Accelerator
 demo_url: 
 customer_overview_url: 
 customer_deck_url: 
-short_text: "Builds smart buildings that can prove to be a gold standard in reducing environment impact and cost by driving energy efficiency, green purchasing, waste diversion, and water efficiency."
+short_text: "Optimize HVAC systems quickly and proactively for efficient and cost-effective energy use."
 hero_image: assets/images/Smart_Spaces_Hero2.webp
-tags: "\"Solution Accelerator\",\"Sustainability\",\"Manufacturing\",\"FSI\",\"HLS\",\"SLG\",\"EDU\",\"Automotive\",\"Energy\",\"High Tech\",\"Media and Entertainment\",\"Professional Services\",\"Retail\",\"Horizontal\",\"Data & AI\",\"BizApps\",\"Apps & Infrastructure\",\"Beta\""
-last_updated: "July 14, 2022 02:04:08 PM"
-related: "Carbon-Tracing-Basic-Flare.html,Carbon-Tracing-Wastewater.html,ADX-IoT-Analytics.html,AIoT---Predictive-Maintenance.html,AIoT---Inventory-Lifecycle-Management.html"
+tags: "\"Business Accelerator\",\"Sustainability\",\"Horizontal\",\"Education\",\"Health & Life Sciences\",\"Manufacturing\",\"IoT\",\"IoT Hub\",\"Azure App Service\",\"Application Insights\",\"Azure Functions\",\"Logic Apps.Stream Analytics\",\"Azure SQL\",\"Apps & Infrastructure, BizApps, Data & AI\",\"Beta\""
+last_updated: "2022-08-03T05:01:56Z"
+related: ""
 order: 2
 ---
-## About this Accelerator
+## About this Solution Accelerator
 
 Facilities managers are under more pressure than ever to respond quickly and with greater precision to fluctuating demands on their HVAC systems. Energy costs are continuing to rise, flexible and hybrid work models are changing the way space is used, and new technologies like Internet of Things sensors are creating more opportunities to track and optimize energy use in real time.
 

@@ -15,17 +15,16 @@ customer_overview_url:
 customer_deck_url: 
 short_text: "Uncover and leverage the key drivers of productivity and success for product development teams."
 hero_image: assets/images/WP_Intelligence_Tech_Hero.webp
-partner_image: assets/images/logo/Microsoft-Office-365-Logo.png
 tags: "\"Business Accelerator\",\"Workplace Intelligence\",\"Horizontal\",\"Automotive\",\"Education\",\"Energy\",\"Financial Services\",\"High Tech\",\"Health & Life Sciences\",\"Manufacturing\",\"Media & Entertainment\",\"Professional Services\",\"Retail & Consumer Goods\",\"State & Local Government\",\"Workplace Analytics\",\"Viva\",\"Azure DevOps\",\"Synapse\",\"Power BI\",\"Apps & Infrastructure, BizApps, Data & AI, Modern Workplace\",\"In Progress\""
-last_updated: "2022-06-29T16:38:59Z"
+last_updated: "2022-08-03T15:47:43Z"
 related: ""
 order: 2
 ---
-## About this Accelerator
+## About this Solution Accelerator
 
 Businesses are using the power of data to transform their organization's systems and processes, but many overlook that impact of applying the same principles to its workforce.
 
-The Workplace Intelligence Accelerator can help. It leverages machine learning and big data analytics to bring together and transform your data, allowing you to build and deploy a machine learning model to easily identify factors that influence productivity and engagement
+The Workplace Intelligence Solution Accelerator can help. It leverages machine learning and big data analytics to bring together and transform your data, allowing you to build and deploy a machine learning model to easily identify factors that influence productivity and engagement
 
 ### Challenges
 

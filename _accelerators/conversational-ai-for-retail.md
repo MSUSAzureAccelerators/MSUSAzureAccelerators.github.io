@@ -15,17 +15,16 @@ customer_overview_url:
 customer_deck_url: 
 short_text: "Collect data from every interaction in a feedback loop for optimization"
 hero_image: assets/images/Conversational_AI_Hero.webp
-partner_image: assets/images/logo/zammo-logo.png
 tags: "\"Business Accelerator\",\"Personalization\",\"Retail & Consumer Goods\",\"Horizontal\",\"Azure Machine Learning\",\"Bot Framework\",\"Cognitive Services\",\"Data & AI\",\"Modern Workplace\",\"GA\""
-last_updated: "2022-06-29T16:38:54Z"
+last_updated: "2022-08-03T15:44:29Z"
 related: ""
 order: 2
 ---
-## About this Accelerator
+## About this Solution Accelerator
 
 Contact centers are facing growing pressure to adapt digital experiences for delivery of enhanced multi-modal content. They must also minimize additional costs and improve operational efficiency.
 
-The Modernized Contact Center Conversational AI Accelerator combines Microsoft Azure AI Cognitive Services and machine learning into a user-friendly platform. This enables you to create content once and deploy it simultaneously to multiple channels with a single click.
+The Modernized Contact Center Conversational AI Solution Accelerator combines Microsoft Azure AI Cognitive Services and machine learning into a user-friendly platform. This enables you to create content once and deploy it simultaneously to multiple channels with a single click.
 
 Conversational AI drives customer interactions with human-like responses, collecting data from every interaction in a feedback loop for optimization. Rich analytics are served to a dashboard for valuable business insights.
 

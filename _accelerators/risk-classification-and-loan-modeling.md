@@ -16,15 +16,15 @@ customer_deck_url:
 short_text: "Automate processes to ensure compliance with SBA guidelines"
 hero_image: assets/images/Risk_Loan_Hero.webp
 tags: "\"Business Accelerator\",\"Financial\",\"Financial Services\",\"Azure Data Lake Storage\",\"Synapse Analytics\",\"BizApps\",\"In Progress\""
-last_updated: "2022-06-29T16:38:47Z"
+last_updated: "2022-08-03T15:46:53Z"
 related: ""
 order: 2
 ---
-## About the Accelerator
+## About the Solution Accelerator
 
 Between the COVID-19 economic recovery and low-interest rates, more small businesses want to borrow through the Small Business Administration (SBA) network than ever before. With a high volume of loan applications, SBA partners face challenges using the data they collect to accurately and efficiently evaluate risk and model loans. This causes application backlogs delaying loan distribution and leaving lenders vulnerable to changes in borrowers’ risk profiles.
 
-The Risk Classification and Loan Modeling Accelerator uses predictive analytics and machine learning to estimate the optimal loan size that the SBA will approve for a given applicant. This enables lending partners to process loan applications and make data-driven lending decisions quickly.
+The Risk Classification and Loan Modeling Solution Accelerator uses predictive analytics and machine learning to estimate the optimal loan size that the SBA will approve for a given applicant. This enables lending partners to process loan applications and make data-driven lending decisions quickly.
 
 ### Challenges
 

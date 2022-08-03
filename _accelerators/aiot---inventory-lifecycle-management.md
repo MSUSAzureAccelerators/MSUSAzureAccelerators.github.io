@@ -16,10 +16,10 @@ customer_deck_url:
 short_text: "Drive outcomes related to building more agile factories, creating more resilient supply chains, and transforming workforces."
 hero_image: assets/images/AIOT_Inventory_Lifecycle_Management_Hero.webp
 tags: "\"Technology Accelerator\",\"Process Automation\",\"Manufacturing\",\"Automotive\",\"Azure Container Registry\",\"Azure DevOps\",\"Azure IoT Hub\",\"Azure Machine Learning\",\"Azure SQL\",\"Azure Storage\",\"Cognitive Services\",\"Docker\",\"PowerBI\",\"Python\",\"Data & AI\",\"Beta\""
-last_updated: "2022-07-06T21:24:11Z"
+last_updated: "2022-08-03T05:01:35Z"
 related: ""
 order: 2
 ---
-## About this Accelerator
+## About this Solution Accelerator
 
 The Artificial Intelligence of Things (AIoT) is the combination of artificial intelligence (AI) technologies with the Internet of Things (IoT) infrastructure to achieve more efficient IoT operations, improve human-machine interactions and enhance data management and analytics. AI can be used to transform IoT data into useful information for improved decision-making processes, thus creating a foundation for newer technology such as IoT Data as a Service (IoTDaaS).

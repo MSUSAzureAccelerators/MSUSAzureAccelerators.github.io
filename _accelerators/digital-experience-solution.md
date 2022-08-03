@@ -16,11 +16,11 @@ customer_deck_url:
 short_text: "Move the entire live stream process offsite and into the cloud."
 hero_image: assets/images/Digital_Experience_Hero.webp
 tags: "\"Business Accelerator\",\"Campaign Management\",\"Media & Entertainment\",\"BizApps, Modern Workplace\",\"In Progress\""
-last_updated: "2022-06-29T16:38:42Z"
+last_updated: "2022-08-03T15:45:13Z"
 related: ""
 order: 2
 ---
-## About this Accelerator
+## About this Solution Accelerator
 
 Delivering compelling digital experiences has become a key marketing strategy and a natural extension of live events. Complexity and costs are a barrier to entry for many companies. Additionally, without real-time data and audience insights for optimizing content, companies can struggle to grow brand affinity and achieve real ROI. ​
 
@@ -45,4 +45,4 @@ The Digital Experience Solution brings together proven technology from partners 
 * **Create monetization opportunities** and build your customer funnel with personalized ad experiences for users. 
 * **Gain valuable, timely audience** insights to increase customer engagement and retention.​
 
-![Digital Experience Accelerator Architecture](../assets/images/Digital%20Experience%20Solution%20Architecture.webp)
+![Digital Experience Solution Accelerator Architecture](../assets/images/Digital%20Experience%20Solution%20Architecture.webp)
