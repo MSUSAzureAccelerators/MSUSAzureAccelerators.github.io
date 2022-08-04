@@ -32,7 +32,7 @@ PostCSS takes a CSS file and provides an API to analyze and modify its rules (by
 
 ### Autoprefixer
 
-Autoprefixer is a PostCSS plugin which parses your CSS and adds vendor prefixes
+Autoprefixer is a PostCSS plugin which parses your CSS and adds vendor prefixes.
 
 ### shuffle.js
 
