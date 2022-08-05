@@ -3,7 +3,6 @@
 sitemap: https://msussolutionaccelerators.github.io/sitemap.xml
 sitemap: https://msussolutionaccelerators.github.io/sitemap_rss.xml
 sitemap: https://msussolutionaccelerators.github.io/sitemap_atom.xml
-sitemap: https://msussolutionaccelerators.github.io/urllist.txt
 
 #      _n____n__
 #     /         \---||--<
