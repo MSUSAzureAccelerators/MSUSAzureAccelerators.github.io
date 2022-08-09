@@ -9,7 +9,7 @@ status: "Beta"
 primary_industry: "Horizontal"
 industries: ""
 technology_stack: "Bot Framework,Cognitive Services,Azure Machine Learning"
-github_url: 
+github_url: https://github.com/MSUSSolutionAccelerators/IT-Helpdesk-Bot-Solution-Accelerator
 demo_url: 
 customer_overview_url: 
 customer_deck_url: 
@@ -17,13 +17,13 @@ short_text: "Multiply the productivity of your employees and cut down your IT su
 hero_image: assets/images/IT_Helpdesk_Bot_Hero.webp
 partner_image: assets/images/logo/acuvate_logo.png
 tags: "\"Business Accelerator\",\"Process Automation\",\"Horizontal\",\"Bot Framework\",\"Cognitive Services\",\"Azure Machine Learning\",\"BizApps\",\"Data & AI\",\"Beta\""
-last_updated: "2022-06-30T16:37:35Z"
+last_updated: "2022-08-09T17:22:21Z"
 related: ""
 order: 2
 ---
 ## About This Accelerator
 
-The IT Helpdesk Chatbot Solution is a conversational bot designed for fast and easy integration with existing environments to provide multi-channel, multi-lingual, 24-7 support for common IT queries and requests. The solution is built with the Microsoft Bot Framework and integrated with Azure Cognitive Services to leverage the best of Microsoft natural language processing and​ AI, and provides more than 300 pre-trained IT scenarios out of the box.
+The IT Helpdesk Chatbot Solution is a conversational bot designed for fast and easy integration with existing environments to provide multi-channel, multi-lingual, 24-7 support for common IT queries and requests. The solution is built with the Microsoft Bot Framework and integrated with Azure Cognitive Services to leverage the best of Microsoft natural language processing and AI, and provides more than 300 pre-trained IT scenarios out of the box.
 
 ### Key Challenges
 

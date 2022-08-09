@@ -16,10 +16,10 @@ customer_deck_url:
 short_text: "More information coming soon on the Manufacturing Vision Solution Accelerator for ARM64 devices."
 hero_image: assets/images/Manufacturing_Vision_Hero.webp
 tags: "\"Business Accelerator\",\"Process Automation\",\"Manufacturing\",\"Data & AI\",\"Beta\""
-last_updated: "2022-08-03T16:50:03Z"
+last_updated: "2022-08-09T17:22:04Z"
 related: ""
 order: 2
 ---
-## About this Solution Accelerator
+## About this Accelerator
 
 More information coming soon on the Manufacturing Vision Solution Accelerator for ARM64 devices

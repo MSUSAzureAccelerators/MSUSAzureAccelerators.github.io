@@ -16,11 +16,11 @@ customer_deck_url:
 short_text: "Rich analytics served to a dashboard for valuable insights that can help you serve your public"
 hero_image: assets/images/Conversational_AI_SLG_Hero.webp
 tags: "\"Business Accelerator\",\"Personalization\",\"State & Local Government\",\"Horizontal\",\"Azure Machine Learning\",\"Bot Services\",\"Cognitive Search\",\"Cognitive Services\",\"Data & AI\",\"Modern Workplace\",\"GA\""
-last_updated: "2022-08-04T14:18:27Z"
+last_updated: "2022-08-09T17:44:14Z"
 related: ""
 order: 2
 ---
-## About this Solution Accelerator
+## About this Accelerator
 
 Government agencies are facing near-constant change in their information environments. This can be especially challenging when existing systems are already overwhelmed, provide limited solutions for ADA and multilingual needs, and require workers to spend valuable time manually routing calls and answering simple frequently asked questions.
 
@@ -45,4 +45,4 @@ Conversational AI drives communications with human-like responses to quickly ans
 * Implement efficient and effective call routing strategies
 * Establish a single, trusted point of 24/7 contact for the public
 * Boost workforce productivity by addressing routine inquiries
-* Meet the public’s expectations for digital interactions
+* Meet the public's expectations for digital interactions

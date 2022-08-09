@@ -16,11 +16,11 @@ customer_deck_url:
 short_text: "Support medical imaging and other use cases in areas like data and model management, deployment, experiment tracking and explainability"
 hero_image: assets/images/med-imaging.webp
 tags: "\"Business Accelerator\",\"Healthcare\",\"Health & Life Sciences\",\"Azure Machine Learning\",\"Data & AI\",\"Modern Workplace\",\"Beta\""
-last_updated: "2022-08-03T16:50:04Z"
+last_updated: "2022-08-09T17:22:01Z"
 related: ""
 order: 2
 ---
-## About this Solution Accelerator
+## About this Accelerator
 
 Welcome to our medical imaging demo repository! The content includes several Python notebooks that cover medical imaging use cases based on classification, object detection and instance segmentation.
 

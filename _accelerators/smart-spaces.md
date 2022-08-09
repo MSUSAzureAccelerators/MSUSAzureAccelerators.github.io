@@ -4,7 +4,7 @@ name: "Smart Spaces"
 title: "Smart Spaces"
 accelerator_type: "Business Accelerator"
 classification: "Sustainability"
-solution_area: "Apps & Infrastructure, BizApps, Data & AI"
+solution_area: "Apps & Infrastructure,BizApps,Data & AI"
 status: "Beta"
 primary_industry: "Horizontal"
 industries: "Education,Health & Life Sciences,Manufacturing"
@@ -15,12 +15,12 @@ customer_overview_url:
 customer_deck_url: 
 short_text: "Optimize HVAC systems quickly and proactively for efficient and cost-effective energy use."
 hero_image: assets/images/Smart_Spaces_Hero2.webp
-tags: "\"Business Accelerator\",\"Sustainability\",\"Horizontal\",\"Education\",\"Health & Life Sciences\",\"Manufacturing\",\"IoT\",\"IoT Hub\",\"Azure App Service\",\"Application Insights\",\"Azure Functions\",\"Logic Apps.Stream Analytics\",\"Azure SQL\",\"Apps & Infrastructure, BizApps, Data & AI\",\"Beta\""
-last_updated: "2022-08-03T16:50:10Z"
+tags: "\"Business Accelerator\",\"Sustainability\",\"Horizontal\",\"Education\",\"Health & Life Sciences\",\"Manufacturing\",\"IoT\",\"IoT Hub\",\"Azure App Service\",\"Application Insights\",\"Azure Functions\",\"Logic Apps.Stream Analytics\",\"Azure SQL\",\"Apps & Infrastructure\",\"BizApps\",\"Data & AI\",\"Beta\""
+last_updated: "2022-08-09T17:21:09Z"
 related: ""
 order: 2
 ---
-## About this Solution Accelerator
+## About this Accelerator
 
 Facilities managers are under more pressure than ever to respond quickly and with greater precision to fluctuating demands on their HVAC systems. Energy costs are continuing to rise, flexible and hybrid work models are changing the way space is used, and new technologies like Internet of Things sensors are creating more opportunities to track and optimize energy use in real time.
 

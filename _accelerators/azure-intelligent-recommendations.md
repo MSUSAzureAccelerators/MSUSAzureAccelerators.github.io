@@ -6,7 +6,7 @@ accelerator_type: "Technology Accelerator"
 classification: "Technology Accelerator"
 solution_area: "BizApps,Data & AI"
 status: "GA"
-primary_industry: "Tech Plug-In"
+primary_industry: "Horizontal"
 industries: "Automotive,Education,Energy,Financial Services,High Tech,Health & Life Sciences,Manufacturing,Media & Entertainment,Professional Services,Retail & Consumer Goods,State & Local Government"
 technology_stack: "Azure Data Lake Storage,Synapse,Power BI,Azure Intelligent Recommendation"
 github_url: 
@@ -15,12 +15,12 @@ customer_overview_url:
 customer_deck_url: 
 short_text: "Provide personalized product recommendations and telemetry insights."
 hero_image: assets/images/Intelligent_Recommendations_Hero.webp
-tags: "\"Technology Accelerator\",\"Technology Accelerator\",\"Tech Plug-In\",\"Automotive\",\"Education\",\"Energy\",\"Financial Services\",\"High Tech\",\"Health & Life Sciences\",\"Manufacturing\",\"Media & Entertainment\",\"Professional Services\",\"Retail & Consumer Goods\",\"State & Local Government\",\"Azure Data Lake Storage\",\"Synapse\",\"Power BI\",\"Azure Intelligent Recommendation\",\"BizApps\",\"Data & AI\",\"GA\""
-last_updated: "2022-08-04T13:56:42Z"
+tags: "\"Technology Accelerator\",\"Technology Accelerator\",\"Horizontal\",\"Automotive\",\"Education\",\"Energy\",\"Financial Services\",\"High Tech\",\"Health & Life Sciences\",\"Manufacturing\",\"Media & Entertainment\",\"Professional Services\",\"Retail & Consumer Goods\",\"State & Local Government\",\"Azure Data Lake Storage\",\"Synapse\",\"Power BI\",\"Azure Intelligent Recommendation\",\"BizApps\",\"Data & AI\",\"GA\""
+last_updated: "2022-08-09T17:45:04Z"
 related: ""
 order: 2
 ---
-## About this Technology Accelerator
+## About this Accelerator
 
 Intelligent Recommendations democratizes AI and machine learning recommendations through a codeless and powerful experience powered by the same technology that fuels Xbox, Microsoft 365, and Microsoft Azure. Businesses can now provide relevant discovery for customers with this new, innovative AI for personalization and recommendations.
 
@@ -30,9 +30,9 @@ Using modern machine-learning algorithms, Intelligent Recommendations provides p
 * Create upsell and cross-sell opportunities.
 * Improve shoppers' experiences and product usability.
 
-### Capabilities
+###Capabilities
 
-Intelligent Recommendations helps companies drive better engagement, conversion, revenue, and customer satisfaction. Intelligent Recommendations is a general purpose service that offers one-of-a-kind, patented capabilities that more effectively drive desired outcomes out of the box such as “shop similar looks,” “shop by description,” “real time,” “session based”, Item based recommendations that can combine User interactions and Item Metadata. Businesses can promote and personalize any content type, such as sellable products, consumable media, documents, videos, and more.
+Intelligent Recommendations helps companies drive better engagement, conversion, revenue, and customer satisfaction. Intelligent Recommendations is a general purpose service that offers one-of-a-kind, patented capabilities that more effectively drive desired outcomes out of the box such as "shop similar looks", "shop by description", "real time", "session based", Item based recommendations that can combine User interactions and Item Metadata. Businesses can promote and personalize any content type, such as sellable products, consumable media, documents, videos, and more.
 
 Intelligent Recommendations provides the following capabilities for businesses:
 
@@ -60,11 +60,11 @@ These interactions can have other metadata, such as the time of transaction, amo
 The following table describes the entire catalog of automated product recommendations available for you to integrate into your existing store experiences. Recommendations can be further distinguished by the scenario. For these cases, certain lists will have a selectable algorithm that diversifies the results returned.
 
 **Scenario** | **Description** | **Example**
-[New](https://docs.microsoft.com/en-us/industry/retail/intelligent-recommendations/trending-lists#new-and-rising-releases-trending) | Returns a list of the newest products that have been recently assorted to channels and catalogs. | ![New Scenario](../assets/images/IR_new.png)
-[Popular](https://docs.microsoft.com/en-us/industry/retail/intelligent-recommendations/trending-lists#popular-products) | Returns a list of products that are ranked by the highest number of sales. | ![Popular Scenario](../assets/images/IR_popular.png)
+[New](https://docs.microsoft.com/en-us/industry/retail/intelligent-recommendations/trending-lists%23new-and-rising-releases-trending) | Returns a list of the newest products that have been recently assorted to channels and catalogs. | ![New Scenario](../assets/images/IR_new.png)
+[Popular](https://docs.microsoft.com/en-us/industry/retail/intelligent-recommendations/trending-lists%23popular-products) | Returns a list of products that are ranked by the highest number of sales. | ![Popular Scenario](../assets/images/IR_popular.png)
 [Trending](https://docs.microsoft.com/en-us/industry/retail/intelligent-recommendations/trending-lists) | Returns a list of the highest performing products for a given period, ranked by highest number of sales. | ![Trending Scenario](../assets/images/IR_trending.png)
-[Frequently Bought Together](https://docs.microsoft.com/en-us/industry/retail/intelligent-recommendations/contextual-lists#frequently-bought-together-cart) | Returns a list of products that are commonly purchased together (complementary) with the contents of the consumer's current cart. | ![FBT Scenario](../assets/images/IR_fbt.png)
-[People Also Like](https://docs.microsoft.com/en-us/industry/retail/intelligent-recommendations/contextual-lists#people-also-like) | Returns products for a given seed product based on consumer purchase patterns. Can be changed based on consumer action (purchase, views). | ![PAL Scenario](../assets/images/IR_pal.png)
+[Frequently Bought Together](https://docs.microsoft.com/en-us/industry/retail/intelligent-recommendations/contextual-lists%23frequently-bought-together-cart) | Returns a list of products that are commonly purchased together (complementary) with the contents of the consumer's current cart. | ![FBT Scenario](../assets/images/IR_fbt.png)
+[People Also Like](https://docs.microsoft.com/en-us/industry/retail/intelligent-recommendations/contextual-lists%23people-also-like) | Returns products for a given seed product based on consumer purchase patterns. Can be changed based on consumer action (purchase, views). | ![PAL Scenario](../assets/images/IR_pal.png)
 [Picks For You](https://docs.microsoft.com/en-us/industry/retail/intelligent-recommendations/personalized-recommendations) | Returns a personalized list of products based on purchase patterns of the signed-in user. For an anonymous guest user, this list will be collapsed. | ![Picks Scenario](../assets/images/IR_picks.png)
-[Shop Similar Looks](https://docs.microsoft.com/en-us/industry/retail/intelligent-recommendations/contextual-lists#visually-similar-recommendations) | Returns a list of products with visually similar images. | ![SSL Scenario](../assets/images/IR_ver.png)
-[Shop Similar By Description](https://docs.microsoft.com/en-us/industry/retail/intelligent-recommendations/contextual-lists#textually-similar-recommendations) | Returns a list of products with textually similar content descriptions. | ![SSBD Scenario](../assets/images/IR_ter.png)
+[Shop Similar Looks](https://docs.microsoft.com/en-us/industry/retail/intelligent-recommendations/contextual-lists%23visually-similar-recommendations) | Returns a list of products with visually similar images. | ![SSL Scenario](../assets/images/IR_ver.png)
+[Shop Similar By Description](https://docs.microsoft.com/en-us/industry/retail/intelligent-recommendations/contextual-lists%23textually-similar-recommendations) | Returns a list of products with textually similar content descriptions. | ![SSBD Scenario](../assets/images/IR_ter.png)

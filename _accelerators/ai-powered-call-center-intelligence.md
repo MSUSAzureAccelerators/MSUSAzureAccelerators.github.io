@@ -16,11 +16,11 @@ customer_deck_url:
 short_text: "Automates call transcriptions for real-time and previously recorded calls."
 hero_image: assets/images/AI_Call_Center_Hero.webp
 tags: "\"Business Accelerator\",\"Personalization\",\"Financial Services\",\"Horizontal\",\"Cognitive Services\",\"Azure Machine Learning\",\"Power BI\",\"Azure Speech Services\",\"Azure SQL\",\"Azure Storage\",\"Data & AI\",\"In Progress\""
-last_updated: "2022-08-03T17:08:19Z"
+last_updated: "2022-08-09T17:24:59Z"
 related: ""
 order: 2
 ---
-## About this Solution Accelerator
+## About this Accelerator
 
 At many call centers, wait times, re-routing, and the human-to-human interactions between agents and customers can make or break the customer experience. Without modern tools like AI and advanced automation, many organizations find it difficult to maintain high customer service standards and improve call center employee efficiency.
 
@@ -42,4 +42,4 @@ The AI-Powered Call Center Intelligence Solution Accelerator automates call tran
 * Increase efficiency by reducing average call duration, limiting re-routing, and eliminating customer repetition.
 * Create better customer experiences for greater customer satisfaction and retention.
 * Generate a wealth of customer insights to inform training and sales processes.
-* Ensure compliance and PII protection with leading security and flexible data warehousing.
+* Ensure compliance and PII protection with leading security and flexible data warehousing

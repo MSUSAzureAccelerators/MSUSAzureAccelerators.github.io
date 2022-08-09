@@ -16,11 +16,11 @@ customer_deck_url:
 short_text: "Collect data from every interaction in a feedback loop for optimization"
 hero_image: assets/images/Conversational_AI_Hero.webp
 tags: "\"Business Accelerator\",\"Personalization\",\"Retail & Consumer Goods\",\"Horizontal\",\"Azure Machine Learning\",\"Bot Framework\",\"Cognitive Services\",\"Data & AI\",\"Modern Workplace\",\"GA\""
-last_updated: "2022-08-04T14:18:19Z"
+last_updated: "2022-08-09T17:44:23Z"
 related: ""
 order: 2
 ---
-## About this Solution Accelerator
+## About this Accelerator
 
 Contact centers are facing growing pressure to adapt digital experiences for delivery of enhanced multi-modal content. They must also minimize additional costs and improve operational efficiency.
 

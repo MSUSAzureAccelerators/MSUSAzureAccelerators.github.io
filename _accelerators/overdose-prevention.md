@@ -16,7 +16,7 @@ customer_deck_url:
 short_text: "Provide predictive analytics for different prescription and distribution services"
 hero_image: assets/images/Overdose_Prevention_Hero.webp
 tags: "\"Business Accelerator\",\"Healthcare\",\"Horizontal\",\"Health & Life Sciences\",\"State & Local Government\",\"IoT\",\"IoT Hub\",\"Synapse Analytics\",\"Data & AI\",\"Beta\""
-last_updated: "2022-08-01T20:02:34Z"
+last_updated: "2022-08-09T17:21:24Z"
 related: ""
 order: 2
 ---

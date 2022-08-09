@@ -4,7 +4,7 @@ name: "Workplace Intelligence for Human Resources"
 title: "Workplace Intelligence for Human Resources"
 accelerator_type: "Business Accelerator"
 classification: "Workplace Intelligence"
-solution_area: "Apps & Infrastructure, BizApps, Data & AI, Modern Workplace"
+solution_area: "Apps & Infrastructure,BizApps,Data & AI,Modern Workplace"
 status: "In Progress"
 primary_industry: "Horizontal"
 industries: "Automotive,Education,Energy,Financial Services,High Tech,Health & Life Sciences,Manufacturing,Media & Entertainment,Professional Services,Retail & Consumer Goods,State & Local Government"
@@ -15,12 +15,12 @@ customer_overview_url:
 customer_deck_url: 
 short_text: "Easily identify factors that influence productivity and engagement."
 hero_image: assets/images/WP_Intelligence_HR_Hero.webp
-tags: "\"Business Accelerator\",\"Workplace Intelligence\",\"Horizontal\",\"Automotive\",\"Education\",\"Energy\",\"Financial Services\",\"High Tech\",\"Health & Life Sciences\",\"Manufacturing\",\"Media & Entertainment\",\"Professional Services\",\"Retail & Consumer Goods\",\"State & Local Government\",\"Workplace Analytics\",\"Viva\",\"Azure DevOps\",\"Synapse\",\"Power BI\",\"Apps & Infrastructure, BizApps, Data & AI, Modern Workplace\",\"In Progress\""
-last_updated: "2022-08-03T17:11:58Z"
+tags: "\"Business Accelerator\",\"Workplace Intelligence\",\"Horizontal\",\"Automotive\",\"Education\",\"Energy\",\"Financial Services\",\"High Tech\",\"Health & Life Sciences\",\"Manufacturing\",\"Media & Entertainment\",\"Professional Services\",\"Retail & Consumer Goods\",\"State & Local Government\",\"Workplace Analytics\",\"Viva\",\"Azure DevOps\",\"Synapse\",\"Power BI\",\"Apps & Infrastructure\",\"BizApps\",\"Data & AI\",\"Modern Workplace\",\"In Progress\""
+last_updated: "2022-08-09T17:21:00Z"
 related: ""
 order: 2
 ---
-## About this Solution Accelerator
+## About this Accelerator
 
 Businesses are using the power of data to transform their organization's systems and processes, but many overlook that impact of applying the same principles to its workforce.
 
