@@ -16,7 +16,7 @@ customer_deck_url:
 short_text: "Transform how people, devices, and data interact in daily life and work."
 hero_image: assets/images/AIOT_Hero.webp
 tags: "\"Technology Accelerator\",\"Process Automation\",\"Manufacturing\",\"Automotive\",\"Retail & Consumer Goods\",\"State & Local Government\",\"IoT\",\"IoT Hub\",\"Synapse Analytics\",\"Azure Data Lake Storage\",\"Azure Machine Learning\",\"Data & AI\",\"In Progress\""
-last_updated: "2022-08-09T17:26:19Z"
+last_updated: "2022-08-10T14:58:51Z"
 related: ""
 order: 2
 ---

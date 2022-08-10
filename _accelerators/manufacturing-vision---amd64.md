@@ -16,7 +16,7 @@ customer_deck_url:
 short_text: "Information coming soon about the Data Governance Solution Accelerator"
 hero_image: assets/images/Manufacturing_Vision_Hero.webp
 tags: "\"Business Accelerator\",\"Process Automation\",\"Manufacturing\",\"Automotive\",\"Docker\",\"Python\",\"Data & AI\",\"Beta\""
-last_updated: "2022-08-09T17:22:13Z"
+last_updated: "2022-08-10T15:07:51Z"
 related: ""
 order: 2
 ---

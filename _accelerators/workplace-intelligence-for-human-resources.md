@@ -13,10 +13,11 @@ github_url: https://github.com/MSUSSolutionAccelerators/Workplace-Intelligence-S
 demo_url: 
 customer_overview_url: 
 customer_deck_url: 
-short_text: "Easily identify factors that influence productivity and engagement."
+short_text: "Easily identify factors that influence productivity and engagement"
 hero_image: assets/images/WP_Intelligence_HR_Hero.webp
+partner_image: assets/images/logo/Neudesic_logo.png
 tags: "\"Business Accelerator\",\"Workplace Intelligence\",\"Horizontal\",\"Automotive\",\"Education\",\"Energy\",\"Financial Services\",\"High Tech\",\"Health & Life Sciences\",\"Manufacturing\",\"Media & Entertainment\",\"Professional Services\",\"Retail & Consumer Goods\",\"State & Local Government\",\"Workplace Analytics\",\"Viva\",\"Azure DevOps\",\"Synapse\",\"Power BI\",\"Apps & Infrastructure\",\"BizApps\",\"Data & AI\",\"Modern Workplace\",\"In Progress\""
-last_updated: "2022-08-09T17:21:00Z"
+last_updated: "2022-08-10T15:47:49Z"
 related: ""
 order: 2
 ---

@@ -13,10 +13,11 @@ github_url: https://github.com/MSUSSolutionAccelerators/Conversational-AI-Soluti
 demo_url: https://zammo.ai/pocrequest/
 customer_overview_url: 
 customer_deck_url: 
-short_text: "Collect data from every interaction in a feedback loop for optimization"
+short_text: "Collect data from every interaction in a feedback loop for optimization."
 hero_image: assets/images/Conversational_AI_Hero.webp
+partner_image: assets/images/logo/Zammo_logo.png
 tags: "\"Business Accelerator\",\"Personalization\",\"Retail & Consumer Goods\",\"Horizontal\",\"Azure Machine Learning\",\"Bot Framework\",\"Cognitive Services\",\"Data & AI\",\"Modern Workplace\",\"GA\""
-last_updated: "2022-08-09T17:44:23Z"
+last_updated: "2022-08-10T15:46:21Z"
 related: ""
 order: 2
 ---

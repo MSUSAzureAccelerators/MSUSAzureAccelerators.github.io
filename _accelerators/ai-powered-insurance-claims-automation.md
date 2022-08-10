@@ -16,7 +16,7 @@ customer_deck_url:
 short_text: "Reduce claims processing time and manual effort in end-to-end claims processing for better customer experience"
 hero_image: assets/images/AI_Powered_Insurance_Hero.webp
 tags: "\"Business Accelerator\",\"Process Automation\",\"Financial Services\",\"Cognitive Services\",\"Cosmos DB\",\"Bot Framework\",\"Azure Storage\",\"Form Recognizer\",\"Luis\",\"Data & AI\",\"Beta\""
-last_updated: "2022-08-09T17:24:52Z"
+last_updated: "2022-08-10T14:59:57Z"
 related: ""
 order: 2
 ---

@@ -16,7 +16,7 @@ customer_deck_url:
 short_text: "Provide personalized product recommendations and telemetry insights."
 hero_image: assets/images/Intelligent_Recommendations_Hero.webp
 tags: "\"Technology Accelerator\",\"Technology Accelerator\",\"Horizontal\",\"Automotive\",\"Education\",\"Energy\",\"Financial Services\",\"High Tech\",\"Health & Life Sciences\",\"Manufacturing\",\"Media & Entertainment\",\"Professional Services\",\"Retail & Consumer Goods\",\"State & Local Government\",\"Azure Data Lake Storage\",\"Synapse\",\"Power BI\",\"Azure Intelligent Recommendation\",\"BizApps\",\"Data & AI\",\"GA\""
-last_updated: "2022-08-09T17:45:04Z"
+last_updated: "2022-08-10T15:00:15Z"
 related: ""
 order: 2
 ---

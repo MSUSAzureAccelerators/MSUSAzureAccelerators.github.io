@@ -16,7 +16,7 @@ customer_deck_url:
 short_text: "Continuous Patient Monitoring solution to generate telemetry readings for two IoT Consumer devices"
 hero_image: assets/images/Patient_Monitoring_Hero.webp
 tags: "\"Business Accelerator\",\"Process Automation\",\"Health & Life Sciences\",\"Automotive\",\"Manufacturing\",\"State & Local Government\",\"Azure IoT Hub\",\"Bicep\",\"IoT\",\"Digital Twins\",\"Event Hub\",\"Azure Data Explorer\",\"Data & AI\",\"Beta\""
-last_updated: "2022-08-09T17:26:28Z"
+last_updated: "2022-08-10T14:58:47Z"
 related: ""
 order: 2
 ---

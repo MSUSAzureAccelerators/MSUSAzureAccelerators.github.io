@@ -16,7 +16,7 @@ customer_deck_url:
 short_text: "Hands-on-Lab to explore the functionality of Microsoft Purview, a unified data governance service that helps you manage and govern your on-premises, multi-cloud and software-as-a-service (SaaS) data"
 hero_image: assets/images/Purview_HOL_Hero.webp
 tags: "\"Technology Accelerator\",\"Process Automation\",\"Horizontal\",\"Purview\",\"Azure Data Lake Storage\",\"Azure KeyVault\",\"Azure SQL\",\"Synapse Analytics\",\"Data & AI\",\"Beta\""
-last_updated: "2022-08-09T17:21:56Z"
+last_updated: "2022-08-10T15:08:35Z"
 related: ""
 order: 2
 ---

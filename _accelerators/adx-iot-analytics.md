@@ -16,7 +16,7 @@ customer_deck_url:
 short_text: "Azure Data Explorer can provide valuable insights into your IoT workloads."
 hero_image: assets/images/IOT_Hero.webp
 tags: "\"Business Accelerator\",\"Process Automation\",\"Horizontal\",\"Automotive\",\"Manufacturing\",\"State & Local Government\",\"Azure IoT Hub\",\"Bicep\",\"IoT\",\"Digital Twins\",\"Event Hub\",\"Azure Data Explorer\",\"Modern Workplace\",\"Beta\""
-last_updated: "2022-08-09T17:26:46Z"
+last_updated: "2022-08-10T14:58:40Z"
 related: ""
 order: 2
 ---

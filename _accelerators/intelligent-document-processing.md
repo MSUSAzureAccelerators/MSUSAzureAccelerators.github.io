@@ -16,7 +16,7 @@ customer_deck_url:
 short_text: "Reduce human intervention and decrease the time to find the key Data points in 100+page documents/contracts."
 hero_image: assets/images/Intelligent_Document_Processing_Hero.webp
 tags: "\"Business Accelerator\",\"Process Automation\",\"Financial Services\",\"Financial Services\",\"Health & Life Sciences\",\"Manufacturing\",\"Retail & Consumer Goods\",\"\",\"Cognitive Services\",\"Bot Framework\",\"Power BI\",\"Form Recognizer\",\"Cosmos DB\",\"Luis\",\"Data & AI\",\"Modern Workplace\",\"GA\""
-last_updated: "2022-08-09T17:22:43Z"
+last_updated: "2022-08-10T15:07:13Z"
 related: ""
 order: 2
 ---

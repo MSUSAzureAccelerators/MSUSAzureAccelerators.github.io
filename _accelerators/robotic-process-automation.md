@@ -16,7 +16,7 @@ customer_deck_url:
 short_text: "Completely automate the data extractive and entry from PDF form by using Azure Cognitive Services."
 hero_image: assets/images/RPA_Hero.webp
 tags: "\"Business Accelerator\",\"Process Automation\",\"Horizontal\",\"Financial Services\",\"Manufacturing\",\"Azure Functions\",\"Azure Storage\",\"Azure Logic Apps\",\"Form Recognizer\",\"Cognitive Services\",\"Cognitive Search\",\"Cosmos DB\",\"Azure App Service\",\"BizApps\",\"Beta\""
-last_updated: "2022-08-09T17:21:19Z"
+last_updated: "2022-08-10T15:10:46Z"
 related: ""
 order: 2
 ---

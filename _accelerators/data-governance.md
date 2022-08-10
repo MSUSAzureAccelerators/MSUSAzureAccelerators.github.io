@@ -16,7 +16,7 @@ customer_deck_url:
 short_text: "Information coming soon about the Data Governance Solution Accelerator"
 hero_image: assets/images/Data_Governance_Hero.webp
 tags: "\"Technology Accelerator\",\"Technology Accelerator\",\"Horizontal\",\"Azure Purview\",\"Synapse Analytics\",\"Azure Machine Learning\",\"Apps & Infrastructure\",\"Nominated\""
-last_updated: "2022-08-09T17:23:22Z"
+last_updated: "2022-08-10T15:04:14Z"
 related: ""
 order: 2
 ---
