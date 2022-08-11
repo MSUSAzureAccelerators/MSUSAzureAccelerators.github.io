@@ -10,7 +10,7 @@
                     {%- if page.partner_image and page.partner_image != '' %}
                     <div class="border-l-2 border-ms-light-gray my-4 ml-4">&nbsp;</div>
                     <div class="align-middle">
-                        <img src="../../{{ page.partner_image -}}" alt="Partner Logo" class="h-28">
+                        <img src="../../{{ page.partner_image | downcase -}}" alt="Partner Logo" class="h-28">
                     </div>
                     {%- endif %}
                 </div>
