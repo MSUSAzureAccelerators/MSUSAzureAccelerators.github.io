@@ -13,11 +13,11 @@ github_url: https://github.com/tayganr/purviewdemo
 demo_url: 
 customer_overview_url: 
 customer_deck_url: 
-short_text: "Automate the deployment of a pre-populated Azure Purview demo environment"
+short_text: "Automate the deployment of a pre-populated Azure Purview demo environment."
 hero_image: assets/images/Purview_Demo_Generator_Hero.webp
-partner_image: assets/images/logo/_logo.png
+partner_image: 
 tags: "\"Technology Accelerator\",\"Technology Accelerator\",\"Horizontal\",\"Automotive\",\"Education\",\"Energy\",\"Financial Services\",\"High Tech\",\"Health & Life Sciences\",\"Manufacturing\",\"Media & Entertainment\",\"Professional Services\",\"Retail & Consumer Goods\",\"State & Local Government\",\"GA\""
-last_updated: "2022-08-11T14:27:43Z"
+last_updated: "2022-08-16T14:10:37Z"
 related: ""
 order: 2
 ---

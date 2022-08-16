@@ -13,10 +13,11 @@ github_url: https://github.com/MSUSSolutionAccelerators/Robotic-Process-Automati
 demo_url: 
 customer_overview_url: 
 customer_deck_url: 
-short_text: "Completely automate the data extractive and entry from PDF form by using Azure Cognitive Services."
+short_text: "Completely automate the data extractive and entry from PDF form by using Azure Cognitive Services"
 hero_image: assets/images/RPA_Hero.webp
+partner_image: 
 tags: "\"Business Accelerator\",\"Process Automation\",\"Horizontal\",\"Financial Services\",\"Manufacturing\",\"Azure Functions\",\"Azure Storage\",\"Azure Logic Apps\",\"Form Recognizer\",\"Cognitive Services\",\"Cognitive Search\",\"Cosmos DB\",\"Azure App Service\",\"BizApps\",\"Beta\""
-last_updated: "2022-08-10T15:10:46Z"
+last_updated: "2022-08-16T14:10:01Z"
 related: ""
 order: 2
 ---

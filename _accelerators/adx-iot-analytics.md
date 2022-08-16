@@ -13,10 +13,11 @@ github_url: https://github.com/MSUSSolutionAccelerators/ADX-IoT-Analytics-Soluti
 demo_url: 
 customer_overview_url: 
 customer_deck_url: 
-short_text: "Azure Data Explorer can provide valuable insights into your IoT workloads."
+short_text: "Azure Data Explorer can provide valuable insights into your IoT workloads"
 hero_image: assets/images/IOT_Hero.webp
+partner_image: 
 tags: "\"Business Accelerator\",\"Process Automation\",\"Horizontal\",\"Automotive\",\"Manufacturing\",\"State & Local Government\",\"Azure IoT Hub\",\"Bicep\",\"IoT\",\"Digital Twins\",\"Event Hub\",\"Azure Data Explorer\",\"Modern Workplace\",\"Beta\""
-last_updated: "2022-08-10T14:58:40Z"
+last_updated: "2022-08-16T14:13:08Z"
 related: ""
 order: 2
 ---

@@ -13,10 +13,11 @@ github_url: https://github.com/tayganr/purviewlab
 demo_url: 
 customer_overview_url: 
 customer_deck_url: 
-short_text: "Hands-on-Lab to explore the functionality of Microsoft Purview, a unified data governance service that helps you manage and govern your on-premises, multi-cloud and software-as-a-service (SaaS) data"
+short_text: "Hands-on-Lab to explore the functionality of Microsoft Purview, a unified data governance service that helps you manage and govern your on-premises, multi-cloud and software-as-a-service (SaaS) data."
 hero_image: assets/images/Purview_HOL_Hero.webp
+partner_image: 
 tags: "\"Technology Accelerator\",\"Process Automation\",\"Horizontal\",\"Purview\",\"Azure Data Lake Storage\",\"Azure KeyVault\",\"Azure SQL\",\"Synapse Analytics\",\"Data & AI\",\"Beta\""
-last_updated: "2022-08-10T15:08:35Z"
+last_updated: "2022-08-16T14:10:31Z"
 related: ""
 order: 2
 ---

@@ -13,10 +13,11 @@ github_url:
 demo_url: https://intelligent-recommendations.microsoft.com/verticals
 customer_overview_url: 
 customer_deck_url: 
-short_text: "Provide personalized product recommendations and telemetry insights."
+short_text: "Provide personalized product recommendations and telemetry insights"
 hero_image: assets/images/Intelligent_Recommendations_Hero.webp
+partner_image: 
 tags: "\"Technology Accelerator\",\"Technology Accelerator\",\"Horizontal\",\"Automotive\",\"Education\",\"Energy\",\"Financial Services\",\"High Tech\",\"Health & Life Sciences\",\"Manufacturing\",\"Media & Entertainment\",\"Professional Services\",\"Retail & Consumer Goods\",\"State & Local Government\",\"Azure Data Lake Storage\",\"Synapse\",\"Power BI\",\"Azure Intelligent Recommendation\",\"BizApps\",\"Data & AI\",\"GA\""
-last_updated: "2022-08-10T15:00:15Z"
+last_updated: "2022-08-16T14:12:00Z"
 related: ""
 order: 2
 ---

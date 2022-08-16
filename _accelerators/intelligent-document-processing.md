@@ -10,13 +10,14 @@ primary_industry: "Financial Services"
 industries: "Financial Services,Health & Life Sciences,Manufacturing,Retail & Consumer Goods,"
 technology_stack: "Cognitive Services,Bot Framework,Power BI,Form Recognizer,Cosmos DB,Luis"
 github_url: https://github.com/MSUSSolutionAccelerators/Intelligent-Document-Processing-Solution-Accelerator
-demo_url: 
+demo_url:
 customer_overview_url: 
 customer_deck_url: 
-short_text: "Reduce human intervention and decrease the time to find the key Data points in 100+page documents/contracts."
+short_text: "Reduce human intervention and decrease the time to find the key Data points in 100+page documents/contracts"
 hero_image: assets/images/Intelligent_Document_Processing_Hero.webp
+partner_image: 
 tags: "\"Business Accelerator\",\"Process Automation\",\"Financial Services\",\"Financial Services\",\"Health & Life Sciences\",\"Manufacturing\",\"Retail & Consumer Goods\",\"\",\"Cognitive Services\",\"Bot Framework\",\"Power BI\",\"Form Recognizer\",\"Cosmos DB\",\"Luis\",\"Data & AI\",\"Modern Workplace\",\"GA\""
-last_updated: "2022-08-10T15:07:13Z"
+last_updated: "2022-08-16T14:09:30Z"
 related: ""
 order: 2
 ---

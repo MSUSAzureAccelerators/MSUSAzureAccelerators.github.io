@@ -13,10 +13,11 @@ github_url: https://github.com/MSUSSolutionAccelerators/Near-Real-Time-Fraud-and
 demo_url: 
 customer_overview_url: 
 customer_deck_url: 
-short_text: "Simplify the fraud detection and reporting process"
+short_text: "Simplify the fraud detection and reporting process."
 hero_image: assets/images/Fraud_Compliance_Hero.webp
+partner_image: 
 tags: "\"Business Accelerator\",\"Financial\",\"Financial Services\",\"Python\",\"BizApps\",\"Beta\""
-last_updated: "2022-08-10T15:09:17Z"
+last_updated: "2022-08-16T14:10:19Z"
 related: ""
 order: 2
 ---

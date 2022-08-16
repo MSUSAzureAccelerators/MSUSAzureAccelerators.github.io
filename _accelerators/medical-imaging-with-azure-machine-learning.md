@@ -13,10 +13,11 @@ github_url: https://github.com/Azure/medical-imaging
 demo_url: 
 customer_overview_url: 
 customer_deck_url: 
-short_text: "Support medical imaging and other use cases in areas like data and model management, deployment, experiment tracking and explainability"
+short_text: "Support medical imaging and other use cases in areas like data and model management, deployment, experiment tracking and explainability."
 hero_image: assets/images/med-imaging.webp
+partner_image: 
 tags: "\"Business Accelerator\",\"Healthcare\",\"Health & Life Sciences\",\"Azure Machine Learning\",\"Data & AI\",\"Modern Workplace\",\"Beta\""
-last_updated: "2022-08-10T15:08:22Z"
+last_updated: "2022-08-16T14:10:49Z"
 related: ""
 order: 2
 ---

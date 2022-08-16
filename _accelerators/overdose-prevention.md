@@ -13,10 +13,11 @@ github_url: https://github.com/MSUSSolutionAccelerators/Overdose-Prevention-Solu
 demo_url: 
 customer_overview_url: 
 customer_deck_url: 
-short_text: "Provide predictive analytics for different prescription and distribution services"
+short_text: "Provide predictive analytics for different prescription and distribution services."
 hero_image: assets/images/Overdose_Prevention_Hero.webp
+partner_image: 
 tags: "\"Business Accelerator\",\"Healthcare\",\"Horizontal\",\"Health & Life Sciences\",\"State & Local Government\",\"IoT\",\"IoT Hub\",\"Synapse Analytics\",\"Data & AI\",\"Beta\""
-last_updated: "2022-08-10T15:09:25Z"
+last_updated: "2022-08-16T14:10:10Z"
 related: ""
 order: 2
 ---
