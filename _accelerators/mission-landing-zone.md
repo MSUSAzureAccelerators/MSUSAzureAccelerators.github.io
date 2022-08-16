@@ -13,10 +13,11 @@ github_url: https://github.com/azure/missionlz
 demo_url: 
 customer_overview_url: 
 customer_deck_url: 
-short_text: "Create a cloud management system to deploy Azure environments."
+short_text: "Create a cloud management system to deploy Azure environments"
 hero_image: assets/images/Mission-Landing-Zone-Hero.png
+partner_image: 
 tags: "\"Technology Accelerator\",\"Technology Accelerator\",\"State & Local Government\",\"Horizontal\",\"Bicep\",\"Terraform\",\"Azure Bastion\",\"Azure Virtual Machine\",\"Azure Firewall\",\"Azure Defender\",\"Azure Policy\",\"Azure Sentinel\",\"Azure Storage\",\"Log Analytics\",\"Apps & Infrastructure\",\"Beta\""
-last_updated: "2022-08-10T15:08:46Z"
+last_updated: "2022-08-16T14:13:23Z"
 related: ""
 order: 2
 ---
