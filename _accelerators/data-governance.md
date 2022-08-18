@@ -17,7 +17,7 @@ short_text: "Information coming soon about the Data Governance Solution Accelera
 hero_image: assets/images/Data_Governance_Hero.webp
 partner_image: 
 tags: "\"Technology Accelerator\",\"Technology Accelerator\",\"Horizontal\",\"Azure Purview\",\"Synapse Analytics\",\"Azure Machine Learning\",\"Apps & Infrastructure\",\"Nominated\""
-last_updated: "2022-08-16T14:11:35Z"
+last_updated: "2022-08-16T15:05:46Z"
 related: ""
 order: 2
 ---

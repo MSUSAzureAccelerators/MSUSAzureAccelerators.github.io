@@ -17,7 +17,7 @@ short_text: "Collect data from every interaction in a feedback loop for optimiza
 hero_image: assets/images/Conversational_AI_Hero.webp
 partner_image: assets/images/logo/Zammo_logo.png
 tags: "\"Business Accelerator\",\"Personalization\",\"Retail & Consumer Goods\",\"Horizontal\",\"Azure Machine Learning\",\"Bot Framework\",\"Cognitive Services\",\"Data & AI\",\"Modern Workplace\",\"GA\""
-last_updated: "2022-08-16T14:11:50Z"
+last_updated: "2022-08-16T15:03:46Z"
 related: ""
 order: 2
 ---

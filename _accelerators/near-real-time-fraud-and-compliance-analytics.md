@@ -17,7 +17,7 @@ short_text: "Simplify the fraud detection and reporting process."
 hero_image: assets/images/Fraud_Compliance_Hero.webp
 partner_image: 
 tags: "\"Business Accelerator\",\"Financial\",\"Financial Services\",\"Python\",\"BizApps\",\"Beta\""
-last_updated: "2022-08-16T14:10:19Z"
+last_updated: "2022-08-16T15:13:23Z"
 related: ""
 order: 2
 ---

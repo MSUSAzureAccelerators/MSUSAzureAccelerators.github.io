@@ -17,7 +17,7 @@ short_text: "Rich analytics served to a dashboard for valuable insights that can
 hero_image: assets/images/Conversational_AI_SLG_Hero.webp
 partner_image: assets/images/logo/Zammo_logo.png
 tags: "\"Business Accelerator\",\"Personalization\",\"State & Local Government\",\"Horizontal\",\"Azure Machine Learning\",\"Bot Services\",\"Cognitive Search\",\"Cognitive Services\",\"Data & AI\",\"Modern Workplace\",\"GA\""
-last_updated: "2022-08-16T14:11:42Z"
+last_updated: "2022-08-16T15:03:52Z"
 related: ""
 order: 2
 ---

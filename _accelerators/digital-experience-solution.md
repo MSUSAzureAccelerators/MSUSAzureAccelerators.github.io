@@ -15,25 +15,25 @@ customer_overview_url:
 customer_deck_url: 
 short_text: "Move the entire live stream process offsite and into the cloud"
 hero_image: assets/images/Digital_Experience_Hero.webp
-partner_image:
+partner_image: 
 tags: "\"Business Accelerator\",\"Campaign Management\",\"Media & Entertainment\",\"BizApps\",\"Modern Workplace\",\"In Progress\""
-last_updated: "2022-08-16T14:11:21Z"
+last_updated: "2022-08-16T15:54:49Z"
 related: ""
 order: 2
 ---
 ## About this Accelerator
 
-Delivering compelling digital experiences has become a key marketing strategy and a natural extension of live events. Complexity and costs are a barrier to entry for many companies. Additionally, without real-time data and audience insights for optimizing content, companies can struggle to grow brand affinity and achieve real ROI. â€‹
+Delivering compelling digital experiences has become a key marketing strategy and a natural extension of live events. Complexity and costs are a barrier to entry for many companies. Additionally, without real-time data and audience insights for optimizing content, companies can struggle to grow brand affinity and achieve real ROI.
 
-The Digital Experience Solution brings together proven technology from partners MediaKind, Evertz Microsystems, and Lumen in a scalable on-demand service that moves the entire live stream process offsite and into the cloud, enabling remote teams to work together in real time. It leverages Microsoft Azure Synapse Analytics and Dynamics 365 Customer Insights to deliver rich analytics for event measurement and feedback in a secure environment. â€‹
+The Digital Experience Solution brings together proven technology from partners MediaKind, Evertz Microsystems, and Lumen in a scalable on-demand service that moves the entire live stream process offsite and into the cloud, enabling remote teams to work together in real time. It leverages Microsoft Azure Synapse Analytics and Dynamics 365 Customer Insights to deliver rich analytics for event measurement and feedback in a secure environment.
 
 ### Challenges
 
-* Complex operations due to the need for multiple vendors, navigating onsite logistics, and COVID-19 restrictions.â€‹
-* High operating costs and up-front investments create barriers to entry and add pressure to deliver ROI.â€‹
-* Limited data and analytics leave companies struggling to gain insights into consumer brand affinity.â€‹
-* Security for content and data is critical to maintain, and breaches are inherent risks.â€‹
-* Monetization tactics can be challenging to integrate and personalize, leading to poor experiences that erode trust in the brand. â€‹
+* Complex operations due to the need for multiple vendors, navigating onsite logistics, and COVID-19 restrictions.
+* High operating costs and up-front investments create barriers to entry and add pressure to deliver ROI.
+* Limited data and analytics leave companies struggling to gain insights into consumer brand affinity.
+* Security for content and data is critical to maintain, and breaches are inherent risks.
+* Monetization tactics can be challenging to integrate and personalize, leading to poor experiences that erode trust in the brand.
 
 > 82% of consumers prefer live video over standard social media content.
 

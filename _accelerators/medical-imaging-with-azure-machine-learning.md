@@ -17,7 +17,7 @@ short_text: "Support medical imaging and other use cases in areas like data and 
 hero_image: assets/images/med-imaging.webp
 partner_image: 
 tags: "\"Business Accelerator\",\"Healthcare\",\"Health & Life Sciences\",\"Azure Machine Learning\",\"Data & AI\",\"Modern Workplace\",\"Beta\""
-last_updated: "2022-08-16T14:10:49Z"
+last_updated: "2022-08-16T15:11:38Z"
 related: ""
 order: 2
 ---

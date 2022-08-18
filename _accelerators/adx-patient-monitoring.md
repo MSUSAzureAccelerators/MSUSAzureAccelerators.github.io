@@ -17,7 +17,7 @@ short_text: "Continuous Patient Monitoring solution to generate telemetry readin
 hero_image: assets/images/Patient_Monitoring_Hero.webp
 partner_image: 
 tags: "\"Business Accelerator\",\"Process Automation\",\"Health & Life Sciences\",\"Automotive\",\"Manufacturing\",\"State & Local Government\",\"Azure IoT Hub\",\"Bicep\",\"IoT\",\"Digital Twins\",\"Event Hub\",\"Azure Data Explorer\",\"Data & AI\",\"Beta\""
-last_updated: "2022-08-16T14:13:02Z"
+last_updated: "2022-08-16T14:58:05Z"
 related: ""
 order: 2
 ---

@@ -17,7 +17,7 @@ short_text: "More information coming soon on the Manufacturing Vision Solution A
 hero_image: assets/images/Manufacturing_Vision_Hero.webp
 partner_image: 
 tags: "\"Business Accelerator\",\"Process Automation\",\"Manufacturing\",\"Data & AI\",\"Beta\""
-last_updated: "2022-08-16T14:10:57Z"
+last_updated: "2022-08-16T15:11:11Z"
 related: ""
 order: 2
 ---

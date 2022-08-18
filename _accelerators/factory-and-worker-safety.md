@@ -1,7 +1,7 @@
 ---
-short_name: "AIoT - Factory & Worker Safety"
-name: "AIoT - Factory & Worker Safety"
-title: "AIoT - Factory & Worker Safety"
+short_name: "Factory & Worker Safety"
+name: "Factory & Worker Safety"
+title: "Factory & Worker Safety"
 accelerator_type: "Business Accelerator"
 classification: "Process Automation"
 solution_area: "Modern Workplace"
@@ -16,8 +16,8 @@ customer_deck_url:
 short_text: "Azure Computer Vision infers product quality at the point of manufacture on the assembly line in real-time."
 hero_image: assets/images/AIOT_Worker_Safety_Hero.webp
 partner_image: 
-tags: "\"Business Accelerator\",\"Process Automation\",\"Manufacturing\",\"Automotive\",\"Azure Container Registery\",\"Azure DevOps\",\"Azure IoT Hub\",\"Azure KeyVault\",\"Azure Machine Learning\",\"Azure SQL\",\"Azure Storage\",\"Cognitive Services\",\"Docker\",\"Power BI\",\"Python\",\"Modern Workplace\",\"In Progress\""
-last_updated: "2022-08-16T14:11:12Z"
+tags: "\"Business Accelerator\",\"Process Automation\",\"Manufacturing\",\"Automotive\",\"Azure Container Registry\",\"Azure DevOps\",\"Azure IoT Hub\",\"Azure KeyVault\",\"Azure Machine Learning\",\"Azure SQL\",\"Azure Storage\",\"Cognitive Services\",\"Docker\",\"Power BI\",\"Python\",\"Modern Workplace\",\"In Progress\""
+last_updated: "2022-08-16T15:08:28Z"
 related: ""
 order: 2
 ---

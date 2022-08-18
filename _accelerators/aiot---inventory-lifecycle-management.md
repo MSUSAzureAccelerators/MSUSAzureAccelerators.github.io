@@ -17,7 +17,7 @@ short_text: "Drive outcomes related to building more agile factories, creating m
 hero_image: assets/images/AIOT_Inventory_Lifecycle_Management_Hero.webp
 partner_image: 
 tags: "\"Technology Accelerator\",\"Process Automation\",\"Manufacturing\",\"Automotive\",\"Azure Container Registry\",\"Azure DevOps\",\"Azure IoT Hub\",\"Azure Machine Learning\",\"Azure SQL\",\"Azure Storage\",\"Cognitive Services\",\"Docker\",\"PowerBI\",\"Python\",\"Data & AI\",\"Beta\""
-last_updated: "2022-08-16T14:12:32Z"
+last_updated: "2022-08-16T14:59:18Z"
 related: ""
 order: 2
 ---

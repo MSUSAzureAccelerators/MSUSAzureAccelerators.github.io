@@ -17,7 +17,7 @@ short_text: "Automate the deployment of a pre-populated Azure Purview demo envir
 hero_image: assets/images/Purview_Demo_Generator_Hero.webp
 partner_image: 
 tags: "\"Technology Accelerator\",\"Technology Accelerator\",\"Horizontal\",\"Automotive\",\"Education\",\"Energy\",\"Financial Services\",\"High Tech\",\"Health & Life Sciences\",\"Manufacturing\",\"Media & Entertainment\",\"Professional Services\",\"Retail & Consumer Goods\",\"State & Local Government\",\"GA\""
-last_updated: "2022-08-16T14:10:37Z"
+last_updated: "2022-08-16T15:12:30Z"
 related: ""
 order: 2
 ---
