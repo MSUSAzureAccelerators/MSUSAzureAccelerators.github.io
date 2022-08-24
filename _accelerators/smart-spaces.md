@@ -5,7 +5,7 @@ title: "Smart Spaces"
 accelerator_type: "Business Accelerator"
 classification: "Sustainability"
 solution_area: "Apps & Infrastructure,BizApps,Data & AI"
-status: "Beta"
+status: "In Progress"
 primary_industry: "Horizontal"
 industries: "Education,Health & Life Sciences,Manufacturing"
 technology_stack: "IoT,IoT Hub,Azure App Service,Application Insights,Azure Functions,Logic Apps.Stream Analytics,Azure SQL"
@@ -16,8 +16,8 @@ customer_deck_url:
 short_text: "Optimize HVAC systems quickly and proactively for efficient and cost-effective energy use"
 hero_image: assets/images/Smart_Spaces_Hero2.webp
 partner_image: 
-tags: "\"Business Accelerator\",\"Sustainability\",\"Horizontal\",\"Education\",\"Health & Life Sciences\",\"Manufacturing\",\"IoT\",\"IoT Hub\",\"Azure App Service\",\"Application Insights\",\"Azure Functions\",\"Logic Apps.Stream Analytics\",\"Azure SQL\",\"Apps & Infrastructure\",\"BizApps\",\"Data & AI\",\"Beta\""
-last_updated: "2022-08-16T15:17:50Z"
+tags: "\"Business Accelerator\",\"Sustainability\",\"Horizontal\",\"Education\",\"Health & Life Sciences\",\"Manufacturing\",\"IoT\",\"IoT Hub\",\"Azure App Service\",\"Application Insights\",\"Azure Functions\",\"Logic Apps.Stream Analytics\",\"Azure SQL\",\"Apps & Infrastructure\",\"BizApps\",\"Data & AI\",\"In Progress\""
+last_updated: "2022-08-23T17:41:41Z"
 related: ""
 order: 2
 ---

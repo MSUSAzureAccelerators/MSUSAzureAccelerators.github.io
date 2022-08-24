@@ -17,7 +17,7 @@ short_text: "Multiply the productivity of your employees and cut down your IT su
 hero_image: assets/images/IT_Helpdesk_Bot_Hero.webp
 partner_image: assets/images/logo/Acuvate_logo.png
 tags: "\"Business Accelerator\",\"Process Automation\",\"Horizontal\",\"Bot Framework\",\"Cognitive Services\",\"Azure Machine Learning\",\"BizApps\",\"Data & AI\",\"Beta\""
-last_updated: "2022-08-16T14:13:14Z"
+last_updated: "2022-08-23T16:22:27Z"
 related: ""
 order: 2
 ---

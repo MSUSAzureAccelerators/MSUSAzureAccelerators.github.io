@@ -17,7 +17,7 @@ short_text: "Hands-on-Lab to explore the functionality of Microsoft Purview, a u
 hero_image: assets/images/Purview_HOL_Hero.webp
 partner_image: 
 tags: "\"Technology Accelerator\",\"Process Automation\",\"Horizontal\",\"Purview\",\"Azure Data Lake Storage\",\"Azure KeyVault\",\"Azure SQL\",\"Synapse Analytics\",\"Data & AI\",\"Beta\""
-last_updated: "2022-08-16T15:12:45Z"
+last_updated: "2022-08-22T20:32:41Z"
 related: ""
 order: 2
 ---

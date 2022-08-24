@@ -17,7 +17,7 @@ short_text: "Azure Computer Vision infers product quality at the point of manufa
 hero_image: assets/images/AIOT_Worker_Safety_Hero.webp
 partner_image: 
 tags: "\"Business Accelerator\",\"Process Automation\",\"Manufacturing\",\"Automotive\",\"Azure Container Registry\",\"Azure DevOps\",\"Azure IoT Hub\",\"Azure KeyVault\",\"Azure Machine Learning\",\"Azure SQL\",\"Azure Storage\",\"Cognitive Services\",\"Docker\",\"Power BI\",\"Python\",\"Modern Workplace\",\"In Progress\""
-last_updated: "2022-08-16T15:08:28Z"
+last_updated: "2022-08-23T16:42:59Z"
 related: ""
 order: 2
 ---

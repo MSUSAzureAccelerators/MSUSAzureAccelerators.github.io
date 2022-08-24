@@ -13,11 +13,11 @@ github_url: https://github.com/MSUSSolutionAccelerators/Manufacturing-Vision-Sol
 demo_url: 
 customer_overview_url: 
 customer_deck_url: 
-short_text: "Information coming soon about the Data Governance Solution Accelerator."
+short_text: "More information coming soon on the Manufacturing Vision Solution Accelerator for AMD64 devices"
 hero_image: assets/images/Manufacturing_Vision_Hero.webp
 partner_image: 
 tags: "\"Business Accelerator\",\"Process Automation\",\"Manufacturing\",\"Automotive\",\"Docker\",\"Python\",\"Data & AI\",\"Beta\""
-last_updated: "2022-08-16T15:11:04Z"
+last_updated: "2022-08-22T20:35:42Z"
 related: ""
 order: 2
 ---
