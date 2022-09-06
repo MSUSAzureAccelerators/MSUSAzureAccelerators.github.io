@@ -2,7 +2,7 @@
 short_name: "ADX Patient Monitoring"
 name: "ADX Patient Monitoring"
 title: "ADX Patient Monitoring"
-accelerator_type: "Business Accelerator"
+accelerator_type: "Industry Customer Scenario"
 classification: "Process Automation"
 solution_area: "Data & AI"
 status: "Beta"
@@ -13,11 +13,11 @@ github_url: https://github.com/MSUSSolutionAccelerators/ADX-Patient-Monitoring-S
 demo_url: 
 customer_overview_url: 
 customer_deck_url: 
-short_text: "Continuous Patient Monitoring solution to generate telemetry readings for two IoT Consumer devices."
+short_text: "Continuous Patient Monitoring solution to generate telemetry readings for two IoT Consumer devices"
 hero_image: assets/images/Patient_Monitoring_Hero.webp
 partner_image: 
-tags: "\"Business Accelerator\",\"Process Automation\",\"Health & Life Sciences\",\"Automotive\",\"Manufacturing\",\"State & Local Government\",\"Azure IoT Hub\",\"Bicep\",\"IoT\",\"Digital Twins\",\"Event Hub\",\"Azure Data Explorer\",\"Data & AI\",\"Beta\""
-last_updated: "2022-08-16T14:58:05Z"
+tags: "\"Industry Customer Scenario\",\"Process Automation\",\"Health & Life Sciences\",\"Automotive\",\"Manufacturing\",\"State & Local Government\",\"Azure IoT Hub\",\"Bicep\",\"IoT\",\"Digital Twins\",\"Event Hub\",\"Azure Data Explorer\",\"Data & AI\",\"Beta\""
+last_updated: "2022-09-06T19:05:46Z"
 related: ""
 order: 2
 ---

@@ -17,7 +17,7 @@ short_text: "Provide predictive analytics for different prescription and distrib
 hero_image: assets/images/Overdose_Prevention_Hero.webp
 partner_image: 
 tags: "\"Industry Customer Scenario\",\"Healthcare\",\"Horizontal\",\"Health & Life Sciences\",\"State & Local Government\",\"IoT\",\"IoT Hub\",\"Synapse Analytics\",\"Data & AI\",\"Beta\""
-last_updated: "2022-09-06T17:41:06Z"
+last_updated: "2022-09-06T19:05:12Z"
 related: ""
 order: 2
 ---

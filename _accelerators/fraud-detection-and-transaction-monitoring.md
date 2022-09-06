@@ -9,7 +9,7 @@ status: "GA"
 primary_industry: "Financial Services"
 industries: ""
 technology_stack: "Azure Machine Learning,Azure Synapse Analytics,Azure Cosmos DB,PowerBI"
-github_url: <a href="https://microsofteur.sharepoint.com/teams/MCSMLAISolutionAccelerators/SitePages/Anomaly-Detection-Accelerator-Detail.aspx"</a>
+github_url: https://microsofteur.sharepoint.com/teams/MCSMLAISolutionAccelerators/SitePages/Anomaly-Detection-Accelerator-Detail.aspx
 demo_url: https://gearup.microsoft.com/download/ac6a8490-cf40-4828-b731-305235e0bf30
 customer_overview_url: 
 customer_deck_url: 
@@ -17,7 +17,7 @@ short_text: "Identify risk of fraud or fraud associated activities."
 hero_image: assets/images/Fraud_Compliance_Hero.webp
 partner_image: 
 tags: "\"Industry Customer Scenario\",\"Analytics\",\"Financial Services\",\"Azure Machine Learning\",\"Azure Synapse Analytics\",\"Azure Cosmos DB\",\"PowerBI\",\"BizApps\",\" Data & AI\",\"GA\""
-last_updated: "2022-09-06T17:39:05Z"
+last_updated: "2022-09-06T19:02:54Z"
 related: ""
 order: 2
 ---

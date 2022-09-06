@@ -17,7 +17,7 @@ short_text: "Completely automate the data extractive and entry from PDF form by 
 hero_image: assets/images/RPA_Hero.webp
 partner_image: 
 tags: "\"Industry Customer Scenario\",\"Process Automation\",\"Horizontal\",\"Financial Services\",\"Manufacturing\",\"Azure Functions\",\"Azure Storage\",\"Azure Logic Apps\",\"Form Recognizer\",\"Cognitive Services\",\"Cognitive Search\",\"Cosmos DB\",\"Azure App Service\",\"BizApps\",\"Beta\""
-last_updated: "2022-09-06T17:41:13Z"
+last_updated: "2022-09-06T19:05:32Z"
 related: ""
 order: 2
 ---

@@ -17,7 +17,7 @@ short_text: "Azure Data Explorer can provide valuable insights into your IoT wor
 hero_image: assets/images/IOT_Hero.webp
 partner_image: 
 tags: "\"Industry Customer Scenario\",\"Process Automation\",\"Horizontal\",\"Automotive\",\"Manufacturing\",\"State & Local Government\",\"Azure IoT Hub\",\"Bicep\",\"IoT\",\"Digital Twins\",\"Event Hub\",\"Azure Data Explorer\",\"Modern Workplace\",\"Beta\""
-last_updated: "2022-09-06T17:39:40Z"
+last_updated: "2022-09-06T18:50:10Z"
 related: ""
 order: 2
 ---

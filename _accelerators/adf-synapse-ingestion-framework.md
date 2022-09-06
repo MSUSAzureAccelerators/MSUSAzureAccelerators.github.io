@@ -17,7 +17,7 @@ short_text: "Speed up migration with ease of development and also use the same f
 hero_image: assets/images/ADF_Ingestion_Framework_Hero.webp
 partner_image: 
 tags: "\"Technology Accelerator\",\"Process Automation\",\"Horizontal\",\"Synapse\",\"Azure SQL\",\"Azure Data Lake Storage\",\"Power BI\",\"Azure Data Factory\",\"Apps & Infrastructure\",\"Beta\""
-last_updated: "2022-09-06T17:39:27Z"
+last_updated: "2022-09-06T18:53:58Z"
 related: ""
 order: 2
 ---
