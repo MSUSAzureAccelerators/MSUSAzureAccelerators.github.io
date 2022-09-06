@@ -2,12 +2,12 @@
 short_name: "Workplace Intelligence for Human Resources"
 name: "Workplace Intelligence for Human Resources"
 title: "Workplace Intelligence for Human Resources"
-accelerator_type: "Business Accelerator"
+accelerator_type: "Industry Customer Scenario"
 classification: "Workplace Intelligence"
 solution_area: "Apps & Infrastructure,BizApps,Data & AI,Modern Workplace"
-status: "In Progress"
+status: "GA"
 primary_industry: "Horizontal"
-industries: "Automotive,Education,Energy,Financial Services,High Tech,Health & Life Sciences,Manufacturing,Media & Entertainment,Professional Services,Retail & Consumer Goods,State & Local Government"
+industries: ""
 technology_stack: "Workplace Analytics,Viva,Azure DevOps,Synapse,Power BI"
 github_url: https://github.com/MSUSSolutionAccelerators/Workplace-Intelligence-Solution-Accelerator
 demo_url: 
@@ -15,9 +15,9 @@ customer_overview_url:
 customer_deck_url: 
 short_text: "Easily identify factors that influence productivity and engagement."
 hero_image: assets/images/WP_Intelligence_HR_Hero.webp
-partner_image: assets/images/logo/Neudesic_logo.png
-tags: "\"Business Accelerator\",\"Workplace Intelligence\",\"Horizontal\",\"Automotive\",\"Education\",\"Energy\",\"Financial Services\",\"High Tech\",\"Health & Life Sciences\",\"Manufacturing\",\"Media & Entertainment\",\"Professional Services\",\"Retail & Consumer Goods\",\"State & Local Government\",\"Workplace Analytics\",\"Viva\",\"Azure DevOps\",\"Synapse\",\"Power BI\",\"Apps & Infrastructure\",\"BizApps\",\"Data & AI\",\"Modern Workplace\",\"In Progress\""
-last_updated: "2022-08-23T16:33:34Z"
+partner_image: 
+tags: "\"Industry Customer Scenario\",\"Workplace Intelligence\",\"Horizontal\",\"Workplace Analytics\",\"Viva\",\"Azure DevOps\",\"Synapse\",\"Power BI\",\"Apps & Infrastructure\",\"BizApps\",\"Data & AI\",\"Modern Workplace\",\"GA\""
+last_updated: "2022-09-06T17:41:31Z"
 related: ""
 order: 2
 ---

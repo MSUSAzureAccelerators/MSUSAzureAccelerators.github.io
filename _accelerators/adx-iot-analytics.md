@@ -2,7 +2,7 @@
 short_name: "ADX IoT Analytics"
 name: "ADX IoT Analytics"
 title: "ADX IoT Analytics"
-accelerator_type: "Business Accelerator"
+accelerator_type: "Industry Customer Scenario"
 classification: "Process Automation"
 solution_area: "Modern Workplace"
 status: "Beta"
@@ -16,8 +16,8 @@ customer_deck_url:
 short_text: "Azure Data Explorer can provide valuable insights into your IoT workloads"
 hero_image: assets/images/IOT_Hero.webp
 partner_image: 
-tags: "\"Business Accelerator\",\"Process Automation\",\"Horizontal\",\"Automotive\",\"Manufacturing\",\"State & Local Government\",\"Azure IoT Hub\",\"Bicep\",\"IoT\",\"Digital Twins\",\"Event Hub\",\"Azure Data Explorer\",\"Modern Workplace\",\"Beta\""
-last_updated: "2022-08-16T14:50:48Z"
+tags: "\"Industry Customer Scenario\",\"Process Automation\",\"Horizontal\",\"Automotive\",\"Manufacturing\",\"State & Local Government\",\"Azure IoT Hub\",\"Bicep\",\"IoT\",\"Digital Twins\",\"Event Hub\",\"Azure Data Explorer\",\"Modern Workplace\",\"Beta\""
+last_updated: "2022-09-06T17:39:40Z"
 related: ""
 order: 2
 ---

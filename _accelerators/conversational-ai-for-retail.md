@@ -2,22 +2,22 @@
 short_name: "Conversational AI for Retail"
 name: "Conversational AI for Retail"
 title: "Conversational AI for Retail"
-accelerator_type: "Business Accelerator"
+accelerator_type: "Industry Customer Scenario"
 classification: "Personalization"
-solution_area: "Data & AI,Modern Workplace"
+solution_area: "Data & AI, Modern Workplace"
 status: "GA"
-primary_industry: "Retail & Consumer Goods"
+primary_industry: "Retail"
 industries: "Horizontal"
-technology_stack: "Azure Machine Learning,Bot Framework,Cognitive Services"
+technology_stack: "Azure Machine Learning,Bot Services,Cognitive Search,Cognitive Services"
 github_url: https://github.com/MSUSSolutionAccelerators/Conversational-AI-Solution-Accelerator
 demo_url: https://zammo.ai/pocrequest/
 customer_overview_url: 
 customer_deck_url: 
 short_text: "Collect data from every interaction in a feedback loop for optimization"
 hero_image: assets/images/Conversational_AI_Hero.webp
-partner_image: assets/images/logo/Zammo_logo.png
-tags: "\"Business Accelerator\",\"Personalization\",\"Retail & Consumer Goods\",\"Horizontal\",\"Azure Machine Learning\",\"Bot Framework\",\"Cognitive Services\",\"Data & AI\",\"Modern Workplace\",\"GA\""
-last_updated: "2022-08-23T17:22:42Z"
+partner_image: 
+tags: "\"Industry Customer Scenario\",\"Personalization\",\"Retail\",\"Horizontal\",\"Azure Machine Learning\",\"Bot Services\",\"Cognitive Search\",\"Cognitive Services\",\"Data & AI\",\" Modern Workplace\",\"GA\""
+last_updated: "2022-09-06T17:49:02Z"
 related: ""
 order: 2
 ---

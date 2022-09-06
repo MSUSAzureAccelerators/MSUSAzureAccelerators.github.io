@@ -2,13 +2,13 @@
 short_name: "Smart Spaces"
 name: "Smart Spaces"
 title: "Smart Spaces"
-accelerator_type: "Business Accelerator"
+accelerator_type: "Industry Customer Scenario"
 classification: "Sustainability"
 solution_area: "Apps & Infrastructure,BizApps,Data & AI"
-status: "In Progress"
+status: "GA"
 primary_industry: "Horizontal"
 industries: "Education,Health & Life Sciences,Manufacturing"
-technology_stack: "IoT,IoT Hub,Azure App Service,Application Insights,Azure Functions,Logic Apps.Stream Analytics,Azure SQL"
+technology_stack: "IoT,IoT Hub,Azure App Service,Application Insights,Azure Functions,Logic Apps. Stream Analytics,Azure SQL"
 github_url: https://github.com/MSUSSolutionAccelerators/Smart-Spaces-Sustainability-Solution-Accelerator
 demo_url: 
 customer_overview_url: 
@@ -16,8 +16,8 @@ customer_deck_url:
 short_text: "Optimize HVAC systems quickly and proactively for efficient and cost-effective energy use"
 hero_image: assets/images/Smart_Spaces_Hero2.webp
 partner_image: 
-tags: "\"Business Accelerator\",\"Sustainability\",\"Horizontal\",\"Education\",\"Health & Life Sciences\",\"Manufacturing\",\"IoT\",\"IoT Hub\",\"Azure App Service\",\"Application Insights\",\"Azure Functions\",\"Logic Apps.Stream Analytics\",\"Azure SQL\",\"Apps & Infrastructure\",\"BizApps\",\"Data & AI\",\"In Progress\""
-last_updated: "2022-08-23T17:41:41Z"
+tags: "\"Industry Customer Scenario\",\"Sustainability\",\"Horizontal\",\"Education\",\"Health & Life Sciences\",\"Manufacturing\",\"IoT\",\"IoT Hub\",\"Azure App Service\",\"Application Insights\",\"Azure Functions\",\"Logic Apps. Stream Analytics\",\"Azure SQL\",\"Apps & Infrastructure\",\"BizApps\",\"Data & AI\",\"GA\""
+last_updated: "2022-09-06T17:41:23Z"
 related: ""
 order: 2
 ---

@@ -2,22 +2,22 @@
 short_name: "Conversational AI for State and Local Government"
 name: "Conversational AI for State and Local Government"
 title: "Conversational AI for State and Local Government"
-accelerator_type: "Business Accelerator"
+accelerator_type: "Industry Customer Scenario"
 classification: "Personalization"
-solution_area: "Data & AI,Modern Workplace"
+solution_area: "Data & AI, Modern Workplace"
 status: "GA"
-primary_industry: "State & Local Government"
+primary_industry: "Government"
 industries: "Horizontal"
 technology_stack: "Azure Machine Learning,Bot Services,Cognitive Search,Cognitive Services"
 github_url: https://github.com/MSUSSolutionAccelerators/Conversational-AI-Solution-Accelerator
 demo_url: https://zammo.ai/pocrequest/
 customer_overview_url: 
 customer_deck_url: 
-short_text: "Rich analytics served to a dashboard for valuable insights that can help you serve your public"
+short_text: "Rich analytics served to a dashboard for valuable insights that can help you serve your public."
 hero_image: assets/images/Conversational_AI_SLG_Hero.webp
-partner_image: assets/images/logo/Zammo_logo.png
-tags: "\"Business Accelerator\",\"Personalization\",\"State & Local Government\",\"Horizontal\",\"Azure Machine Learning\",\"Bot Services\",\"Cognitive Search\",\"Cognitive Services\",\"Data & AI\",\"Modern Workplace\",\"GA\""
-last_updated: "2022-08-23T17:23:02Z"
+partner_image: 
+tags: "\"Industry Customer Scenario\",\"Personalization\",\"Government\",\"Horizontal\",\"Azure Machine Learning\",\"Bot Services\",\"Cognitive Search\",\"Cognitive Services\",\"Data & AI\",\" Modern Workplace\",\"GA\""
+last_updated: "2022-09-06T17:53:49Z"
 related: ""
 order: 2
 ---
