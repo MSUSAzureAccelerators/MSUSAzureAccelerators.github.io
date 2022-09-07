@@ -5,7 +5,7 @@ title: "Predictive Maintenance"
 accelerator_type: "Industry Customer Scenario"
 classification: "Process Automation"
 solution_area: "Data & AI"
-status: "In Progress"
+status: "Beta"
 primary_industry: "Manufacturing"
 industries: "Automotive,Transportation"
 technology_stack: "Azure Container Registry,Azure DevOps,Azure IoT Hub,Azure KeyVault,Azure Machine Learning,Azure SQL,Azure Storage,Cognitive Services,Docker,PowerBI,Python"
@@ -16,8 +16,8 @@ customer_deck_url:
 short_text: "Predict motor/equipment/asset issues before they happen."
 hero_image: assets/images/Predictive_Maintenance_Hero.webp
 partner_image: 
-tags: "\"Industry Customer Scenario\",\"Process Automation\",\"Manufacturing\",\"Automotive\",\"Transportation\",\"Azure Container Registry\",\"Azure DevOps\",\"Azure IoT Hub\",\"Azure KeyVault\",\"Azure Machine Learning\",\"Azure SQL\",\"Azure Storage\",\"Cognitive Services\",\"Docker\",\"PowerBI\",\"Python\",\"Data & AI\",\"In Progress\""
-last_updated: "2022-09-06T19:04:34Z"
+tags: "\"Industry Customer Scenario\",\"Process Automation\",\"Manufacturing\",\"Automotive\",\"Transportation\",\"Azure Container Registry\",\"Azure DevOps\",\"Azure IoT Hub\",\"Azure KeyVault\",\"Azure Machine Learning\",\"Azure SQL\",\"Azure Storage\",\"Cognitive Services\",\"Docker\",\"PowerBI\",\"Python\",\"Data & AI\",\"Beta\""
+last_updated: "2022-09-07T16:28:09Z"
 related: ""
 order: 2
 ---

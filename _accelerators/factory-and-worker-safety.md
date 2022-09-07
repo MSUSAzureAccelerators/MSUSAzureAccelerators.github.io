@@ -5,7 +5,7 @@ title: "Factory & Worker Safety"
 accelerator_type: "Industry Customer Scenario"
 classification: "Process Automation"
 solution_area: "Modern Workplace"
-status: "GA"
+status: "In Progress"
 primary_industry: "Manufacturing"
 industries: "Automotive"
 technology_stack: "Azure Container Registery,Azure DevOps,Azure IoT Hub,Azure KeyVault,Azure Machine Learning,Azure SQL,Azure Storage,Cognitive Services,Docker,Power BI,Python"
@@ -16,8 +16,8 @@ customer_deck_url:
 short_text: "Azure Computer Vision infers product quality at the point of manufacture on the assembly line in real-time."
 hero_image: assets/images/AIOT_Worker_Safety_Hero.webp
 partner_image: 
-tags: "\"Industry Customer Scenario\",\"Process Automation\",\"Manufacturing\",\"Automotive\",\"Azure Container Registery\",\"Azure DevOps\",\"Azure IoT Hub\",\"Azure KeyVault\",\"Azure Machine Learning\",\"Azure SQL\",\"Azure Storage\",\"Cognitive Services\",\"Docker\",\"Power BI\",\"Python\",\"Modern Workplace\",\"GA\""
-last_updated: "2022-09-06T17:39:50Z"
+tags: "\"Industry Customer Scenario\",\"Process Automation\",\"Manufacturing\",\"Automotive\",\"Azure Container Registery\",\"Azure DevOps\",\"Azure IoT Hub\",\"Azure KeyVault\",\"Azure Machine Learning\",\"Azure SQL\",\"Azure Storage\",\"Cognitive Services\",\"Docker\",\"Power BI\",\"Python\",\"Modern Workplace\",\"In Progress\""
+last_updated: "2022-09-07T16:56:01Z"
 related: ""
 order: 2
 ---

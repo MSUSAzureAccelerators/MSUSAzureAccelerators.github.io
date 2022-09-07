@@ -17,7 +17,7 @@ short_text: "Move the entire live stream process offsite and into the cloud"
 hero_image: assets/images/Digital_Experience_Hero.webp
 partner_image: 
 tags: "\"Industry Customer Scenario\",\"Campaign Management\",\"Media & Communications\",\"BizApps\",\"Modern Workplace\",\"Beta\""
-last_updated: "2022-09-06T17:40:29Z"
+last_updated: "2022-09-06T22:44:08Z"
 related: ""
 order: 2
 ---

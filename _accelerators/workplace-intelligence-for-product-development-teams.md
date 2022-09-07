@@ -5,7 +5,7 @@ title: "Workplace Intelligence for Product Development Teams"
 accelerator_type: "Industry Customer Scenario"
 classification: "Workplace Intelligence"
 solution_area: "Apps & Infrastructure,BizApps,Data & AI,Modern Workplace"
-status: "GA"
+status: "Beta"
 primary_industry: "Horizontal"
 industries: ""
 technology_stack: "Workplace Analytics,Viva,Azure DevOps,Synapse,Power BI"
@@ -16,8 +16,8 @@ customer_deck_url:
 short_text: "Uncover and leverage the key drivers of productivity and success for product development teams"
 hero_image: assets/images/WP_Intelligence_Tech_Hero.webp
 partner_image: 
-tags: "\"Industry Customer Scenario\",\"Workplace Intelligence\",\"Horizontal\",\"Workplace Analytics\",\"Viva\",\"Azure DevOps\",\"Synapse\",\"Power BI\",\"Apps & Infrastructure\",\"BizApps\",\"Data & AI\",\"Modern Workplace\",\"GA\""
-last_updated: "2022-09-06T17:41:39Z"
+tags: "\"Industry Customer Scenario\",\"Workplace Intelligence\",\"Horizontal\",\"Workplace Analytics\",\"Viva\",\"Azure DevOps\",\"Synapse\",\"Power BI\",\"Apps & Infrastructure\",\"BizApps\",\"Data & AI\",\"Modern Workplace\",\"Beta\""
+last_updated: "2022-09-07T17:01:35Z"
 related: ""
 order: 2
 ---

@@ -5,7 +5,7 @@ title: "Workplace Intelligence for Human Resources"
 accelerator_type: "Industry Customer Scenario"
 classification: "Workplace Intelligence"
 solution_area: "Apps & Infrastructure,BizApps,Data & AI,Modern Workplace"
-status: "GA"
+status: "Beta"
 primary_industry: "Horizontal"
 industries: ""
 technology_stack: "Workplace Analytics,Viva,Azure DevOps,Synapse,Power BI"
@@ -16,8 +16,8 @@ customer_deck_url:
 short_text: "Easily identify factors that influence productivity and engagement."
 hero_image: assets/images/WP_Intelligence_HR_Hero.webp
 partner_image: 
-tags: "\"Industry Customer Scenario\",\"Workplace Intelligence\",\"Horizontal\",\"Workplace Analytics\",\"Viva\",\"Azure DevOps\",\"Synapse\",\"Power BI\",\"Apps & Infrastructure\",\"BizApps\",\"Data & AI\",\"Modern Workplace\",\"GA\""
-last_updated: "2022-09-06T17:41:31Z"
+tags: "\"Industry Customer Scenario\",\"Workplace Intelligence\",\"Horizontal\",\"Workplace Analytics\",\"Viva\",\"Azure DevOps\",\"Synapse\",\"Power BI\",\"Apps & Infrastructure\",\"BizApps\",\"Data & AI\",\"Modern Workplace\",\"Beta\""
+last_updated: "2022-09-07T17:00:14Z"
 related: ""
 order: 2
 ---
