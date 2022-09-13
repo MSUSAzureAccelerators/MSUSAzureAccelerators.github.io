@@ -17,7 +17,7 @@ short_text: "Multiply the productivity of your employees and cut down your IT su
 hero_image: assets/images/IT_Helpdesk_Bot_Hero.webp
 partner_image: 
 tags: "\"Industry Customer Scenario\",\"Process Automation\",\"Horizontal\",\"Bot Framework\",\"Cognitive Services\",\"Azure Machine Learning\",\"BizApps\",\"Data & AI\",\"Beta\""
-last_updated: "2022-09-06T22:43:35Z"
+last_updated: "2022-09-09T18:09:07Z"
 related: ""
 order: 2
 ---
