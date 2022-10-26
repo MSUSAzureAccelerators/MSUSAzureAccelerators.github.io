@@ -25,6 +25,8 @@ order: 2
 
 Intelligent Recommendations democratizes AI and machine learning recommendations through a codeless and powerful experience powered by the same technology that fuels Xbox, Microsoft 365, and Microsoft Azure. Businesses can now provide relevant discovery for customers with this new, innovative AI for personalization and recommendations.
 
+Detailed information about this service can be found at [https://intelligent-recommendations.microsoft.com/](https://intelligent-recommendations.microsoft.com/). In addition, you can find video walkthroughs at [https://www.youtube.com/playlist?list=PLcakwueIHoT9UsOLR9n1ri49pZ60R_vrh](https://www.youtube.com/playlist?list=PLcakwueIHoT9UsOLR9n1ri49pZ60R_vrh).
+
 Using modern machine-learning algorithms, Intelligent Recommendations provides personalized product recommendations and telemetry insights. These recommendations and insights help you:
 
 * Significantly improve catalog navigation and item discovery.
