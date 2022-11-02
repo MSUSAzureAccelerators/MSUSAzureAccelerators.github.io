@@ -3,21 +3,21 @@ short_name: "Document Process Automation"
 name: "Document Process Automation"
 title: "Document Process Automation"
 accelerator_type: "Industry Customer Scenario"
-classification: ""
+classification: "Process Automation"
 solution_area: ""
 status: "GA"
-primary_industry: ""
-industries: ""
+primary_industry: "Financial Services"
+industries: "Horizontal"
 technology_stack: "Form Recognizer,Azure Logic Apps,Azure Cosmos DB,Power BI,Azure Data Explorer,Bot Framework,Luis"
 github_url: https://github.com/MSUSSolutionAccelerators/Intelligent-Document-Processing-Solution-Accelerator
 demo_url: https://gearup.microsoft.com/download/081ed940-b52e-43de-8d54-935c340bbd9e
-customer_overview_url: 
-customer_deck_url: 
+customer_overview_url: "assets/docs/Intelligent%20Document%20Processing%20Customer%20Overview.pdf"
+customer_deck_url: "assets/docs/Intelligent%20Document%20Processing%20Customer%20Deck.pdf"
 short_text: "Automate extraction of data from complex structure/unstructured documents to unlock insights."
 hero_image: assets/images/Intelligent_Document_Processing_Hero.webp
 partner_image: 
-tags: "\"Industry Customer Scenario\",\"Form Recognizer\",\"Azure Logic Apps\",\"Azure Cosmos DB\",\"Power BI\",\"Azure Data Explorer\",\"Bot Framework\",\"Luis\",\"GA\""
-last_updated: "2022-11-02T13:27:57Z"
+tags: "\"Industry Customer Scenario\",\"Process Automation\",\"Financial Services\",\"Horizontal\",\"Form Recognizer\",\"Azure Logic Apps\",\"Azure Cosmos DB\",\"Power BI\",\"Azure Data Explorer\",\"Bot Framework\",\"Luis\",\"GA\""
+last_updated: "2022-11-02T17:17:26Z"
 related: ""
 order: 2
 ---
