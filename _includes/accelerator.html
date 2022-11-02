@@ -47,39 +47,26 @@
                 <p>{{ technology -}}</p>
                 {%- endfor -%}
                 {%- endif -%}
+
                 <!-- Technical Value Assets -->
                 {%- if (page.github_url or page.demo_url) and (page.github_url != "" or page.demo_url != "") -%}
                 <h3 class="mt-4">Technical Value Assets</h3>
                 {%- endif -%}
-
-                {%- if page.github_url and page.github_url != "" -%}
                 <div>
-                    <a href="{{ page.github_url }}" target="_blank"
-                                class="inline-flex items-center w-1/2 h-12 py-2 px-3 font-medium text-center text-az-white bg-az-blue rounded-full my-1 hover:bg-ms-dark-blue">
-                                <i class="fa-brands fa-github fa-xs mx-2"></i> Browse Assets on GitHub
-                                <svg class="ml-2 -mr-1 w-4 h-4" fill="currentColor" viewBox="0 0 20 20"
-                                    xmlns="http://www.w3.org/2000/svg">
-                                    <path fill-rule="evenodd"
-                                        d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z"
-                                        clip-rule="evenodd"></path>
-                                </svg>
-                            </a>
+                {%- if page.github_url and page.github_url != "" -%}
+                <a href="{{ page.github_url -}}" target="_blank" rel="noopener noreferrer">
+                    <i class="fa-brands fa-github fa-xs mx-2"></i> Browse Assets on GitHub
+                </a>
+                {%- endif -%}
                 </div>
-                {%- endif -%}
-
+                <div>
                 {%- if page.demo_url and page.demo_url != "" -%}
-                <a href="{{ page.demo_url }}" target="_blank"
-                                class="inline-flex items-center w-1/2 h-12 y-2 px-3 font-medium text-center text-az-white bg-az-blue rounded-full my-1 hover:bg-ms-dark-blue">
-                                <i class="fa-solid fa-cloud fa-xs mx-2"></i> Request a Demo
-                                <svg class="ml-2 -mr-1 w-4 h-4" fill="currentColor" viewBox="0 0 20 20"
-                                    xmlns="http://www.w3.org/2000/svg">
-                                    <path fill-rule="evenodd"
-                                        d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z"
-                                        clip-rule="evenodd"></path>
-                                </svg>
-                            </a>
+                <a href="{{ page.demo_url -}}" target="_blank" rel="noopener noreferrer">
+                    <i class="fa-solid fa-cloud fa-xs mx-2"></i> Request a Demo
+                </a>
                 {%- endif -%}
-                
+                </div> 
+
                 <!-- Business Value Assets -->
                 {%- if (page.customer_overview_url or page.customer_deck_url) and (page.customer_overview_url != "" or page.customer_deck_url != "") -%}
                 <h3 class="mt-4">Business Value Assets</h3>
@@ -90,11 +77,11 @@
                     {% assign checkArray = stringToCheck | split:startsWith %}
                     {%- if checkArray[0] != 'assets' -%}
                     <a href="{{ page.customer_overview_url -}}" target="_blank" rel="noopener noreferrer">
-                        <i class="fa-solid fa-file-pdf fa-xs"></i> Solution Overview
+                        <i class="fa-solid fa-file-pdf fa-xs mx-2"></i> Solution Overview
                     </a>
                     {%- else -%}
                     <a href="../{{ page.customer_overview_url -}}" target="_blank" rel="noopener noreferrer">
-                        <i class="fa-solid fa-file-pdf fa-xs"></i> Solution Overview
+                        <i class="fa-solid fa-file-pdf fa-xs mx-2"></i> Solution Overview
                     </a>
                     {%- endif -%}
                 </div>
@@ -106,11 +93,11 @@
                     {% assign checkArray = stringToCheck | split:startsWith %}
                     {%- if checkArray[0] != 'assets' -%}
                     <a href="{{ page.customer_deck_url -}}" target="_blank" rel="noopener noreferrer">
-                        <i class="fa-solid fa-file-pdf fa-xs"></i> Solution Deck
+                        <i class="fa-solid fa-file-pdf fa-xs mx-2"></i> Solution Deck
                     </a>
                     {%- else -%}
                     <a href="../{{ page.customer_deck_url -}}" target="_blank" rel="noopener noreferrer">
-                        <i class="fa-solid fa-file-pdf fa-xs"></i> Solution Deck
+                        <i class="fa-solid fa-file-pdf fa-xs mx-2"></i> Solution Deck
                     </a>
                     {%- endif -%}
                 </div>
