@@ -4,20 +4,20 @@ name: "AI-Powered Insurance Claims Automation"
 title: "AI-Powered Insurance Claims Automation"
 accelerator_type: "Industry Customer Scenario"
 classification: "Process Automation"
-solution_area: "Data & AI"
+solution_area: ""
 status: "Beta"
 primary_industry: "Financial Services"
 industries: ""
 technology_stack: "Cognitive Services,Cosmos DB,Bot Framework,Azure Storage,Form Recognizer,Luis"
 github_url: https://github.com/MSUSSolutionAccelerators/AI-Powered-Insurance-Claims-Automation-Solution-Accelerator
 demo_url: 
-customer_overview_url: 
-customer_deck_url: 
+customer_overview_url: "assets/docs/Insurance%20Claims%20Automation%20Overview.pdf"
+customer_deck_url: "assets/docs/Insurance%20Claims%20Automation%20Customer%20Deck.pdf"
 short_text: "Reduce claims processing time and manual effort in end-to-end claims processing for better customer experience."
 hero_image: assets/images/AI_Powered_Insurance_Hero.webp
 partner_image: 
-tags: "\"Industry Customer Scenario\",\"Process Automation\",\"Financial Services\",\"Cognitive Services\",\"Cosmos DB\",\"Bot Framework\",\"Azure Storage\",\"Form Recognizer\",\"Luis\",\"Data & AI\",\"Beta\""
-last_updated: "2022-09-06T22:44:27Z"
+tags: "\"Industry Customer Scenario\",\"Process Automation\",\"Financial Services\",\"Cognitive Services\",\"Cosmos DB\",\"Bot Framework\",\"Azure Storage\",\"Form Recognizer\",\"Luis\",\"Beta\""
+last_updated: "2022-11-02T17:38:45Z"
 related: ""
 order: 2
 ---
