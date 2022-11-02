@@ -52,20 +52,20 @@
                 {%- if (page.github_url or page.demo_url) and (page.github_url != "" or page.demo_url != "") -%}
                 <h3 class="mt-4">Technical Value Assets</h3>
                 {%- endif -%}
-                <div>
                 {%- if page.github_url and page.github_url != "" -%}
-                <a href="{{ page.github_url -}}" target="_blank" rel="noopener noreferrer">
-                    <i class="fa-brands fa-github fa-xs mx-2"></i> Browse Assets on GitHub
-                </a>
-                {%- endif -%}
-                </div>
                 <div>
-                {%- if page.demo_url and page.demo_url != "" -%}
-                <a href="{{ page.demo_url -}}" target="_blank" rel="noopener noreferrer">
-                    <i class="fa-solid fa-cloud fa-xs mx-2"></i> Request a Demo
-                </a>
+                    <a href="{{ page.github_url -}}" target="_blank" rel="noopener noreferrer">
+                        <i class="fa-brands fa-github fa-xs mx-2"></i> Browse Assets on GitHub
+                    </a>
+                </div>
                 {%- endif -%}
+                {%- if page.demo_url and page.demo_url != "" -%}
+                <div>
+                    <a href="{{ page.demo_url -}}" target="_blank" rel="noopener noreferrer">
+                        <i class="fa-solid fa-cloud fa-xs mx-2"></i> Request a Demo
+                    </a>
                 </div> 
+                {%- endif -%}
 
                 <!-- Business Value Assets -->
                 {%- if (page.customer_overview_url or page.customer_deck_url) and (page.customer_overview_url != "" or page.customer_deck_url != "") -%}
