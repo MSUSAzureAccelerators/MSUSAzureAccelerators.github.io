@@ -1,23 +1,23 @@
 ---
-short_name: "Intelligent Document Processing"
-name: "Intelligent Document Processing"
-title: "Intelligent Document Processing"
-accelerator_type: "Business Accelerator"
-classification: "Process Automation"
-solution_area: "Data & AI,Modern Workplace"
-status: "In Progress"
-primary_industry: "Financial Services"
-industries: "Financial Services,Health & Life Sciences,Manufacturing,Retail & Consumer Goods,"
-technology_stack: "Cognitive Services,Bot Framework,Power BI,Form Recognizer,Cosmos DB,Luis"
+short_name: "Document Process Automation"
+name: "Document Process Automation"
+title: "Document Process Automation"
+accelerator_type: "Industry Customer Scenario"
+classification: ""
+solution_area: ""
+status: "GA"
+primary_industry: ""
+industries: ""
+technology_stack: "Form Recognizer,Azure Logic Apps,Azure Cosmos DB,Power BI,Azure Data Explorer,Bot Framework,Luis"
 github_url: https://github.com/MSUSSolutionAccelerators/Intelligent-Document-Processing-Solution-Accelerator
-demo_url: 
+demo_url: https://gearup.microsoft.com/download/081ed940-b52e-43de-8d54-935c340bbd9e
 customer_overview_url: 
 customer_deck_url: 
-short_text: "Reduce human intervention and decrease the time to find the key Data points in 100+page documents/contracts"
+short_text: "Automate extraction of data from complex structure/unstructured documents to unlock insights."
 hero_image: assets/images/Intelligent_Document_Processing_Hero.webp
 partner_image: 
-tags: "\"Business Accelerator\",\"Process Automation\",\"Financial Services\",\"Financial Services\",\"Health & Life Sciences\",\"Manufacturing\",\"Retail & Consumer Goods\",\"\",\"Cognitive Services\",\"Bot Framework\",\"Power BI\",\"Form Recognizer\",\"Cosmos DB\",\"Luis\",\"Data & AI\",\"Modern Workplace\",\"In Progress\""
-last_updated: "2022-08-23T17:45:53Z"
+tags: "\"Industry Customer Scenario\",\"Form Recognizer\",\"Azure Logic Apps\",\"Azure Cosmos DB\",\"Power BI\",\"Azure Data Explorer\",\"Bot Framework\",\"Luis\",\"GA\""
+last_updated: "2022-11-02T13:27:57Z"
 related: ""
 order: 2
 ---

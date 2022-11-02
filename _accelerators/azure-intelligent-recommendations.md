@@ -33,7 +33,7 @@ Using modern machine-learning algorithms, Intelligent Recommendations provides p
 * Create upsell and cross-sell opportunities.
 * Improve shoppers' experiences and product usability.
 
-###Capabilities
+### Capabilities
 
 Intelligent Recommendations helps companies drive better engagement, conversion, revenue, and customer satisfaction. Intelligent Recommendations is a general purpose service that offers one-of-a-kind, patented capabilities that more effectively drive desired outcomes out of the box such as "shop similar looks", "shop by description", "real time", "session based", Item based recommendations that can combine User interactions and Item Metadata. Businesses can promote and personalize any content type, such as sellable products, consumable media, documents, videos, and more.
 
