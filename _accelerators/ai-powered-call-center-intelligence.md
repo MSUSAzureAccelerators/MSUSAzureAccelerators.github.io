@@ -4,20 +4,20 @@ name: "AI-Powered Call Center Intelligence"
 title: "AI-Powered Call Center Intelligence"
 accelerator_type: "Industry Customer Scenario"
 classification: "Personalization"
-solution_area: "Data & AI"
+solution_area: ""
 status: "GA"
 primary_industry: "Financial Services"
 industries: "Horizontal"
 technology_stack: "Cognitive Services,Azure Machine Learning,Power BI,Azure Speech Services,Azure SQL,Azure Storage"
 github_url: https://github.com/MSUSSolutionAccelerators/AI-Powered-Call-Center-Intelligence-Solution-Accelerator
-demo_url: 
-customer_overview_url: 
-customer_deck_url: 
+demo_url: https://microsoft.sharepoint.com/:v:/t/CAF-SolutionAccelerators/EWPwSjtF2llBiR4KmkYfrUcBsppRd4UDfxfiWKTfkhEexg?e=ji6JCs
+customer_overview_url: "assets/docs/Call%20Center%20Intelligence%20Overview.pdf"
+customer_deck_url: "assets/docs/Call%20Center%20Intelligence%20Customer%20Deck.pdf"
 short_text: "Automates call transcriptions for real-time and previously recorded calls"
 hero_image: assets/images/AI_Call_Center_Hero.webp
 partner_image: 
-tags: "\"Industry Customer Scenario\",\"Personalization\",\"Financial Services\",\"Horizontal\",\"Cognitive Services\",\"Azure Machine Learning\",\"Power BI\",\"Azure Speech Services\",\"Azure SQL\",\"Azure Storage\",\"Data & AI\",\"GA\""
-last_updated: "2022-09-06T17:39:58Z"
+tags: "\"Industry Customer Scenario\",\"Personalization\",\"Financial Services\",\"Horizontal\",\"Cognitive Services\",\"Azure Machine Learning\",\"Power BI\",\"Azure Speech Services\",\"Azure SQL\",\"Azure Storage\",\"GA\""
+last_updated: "2022-11-02T18:04:39Z"
 related: ""
 order: 2
 ---
