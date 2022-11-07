@@ -9,7 +9,7 @@ status: "GA"
 primary_industry: "Financial Services"
 industries: ""
 technology_stack: "Azure Data Lake Storage,Synapse Analytics"
-github_url: https://github.com/MSUSSolutionAccelerators/Risk-Classification-and-Load-Modeling-Solution-Accelerator
+github_url: https://github.com/MSUSAzureAccelerators/Risk-Classification-and-Load-Modeling-Solution-Accelerator
 demo_url: 
 customer_overview_url: "assets/docs/Risk%20Classification%20and%20Loan%20Modeling%20Overview.pdf"
 customer_deck_url: "assets/docs/Risk%20Classification%20and%20Loan%20Modeling%20Customer%20Deck.pdf"

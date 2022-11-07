@@ -9,7 +9,7 @@ status: "Beta"
 primary_industry: "Manufacturing"
 industries: ""
 technology_stack: ""
-github_url: https://github.com/MSUSSolutionAccelerators/Manufacturing-Vision-Solution-Accelerator-ARM64v8
+github_url: https://github.com/MSUSAzureAccelerators/Manufacturing-Vision-Solution-Accelerator-ARM64v8
 demo_url: 
 customer_overview_url: 
 customer_deck_url: 

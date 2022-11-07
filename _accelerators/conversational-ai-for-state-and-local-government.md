@@ -9,7 +9,7 @@ status: "GA"
 primary_industry: "Government"
 industries: "Horizontal"
 technology_stack: "Azure Machine Learning,Bot Services,Cognitive Search,Cognitive Services"
-github_url: https://github.com/MSUSSolutionAccelerators/Conversational-AI-Solution-Accelerator
+github_url: https://github.com/MSUSAzureAccelerators/Conversational-AI-Solution-Accelerator
 demo_url: https://zammo.ai/pocrequest/
 customer_overview_url: 
 customer_deck_url: 

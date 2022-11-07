@@ -9,7 +9,7 @@ status: "Beta"
 primary_industry: "Horizontal"
 industries: ""
 technology_stack: "Bot Framework,Cognitive Services,Azure Machine Learning"
-github_url: https://github.com/MSUSSolutionAccelerators/IT-Helpdesk-Bot-Solution-Accelerator
+github_url: https://github.com/MSUSAzureAccelerators/IT-Helpdesk-Bot-Solution-Accelerator
 demo_url: 
 customer_overview_url: 
 customer_deck_url: 

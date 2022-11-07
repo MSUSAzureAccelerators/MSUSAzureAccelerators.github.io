@@ -9,7 +9,7 @@ status: "Beta"
 primary_industry: "Media & Communications"
 industries: ""
 technology_stack: ""
-github_url: https://github.com/MSUSSolutionAccelerators/Digital-Experience-Solution
+github_url: https://github.com/MSUSAzureAccelerators/Digital-Experience-Solution
 demo_url: 
 customer_overview_url: 
 customer_deck_url: 

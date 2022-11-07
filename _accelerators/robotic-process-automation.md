@@ -9,7 +9,7 @@ status: "Beta"
 primary_industry: "Horizontal"
 industries: "Financial Services,Manufacturing"
 technology_stack: "Azure Functions,Azure Storage,Azure Logic Apps,Form Recognizer,Cognitive Services,Cognitive Search,Cosmos DB,Azure App Service"
-github_url: https://github.com/MSUSSolutionAccelerators/Robotic-Process-Automation-Solution-Accelerator
+github_url: https://github.com/MSUSAzureAccelerators/Robotic-Process-Automation-Solution-Accelerator
 demo_url: 
 customer_overview_url: 
 customer_deck_url: 

@@ -9,7 +9,7 @@ status: "GA"
 primary_industry: "Financial Services"
 industries: "Horizontal"
 technology_stack: "Cognitive Services,Azure Machine Learning,Power BI,Azure Speech Services,Azure SQL,Azure Storage"
-github_url: https://github.com/MSUSSolutionAccelerators/AI-Powered-Call-Center-Intelligence-Solution-Accelerator
+github_url: https://github.com/MSUSAzureAccelerators/AI-Powered-Call-Center-Intelligence-Solution-Accelerator
 demo_url: https://microsoft.sharepoint.com/:v:/t/CAF-SolutionAccelerators/EWPwSjtF2llBiR4KmkYfrUcBsppRd4UDfxfiWKTfkhEexg?e=ji6JCs
 customer_overview_url: "assets/docs/Call%20Center%20Intelligence%20Overview.pdf"
 customer_deck_url: "assets/docs/Call%20Center%20Intelligence%20Customer%20Deck.pdf"

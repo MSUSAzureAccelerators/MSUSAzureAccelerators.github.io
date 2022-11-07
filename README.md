@@ -4,7 +4,7 @@
 
 ## About this repository
 
-This repository holds the code and configuration required to build the [MSUS Accelerators static site](https://msussolutionaccelerators.github.io) on GitHub.
+This repository holds the code and configuration required to build the [MSUS Accelerators static site](https://MSUSAzureAccelerators.github.io) on GitHub.
 
 ## Technology
 

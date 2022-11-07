@@ -9,7 +9,7 @@ status: "Beta"
 primary_industry: "Manufacturing"
 industries: "Automotive"
 technology_stack: "Azure Container Registry,Azure DevOps,Azure IoT Hub,Azure Machine Learning,Azure SQL,Azure Storage,Cognitive Services,Docker,PowerBI,Python"
-github_url: https://github.com/MSUSSolutionAccelerators/Manufacturing-Vision-Solution-Accelerator-AMD64
+github_url: https://github.com/MSUSAzureAccelerators/Manufacturing-Vision-Solution-Accelerator-AMD64
 demo_url: 
 customer_overview_url: 
 customer_deck_url: 

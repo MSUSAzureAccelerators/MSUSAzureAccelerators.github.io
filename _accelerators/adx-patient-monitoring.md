@@ -9,7 +9,7 @@ status: "Beta"
 primary_industry: "Health & Life Sciences"
 industries: "Automotive,Manufacturing,State & Local Government"
 technology_stack: "Azure IoT Hub,Bicep,IoT,Digital Twins,Event Hub,Azure Data Explorer"
-github_url: https://github.com/MSUSSolutionAccelerators/ADX-Patient-Monitoring-Solution-Accelerator
+github_url: https://github.com/MSUSAzureAccelerators/ADX-Patient-Monitoring-Solution-Accelerator
 demo_url: 
 customer_overview_url: 
 customer_deck_url: 

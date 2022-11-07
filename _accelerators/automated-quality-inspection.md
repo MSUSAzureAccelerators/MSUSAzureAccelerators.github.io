@@ -4,20 +4,20 @@ name: "Automated Quality Inspection"
 title: "Automated Quality Inspection"
 accelerator_type: "Industry Customer Scenario"
 classification: "Process Automation"
-solution_area: "Data & AI"
+solution_area: ""
 status: "In Progress"
 primary_industry: "Manufacturing"
-industries: "Automotive"
+industries: "Automotive,Mobility & Transport"
 technology_stack: "Azure Container Registry,Azure DevOps,Azure IoT Hub,Azure KeyVault,Azure Machine Learning,Cognitive Services: Vision,Azure SQL,Azure Storage,Docker,Power BI"
-github_url: https://github.com/MSUSSolutionAccelerators/Manufacturing-Vision-Solution-Accelerator-AMD64/
+github_url: https://github.com/MSUSAzureAccelerators/Manufacturing-Vision-Solution-Accelerator-AMD64/
 demo_url: https://gearup.microsoft.com/download/a49e8443-ddd9-4f73-b16a-6bbcd6b3c865
-customer_overview_url: 
-customer_deck_url: 
+customer_overview_url: "https://microsoft.sharepoint.com/:b:/t/CAF-SolutionAccelerators/EbixtVBzw_FNhW7Lkei_aOIBFN5Ba6zuaGiUvE4dvaHILg?e=cM1kVh"
+customer_deck_url: "https://microsofteur.sharepoint.com/:p:/t/HQDataAIIndustryTeam/EWem9s1YQExIiK6NP6-p8EwBi_PTcWn08PxdvffIao6QWg?e=z3rvvq"
 short_text: "Inspect product quality at the point of manufacture on the assembly line in real-time."
 hero_image: assets/images/AIOT_Automated_Quality_Inspection_Hero.webp
 partner_image: 
-tags: "\"Industry Customer Scenario\",\"Process Automation\",\"Manufacturing\",\"Automotive\",\"Azure Container Registry\",\"Azure DevOps\",\"Azure IoT Hub\",\"Azure KeyVault\",\"Azure Machine Learning\",\"Cognitive Services: Vision\",\"Azure SQL\",\"Azure Storage\",\"Docker\",\"Power BI\",\"Data & AI\",\"In Progress\""
-last_updated: "2022-09-07T16:19:08Z"
+tags: "\"Industry Customer Scenario\",\"Process Automation\",\"Manufacturing\",\"Automotive\",\"Mobility & Transport\",\"Azure Container Registry\",\"Azure DevOps\",\"Azure IoT Hub\",\"Azure KeyVault\",\"Azure Machine Learning\",\"Cognitive Services: Vision\",\"Azure SQL\",\"Azure Storage\",\"Docker\",\"Power BI\",\"In Progress\""
+last_updated: "2022-11-07T16:55:36Z"
 related: ""
 order: 2
 ---

@@ -9,7 +9,7 @@ status: "Beta"
 primary_industry: "Financial Services"
 industries: ""
 technology_stack: "Python"
-github_url: https://github.com/MSUSSolutionAccelerators/Near-Real-Time-Fraud-and-Compliance-Analytics-Solution-Accelerator
+github_url: https://github.com/MSUSAzureAccelerators/Near-Real-Time-Fraud-and-Compliance-Analytics-Solution-Accelerator
 demo_url: 
 customer_overview_url: 
 customer_deck_url: 

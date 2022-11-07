@@ -9,7 +9,7 @@ status: "Beta"
 primary_industry: "Horizontal"
 industries: ""
 technology_stack: "Workplace Analytics,Viva,Azure DevOps,Synapse,Power BI"
-github_url: https://github.com/MSUSSolutionAccelerators/Workplace-Intelligence-Solution-Accelerator
+github_url: https://github.com/MSUSAzureAccelerators/Workplace-Intelligence-Solution-Accelerator
 demo_url: 
 customer_overview_url: 
 customer_deck_url: 

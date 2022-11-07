@@ -9,7 +9,7 @@ status: "Beta"
 primary_industry: "Horizontal"
 industries: "Automotive,Manufacturing,State & Local Government"
 technology_stack: "Azure IoT Hub,Bicep,IoT,Digital Twins,Event Hub,Azure Data Explorer"
-github_url: https://github.com/MSUSSolutionAccelerators/ADX-IoT-Analytics-Solution-Accelerator
+github_url: https://github.com/MSUSAzureAccelerators/ADX-IoT-Analytics-Solution-Accelerator
 demo_url: 
 customer_overview_url: 
 customer_deck_url: 

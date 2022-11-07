@@ -9,7 +9,7 @@ status: "Beta"
 primary_industry: "Horizontal"
 industries: ""
 technology_stack: "Synapse,Azure SQL,Azure Data Lake Storage,Power BI,Azure Data Factory"
-github_url: https://github.com/MSUSSolutionAccelerators/ADF-Ingestion-Framework-Solution-Accelerator
+github_url: https://github.com/MSUSAzureAccelerators/ADF-Ingestion-Framework-Solution-Accelerator
 demo_url: 
 customer_overview_url: 
 customer_deck_url: 

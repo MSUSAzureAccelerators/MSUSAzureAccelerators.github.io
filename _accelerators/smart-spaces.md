@@ -9,7 +9,7 @@ status: "GA"
 primary_industry: "Horizontal"
 industries: "Education,Health & Life Sciences,Manufacturing"
 technology_stack: "IoT,IoT Hub,Azure App Service,Application Insights,Azure Functions,Logic Apps. Stream Analytics,Azure SQL"
-github_url: https://github.com/MSUSSolutionAccelerators/Smart-Spaces-Sustainability-Solution-Accelerator
+github_url: https://github.com/MSUSAzureAccelerators/Smart-Spaces-Sustainability-Solution-Accelerator
 demo_url: 
 customer_overview_url: 
 customer_deck_url: 

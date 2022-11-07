@@ -9,7 +9,7 @@ status: "Beta"
 primary_industry: "Financial Services"
 industries: ""
 technology_stack: "Cognitive Services,Cosmos DB,Bot Framework,Azure Storage,Form Recognizer,Luis"
-github_url: https://github.com/MSUSSolutionAccelerators/AI-Powered-Insurance-Claims-Automation-Solution-Accelerator
+github_url: https://github.com/MSUSAzureAccelerators/AI-Powered-Insurance-Claims-Automation-Solution-Accelerator
 demo_url: 
 customer_overview_url: "assets/docs/Insurance%20Claims%20Automation%20Overview.pdf"
 customer_deck_url: "assets/docs/Insurance%20Claims%20Automation%20Customer%20Deck.pdf"

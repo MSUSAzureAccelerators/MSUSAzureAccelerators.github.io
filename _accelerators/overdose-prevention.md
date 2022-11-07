@@ -9,7 +9,7 @@ status: "Beta"
 primary_industry: "Horizontal"
 industries: "Health & Life Sciences,State & Local Government"
 technology_stack: "IoT,IoT Hub,Synapse Analytics"
-github_url: https://github.com/MSUSSolutionAccelerators/Overdose-Prevention-Solution-Accelerator
+github_url: https://github.com/MSUSAzureAccelerators/Overdose-Prevention-Solution-Accelerator
 demo_url: 
 customer_overview_url: 
 customer_deck_url: 
