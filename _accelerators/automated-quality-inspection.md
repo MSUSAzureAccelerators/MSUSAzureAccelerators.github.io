@@ -5,7 +5,7 @@ title: "Automated Quality Inspection"
 accelerator_type: "Industry Customer Scenario"
 classification: "Process Automation"
 solution_area: ""
-status: "In Progress"
+status: "GA"
 primary_industry: "Manufacturing"
 industries: "Automotive,Mobility & Transport"
 technology_stack: "Azure Container Registry,Azure DevOps,Azure IoT Hub,Azure KeyVault,Azure Machine Learning,Cognitive Services: Vision,Azure SQL,Azure Storage,Docker,Power BI"
@@ -16,8 +16,8 @@ customer_deck_url: "https://microsofteur.sharepoint.com/:p:/t/HQDataAIIndustryTe
 short_text: "Inspect product quality at the point of manufacture on the assembly line in real-time."
 hero_image: assets/images/AIOT_Automated_Quality_Inspection_Hero.webp
 partner_image: 
-tags: "\"Industry Customer Scenario\",\"Process Automation\",\"Manufacturing\",\"Automotive\",\"Mobility & Transport\",\"Azure Container Registry\",\"Azure DevOps\",\"Azure IoT Hub\",\"Azure KeyVault\",\"Azure Machine Learning\",\"Cognitive Services: Vision\",\"Azure SQL\",\"Azure Storage\",\"Docker\",\"Power BI\",\"In Progress\""
-last_updated: "2022-11-07T16:55:36Z"
+tags: "\"Industry Customer Scenario\",\"Process Automation\",\"Manufacturing\",\"Automotive\",\"Mobility & Transport\",\"Azure Container Registry\",\"Azure DevOps\",\"Azure IoT Hub\",\"Azure KeyVault\",\"Azure Machine Learning\",\"Cognitive Services: Vision\",\"Azure SQL\",\"Azure Storage\",\"Docker\",\"Power BI\",\"GA\""
+last_updated: "2022-11-09T21:47:19Z"
 related: ""
 order: 2
 ---
