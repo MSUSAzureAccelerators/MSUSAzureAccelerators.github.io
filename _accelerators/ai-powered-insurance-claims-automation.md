@@ -9,15 +9,15 @@ status: "Beta"
 primary_industry: "Financial Services"
 industries: ""
 technology_stack: "Cognitive Services,Cosmos DB,Bot Framework,Azure Storage,Form Recognizer,Luis"
-github_url: https://github.com/MSUSAzureAccelerators/AI-Powered-Insurance-Claims-Automation-Solution-Accelerator
-demo_url: 
-customer_overview_url: "assets/docs/Insurance%20Claims%20Automation%20Overview.pdf"
+github_url: https://github.com/MSUSAzureAccelerators/AI-Powered-Insurance-Claims-Automation-Accelerator
+demo_url: https://microsoft.sharepoint.com/:v:/r/teams/SolutionAcceleratorsPartnerForum/Shared%20Documents/General/MSUS%20Azure%20Accelerator%20Assets/AI-Powered%20Insurance%20Claims%20Automation/POV_demo_AI-Powered%20Insurance%20Claims%20Automation.mp4?csf=1&web=1&e=ipzgws
+customer_overview_url: "https://microsoft.sharepoint.com/:b:/r/teams/SolutionAcceleratorsPartnerForum/Shared%20Documents/General/MSUS%20Azure%20Accelerator%20Assets/AI-Powered%20Insurance%20Claims%20Automation/Insurance%20Claims%20Automation%20Overview.pdf?csf=1&web=1&e=zzmChf"
 customer_deck_url: "assets/docs/Insurance%20Claims%20Automation%20Customer%20Deck.pdf"
 short_text: "Reduce claims processing time and manual effort in end-to-end claims processing for better customer experience."
 hero_image: assets/images/AI_Powered_Insurance_Hero.webp
 partner_image: 
 tags: "\"Industry Customer Scenario\",\"Process Automation\",\"Financial Services\",\"Cognitive Services\",\"Cosmos DB\",\"Bot Framework\",\"Azure Storage\",\"Form Recognizer\",\"Luis\",\"Beta\""
-last_updated: "2022-11-02T17:38:45Z"
+last_updated: "2022-12-06T20:57:22Z"
 related: ""
 order: 2
 ---
@@ -25,4 +25,15 @@ order: 2
 
 Handling Claims processing through an intelligent agent with cognitive skills to handle image, ID, and documents with goal to reduce claims processing time and manual effort in end-to-end claims processing for better customer experience
 
-the solution will showcase Azure platform's machine learning capability to recognize document type, extract required fields and push data to downstream applications, significantly reducing manual efforts and creating smoother customer experience.
+The accelerator will showcase Azure platform's machine learning capability to recognize document type, extract required fields and push data to downstream applications, significantly reducing manual efforts and creating smoother customer experience.
+
+### Challenges
+Organization handles large volumes of documents (claims, applications, contracts, invoices, etc.) and not able to efficiently capture any rich insights
+Organization is investing in expensive manual labor to extract data
+Manual data extraction is inefficient and/or error-prone
+More time is spent on extracting data than on analysis and insights
+
+### Benefits
+Increase time to value/time to insight by reducing document processing times
+Reduce operating expenses by automation of manual processes
+Improve confidence and accuracy in extracted data

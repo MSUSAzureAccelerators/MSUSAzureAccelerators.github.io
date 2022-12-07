@@ -9,15 +9,15 @@ status: "GA"
 primary_industry: "Manufacturing"
 industries: "Automotive,Mobility & Transport"
 technology_stack: "Azure Container Registry,Azure DevOps,Azure IoT Hub,Azure KeyVault,Azure Machine Learning,Cognitive Services: Vision,Azure SQL,Azure Storage,Docker,Power BI"
-github_url: https://github.com/MSUSAzureAccelerators/Manufacturing-Vision-Solution-Accelerator-AMD64/
+github_url: https://github.com/MSUSAzureAccelerators/Manufacturing-Vision-AMD64-Accelerator
 demo_url: https://gearup.microsoft.com/download/a49e8443-ddd9-4f73-b16a-6bbcd6b3c865
-customer_overview_url: "https://microsoft.sharepoint.com/:b:/t/CAF-SolutionAccelerators/EbixtVBzw_FNhW7Lkei_aOIBFN5Ba6zuaGiUvE4dvaHILg?e=cM1kVh"
+customer_overview_url: "https://microsoft.sharepoint.com/:b:/r/teams/SolutionAcceleratorsPartnerForum/Shared%20Documents/General/MSUS%20Azure%20Accelerator%20Assets/Automated%20Quality%20Inspection/Automated%20Quality%20Inspection%20Overview.pdf?csf=1&web=1&e=sGg03L"
 customer_deck_url: "https://microsofteur.sharepoint.com/:p:/t/HQDataAIIndustryTeam/EWem9s1YQExIiK6NP6-p8EwBi_PTcWn08PxdvffIao6QWg?e=z3rvvq"
 short_text: "Inspect product quality at the point of manufacture on the assembly line in real-time."
 hero_image: assets/images/AIOT_Automated_Quality_Inspection_Hero.webp
 partner_image: 
 tags: "\"Industry Customer Scenario\",\"Process Automation\",\"Manufacturing\",\"Automotive\",\"Mobility & Transport\",\"Azure Container Registry\",\"Azure DevOps\",\"Azure IoT Hub\",\"Azure KeyVault\",\"Azure Machine Learning\",\"Cognitive Services: Vision\",\"Azure SQL\",\"Azure Storage\",\"Docker\",\"Power BI\",\"GA\""
-last_updated: "2022-11-09T21:47:19Z"
+last_updated: "2022-12-06T20:59:22Z"
 related: ""
 order: 2
 ---
@@ -39,7 +39,7 @@ By implementing AI-based product quality inspection through AI image analysis, m
 
 ### Benefits
 
-* **Improve customer satisfaction and increase customer retention** by preventing faulty parts from leaving the factory
+* **Improve customer satisfaction and customer retention** by preventing faulty parts from leaving factory
 * **Consistent brand quality** by actively monitoring from end-to-end on the assembly line
 * **Reduce costs** associated with faulty products
 * **Improve yield** of your factory line

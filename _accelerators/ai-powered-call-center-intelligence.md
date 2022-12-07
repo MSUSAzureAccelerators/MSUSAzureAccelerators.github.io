@@ -9,15 +9,15 @@ status: "GA"
 primary_industry: "Financial Services"
 industries: "Horizontal"
 technology_stack: "Cognitive Services,Azure Machine Learning,Power BI,Azure Speech Services,Azure SQL,Azure Storage"
-github_url: https://github.com/MSUSAzureAccelerators/AI-Powered-Call-Center-Intelligence-Solution-Accelerator
-demo_url: https://microsoft.sharepoint.com/:v:/t/CAF-SolutionAccelerators/EWPwSjtF2llBiR4KmkYfrUcBsppRd4UDfxfiWKTfkhEexg?e=ji6JCs
-customer_overview_url: "assets/docs/Call%20Center%20Intelligence%20Overview.pdf"
+github_url: https://github.com/MSUSAzureAccelerators/AI-Powered-Call-Center-Intelligence-Accelerator
+demo_url: https://microsoft.sharepoint.com/:v:/r/teams/SolutionAcceleratorsPartnerForum/Shared%20Documents/General/MSUS%20Azure%20Accelerator%20Assets/AI-Powered%20Call%20Center%20Intelligence/POV%20demo_AI-Powered%20Call%20Center%20Intelligence.mp4?csf=1&web=1&e=vInbqY
+customer_overview_url: "https://microsoft.sharepoint.com/:b:/r/teams/SolutionAcceleratorsPartnerForum/Shared%20Documents/General/MSUS%20Azure%20Accelerator%20Assets/AI-Powered%20Call%20Center%20Intelligence/Call%20Center%20Intelligence%20Overview.pdf?csf=1&web=1&e=V2tzaH"
 customer_deck_url: "assets/docs/Call%20Center%20Intelligence%20Customer%20Deck.pdf"
 short_text: "Automates call transcriptions for real-time and previously recorded calls"
 hero_image: assets/images/AI_Call_Center_Hero.webp
 partner_image: 
 tags: "\"Industry Customer Scenario\",\"Personalization\",\"Financial Services\",\"Horizontal\",\"Cognitive Services\",\"Azure Machine Learning\",\"Power BI\",\"Azure Speech Services\",\"Azure SQL\",\"Azure Storage\",\"GA\""
-last_updated: "2022-11-02T18:04:39Z"
+last_updated: "2022-12-06T20:55:06Z"
 related: ""
 order: 2
 ---
@@ -25,7 +25,7 @@ order: 2
 
 At many call centers, wait times, re-routing, and the human-to-human interactions between agents and customers can make or break the customer experience. Without modern tools like AI and advanced automation, many organizations find it difficult to maintain high customer service standards and improve call center employee efficiency.
 
-The AI-Powered Call Center Intelligence Solution Accelerator automates call transcriptions for real-time and previously recorded calls with Azure Cognitive Services by using custom speech models, text analytics, and industry-specific natural language processing. Data insights on customer sentiment, topic analysis, and other valuable call attributes are served up in a user-friendly visual dashboard in Power BI.
+The AI-Powered Call Center Intelligence Accelerator automates call transcriptions for real-time and previously recorded calls with Azure Cognitive Services by using custom speech models, text analytics, and industry-specific natural language processing. Data insights on customer sentiment, topic analysis, and other valuable call attributes are served up in a user-friendly visual dashboard in Power BI.
 
 ### Challenges
 
@@ -40,7 +40,7 @@ The AI-Powered Call Center Intelligence Solution Accelerator automates call tran
 ### Benefits
 
 * Gain highly accurate call transcription with automation.
-* Increase efficiency by reducing average call duration, limiting re-routing, and eliminating customer repetition.
+* Increase efficiency by reducing average call duration, limiting re-routing, and eliminating repetition.
 * Create better customer experiences for greater customer satisfaction and retention.
 * Generate a wealth of customer insights to inform training and sales processes.
 * Ensure compliance and PII protection with leading security and flexible data warehousing
