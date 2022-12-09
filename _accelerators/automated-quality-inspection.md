@@ -17,7 +17,7 @@ short_text: "Inspect product quality at the point of manufacture on the assembly
 hero_image: assets/images/AIOT_Automated_Quality_Inspection_Hero.webp
 partner_image: 
 tags: "\"Industry Customer Scenario\",\"Process Automation\",\"Manufacturing\",\"Automotive\",\"Mobility & Transport\",\"Azure Container Registry\",\"Azure DevOps\",\"Azure IoT Hub\",\"Azure KeyVault\",\"Azure Machine Learning\",\"Cognitive Services: Vision\",\"Azure SQL\",\"Azure Storage\",\"Docker\",\"Power BI\",\"GA\""
-last_updated: "2022-12-06T20:59:22Z"
+last_updated: "2022-12-08T22:36:59Z"
 related: ""
 order: 2
 ---

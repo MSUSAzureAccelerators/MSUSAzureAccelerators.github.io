@@ -13,11 +13,11 @@ github_url: https://github.com/microsoft/solution-accelerator-many-models
 demo_url: NA
 customer_overview_url: "https://microsoft.sharepoint.com/:b:/r/teams/SolutionAcceleratorsPartnerForum/Shared%20Documents/General/MSUS%20Azure%20Accelerator%20Assets/Demand%20Forecasting/Demand%20Forecasting%20Overview.pdf?csf=1&web=1&e=kZIqAM"
 customer_deck_url: "https://microsofteur.sharepoint.com/:p:/t/HQDataAIIndustryTeam/EWem9s1YQExIiK6NP6-p8EwBi_PTcWn08PxdvffIao6QWg?e=z3rvvq"
-short_text: "Determine how much demand there will be for a product at to optimize inventory and material/product orders."
+short_text: "Determine future demand to optimize inventory as well as material and product orders."
 hero_image: assets/images/Many_Models_Demand_Forecasting_Hero.png
 partner_image: 
 tags: "\"Industry Customer Scenario\",\"Predictive Analytics\",\"Supply Chain\",\"Manufacturing\",\"Energy\",\"Azure Cosmos DB\",\"Power BI\",\"Azure Machine Learning\",\"Azure Synapse Analytics\",\"Azure Storage\",\"Beta\""
-last_updated: "2022-12-06T22:23:30Z"
+last_updated: "2022-12-08T23:11:08Z"
 related: ""
 order: 2
 ---
