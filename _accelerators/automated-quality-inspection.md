@@ -11,13 +11,13 @@ industries: "Automotive,Mobility & Transport"
 technology_stack: "Azure Container Registry,Azure DevOps,Azure IoT Hub,Azure KeyVault,Azure Machine Learning,Cognitive Services: Vision,Azure SQL,Azure Storage,Docker,Power BI"
 github_url: https://github.com/MSUSAzureAccelerators/Manufacturing-Vision-AMD64-Accelerator
 demo_url: https://gearup.microsoft.com/download/a49e8443-ddd9-4f73-b16a-6bbcd6b3c865
-customer_overview_url: "https://microsoft.sharepoint.com/:b:/r/teams/SolutionAcceleratorsPartnerForum/Shared%20Documents/General/MSUS%20Azure%20Accelerator%20Assets/Automated%20Quality%20Inspection/Automated%20Quality%20Inspection%20Overview.pdf?csf=1&web=1&e=sGg03L"
+customer_overview_url: "https://microsoft.sharepoint.com/:b:/r/teams/CAF-SolutionAccelerators/Shared%20Documents/General/BVA%20Files/Automated%20Quality%20Inspection/Automated%20Quality%20Inspection%20Overview.pdf?csf=1&web=1&e=L6hTjn"
 customer_deck_url: "https://microsofteur.sharepoint.com/:p:/t/HQDataAIIndustryTeam/EWem9s1YQExIiK6NP6-p8EwBi_PTcWn08PxdvffIao6QWg?e=z3rvvq"
 short_text: "Inspect product quality at the point of manufacture on the assembly line in real-time."
 hero_image: assets/images/AIOT_Automated_Quality_Inspection_Hero.webp
 partner_image: 
 tags: "\"Industry Customer Scenario\",\"Process Automation\",\"Manufacturing\",\"Automotive\",\"Mobility & Transport\",\"Azure Container Registry\",\"Azure DevOps\",\"Azure IoT Hub\",\"Azure KeyVault\",\"Azure Machine Learning\",\"Cognitive Services: Vision\",\"Azure SQL\",\"Azure Storage\",\"Docker\",\"Power BI\",\"GA\""
-last_updated: "2022-12-08T22:36:59Z"
+last_updated: "2022-12-14T21:27:38Z"
 related: ""
 order: 2
 ---

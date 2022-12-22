@@ -10,14 +10,14 @@ primary_industry: "Financial Services"
 industries: "Horizontal"
 technology_stack: "Cognitive Services,Azure Machine Learning,Power BI,Azure Speech Services,Azure SQL,Azure Storage"
 github_url: https://github.com/MSUSAzureAccelerators/AI-Powered-Call-Center-Intelligence-Accelerator
-demo_url: https://microsoft.sharepoint.com/:v:/r/teams/SolutionAcceleratorsPartnerForum/Shared%20Documents/General/MSUS%20Azure%20Accelerator%20Assets/AI-Powered%20Call%20Center%20Intelligence/POV%20demo_AI-Powered%20Call%20Center%20Intelligence.mp4?csf=1&web=1&e=vInbqY
-customer_overview_url: "https://microsoft.sharepoint.com/:b:/r/teams/SolutionAcceleratorsPartnerForum/Shared%20Documents/General/MSUS%20Azure%20Accelerator%20Assets/AI-Powered%20Call%20Center%20Intelligence/Call%20Center%20Intelligence%20Overview.pdf?csf=1&web=1&e=V2tzaH"
+demo_url: https://microsoft.sharepoint.com/:v:/r/teams/CAF-SolutionAccelerators/Shared%20Documents/General/BVA%20Files/AI-Powered%20Call%20Center%20Intelligence/POV%20demo_AI-Powered%20Call%20Center%20Intelligence.mp4?csf=1&web=1&e=JbSSSK
+customer_overview_url: "https://microsoft.sharepoint.com/:b:/r/teams/CAF-SolutionAccelerators/Shared%20Documents/General/BVA%20Files/AI-Powered%20Call%20Center%20Intelligence/Call%20Center%20Intelligence%20Overview.pdf?csf=1&web=1&e=0LpV5u"
 customer_deck_url: "assets/docs/Call%20Center%20Intelligence%20Customer%20Deck.pdf"
-short_text: "Automates call transcriptions for real-time and previously recorded calls"
+short_text: "Automates call transcriptions for real-time and previously recorded calls."
 hero_image: assets/images/AI_Call_Center_Hero.webp
 partner_image: 
 tags: "\"Industry Customer Scenario\",\"Personalization\",\"Financial Services\",\"Horizontal\",\"Cognitive Services\",\"Azure Machine Learning\",\"Power BI\",\"Azure Speech Services\",\"Azure SQL\",\"Azure Storage\",\"GA\""
-last_updated: "2022-12-06T20:55:06Z"
+last_updated: "2022-12-14T22:20:41Z"
 related: ""
 order: 2
 ---

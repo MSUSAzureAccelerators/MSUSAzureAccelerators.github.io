@@ -10,14 +10,14 @@ primary_industry: "Financial Services"
 industries: ""
 technology_stack: "Azure Data Lake Storage,Synapse Analytics"
 github_url: https://github.com/MSUSAzureAccelerators/Risk-Classification-and-Loan-Modeling-Accelerator
-demo_url: https://microsoft.sharepoint.com/:v:/r/teams/SolutionAcceleratorsPartnerForum/Shared%20Documents/General/MSUS%20Azure%20Accelerator%20Assets/Risk%20Classification%20and%20Loan%20Modeling/POV_demo_Risk%20Classification%20and%20Loan%20Modeling.mp4?csf=1&web=1&e=xHjhm1
-customer_overview_url: "https://microsoft.sharepoint.com/:b:/r/teams/SolutionAcceleratorsPartnerForum/Shared%20Documents/General/MSUS%20Azure%20Accelerator%20Assets/Risk%20Classification%20and%20Loan%20Modeling/Risk%20%26%20Loan%20Overview.pdf?csf=1&web=1&e=bpXu9U"
+demo_url: https://microsoft.sharepoint.com/:v:/r/teams/CAF-SolutionAccelerators/Shared%20Documents/General/BVA%20Files/Risk%20Classification%20and%20Loan%20Modeling/POV_demo_Risk%20Classification%20and%20Loan%20Modeling.mp4?csf=1&web=1&e=UB6unf
+customer_overview_url: "https://microsoft.sharepoint.com/:b:/r/teams/CAF-SolutionAccelerators/Shared%20Documents/General/BVA%20Files/Risk%20Classification%20and%20Loan%20Modeling/Risk%20Classification%20and%20Loan%20Modeling%20Overview.pdf?csf=1&web=1&e=HPYxxN"
 customer_deck_url: "assets/docs/Risk%20Classification%20and%20Loan%20Modeling%20Customer%20Deck.pdf"
 short_text: "Automate processes to ensure compliance with SBA guidelines."
 hero_image: assets/images/Risk_Loan_Hero.webp
 partner_image: 
 tags: "\"Industry Customer Scenario\",\"Financial\",\"Financial Services\",\"Azure Data Lake Storage\",\"Synapse Analytics\",\"GA\""
-last_updated: "2022-12-08T20:04:28Z"
+last_updated: "2022-12-15T17:45:44Z"
 related: ""
 order: 2
 ---
