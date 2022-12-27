@@ -3,21 +3,21 @@ short_name: "Mission Landing Zone"
 name: "Mission Landing Zone"
 title: "Mission Landing Zone"
 accelerator_type: "Technology Accelerator"
-classification: "Technology Accelerator"
-solution_area: "Apps & Infrastructure"
+classification: ""
+solution_area: ""
 status: "Beta"
-primary_industry: "State & Local Government"
-industries: "Horizontal"
+primary_industry: "Horizontal"
+industries: "Tech Plug-In"
 technology_stack: "Bicep,Terraform,Azure Bastion,Azure Virtual Machine,Azure Firewall,Azure Defender,Azure Policy,Azure Sentinel,Azure Storage,Log Analytics"
 github_url: https://github.com/azure/missionlz
 demo_url: 
-customer_overview_url: 
-customer_deck_url: 
-short_text: "Create a cloud management system to deploy Azure environments"
-hero_image: assets/images/Mission-Landing-Zone-Hero.png
+customer_overview_url: ""
+customer_deck_url: ""
+short_text: "Create a cloud management system to deploy Azure environments."
+hero_image: "assets/images/Mission-Landing-Zone-Hero.png"
 partner_image: 
-tags: "\"Technology Accelerator\",\"Technology Accelerator\",\"State & Local Government\",\"Horizontal\",\"Bicep\",\"Terraform\",\"Azure Bastion\",\"Azure Virtual Machine\",\"Azure Firewall\",\"Azure Defender\",\"Azure Policy\",\"Azure Sentinel\",\"Azure Storage\",\"Log Analytics\",\"Apps & Infrastructure\",\"Beta\""
-last_updated: "2022-08-16T14:13:23Z"
+tags: "\"Technology Accelerator\",\"Horizontal\",\"Tech Plug-In\",\"Bicep\",\"Terraform\",\"Azure Bastion\",\"Azure Virtual Machine\",\"Azure Firewall\",\"Azure Defender\",\"Azure Policy\",\"Azure Sentinel\",\"Azure Storage\",\"Log Analytics\",\"Beta\""
+last_updated: "2022-12-15T22:48:32Z"
 related: ""
 order: 2
 ---
