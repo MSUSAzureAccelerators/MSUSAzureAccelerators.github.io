@@ -14,7 +14,7 @@ demo_url: https://microsoft.sharepoint.com/:v:/r/teams/CAF-SolutionAccelerators/
 customer_overview_url: "https://microsoft.sharepoint.com/:b:/r/teams/CAF-SolutionAccelerators/Shared%20Documents/General/BVA%20Files/Intelligent%20Document%20Processing/Intelligent%20Document%20Processing%20Overview.pdf?csf=1&web=1&e=rbbswr"
 customer_deck_url: "https://microsofteur.sharepoint.com/:p:/t/HQDataAIIndustryTeam/EWNlQ1ANRcVDlXfdCxUFBTQB0f1ueB52vQGDVkNjb8yKsQ?e=FeJIQm"
 short_text: "Automate extraction of data from complex structured and unstructured documents to unlock insights."
-hero_image: assets/images/Intelligent_Document_Processing_Hero.webp
+hero_image: "assets/images/Intelligent_Document_Processing_Hero.webp"
 partner_image: 
 tags: "\"Industry Customer Scenario\",\"Process Automation\",\"Financial Services\",\"Horizontal\",\"Form Recognizer\",\"Azure Logic Apps\",\"Azure Cosmos DB\",\"Power BI\",\"Azure Data Explorer\",\"Bot Framework\",\"Luis\",\"GA\""
 last_updated: "2022-12-19T21:26:32Z"
