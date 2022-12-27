@@ -3,21 +3,21 @@ short_name: "Manufacturing Vision - AMD64"
 name: "Manufacturing Vision - AMD64"
 title: "Manufacturing Vision - AMD64"
 accelerator_type: "Industry Customer Scenario"
-classification: "Process Automation"
-solution_area: "Data & AI"
+classification: ""
+solution_area: ""
 status: "Beta"
 primary_industry: "Manufacturing"
-industries: "Automotive"
+industries: "Automotive,Mobility & Transport"
 technology_stack: "Docker,Python"
-github_url: https://github.com/MSUSAzureAccelerators/Manufacturing-Vision-Solution-Accelerator-AMD64
-demo_url: 
-customer_overview_url: 
-customer_deck_url: 
-short_text: "More information coming soon on the Manufacturing Vision Solution Accelerator for AMD64 devices"
-hero_image: assets/images/Manufacturing_Vision_Hero.webp
+github_url: https://github.com/MSUSAzureAccelerators/Manufacturing-Vision-AMD64-Accelerator
+demo_url: https://microsoft.sharepoint.com/:v:/r/teams/CAF-SolutionAccelerators/Shared%20Documents/General/BVA%20Files/Manufacturing%20Vision/POV_demo_Manufacturing%20Vision.mp4?csf=1&web=1&e=JE6PHS
+customer_overview_url: ""
+customer_deck_url: ""
+short_text: "Base code for the Manufacturing Vision Accelerator for AMD64 architecture."
+hero_image: "assets/images/Manufacturing_Vision_Hero.webp"
 partner_image: 
-tags: "\"Industry Customer Scenario\",\"Process Automation\",\"Manufacturing\",\"Automotive\",\"Docker\",\"Python\",\"Data & AI\",\"Beta\""
-last_updated: "2022-09-06T17:50:16Z"
+tags: "\"Industry Customer Scenario\",\"Manufacturing\",\"Automotive\",\"Mobility & Transport\",\"Docker\",\"Python\",\"Beta\""
+last_updated: "2022-12-15T22:24:46Z"
 related: ""
 order: 2
 ---
