@@ -25,9 +25,7 @@ order: 2
 
 Demand forecasting is one of the top use cases for predictive analytics, with applications for virtually every organization around the globe. Demand forecasting analyzes and predicts customer demand to optimize sales/marketing, manufacturing, and supply chain decisions. Demand forecasting involves applying statistical techniques to historical sales/demand data and other customer and market data to estimate what future demand looks like. The Demand Forecasting Accelerator enables organizations to quickly create a robust demand forecasting capability that applies a variety of statistical techniques and models to provide a better view into future need.
 
-### Use Case
-
-%23%23%23 Inventory Management | Operating Analytics
+### Inventory Management | Operating Analytics
 
 This accelerator is great for customers looking to improve their ability to forecast customer demand and/or has experienced operational issues associated with poor demand forecasting. These issues can include lost revenue due to inventory shortages/stockout, high levels of inventory obsolescence or write-offs, and low customer satisfaction, among others.
 
