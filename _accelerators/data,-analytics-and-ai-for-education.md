@@ -5,7 +5,7 @@ title: "Data, Analytics and AI for Education"
 accelerator_type: "Industry Customer Scenario"
 classification: "Predictive Analytics,Technology Accelerator,Personalization"
 solution_area: ""
-status: "GA"
+status: ""
 primary_industry: "Education"
 industries: ""
 technology_stack: "Synapse Analytics​,Azure Data Lake​,Azure Active Directory​,Purview​,OEA Framework"
@@ -16,8 +16,8 @@ customer_deck_url: "https://microsoft.sharepoint.com/:p:/t/EducationIndustryTeam
 short_text: "Transform education experiences for students and educators through connecting data, analytics and AI."
 hero_image: "assets/images/notfound.png"
 partner_image: 
-tags: "\"Industry Customer Scenario\",\"Predictive Analytics\",\"Technology Accelerator\",\"Personalization\",\"Education\",\"Synapse Analytics​\",\"Azure Data Lake​\",\"Azure Active Directory​\",\"Purview​\",\"OEA Framework\",\"GA\""
-last_updated: "2022-12-21T21:03:33Z"
+tags: "\"Industry Customer Scenario\",\"Predictive Analytics\",\"Technology Accelerator\",\"Personalization\",\"Education\",\"Synapse Analytics​\",\"Azure Data Lake​\",\"Azure Active Directory​\",\"Purview​\",\"OEA Framework\""
+last_updated: "2022-12-19T19:49:47Z"
 related: ""
 order: 2
 ---
