@@ -17,7 +17,7 @@ short_text: "Deliver geospatial visualizations of road network performance and d
 hero_image: "assets/images/notfound.png"
 partner_image: 
 tags: "\"Industry Customer Scenario\",\"Predictive Analytics\",\"Government\",\"Manufacturing\",\"Automotive\",\"Mobility & Transport\",\"Cosmos DB\",\"Azure Blob\",\"Kubernetes Services\",\"Python\",\"Azure Machine Learning\""
-last_updated: "2022-12-19T19:51:37Z"
+last_updated: "2022-12-19T19:54:21Z"
 related: ""
 order: 2
 ---

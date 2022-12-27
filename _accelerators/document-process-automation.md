@@ -5,7 +5,7 @@ title: "Document Process Automation"
 accelerator_type: "Industry Customer Scenario"
 classification: "Process Automation"
 solution_area: ""
-status: "GA"
+status: ""
 primary_industry: "Financial Services"
 industries: "Horizontal"
 technology_stack: "Form Recognizer,Azure Logic Apps,Azure Cosmos DB,Power BI,Azure Data Explorer,Bot Framework,Luis"
@@ -16,7 +16,7 @@ customer_deck_url: "https://microsofteur.sharepoint.com/:p:/t/HQDataAIIndustryTe
 short_text: "Automate extraction of data from complex structured and unstructured documents to unlock insights."
 hero_image: "assets/images/Intelligent_Document_Processing_Hero.webp"
 partner_image: 
-tags: "\"Industry Customer Scenario\",\"Process Automation\",\"Financial Services\",\"Horizontal\",\"Form Recognizer\",\"Azure Logic Apps\",\"Azure Cosmos DB\",\"Power BI\",\"Azure Data Explorer\",\"Bot Framework\",\"Luis\",\"GA\""
+tags: "\"Industry Customer Scenario\",\"Process Automation\",\"Financial Services\",\"Horizontal\",\"Form Recognizer\",\"Azure Logic Apps\",\"Azure Cosmos DB\",\"Power BI\",\"Azure Data Explorer\",\"Bot Framework\",\"Luis\""
 last_updated: "2022-12-19T21:26:32Z"
 related: ""
 order: 2
