@@ -17,7 +17,7 @@ short_text: "Speed up migration with ease of development and also use the same f
 hero_image: "assets/images/ADF_Ingestion_Framework_Hero.webp"
 partner_image: 
 tags: "\"Technology Accelerator\",\"Process Automation\",\"Horizontal\",\"Synapse\",\"Azure SQL\",\"Azure Data Lake Storage\",\"Power BI\",\"Azure Data Factory\",\"Beta\""
-last_updated: "2022-12-19T19:23:31Z"
+last_updated: "2023-01-03T21:57:06Z"
 related: ""
 order: 2
 ---
@@ -25,4 +25,9 @@ order: 2
 
 Accelerate ingestion of data into Synapse with standard architecture pattern which can speed up migration with ease of development and also use the same for production deployment.  
 
-This framework can be used for migration of any database to your target database (Azure Synapse or Azure SQL Database). The framework is able to handle incremental patterns and also history loads for large tables. It reduces the development time and accelerates the production workloads. This framework can scale to a larger number of tables with minimum efforts, and it work well with batch ingestion with near real time of around 10 minutes.
+This framework can: 
+### Be used for migration of any database to your target database (Azure Synapse or Azure SQL Database)
+### Handle incremental patterns and also history loads for large tables
+### Reduce the development time and accelerate the production workloads
+### Scale to a larger number of tables with minimum efforts
+### Work well with batch ingestion with near real time of around 10 minutes
