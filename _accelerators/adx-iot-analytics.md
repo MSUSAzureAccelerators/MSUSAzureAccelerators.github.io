@@ -17,16 +17,16 @@ short_text: "Azure Data Explorer can provide valuable insights into your IoT wor
 hero_image: "assets/images/notfound.png"
 partner_image: 
 tags: "\"Industry Customer Scenario\",\"Manufacturing\",\"Automotive\",\"Mobility & Transport\",\"State & Local Government\",\"Azure IoT Hub\",\"Bicep\",\"IoT\",\"Digital Twins\",\"Event Hub\",\"Azure Data Explorer\",\"Beta\""
-last_updated: "2022-12-19T19:20:54Z"
+last_updated: "2023-01-05T22:58:45Z"
 related: ""
 order: 2
 ---
 ## About this Accelerator
 
-Azure Data Explorer can provide valuable insights into your IoT workloads. This accelerator showcases what an IoT analytics solution would look like using simulated IoT Devices - the accelerator allows you to choose between two different demo solutions.
+Azure Data Explorer can provide valuable insights into your IoT workloads. This accelerator showcases what an IoT analytics solution would look like using simulated IoT Devices - it allows you to choose between two different demo solutions.
 
 ### ADX IoT Workshop
-This will deploy a completely configured environment where after deployment you’ll have simulated devices, an Azure Digital Twins representation, configured Azure Data Explorer cluster with both historical data (month of January) and new simulated data flowing in through Event Hub via IoT Central. This will allow you to get to the KQL query experience immediately after deployment.
+Deploy a completely configured environment where after deployment you’ll have simulated devices, an Azure Digital Twins representation, configured Azure Data Explorer cluster with both historical data (month of January) and new simulated data flowing in through Event Hub via IoT Central. This will allow you to get to the KQL query experience immediately after deployment.
 
 - IoT Central Store Analytics Template
   - 36 thermostat devices being created and simulated
@@ -47,7 +47,7 @@ This will deploy a completely configured environment where after deployment you�
     - GetDevicesbyOfficeFloor: query ADT by Office and Floor to get all Devices on that floor
 
 ### ADX IoT MicroHack
-This deploys the components needed for your IoT Analytics and lets you experience setting up the Azure Data Explorer Cluster and configuring the data ingestion.
+Deploys the components needed for your IoT Analytics and lets you experience setting up the Azure Data Explorer Cluster and configuring the data ingestion.
 
 - IoT Central Logistics Template
   - 1000 logistic devices being created and simulated
