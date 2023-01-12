@@ -17,7 +17,7 @@ short_text: "Automate extraction of data from complex structured and unstructure
 hero_image: "assets/images/Intelligent_Document_Processing_Hero.webp"
 partner_image: 
 tags: "\"Industry Customer Scenario\",\"Process Automation\",\"Financial Services\",\"Horizontal\",\"Form Recognizer\",\"Azure Logic Apps\",\"Azure Cosmos DB\",\"Power BI\",\"Azure Data Explorer\",\"Bot Framework\",\"Luis\""
-last_updated: "2022-12-19T21:26:32Z"
+last_updated: "2023-01-12T14:43:35Z"
 related: ""
 order: 2
 ---
