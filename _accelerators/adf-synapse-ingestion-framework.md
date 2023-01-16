@@ -23,7 +23,7 @@ order: 2
 ---
 ## About this Accelerator
 
-Accelerate ingestion of data into Synapse with standard architecture pattern which can speed up migration with ease of development and also use the same for production deployment.  
+Accelerate ingestion of data into Synapse with standard architecture pattern which can speed up migration with ease of development and also use the same for production deploymentS
 
 This framework can: 
 - Be used for migration of any database to your target database (Azure Synapse or Azure SQL Database)
