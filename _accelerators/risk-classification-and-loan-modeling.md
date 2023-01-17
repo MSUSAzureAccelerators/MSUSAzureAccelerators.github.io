@@ -23,19 +23,18 @@ order: 2
 ---
 ## About this Accelerator
 
-Use predictive analytics and machine learning to estimate the optimal loan size that the SBA will approve for a given applicant which enables lending partners to process loan applications and make data-driven lending decisions quickly. Automate process for accelerating loan approval and rejection process and providing right-size loans to increase the likelihood of complete and timely payments to ensure compliance with SBA guidelines.
+Use predictive analytics and machine learning to estimate the optimal loan size that the SBA will approve for a given applicant which enables lending partners to process loan applications and make data-driven lending decisions quickly. Automate process for accelerating the loan approval and rejection process and providing right-size loans to increase the likelihood of complete and timely payments to ensure compliance with SBA guidelines.
 
 ### Challenges
-* Backlogs and errors in loan application due to reliance on labor-intensive, manual, low-tech processing
-* High volumes of loan applications lead to bottlenecks and delays
-* Delays can cause applicants to lose critical business opportunities and impact their risk profiles
-* Inability to regularly run and re-run risk classification limits the accuracy of assessments
-* Lack of efficient, precise loan modeling makes it difficult to determine exactly what the SBA will approve
+* Backlogs and errors in loan application due to reliance on labor-intensive, manual, low-tech processing.
+* High volumes of loan applications lead to bottlenecks and delays.
+* Delays can cause applicants to lose critical business opportunities and impact their risk profiles.
+* Inability to regularly run and re-run risk classification limits the accuracy of assessments.
+* Lack of efficient, precise loan modeling makes it difficult to determine exactly what the SBA will approve.
 
 ### Benefits
-* Automate processes to ensure compliance with SBA guidelines
-* Accelerate the loan approval and rejection process
-* Right-size loans to increase the likelihood of complete and timely payments
-* Improve customer experience and increase customer retention
-* Support small businesses and the chain of industries dependent on them
-* Easily launch using a pre-build, pre-configured accelerator model
+* Automate processes to ensure compliance with SBA guidelines.
+* Accelerate the loan approval and rejection process.
+* Predict right-size loans to increase the likelihood of complete and timely payments.
+* Improve customer experience and increase customer retention.
+* Support small businesses and the chain of industries dependent on them.
