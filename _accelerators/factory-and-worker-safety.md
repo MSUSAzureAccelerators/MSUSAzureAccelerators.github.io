@@ -23,19 +23,18 @@ order: 2
 ---
 ## About this Accelerator
 
-The Artificial Intelligence of Things (AIoT) is the combination of artificial intelligence (AI) technologies with the Internet of Things (IoT) infrastructure to achieve more efficient IoT operations, improve human-machine interactions and enhance data management and analytics. AI can be used to transform IoT data into useful information for improved decision-making processes, thus creating a foundation for newer technology such as IoT Data as a Service (IoTDaaS).
+The Artificial Intelligence of Things (AIoT) is the combination of Artificial Intelligence (AI) technologies with the Internet of Things (IoT) infrastructure to achieve more efficient IoT operations, improve human-machine interactions and enhance data management and analytics. AI can be used to transform IoT data into useful information for improved decision-making processes, thus creating a foundation for newer technology such as IoT Data as a Service (IoTDaaS).
 
-### Challenges that need modernizing
+### Challenges
+* Lower worker utility and greater errors in human visual monitoring leads to more accidents and declining worker satisfaction.
+* Growing complexity of compliance requirements, especially PPE.
+* Siloed data and imcomplete incident documentation make insurance claims difficult to process and prevent insights from being uncovered.
+* Latent visual image analysis delays responses to safety risks and incidents and every second matters for triggering alerts.
 
-* **Human condition and environment monitoring**
-* **PPE and emergency response**
-* **Unsafe operations** due to fatigue, sleep deprivation, speeding.
-
-> Workplace injuries cost U.S. companies $60b per year
+> Workplace injuries cost U.S. companies $60B per year
 
 ### Benefits
-
-* **Decreased workplace incidents** The most important is keeping the safety of your workers.
-* **Increased employee satisfaction** Appeal of the workplace for the workforce
-* **Increased productivity and bottom line** Ensuring your workforce is healthy and safe
-* **Meet compliance standards and gain brand credibility** Injuries can also significantly hurt a brand's credibility
+* **Fewer workplace incidents.** Protect the safety of your workers.
+* **Greater employee satisfaction:** Diverting lower-skilled tasks to automated processes and focusing worker time on higher-value activities.
+* **Increased productivity and bottom line savings:** Ensuring your workforce is healthy and safe while minimizing downtime due to disruptions.
+* **Meet compliance standards and gain brand credibility:** Prioritizing and achieving high safety standards.

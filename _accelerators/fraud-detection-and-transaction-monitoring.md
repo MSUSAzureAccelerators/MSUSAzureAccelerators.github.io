@@ -23,8 +23,18 @@ order: 2
 ---
 ## About this Accelerator
 
+The Fraud Detection and Transaction Monitoring Accelerator identifies the risk of fraud or fraud associated activities including phone calls, credit card transactions, money laundering and online purchases with real-time analysis and streaming data.
+
 ### Challenges
+- Fraud is resulting in significant costs to business and it is growing.
+- Fraud claim rates from customers are high.
+- Actions taken to combat fraud are reactive versus preventive.
+- Fraud detection accuracy rates are low.
 
 > The global fraud detection and prevention market was valued at USD 18.24 billion in 2020 and expected to reach USD 40.8 billion by 2026 and grow at a CAGR of 18.17% over the forecast period (2021-2026).
 
 ### Benefits
+- Ensure client and company security by continuously reviewing transactions for fraudulent activities and high-risk areas.
+- Improve customer satisfaction by proactively identifying and stopping fraudulent transactions with greater accuracy.
+- Avoid costly claim scenarios by improving detection rates and delivering better insights to case workers.
+- Save time and costs by reducing the amount of time to discover and stop fraud.
