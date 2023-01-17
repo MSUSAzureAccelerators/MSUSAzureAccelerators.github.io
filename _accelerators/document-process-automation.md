@@ -23,4 +23,15 @@ order: 2
 ---
 ## About this Accelerator
 
-Many organizations process different format of forms in various format. These forms go through a manual data entry process to extract all the relevant information before the data can be used by software applications. The manual processing adds time and opex in the process. The solution described here demonstrate how organizations can use Azure cognitive services to completely automate the data extraction and entry from pdf forms. The solution highlights the usage of the Form Recognizer and Azure Cognitive Search cognitive services. The pattern and template is data agnostic i.e. it can be easily customized to work on a custom set of forms as required by a POC, MVP or a demo. The demo also scales well through different kinds of forms and supports forms with multiple pages.
+Many organizations process huge volumnes of diverse documents in various formats. These forms go through a manual data entry process to extract all the relevant information before the data can be used by software applications. The manual processing is costly adds time and is often an error-prone practice. The accelerator demonstrates how organizations can use Azure cognitive services to completely automate the data extraction and entry from pdf forms by highlighting the usage of **Form Recognizer** and **Azure Cognitive Search**. The pattern and template is data agnostic - it can be easily adapted to work on a custom set of forms as required by a POC, MVP or a demo. The demo also scales well through different kinds of forms and supports multiple page forms.
+
+### Challenges
+- Handle large volumnes of documents and not able to efficiently capture any rich insights from them
+- Invest in expensive manual labor to extract data
+- Manual data extraction can be labor intensive and/or error-prone, resulting in low confidence in data accuracy
+- More time is spent on extracting data than on analysis, insights and action
+
+### Benefits
+- Increase speed to value/insight by reducing document processing time
+- Reduce operating expenses through automation of manual processes
+- Improve data confidence and accuracy in extracted data by relying less on error-prone manual processes

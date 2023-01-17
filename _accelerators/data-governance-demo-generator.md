@@ -23,4 +23,4 @@ order: 2
 ---
 ## About this Accelerator
 
-More detailed information coming soon about the Data Governance Demo Generator
+More detailed information coming soon about the Data Governance Demo Generator.
