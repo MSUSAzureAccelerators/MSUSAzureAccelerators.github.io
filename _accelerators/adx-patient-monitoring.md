@@ -23,12 +23,12 @@ order: 2
 ---
 ## About this Accelerator
 
-This example shows how to use ADX to monitor a patient's vitals and knee brace readings. It leverages [Azure Bicep](https://docs.microsoft.com/EN-US/azure/azure-resource-manager/bicep/) and the Azure CLI to automate the entire deployment.
+How to use ADX to monitor a patient's vitals and knee brace readings. It leverages [Azure Bicep](https://docs.microsoft.com/EN-US/azure/azure-resource-manager/bicep/) and the Azure CLI to automate the entire deployment.
 
-The solution uses [Azure IoT Central](https://azure.microsoft.com/en-us/services/iot-central/) Continuous Patient Monitoring application to generate telemetry readings for two IoT Consumer devices: automated knee brace and a vitals monitor patch. The generated data is automatically send to an [Azure Event Hub](https://azure.microsoft.com/en-us/services/event-hubs/) and then send to an [Azure Data Explorer](https://azure.microsoft.com/en-us/services/data-explorer/) for analysis.
+The accelerator uses [Azure IoT Central](https://azure.microsoft.com/en-us/services/iot-central/) Continuous Patient Monitoring application to generate telemetry readings for two IoT Consumer devices: automated knee brace and a vitals monitor patch. The generated data is automatically sent to an [Azure Event Hub](https://azure.microsoft.com/en-us/services/event-hubs/) and then sent to an [Azure Data Explorer](https://azure.microsoft.com/en-us/services/data-explorer/) for analysis.
 
 An [Azure Digital Twins](https://azure.microsoft.com/en-us/services/digital-twins/) service is used to store additional simulated devices metadata.
 
 The Azure Data Explorer cluster is configured with a database, a set of tables to store telemetry data from both devices, and a set of functions to parse incoming data and to query data directly from the Azure Digital Twins service.
 
-The solution includes a [Power BI](https://powerbi.microsoft.com/en-us/) report to visualize the data. Just download the file and open it in Power BI
+The accelerator includes a [Power BI](https://powerbi.microsoft.com/en-us/) report to visualize the data. Just download the file and open it in Power BI.
