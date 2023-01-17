@@ -25,9 +25,9 @@ order: 2
 
 Artificial Intelligence (AI) and the Internet of Things (IoT) are transforming how people, devices, and data interact in every sphere of life.
 
-However, the pace of change is exponential. Organizations often struggle to spot new technologies quickly or they may miss important pieces to build their ecosystem - making them unable to move fast enough develop their potential.
+The pace of change is exponential. Organizations often struggle to spot new technologies quickly or they may miss important pieces to build their ecosystem, making them unable to move fast enough to develop their potential.
 
-The Artificial Intelligence of Things (AIoT) is the combination of artificial intelligence (AI) technologies with the Internet of Things (IoT) infrastructure to achieve more efficient IoT operations, improve human-machine interactions and enhance data management and analytics. AI can be used to transform IoT data into useful information for improved decision making processes, thus creating a foundation for newer technology such as IoT Data as a Service (IoTDaaS).
+The Artificial Intelligence of Things (AIoT) is the combination of Artificial Intelligence (AI) technologies with the Internet of Things (IoT) infrastructure to achieve more efficient IoT operations, improve human-machine interactions and enhance data management and analytics. AI can be used to transform IoT data into useful information for improved decision making processes, thus creating a foundation for newer technology such as IoT Data as a Service (IoTDaaS).
 
 ### Core Azure Services That Support AIoT
 
@@ -39,4 +39,4 @@ IoT Edge            | Azure Cognitive Search
 Azure Digital Twins | Azure Machine Learning
 Azure Sphere        | Custom Vision
 
-> Gartner estimates that over 80% of enterprise IoT projects will incorporate AI by the end of 2022
+> Predictions suggest there will be 75 billion IoT devices by 2025. Combining these with AI offers more powerful solutions - sometimes called artificial intelligence of things (AIoT)

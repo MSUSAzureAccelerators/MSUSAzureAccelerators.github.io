@@ -29,7 +29,7 @@ A growing industry trend is the use of AI and ML in Azure and at the edge to aut
 
 ### Customer Challenges
 
-* **Defective products increase costs** in the form of returns and extend customer support
+* **Defective products increase costs** in the form of returns and extended customer support
 * **Late detection of faulty products** raise costs
 * **Customer satisfaction and retention decreases** when receiving a faulty product
 
