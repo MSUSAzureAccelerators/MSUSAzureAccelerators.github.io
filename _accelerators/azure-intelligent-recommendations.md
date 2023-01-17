@@ -47,15 +47,15 @@ Intelligent Recommendations provides the following capabilities for businesses:
 
 ### Business applications of recommender systems
 
-Intelligent Recommendations enables businesses to automate relevant recommendations, including personalized results for new and returning users, and the ability to interpret both user interactions and item or user metadata. In return, businesses receive tailored recommendations models based on their needs and business logic. Intelligent Recommendations frees companies from the tedious management of editorial collections. Instead, it helps drive engagement, run experiments, and build trust with consumers.
+Intelligent Recommendations enables businesses to automate relevant recommendations, including personalized results for new and returning users, and the ability to interpret both user interactions and item or user metadata. In return, businesses receive tailored recommendation models based on their needs and business logic. Intelligent Recommendations frees companies from the tedious management of editorial collections. Instead, it helps drive engagement, runs experiments, and builds trust with consumers.
 
 ### Example supported scenarios
 
 Intelligent Recommendations provides businesses with a toolkit of relevant scenarios, including:
 
 * **Personalized recommendations for end users:** Includes a list of unique content for a specific user based on their consumer habits and interactions. Businesses can recommend products, articles, videos, and more.
-* **Similar items:** Based on a variety of signals (user interactions) or metadata (such as images, text, friends, or demographics). Intelligent Recommendations can recommend visually similar items in a catalog (for example, floral-patterned shirts) or show similar wine based on the description and taste notes.
-* **Real-time and session-based recommendations for users:** Each customer journey can now have unique recommendations, even new customers.
+* **Similar items:** Based on a variety of signals (user interactions) or metadata (such as images, text, friends, or demographics). Intelligent Recommendations can recommend visually similar items in a catalog (for example, floral-patterned shirts) or show similar wines based on the description and taste notes.
+* **Real-time and session-based recommendations for users:** Each customer journey can now have unique recommendations, even for new customers.
 * **Basket completion:** Shows complementary items for users based on what is already in their cart.
 
 These interactions can have other metadata, such as the time of transaction, amount of money, duration of interaction, and more.

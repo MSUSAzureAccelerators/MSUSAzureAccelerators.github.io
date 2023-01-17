@@ -43,4 +43,4 @@ The AI-Powered Call Center Intelligence Accelerator automates call transcription
 * Increase efficiency by reducing average call duration, limiting re-routing, and eliminating repetition.
 * Create better customer experiences for greater customer satisfaction and retention.
 * Generate a wealth of customer insights to inform training and sales processes.
-* Ensure compliance and PII protection with leading security and flexible data warehousing
+* Ensure compliance and PII protection with leading security and flexible data warehousing.

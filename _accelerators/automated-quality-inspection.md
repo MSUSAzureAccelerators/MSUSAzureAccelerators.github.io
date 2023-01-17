@@ -23,16 +23,14 @@ order: 2
 ---
 ## About this Accelerator
 
-The Artificial Intelligence of Things (AIoT) is the combination of artificial intelligence (AI) technologies with the Internet of Things (IoT) infrastructure to achieve more efficient IoT operations, improve human-machine interactions and enhance data management and analytics. AI can be used to transform IoT data into useful information for improved decision making processes, thus creating a foundation for newer technology such as IoT Data as a Service (IoTDaaS).
+The Artificial Intelligence of Things (AIoT) is the combination of Artificial Intelligence (AI) technologies with the Internet of Things (IoT) infrastructure to achieve more efficient IoT operations, improve human-machine interactions and enhance data management and analytics. AI can be used to transform IoT data into useful information for improved decision-making processes, thus creating a foundation for newer technology such as IoT Data as a Service (IoTDaaS).
 
-A growing industry trend is the use of AI and ML in Azure and at the edge to automate quality inspection.  At a high level, the solutions typically leverage AI image analysis and data from IoT sensors to detect product quality issues in real-time on the production line.
-
-By implementing AI-based product quality inspection through AI image analysis, manufacturers not only reduce defects and increase factory yield but also have a direct positive impact on customer satisfaction.
+A growing industry trend is the use of AI and ML in Azure and at the edge to automate quality inspection.  At a high level, the solutions typically leverage AI image analysis and data from IoT sensors to detect product quality issues in real-time on the production line. By implementing AI-based product quality inspection through AI image analysis, manufacturers not only reduce defects and increase factory yield but also have a direct positive impact on customer satisfaction.
 
 ### Customer Challenges
 
-* **Defective products increase costs** in the form of returns and increased customer support
-* **Late detection of faulty products** cause for increased costs over early detection
+* **Defective products increase costs** in the form of returns and extend customer support
+* **Late detection of faulty products** raise costs
 * **Customer satisfaction and retention decreases** when receiving a faulty product
 
 > Machine Learning will improve product quality in discrete manufacturing industries by 35%
@@ -40,6 +38,6 @@ By implementing AI-based product quality inspection through AI image analysis, m
 ### Benefits
 
 * **Improve customer satisfaction and customer retention** by preventing faulty parts from leaving factory
-* **Consistent brand quality** by actively monitoring from end-to-end on the assembly line
+* **Consistent brand quality** by actively monitoring end-to-end on the assembly line
 * **Reduce costs** associated with faulty products
 * **Improve yield** of your factory line
