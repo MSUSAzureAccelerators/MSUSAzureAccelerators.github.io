@@ -35,7 +35,7 @@ The Digital Experience Solution brings together proven technology from partners 
 * Security for content and data is critical to maintain, and breaches are inherent risks.
 * Monetization tactics can be challenging to integrate and personalize, leading to poor experiences that erode trust in the brand.
 
-> 82% of consumers prefer live video over standard social media content.
+> Increased demand for live stream events is here to stay. Compelling live stream content is critical to audience retention. Social responsibility is playing a growing role in brand reputation.
 
 ### Benefits
 
