@@ -34,7 +34,7 @@ The Artificial Intelligence of Things (AIoT) is the combination of Artificial In
 > Workplace injuries cost U.S. companies $60B per year
 
 ### Benefits
-* **Fewer workplace incidents.** Protect the safety of your workers.
+* **Fewer workplace incidents:** Protect the safety of your workers.
 * **Greater employee satisfaction:** Diverting lower-skilled tasks to automated processes and focusing worker time on higher-value activities.
 * **Increased productivity and bottom line savings:** Ensuring your workforce is healthy and safe while minimizing downtime due to disruptions.
 * **Meet compliance standards and gain brand credibility:** Prioritizing and achieving high safety standards.
