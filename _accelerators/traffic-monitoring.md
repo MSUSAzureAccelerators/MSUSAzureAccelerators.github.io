@@ -17,18 +17,20 @@ short_text: "Deliver geospatial visualizations of road network performance and d
 hero_image: "assets/images/notfound.png"
 partner_image: 
 tags: "\"Industry Customer Scenario\",\"Predictive Analytics\",\"Government\",\"Manufacturing\",\"Automotive\",\"Mobility & Transport\",\"Cosmos DB\",\"Azure Blob\",\"Kubernetes Services\",\"Python\",\"Azure Machine Learning\""
-last_updated: "2022-12-19T19:54:21Z"
+last_updated: "2023-01-18T21:21:48Z"
 related: ""
 order: 2
 ---
 ## About this Accelerator
 
-This accelerator will enable state DOT/City to deliver geospatial visualizations of road network performance and demand, travel time delay, as well as non-recurring congestion events. The ability to record, produce analysis, and dispatch crew for pavement repair, and other hazardous conditions. This accelerator was built to provide developers with all of the resources needed to build a solution to:
-* Ability to upload a video
-* Classify vehicles based on vehicle type (care, pickup, truck, bus, and motorbike)
+This accelerator will enable state DOT/City to deliver geospatial visualizations of road network performance and demand, travel time delay, as well as non-recurring congestion events. The ability to record, produce analysis, and dispatch crew for pavement repair, and other hazardous conditions. 
+
+This accelerator was built to provide developers with all of the resources needed to build a solution to:
+* Upload a video
+* Classify vehicles based on vehicle type (car, pickup, truck, bus, and motorbike)
 * Count vehicles for each vehicle type
 * Identify if there is any incident/accident and notify the user
-* User interface will allow users to visualize the camera locations on map (if video has geo information)
-* User can select any camera on the map to get further details about the location
-* The UI will allow users to interface with the video and review the identified features
-* The system will store inference data to Azure base on predefined frequency
+* Allow users to visualize the camera locations on map (if video has geo information) with the user interface
+* Select any camera on the map to get further details about the location
+* Interface with the video and review the identified features through the UI
+* Store inference data to Azure base on predefined frequency in the system

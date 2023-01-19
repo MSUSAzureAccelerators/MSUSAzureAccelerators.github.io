@@ -17,7 +17,7 @@ short_text: "Azure Data Explorer can provide valuable insights into your IoT wor
 hero_image: "assets/images/notfound.png"
 partner_image: 
 tags: "\"Industry Customer Scenario\",\"Manufacturing\",\"Automotive\",\"Mobility & Transport\",\"State & Local Government\",\"Azure IoT Hub\",\"Bicep\",\"IoT\",\"Digital Twins\",\"Event Hub\",\"Azure Data Explorer\",\"Beta\""
-last_updated: "2023-01-05T22:58:45Z"
+last_updated: "2023-01-18T21:09:12Z"
 related: ""
 order: 2
 ---

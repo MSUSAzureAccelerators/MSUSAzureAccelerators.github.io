@@ -17,17 +17,18 @@ short_text: "Speed up migration with ease of development and also use the same f
 hero_image: "assets/images/notfound.png"
 partner_image: 
 tags: "\"Technology Accelerator\",\"Process Automation\",\"Horizontal\",\"Synapse\",\"Azure SQL\",\"Azure Data Lake Storage\",\"Power BI\",\"Azure Data Factory\",\"Beta\""
-last_updated: "2023-01-05T17:10:34Z"
+last_updated: "2023-01-17T16:58:30Z"
 related: ""
 order: 2
 ---
 ## About this Accelerator
 
-Accelerate ingestion of data into Synapse with standard architecture pattern which can speed up migration with ease of development and also use the same for production deployment.
+Accelerate ingestion of data into Synapse with standard architecture pattern which can speed up migration with ease of development and also use the same for production deployment.  
 
-This framework can: 
+This accelerator framework can: 
 - Be used for migration of any database to your target database (Azure Synapse or Azure SQL Database)
-- Handle incremental patterns and also history loads for large tables
-- Reduce the development time and accelerate the production workloads
+- Handle incremental patterns and history loads for large tables
+- Reduce development time
+- Accelerate production workloads
 - Scale to a larger number of tables with minimum efforts
 - Work well with batch ingestion with near real time of around 10 minutes

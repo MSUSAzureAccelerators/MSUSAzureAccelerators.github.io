@@ -17,10 +17,22 @@ short_text: "Base code for the Manufacturing Vision Accelerator for AMD64 archit
 hero_image: "assets/images/Manufacturing_Vision_Hero.webp"
 partner_image: 
 tags: "\"Industry Customer Scenario\",\"Manufacturing\",\"Automotive\",\"Mobility & Transport\",\"Docker\",\"Python\",\"Beta\""
-last_updated: "2022-12-15T22:24:46Z"
+last_updated: "2023-01-17T22:33:54Z"
 related: ""
 order: 2
 ---
 ## About this Accelerator
 
-This is the base code for the Manufacturing Vision for amd64 architecture.
+For the "last mile" connectivity of remote vision workloads while solving for anomaly object detection. This is the base code for the Manufacturing Vision for AMD64 architecture.
+
+### Key attributes
+- Pre-built code that is malleable enough that customer or partners can easily customize.
+- Vision analytics system provides intrinsic value to the front-line plant engineers and workers, with unique visibility into operations and value all the way to the c-suite.
+- Vision analytics change the way organizations do business for the better.
+- Model retraining - biases that can get revealed during production inferencing which requires a rebalancing of representation.
+
+### Expected outcomes
+- Detect the presence of foreign objects in a production line.
+- Detect errors in assembly
+- Detect environment changes - camera gets knocked off alignment, lighting in the plant changes or seasonal changes natural light, etc.
+- Detect safety infractions - lack of PPE, spill, leakage of product, etc.

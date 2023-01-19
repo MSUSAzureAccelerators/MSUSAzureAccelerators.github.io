@@ -17,7 +17,7 @@ short_text: "Create a cloud management system to deploy Azure environments."
 hero_image: "assets/images/Mission-Landing-Zone-Hero.png"
 partner_image: 
 tags: "\"Technology Accelerator\",\"Horizontal\",\"Tech Plug-In\",\"Bicep\",\"Terraform\",\"Azure Bastion\",\"Azure Virtual Machine\",\"Azure Firewall\",\"Azure Defender\",\"Azure Policy\",\"Azure Sentinel\",\"Azure Storage\",\"Log Analytics\",\"Beta\""
-last_updated: "2022-12-15T22:48:32Z"
+last_updated: "2023-01-18T21:24:30Z"
 related: ""
 order: 2
 ---
@@ -27,29 +27,14 @@ Mission Landing Zone is a highly opinionated Infrastructure-as-Code (IaC) templa
 
 Mission Landing Zone addresses a narrowly scoped, specific need for a Secure Cloud Computing Architecture (SCCA) compliant hub and spoke infrastructure.
 
-* Designed for US Government mission customers
-* Implements SCCA controls following Microsoft's SACA implementation guidance
-* Deployable in Azure commercial, Azure Government, Azure Government Secret, and Azure Government Top Secret clouds
-* A simple solution with low configuration and narrow scope
-* Written as Bicep and Terraform templates
+### Key attributes
+- A simple, secure, and scalable hub and spoke infracture is needed.
+- A central IT team is administering cloud resources on behalf of other teams and workloads.
+- There is a need to implement Secure Cloud Computing Architecture (SCCA).
+- Hosting any workload requiring a secure environment (i.e., data warehousing, AI/ML and containerized applications).
 
-Mission Landing Zone is the right solution when:
-
-* A simple, secure, and scalable hub and spoke infrastructure is needed.
-* A central IT team is administering cloud resources on behalf of other teams and workloads.
-* There is a need to implement SCCA.
-* Hosting any workload requiring a secure environment, for example: data warehousing, AI/ML, and containerized applications.
-
-Design goals include:
-
-* A simple, minimal set of code that is easy to configure
-* Good defaults that allow experimentation and testing in a single subscription
-* Deployment via command line or with a user interface
-* 100% Azure PaaS products
-
-Our intent is to enable IT Admins to use this software to:
-
-* Test and evaluate the landing zone using a single Azure subscription
-* Develop a known good configuration that can be used for production with multiple Azure subscriptions
-* Customize the deployment configuration to suit specific needs
-* Deploy multiple customer workloads in production
+### Expected outcomes
+- A simple, minimal set of code that is easy to configure to suit specific needs.
+- Allow experimentation and testing in a single subscription.
+- Deployment of multiple customer workloads in production via command line or with a user interface.
+- Develop a known good configuration that can be used for production with multiple Azure subscriptions.

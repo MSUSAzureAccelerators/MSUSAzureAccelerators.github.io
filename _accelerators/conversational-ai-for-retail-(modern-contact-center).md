@@ -1,7 +1,7 @@
 ---
-short_name: "Conversational AI for Retail"
-name: "Conversational AI for Retail"
-title: "Conversational AI for Retail"
+short_name: "Conversational AI for Retail (Modern Contact Center)"
+name: "Conversational AI for Retail (Modern Contact Center)"
+title: "Conversational AI for Retail (Modern Contact Center)"
 accelerator_type: "Industry Customer Scenario"
 classification: "Personalization"
 solution_area: ""
@@ -10,14 +10,14 @@ primary_industry: "Retail"
 industries: "Horizontal"
 technology_stack: "Azure Machine Learning,Bot Services,Cognitive Search,Cognitive Services"
 github_url: https://github.com/MSUSAzureAccelerators/Conversational-AI-Accelerator
-demo_url: https://zammo.ai/pocrequest/
+demo_url: 
 customer_overview_url: "https://microsoft.sharepoint.com/:b:/r/teams/CAF-SolutionAccelerators/Shared%20Documents/General/BVA%20Files/Conversational%20AI%20for%20Retail/Conversational%20AI%20(Retail)%20Overview.pdf?csf=1&web=1&e=kQ10bo"
 customer_deck_url: ""
 short_text: "Collect data from every interaction in a feedback loop for optimization."
 hero_image: "assets/images/Conversational_AI_Hero.webp"
 partner_image: 
 tags: "\"Industry Customer Scenario\",\"Personalization\",\"Retail\",\"Horizontal\",\"Azure Machine Learning\",\"Bot Services\",\"Cognitive Search\",\"Cognitive Services\""
-last_updated: "2023-01-17T18:38:19Z"
+last_updated: "2023-01-18T21:07:49Z"
 related: ""
 order: 2
 ---

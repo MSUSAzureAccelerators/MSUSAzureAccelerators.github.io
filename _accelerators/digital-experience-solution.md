@@ -4,20 +4,20 @@ name: "Digital Experience Solution"
 title: "Digital Experience Solution"
 accelerator_type: "Industry Customer Scenario"
 classification: "Campaign Management"
-solution_area: "BizApps,Modern Workplace"
-status: "Beta"
+solution_area: ""
+status: ""
 primary_industry: "Media & Communications"
 industries: ""
 technology_stack: ""
-github_url: https://github.com/MSUSAzureAccelerators/Digital-Experience-Solution
-demo_url: 
-customer_overview_url: 
-customer_deck_url: 
-short_text: "Move the entire live stream process offsite and into the cloud"
-hero_image: assets/images/Digital_Experience_Hero.webp
+github_url: https://github.com/MSUSAzureAccelerators/Digital-Experience-Solution-Accelerator
+demo_url: https://microsoft.sharepoint.com/:v:/r/teams/SolutionAcceleratorsPartnerForum/Shared%20Documents/General/MSUS%20Azure%20Accelerator%20Assets/Digital%20Experience%20Solution/MS_Live%20Events%20Demo_Final.mp4?csf=1&web=1&e=H4H2NY
+customer_overview_url: "https://microsoft.sharepoint.com/:b:/r/teams/CAF-SolutionAccelerators/Shared%20Documents/General/BVA%20Files/Digital%20Experience%20Solution/Digital%20Experience%20Solution%20Overview.pdf?csf=1&web=1&e=a1Ccch"
+customer_deck_url: ""
+short_text: "Move the entire live stream process offsite and into the cloud."
+hero_image: "assets/images/Digital_Experience_Hero.webp"
 partner_image: 
-tags: "\"Industry Customer Scenario\",\"Campaign Management\",\"Media & Communications\",\"BizApps\",\"Modern Workplace\",\"Beta\""
-last_updated: "2022-09-06T22:44:08Z"
+tags: "\"Industry Customer Scenario\",\"Campaign Management\",\"Media & Communications\""
+last_updated: "2023-01-17T18:56:37Z"
 related: ""
 order: 2
 ---
@@ -35,7 +35,9 @@ The Digital Experience Solution brings together proven technology from partners 
 * Security for content and data is critical to maintain, and breaches are inherent risks.
 * Monetization tactics can be challenging to integrate and personalize, leading to poor experiences that erode trust in the brand.
 
-> 82% of consumers prefer live video over standard social media content.
+> Increased demand for live stream events is here to stay with compelling content critical to audience retention.
+ 
+> Social responsibility is playing a growing role in brand reputation with eco-friendliness and accessibility awareness.
 
 ### Benefits
 

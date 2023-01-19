@@ -3,21 +3,21 @@ short_name: "Azure Intelligent Recommendations"
 name: "Azure Intelligent Recommendations"
 title: "Azure Intelligent Recommendations"
 accelerator_type: "Technology Accelerator"
-classification: "Technology Accelerator"
-solution_area: "BizApps,Data & AI"
-status: "GA"
-primary_industry: "Horizontal"
-industries: "Automotive,Education,Energy,Financial Services,High Tech,Health & Life Sciences,Manufacturing,Media & Entertainment,Professional Services,Retail & Consumer Goods,State & Local Government"
-technology_stack: "Azure Data Lake Storage,Synapse,Power BI,Azure Intelligent Recommendation"
+classification: "Personalization,Technology Accelerator"
+solution_area: ""
+status: ""
+primary_industry: "Retail"
+industries: "Horizontal,Tech Plug-in"
+technology_stack: "Azure Data Lake Storage,Synapse,Power BI,Azure Intelligent Recommendations"
 github_url: 
-demo_url: https://intelligent-recommendations.microsoft.com/verticals
-customer_overview_url: 
-customer_deck_url: 
-short_text: "Provide personalized product recommendations and telemetry insights"
-hero_image: assets/images/Intelligent_Recommendations_Hero.webp
+demo_url: 
+customer_overview_url: "https://microsoft.sharepoint.com/:b:/r/teams/CAF-SolutionAccelerators/Shared%20Documents/General/BVA%20Files/Intelligent%20Recommendations/Intelligent%20Recommendations%20Overview.pdf?csf=1&web=1&e=iekMFp"
+customer_deck_url: ""
+short_text: "Provide personalized product recommendations and telemetry insights."
+hero_image: "assets/images/Intelligent_Recommendations_Hero.webp"
 partner_image: 
-tags: "\"Technology Accelerator\",\"Technology Accelerator\",\"Horizontal\",\"Automotive\",\"Education\",\"Energy\",\"Financial Services\",\"High Tech\",\"Health & Life Sciences\",\"Manufacturing\",\"Media & Entertainment\",\"Professional Services\",\"Retail & Consumer Goods\",\"State & Local Government\",\"Azure Data Lake Storage\",\"Synapse\",\"Power BI\",\"Azure Intelligent Recommendation\",\"BizApps\",\"Data & AI\",\"GA\""
-last_updated: "2022-08-23T17:21:34Z"
+tags: "\"Technology Accelerator\",\"Personalization\",\"Technology Accelerator\",\"Retail\",\"Horizontal\",\"Tech Plug-in\",\"Azure Data Lake Storage\",\"Synapse\",\"Power BI\",\"Azure Intelligent Recommendations\""
+last_updated: "2023-01-18T21:44:03Z"
 related: ""
 order: 2
 ---
@@ -25,7 +25,7 @@ order: 2
 
 Intelligent Recommendations democratizes AI and machine learning recommendations through a codeless and powerful experience powered by the same technology that fuels Xbox, Microsoft 365, and Microsoft Azure. Businesses can now provide relevant discovery for customers with this new, innovative AI for personalization and recommendations.
 
-Detailed information about this service can be found at [https://intelligent-recommendations.microsoft.com/](https://intelligent-recommendations.microsoft.com/). In addition, you can find video walkthroughs at [https://www.youtube.com/playlist?list=PLcakwueIHoT9UsOLR9n1ri49pZ60R_vrh](https://www.youtube.com/playlist?list=PLcakwueIHoT9UsOLR9n1ri49pZ60R_vrh).
+Detailed information about this service can be found at https://intelligent-recommendations.microsoft.com/. In addition, you can find video walkthroughs at https://www.youtube.com/playlist?list=PLcakwueIHoT9UsOLR9n1ri49pZ60R_vrh.
 
 Using modern machine-learning algorithms, Intelligent Recommendations provides personalized product recommendations and telemetry insights. These recommendations and insights help you:
 
@@ -33,7 +33,7 @@ Using modern machine-learning algorithms, Intelligent Recommendations provides p
 * Create upsell and cross-sell opportunities.
 * Improve shoppers' experiences and product usability.
 
-### Capabilities
+###Capabilities
 
 Intelligent Recommendations helps companies drive better engagement, conversion, revenue, and customer satisfaction. Intelligent Recommendations is a general purpose service that offers one-of-a-kind, patented capabilities that more effectively drive desired outcomes out of the box such as "shop similar looks", "shop by description", "real time", "session based", Item based recommendations that can combine User interactions and Item Metadata. Businesses can promote and personalize any content type, such as sellable products, consumable media, documents, videos, and more.
 
@@ -47,15 +47,15 @@ Intelligent Recommendations provides the following capabilities for businesses:
 
 ### Business applications of recommender systems
 
-Intelligent Recommendations enables businesses to automate relevant recommendations, including personalized results for new and returning users, and the ability to interpret both user interactions and item or user metadata. In return, businesses receive tailored recommendations models based on their needs and business logic. Intelligent Recommendations frees companies from the tedious management of editorial collections. Instead, it helps drive engagement, run experiments, and build trust with consumers.
+Intelligent Recommendations enables businesses to automate relevant recommendations, including personalized results for new and returning users, and the ability to interpret both user interactions and item or user metadata. In return, businesses receive tailored recommendation models based on their needs and business logic. Intelligent Recommendations frees companies from the tedious management of editorial collections. Instead, it helps drive engagement, runs experiments, and builds trust with consumers.
 
 ### Example supported scenarios
 
 Intelligent Recommendations provides businesses with a toolkit of relevant scenarios, including:
 
 * **Personalized recommendations for end users:** Includes a list of unique content for a specific user based on their consumer habits and interactions. Businesses can recommend products, articles, videos, and more.
-* **Similar items:** Based on a variety of signals (user interactions) or metadata (such as images, text, friends, or demographics). Intelligent Recommendations can recommend visually similar items in a catalog (for example, floral-patterned shirts) or show similar wine based on the description and taste notes.
-* **Real-time and session-based recommendations for users:** Each customer journey can now have unique recommendations, even new customers.
+* **Similar items:** Based on a variety of signals (user interactions) or metadata (such as images, text, friends, or demographics). Intelligent Recommendations can recommend visually similar items in a catalog (for example, floral-patterned shirts) or show similar wines based on the description and taste notes.
+* **Real-time and session-based recommendations for users:** Each customer journey can now have unique recommendations, even for new customers.
 * **Basket completion:** Shows complementary items for users based on what is already in their cart.
 
 These interactions can have other metadata, such as the time of transaction, amount of money, duration of interaction, and more.

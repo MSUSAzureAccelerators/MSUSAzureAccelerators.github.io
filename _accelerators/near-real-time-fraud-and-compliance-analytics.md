@@ -17,7 +17,7 @@ short_text: "Simplify the fraud detection and reporting process."
 hero_image: "assets/images/Fraud_Compliance_Hero.webp"
 partner_image: 
 tags: "\"Industry Customer Scenario\",\"Financial Services\",\"Azure Machine Learning\",\"Cosmos DB\",\"Azure Synapse Analytics\",\"Power BI\",\"Beta\""
-last_updated: "2022-12-19T19:36:13Z"
+last_updated: "2023-01-18T22:15:02Z"
 related: ""
 order: 2
 ---

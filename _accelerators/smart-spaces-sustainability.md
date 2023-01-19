@@ -17,7 +17,7 @@ short_text: "Optimize HVAC systems quickly and proactively for efficient and cos
 hero_image: "assets/images/Smart_Spaces_Hero2.webp"
 partner_image: 
 tags: "\"Industry Customer Scenario\",\"Sustainability\",\"Horizontal\",\"Education\",\"Health & Life Sciences\",\"Manufacturing\",\"IoT\",\"IoT Hub\",\"Azure App Service\",\"Application Insights\",\"Azure Functions\",\"Logic Apps. Stream Analytics\",\"Azure SQL\""
-last_updated: "2023-01-16T19:04:06Z"
+last_updated: "2023-01-17T23:35:48Z"
 related: ""
 order: 2
 ---
@@ -25,21 +25,19 @@ order: 2
 
 Facilities managers are under more pressure than ever to respond quickly and with greater precision to fluctuating demands on their HVAC systems. Energy costs are continuing to rise, flexible and hybrid work models are changing the way space is used, and new technologies like Internet of Things sensors are creating more opportunities to track and optimize energy use in real time.
 
-The Smart Spaces Sustainability Accelerator helps facilities managers optimize HVAC systems quickly and proactively for efficient and cost-effective energy use. It integrates your building management system (BMS) with external weather data and uses predictive modeling to deliver real-time reports and actionable insights to a visual dashboard in desktop and mobile applications.
+The Smart Spaces Sustainability Accelerator helps you optimize your HVAC systems with smarter, more responsive, data-driven energy managment. It integrates a variety of data, like historic and forecasting weather conditions with your building management system (BMS) and uses predictive modeling to deliver real-time reports and actionable insights to a visual dashboard in desktop and mobile applications.
 
 ### Challenges
-
 * **Operational inefficiencies** can be challenging to pinpoint, leading to excess energy use.
 * **Rising energy costs** increase pressure to conserve.
 * **Siloed data** from internal and external sources does not integrate easily.
 * **Lack of fast and accurate predictive modeling** makes it difficult to effectively forecast energy needs.
 * **A mobile application is needed** so facilities managers can work from anywhere.
 
-> Excess energy use could cost US building owners $5.2 billion each year if buildings return to pre-COVID occupancy levels.
+> 67% of energy consumed by a commerical building is used to provide lighting, ventilation, heating, and cooling. Changing the waste of this energy can have massive effect of efficiency and sustainability.
 
 ### Benefits
-
 * **Integrate with your existing BMS** and draw from external data to generate rich, predictive analytics.
 * **Generate real-time predictive modeling** to optimize lead times for temperature setpoints.
 * **Provide a holistic, mobile dashboard** so facilities managers can track and adjust systems on the go.
-* **Easily launch a solution simulation** using pre-configured Microsoft IP.
+* **Easily launch** to respond quickly and proactively for efficient and cost-effective energy use.
