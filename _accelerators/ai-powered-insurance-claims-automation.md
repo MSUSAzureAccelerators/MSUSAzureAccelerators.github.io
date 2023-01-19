@@ -28,10 +28,10 @@ Handling Claims processing through an intelligent agent with cognitive skills to
 The accelerator will showcase Azure platform's machine learning capability to recognize document type, extract required fields and push data to downstream applications, significantly reducing manual efforts and creating smoother customer experience.
 
 ### Challenges
-Organization handles large volumes of documents (claims, applications, contracts, invoices, etc.) and not able to efficiently capture any rich insights
-Organization is investing in expensive manual labor to extract data
-Manual data extraction is inefficient and/or error-prone
-More time is spent on extracting data than on analysis and insights
+- Organization handles large volumes of documents (claims, applications, contracts, invoices, etc.) and not able to efficiently capture any rich insights
+- Organization is investing in expensive manual labor to extract data
+- Manual data extraction is inefficient and/or error-prone
+- More time is spent on extracting data than on analysis and insights
 
 ### Benefits
 - Increase time to value/time to insight by reducing document processing times

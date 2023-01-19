@@ -27,7 +27,7 @@ Demand forecasting is one of the top use cases for predictive analytics, with ap
 
 The Demand Forecasting Accelerator enables organizations to quickly create a robust demand forecasting capability that applies a variety of statistical techniques and models to provide a better view into future need.
 
-## Inventory Management | Operating Analytics
+### Inventory Management | Operating Analytics
 This accelerator is great for customers looking to improve their ability to forecast customer demand and/or has experienced operational issues associated with poor demand forecasting. These issues can include lost revenue due to inventory shortages/stockout, high levels of inventory obsolescence or write-offs, and low customer satisfaction among others.
 
 ### What is it?
@@ -40,7 +40,7 @@ This accelerator has a wide range of use cases across many industries. A few exa
 * An energy conglomerate with hundreds of wind turbines and wind farms building a model per Wind Turbine
 * A utility company with several hundred thousand smart meters building an energy forecasting model per smart meter
 
-### How does it work?
-The Many Models - Demand Forecasting Accelerator uses orange juice sales data consisting of multiple brands in multiple stores similar to a retail organization with multiple stores, and multiple product SKUs in each store. It showcases how to build a customized sales forecasting model for each brand of orange juice and then use these trained models for forecasting future demand. The accelerator walks through the process of configuring your environment, preparing your dataset, training 10,000+ models, and then forecasting orange juice sales. From there, it can be further customized for your customer business problem whether it is classification, regression or forecasting.
+###  How does it work?
+The Many Models - Demand Forecasting Accelerator uses orange juice sales data consisting of multiple brands in multiple stores similar to a retail organization with multiple stores, and multiple product SKUs in each store. It showcases how to build a customized sales forecasting model for each brand of orange juice and then uses these trained models for forecasting future demand. The accelerator walks through the process of configuring your environment, preparing your dataset, training 10,000+ models, and then forecasting orange juice sales. From there, it can be further customized for your customer business problem whether it is classification, regression or forecasting.
 
 To tackle the training and inferencing of thousands of models, the accelerator leverages Azure Machine Learning compute cluster and parallelizes the training and inferencing jobs across multiple nodes and multiple cores of the cluster VMs. This parallelism helps scale the accelerator solution to build, train, store, use and maintain the whole life cycle of large number of models on Azure Machine Learning platform.
