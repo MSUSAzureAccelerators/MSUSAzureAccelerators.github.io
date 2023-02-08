@@ -17,7 +17,7 @@ short_text: "Reduce claims processing time and manual effort in end-to-end claim
 hero_image: "assets/images/AI_Powered_Insurance_Hero.webp"
 partner_image: 
 tags: "\"Industry Customer Scenario\",\"Process Automation\",\"Financial Services\",\"Cognitive Services\",\"Cosmos DB\",\"Bot Framework\",\"Azure Storage\",\"Form Recognizer\",\"Luis\""
-last_updated: "2023-01-17T16:53:57Z"
+last_updated: "2023-02-08T18:21:36Z"
 related: ""
 order: 2
 ---
@@ -28,7 +28,7 @@ Handling Claims processing through an intelligent agent with cognitive skills to
 The accelerator will showcase Azure platform's machine learning capability to recognize document type, extract required fields and push data to downstream applications, significantly reducing manual efforts and creating smoother customer experience.
 
 ### Challenges
-- Organization handles large volumes of documents (claims, applications, contracts, invoices, etc.) and not able to efficiently capture any rich insights
+- Organization handles large volumes of documents (claims, applications, contracts, invoices, etc.) and not able to efficiently capture any rich insights.
 - Organization is investing in expensive manual labor to extract data
 - Manual data extraction is inefficient and/or error-prone
 - More time is spent on extracting data than on analysis and insights

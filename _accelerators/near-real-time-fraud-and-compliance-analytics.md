@@ -14,10 +14,10 @@ demo_url:
 customer_overview_url: ""
 customer_deck_url: ""
 short_text: "Simplify the fraud detection and reporting process."
-hero_image: "assets/images/Fraud_Compliance_Hero.webp"
+hero_image: "assets/images/notfound.png"
 partner_image: 
 tags: "\"Industry Customer Scenario\",\"Financial Services\",\"Azure Machine Learning\",\"Cosmos DB\",\"Azure Synapse Analytics\",\"Power BI\",\"Beta\""
-last_updated: "2023-01-18T22:15:02Z"
+last_updated: "2023-02-08T18:11:11Z"
 related: ""
 order: 2
 ---

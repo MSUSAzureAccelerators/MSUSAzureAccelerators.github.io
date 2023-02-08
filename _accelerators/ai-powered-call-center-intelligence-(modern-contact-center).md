@@ -17,7 +17,7 @@ short_text: "Automates call transcriptions for real-time and previously recorded
 hero_image: "assets/images/AI_Call_Center_Hero.webp"
 partner_image: 
 tags: "\"Industry Customer Scenario\",\"Personalization\",\"Financial Services\",\"Horizontal\",\"Cognitive Services\",\"Azure Machine Learning\",\"Power BI\",\"Azure Speech Services\",\"Azure SQL\",\"Azure Storage\""
-last_updated: "2023-01-18T18:09:32Z"
+last_updated: "2023-02-08T18:20:40Z"
 related: ""
 order: 2
 ---

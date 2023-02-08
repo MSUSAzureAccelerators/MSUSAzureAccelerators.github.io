@@ -17,7 +17,7 @@ short_text: "Provide personalized product recommendations and telemetry insights
 hero_image: "assets/images/Intelligent_Recommendations_Hero.webp"
 partner_image: 
 tags: "\"Technology Accelerator\",\"Personalization\",\"Technology Accelerator\",\"Retail\",\"Horizontal\",\"Tech Plug-in\",\"Azure Data Lake Storage\",\"Synapse\",\"Power BI\",\"Azure Intelligent Recommendations\""
-last_updated: "2023-01-18T21:44:03Z"
+last_updated: "2023-02-08T18:07:12Z"
 related: ""
 order: 2
 ---

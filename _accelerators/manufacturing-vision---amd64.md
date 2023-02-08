@@ -14,10 +14,10 @@ demo_url: https://microsoft.sharepoint.com/:v:/r/teams/CAF-SolutionAccelerators/
 customer_overview_url: ""
 customer_deck_url: ""
 short_text: "Base code for the Manufacturing Vision Accelerator for AMD64 architecture."
-hero_image: "assets/images/Manufacturing_Vision_Hero.webp"
+hero_image: "assets/images/notfound.png"
 partner_image: 
 tags: "\"Industry Customer Scenario\",\"Manufacturing\",\"Automotive\",\"Mobility & Transport\",\"Docker\",\"Python\",\"Beta\""
-last_updated: "2023-01-17T22:33:54Z"
+last_updated: "2023-02-08T18:15:55Z"
 related: ""
 order: 2
 ---

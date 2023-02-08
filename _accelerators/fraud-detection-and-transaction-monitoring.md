@@ -3,21 +3,21 @@ short_name: "Fraud Detection and Transaction Monitoring"
 name: "Fraud Detection and Transaction Monitoring"
 title: "Fraud Detection and Transaction Monitoring"
 accelerator_type: "Industry Customer Scenario"
-classification: "Process Automation"
+classification: "Predictive Analytics"
 solution_area: ""
 status: ""
-primary_industry: "Government"
-industries: "Financial Services"
+primary_industry: "Financial Services"
+industries: "Government"
 technology_stack: "Azure Machine Learning,Azure Synapse Analytics,Azure Cosmos DB,PowerBI"
 github_url: https://microsofteur.sharepoint.com/teams/MCSMLAISolutionAccelerators/SitePages/Anomaly-Detection-Accelerator-Detail.aspx
-demo_url: https://gearup.microsoft.com/download/ea26f1f4-2612-48ae-cdc8-08d9b9ab205d
+demo_url: https://gearup.microsoft.com/download/ac6a8490-cf40-4828-b731-305235e0bf30
 customer_overview_url: ""
-customer_deck_url: "https://microsofteur.sharepoint.com/:p:/t/HQDataAIIndustryTeam/EfwjPdfReOJItyySbilrXO8BPf8NqqnPb5unulJRAGmzPw?e=UQ0CH9"
+customer_deck_url: "https://microsofteur.sharepoint.com/:p:/t/HQDataAIIndustryTeam/EWNlQ1ANRcVDlXfdCxUFBTQB0f1ueB52vQGDVkNjb8yKsQ?e=FeJIQm"
 short_text: "Identify risk of fraud or fraud associated activities."
 hero_image: "assets/images/Fraud_Compliance_Hero.webp"
 partner_image: 
-tags: "\"Industry Customer Scenario\",\"Process Automation\",\"Government\",\"Financial Services\",\"Azure Machine Learning\",\"Azure Synapse Analytics\",\"Azure Cosmos DB\",\"PowerBI\""
-last_updated: "2023-01-17T22:10:10Z"
+tags: "\"Industry Customer Scenario\",\"Predictive Analytics\",\"Financial Services\",\"Government\",\"Azure Machine Learning\",\"Azure Synapse Analytics\",\"Azure Cosmos DB\",\"PowerBI\""
+last_updated: "2023-01-31T21:15:15Z"
 related: ""
 order: 2
 ---

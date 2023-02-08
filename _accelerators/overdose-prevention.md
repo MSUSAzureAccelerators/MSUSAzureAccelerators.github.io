@@ -14,10 +14,10 @@ demo_url:
 customer_overview_url: ""
 customer_deck_url: ""
 short_text: "Provide predictive analytics for different prescription and distribution services."
-hero_image: "assets/images/Overdose_Prevention_Hero.webp"
+hero_image: "assets/images/notfound.png"
 partner_image: 
 tags: "\"Industry Customer Scenario\",\"Health & Life Sciences\",\"Healthcare\",\"State & Local Government\",\"IoT\",\"IoT Hub\",\"Synapse Analytics\",\"Beta\""
-last_updated: "2023-01-18T17:54:26Z"
+last_updated: "2023-02-08T18:22:29Z"
 related: ""
 order: 2
 ---

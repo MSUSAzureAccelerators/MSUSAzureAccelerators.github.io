@@ -9,15 +9,15 @@ status: ""
 primary_industry: "Horizontal"
 industries: "Government,FSI,SLG,Retail,Education,HLS"
 technology_stack: "Azure OpenAI and ChatGPT,Azure Cognitive Services: Language,Language Understanding,Translator,Speech to Text,Text to Speech; Azure Cognitive Search,Azure Semantic Search,Azure Custom Voice,Azure Document Translation,Azure SQL"
-github_url: https://github.com/MSUSAzureAccelerators/Conversational-AI-Accelerator
+github_url: https://github.com/MSUSAzureAccelerators/Conversational-Azure-OpenAI-Accelerator
 demo_url: 
-customer_overview_url: "https://microsoft.sharepoint.com/:b:/r/teams/CAF-SolutionAccelerators/Shared%20Documents/General/BVA%20Files/Conversational%20AI%20for%20SLG/Conversational%20AI%20(SLG)%20Overview.pdf?csf=1&web=1&e=Q9pfgM"
+customer_overview_url: "https://microsoft.sharepoint.com/:b:/r/teams/CAF-SolutionAccelerators/Shared%20Documents/General/BVA%20Files/Conversational%20Azure%20OpenAI%20(ChatGPT)/Conversational%20Azure%20OpenAI%20Overview.pdf?csf=1&web=1&e=A6rRFG"
 customer_deck_url: ""
 short_text: "Harness the power of Azure OpenAI and ChatGPT, combined with dozens of Azure AI and Data services with a rapid POC tailored to customer. "
 hero_image: "assets/images/Conversational_AI_SLG_Hero.webp"
 partner_image: 
 tags: "\"Industry Customer Scenario\",\"Personalization\",\"Horizontal\",\"Government\",\"FSI\",\"SLG\",\"Retail\",\"Education\",\"HLS\",\"Azure OpenAI and ChatGPT\",\"Azure Cognitive Services: Language\",\"Language Understanding\",\"Translator\",\"Speech to Text\",\"Text to Speech; Azure Cognitive Search\",\"Azure Semantic Search\",\"Azure Custom Voice\",\"Azure Document Translation\",\"Azure SQL\""
-last_updated: "2023-01-25T21:41:33Z"
+last_updated: "2023-02-08T18:04:27Z"
 related: ""
 order: 2
 ---

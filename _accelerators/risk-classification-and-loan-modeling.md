@@ -17,7 +17,7 @@ short_text: "Automate processes to ensure compliance with SBA guidelines."
 hero_image: "assets/images/Risk_Loan_Hero.webp"
 partner_image: 
 tags: "\"Industry Customer Scenario\",\"Financial\",\"Financial Services\",\"Azure Data Lake Storage\",\"Synapse Analytics\""
-last_updated: "2023-01-17T23:22:23Z"
+last_updated: "2023-02-08T18:06:40Z"
 related: ""
 order: 2
 ---
