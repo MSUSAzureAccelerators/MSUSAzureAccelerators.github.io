@@ -12,12 +12,12 @@ technology_stack: "Azure Data Lake Storage,Synapse,Power BI,Azure Intelligent Re
 github_url: 
 demo_url: 
 customer_overview_url: "https://microsoft.sharepoint.com/:b:/r/teams/CAF-SolutionAccelerators/Shared%20Documents/General/BVA%20Files/Intelligent%20Recommendations/Intelligent%20Recommendations%20Overview.pdf?csf=1&web=1&e=iekMFp"
-customer_deck_url: ""
+customer_deck_url: "https://microsofteur.sharepoint.com/:p:/t/HQDataAIIndustryTeam/EaYdLSdJeWBImla_MhPR_OkB7O31vBR41ol8K27lGJVFWg?e=fHWIaf"
 short_text: "Provide personalized product recommendations and telemetry insights."
 hero_image: "assets/images/Intelligent_Recommendations_Hero.webp"
 partner_image: 
 tags: "\"Technology Accelerator\",\"Personalization\",\"Technology Accelerator\",\"Retail\",\"Horizontal\",\"Tech Plug-in\",\"Azure Data Lake Storage\",\"Synapse\",\"Power BI\",\"Azure Intelligent Recommendations\""
-last_updated: "2023-02-08T18:07:12Z"
+last_updated: "2023-02-09T20:00:18Z"
 related: ""
 order: 2
 ---
