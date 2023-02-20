@@ -17,7 +17,7 @@ short_text: "Automate extraction of data from complex structured and unstructure
 hero_image: "assets/images/notfound.png"
 partner_image: 
 tags: "\"Industry Customer Scenario\",\"Process Automation\",\"Manufacturing\",\"Horizontal\",\"Applied AI Services: Form Recognizer\",\"Azure Logic Apps\",\"Azure Cosmos DB\",\"Power BI\",\"Azure Data Explorer\",\"Bot Framework\",\"Luis\""
-last_updated: "2023-02-08T18:13:48Z"
+last_updated: "2023-02-17T14:30:42Z"
 related: ""
 order: 2
 ---

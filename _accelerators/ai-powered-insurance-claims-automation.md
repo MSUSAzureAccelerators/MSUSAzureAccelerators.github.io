@@ -17,7 +17,7 @@ short_text: "Reduce claims processing time and manual effort in end-to-end claim
 hero_image: "assets/images/AI_Powered_Insurance_Hero.webp"
 partner_image: 
 tags: "\"Industry Customer Scenario\",\"Process Automation\",\"Financial Services\",\"Cognitive Services\",\"Cosmos DB\",\"Bot Framework\",\"Azure Storage\",\"Form Recognizer\",\"Luis\""
-last_updated: "2023-02-08T18:21:36Z"
+last_updated: "2023-02-17T14:21:23Z"
 related: ""
 order: 2
 ---

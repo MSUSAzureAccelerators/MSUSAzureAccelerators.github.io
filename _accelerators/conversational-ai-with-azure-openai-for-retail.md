@@ -17,7 +17,7 @@ short_text: "Collect data from every interaction in a feedback loop for optimiza
 hero_image: "assets/images/Conversational_AI_Hero.webp"
 partner_image: 
 tags: "\"Industry Customer Scenario\",\"Personalization\",\"Retail\",\"Horizontal\",\"Azure Machine Learning\",\"Bot Services\",\"Cognitive Search\",\"Cognitive Services\""
-last_updated: "2023-02-09T20:00:06Z"
+last_updated: "2023-02-20T18:02:14Z"
 related: ""
 order: 2
 ---

@@ -17,7 +17,7 @@ short_text: "Determine future demand to optimize inventory, material and product
 hero_image: "assets/images/Many_Models_Demand_Forecasting_Hero.png"
 partner_image: 
 tags: "\"Industry Customer Scenario\",\"Predictive Analytics\",\"Supply Chain\",\"Manufacturing\",\"Energy\",\"Azure Cosmos DB\",\"Power BI\",\"Azure Machine Learning\",\"Azure Synapse Analytics\",\"Azure Storage\""
-last_updated: "2023-02-08T18:12:49Z"
+last_updated: "2023-02-17T15:01:29Z"
 related: ""
 order: 2
 ---
