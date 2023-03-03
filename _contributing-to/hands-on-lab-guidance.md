@@ -1,4 +1,4 @@
-# Guidelines for Hands-On Labs on MSUS Accelerators (DRAFT)
+# Guidelines for Hands-On Labs on Azure Accelerators (DRAFT)
 
 ## What is a Hands-On Lab?
 

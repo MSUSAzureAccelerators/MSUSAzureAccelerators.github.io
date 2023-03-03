@@ -1,10 +1,10 @@
-# MSUS Accelerators
+# Azure Accelerators
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://choosealicense.com/licenses/mit/)
 
 ## About this repository
 
-This repository holds the code and configuration required to build the [MSUS Accelerators static site](https://MSUSAzureAccelerators.github.io) on GitHub.
+This repository holds the code and configuration required to build the [Azure Accelerators static site](https://MSUSAzureAccelerators.github.io) on GitHub.
 
 ## Technology
 

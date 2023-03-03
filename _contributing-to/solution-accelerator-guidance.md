@@ -1,4 +1,4 @@
-# Guidelines for Accelerators on MSUS Accelerators (DRAFT)
+# Guidelines for Accelerators on Azure Accelerators (DRAFT)
 
 ## What is a Accelerator?
 

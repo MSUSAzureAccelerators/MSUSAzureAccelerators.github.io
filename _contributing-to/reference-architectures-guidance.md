@@ -1,8 +1,8 @@
-# Guidelines for Reference Architectures on MSUS Accelerators (DRAFT)
+# Guidelines for Reference Architectures on Azure Accelerators (DRAFT)
 
 ## What is a Reference Architecture?
 
-The term *reference architecture* means a lot of things, but in the context of the MSUS Accelerators, it refers to a specific type of guidance artifact, found [here](https://docs.microsoft.com/azure/architecture/reference-architectures).
+The term *reference architecture* means a lot of things, but in the context of the Azure Accelerators, it refers to a specific type of guidance artifact, found [here](https://docs.microsoft.com/azure/architecture/reference-architectures).
 
 Our reference architectures focus on real-world scenarios. Each reference architecture consists of:
 

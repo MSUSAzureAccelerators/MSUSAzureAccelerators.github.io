@@ -17,7 +17,7 @@ short_text: "Transform education experiences for students and educators through 
 hero_image: "assets/images/notfound.png"
 partner_image: 
 tags: "\"Industry Customer Scenario\",\"Predictive Analytics\",\"Technology Accelerator\",\"Personalization\",\"Education\",\"Synapse Analytics​\",\"Azure Data Lake​\",\"Azure Active Directory​\",\"Purview​\",\"OEA Framework\""
-last_updated: "2023-02-15T18:50:37Z"
+last_updated: "2023-03-01T23:26:44Z"
 related: ""
 order: 2
 ---
