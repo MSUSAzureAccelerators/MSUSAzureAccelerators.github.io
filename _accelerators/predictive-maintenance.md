@@ -17,7 +17,7 @@ short_text: "Predict motor, equipment, and/or asset issues before they happen."
 hero_image: "assets/images/Predictive_Maintenance_Hero.webp"
 partner_image: 
 tags: "\"Industry Customer Scenario\",\"Process Automation\",\"Manufacturing\",\"Automotive\",\"Mobility & Transport\",\"Azure Container Registry\",\"Azure DevOps\",\"Azure IoT Hub\",\"Azure KeyVault\",\"Azure Machine Learning\",\"Azure SQL\",\"Azure Storage\",\"Cognitive Services\",\"Docker\",\"PowerBI\",\"Python\""
-last_updated: "2023-02-20T18:00:23Z"
+last_updated: "2023-03-15T03:32:16Z"
 related: ""
 order: 2
 ---
