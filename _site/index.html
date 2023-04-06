@@ -1,0 +1,1327 @@
+<!doctype html>
+<html class=" is-full welcome has-default-focus theme-light" lang="en-us" data-css-variable-support="true"
+  data-authenticated="false" data-auth-status-determined="false" data-target="docs">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="title" content="Azure Accelerators | Microsoft" />
+  <meta name="description" content="Azure Accelerators are repeatable solutions that can be quickly and easily implemented for specific business outcomes to accelerate transformation journey." />
+  <meta name="keywords" content="microsoft,accelerator,innovate,incubate,scale,azure,machine learning,ml,artificial intelligence,ai,cognitive,synapse,aml,power apps,power bi" />
+  <meta name="robots" content="index,follow" />
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://MSUSAzureAccelerators.github.io/" />
+  <meta property="og:title" content="Azure Accelerators | Microsoft" />
+  <meta property="og:description" content="Azure Accelerators are repeatable solutions that can be quickly and easily implemented for specific business outcomes to accelerate transformation journey." />
+  <meta property="og:image" content="https://MSUSAzureAccelerators.github.io/assets/images/logo/MSUS%20Solution%20Accelerators%20Logo%20social.png" />
+  <meta property="og:image:alt" content="MSUS Accelerators Logo" />
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image" />
+  <meta property="twitter:url" content="https://MSUSAzureAccelerators.github.io/" />
+  <meta property="twitter:title" content="Accelerators | Microsoft US" />
+  <meta property="twitter:description" content="Azure Accelerators are repeatable solutions that can be quickly and easily implemented for specific business outcomes to accelerate transformation journey." />
+  <meta property="twitter:image" content="https://MSUSAzureAccelerators.github.io/assets/images/logo/MSUS%20Solution%20Accelerators%20Logo%20social.png" />
+  <meta name="ms.sitename" content="Azure Accelerators | Microsoft" />
+  <meta name="author" content="v-skaschimer" />
+  <meta name="locale" content="en-us" />
+  <meta name="ms.prod" content="multiple" />
+  <meta name="ms.topic" content="hub-page" />
+  <meta name="page_type" content="welcome" />
+  <meta name="schema" content="Welcome" />
+  <meta name="site_name" content="Azure Accelerators | Microsoft" />
+  <meta name="updated_at" content="2/8/2022 16:50:00" />
+
+  <link rel="icon" href="/favicon.ico" type="image/x-icon">
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.0/css/all.min.css"
+    integrity="sha512-10/jx2EXwxxWqCLX/hHth/vu2KY3jCF70dCQB8TSgNjbCVAC/8vai53GfMDrO2Emgwccf2pJqxct9ehpzG+MTw=="
+    crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <link rel="stylesheet" href="../assets/css/styles.css">
+
+  <script src="https://wcpstatic.microsoft.com/mscc/lib/v2/wcp-consent.js"></script>
+  <!-- Microsoft Clarity Code -->
+  <script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "atsb905e7q");
+</script>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script defer src="https://www.googletagmanager.com/gtag/js?id=G-VTCHQB63MB"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+
+    gtag('config', 'G-VTCHQB63MB');
+  </script>
+
+  <script>
+    function onConsentChanged(categoryPreferences) {
+      console.log("onConsentChanged", categoryPreferences);
+    }
+
+    window.WcpConsent && WcpConsent.init("en-US", "cookie-banner", function (err, _siteConsent) {
+      if (!err) {
+        siteConsent = _siteConsent; //siteConsent is used to get the current consent          
+      } else {
+        console.log("Error initializing WcpConsent: " + err);
+      }
+    }, onConsentChanged, WcpConsent.themes.light);
+  </script>
+
+  <title>Azure Accelerators | Microsoft</title>
+</head>
+
+<body lang="en-us">
+  <div id="header" class="grid w-[100vw] place-items-center bg-cover bg-left h-[300px] bg-[url('../images/banner/SolutionAccelerator_BigBanner2.webp')]">
+    <div class="col-start-1 row-start-1 h-full w-full bg-opacity-0">
+        <div class="z-0 flex items-center justify-center max-w-[80rem] gap-4 text-left text-neutral-content">
+            <div class="w-[100vw]">
+                <img src="./assets/images/logo/MS-Azure_logo_horiz_c-gray_rgb.png" alt="Microsoft Logo" class="w-72">
+                <h1 class="text-az-black mt-0">Azure Accelerators | Microsoft</h1>
+                <p class="ml-6 text-az-black text-lg">Accelerating Customer's Data Journey</p>
+            </div>
+        </div>
+    </div>
+</div><div class="grid grid-flow-col grid-cols-3 md:relative md:-top-8 lg:relative lg:-top-20">
+    <div
+        class="flex flex-col items-center bg-ms-dark-blue rounded-lg shadow-md mx-3 xs:hidden sm:hidden md:flex md:flex-col md:max-w-xl lg:flex-row">
+        <div class="bg-ms-dark-blue h-full md:hidden lg:block lg:rounded-l-lg">
+            <img class="object-cover relative t-1/2 md:hidden lg:block lg:w-32 lg:h-32" src="./assets/images/accelerator-wf.webp"
+                alt="What is an accelerator?" />
+        </div>
+        <div class="bg-az-blue w-full p-4 md:h-full md:rounded-lg lg:h-full lg:rounded-none lg:rounded-r-lg ">
+            <h2 class="text-az-white mt-0 md:mb-0 md:text-lg lg:mb-2 lg:text-xl">What is it?</h2>
+            <p class="text-az-white md:text-xs lg:text-sm">
+                A ready-to-deploy solution offering that can be
+                customized to focus on your specific business outcome to
+                accelerate your digital business transformation
+            </p>
+        </div>
+    </div>
+    <div
+        class="flex flex-col items-center bg-ms-dark-blue rounded-lg shadow-md mx-3 xs:hidden sm:hidden md:flex md:flex-col md:max-w-xl lg:flex-row">
+        <div class="bg-ms-dark-blue h-full md:hidden lg:block lg:rounded-l-lg">
+            <img class="object-cover relative t-1/2 md:hidden lg:block lg:w-32 lg:h-32" src="./assets/images/package-wf.webp" 
+                alt="What does it include?" />
+        </div>
+        <div class="bg-az-blue w-full p-4 md:h-full md:rounded-lg lg:h-full lg:rounded-none lg:rounded-r-lg">
+            <h2 class="text-az-white mt-0 md:mb-0 md:text-lg lg:mb-2 lg:text-xl">What does it include?</h2>
+            <ul class="text-az-white md:text-xs lg:text-sm">
+                <li>- Solution Overview</li>
+                <li>- Reference Architecture</li>
+                <li>- Deployment Guide and Code</li>
+                <li>- Snackable training videos</li>
+            </ul>
+        </div>
+    </div>
+    <div
+        class="flex flex-col items-center bg-ms-dark-blue rounded-lg shadow-md mx-3 xs:hidden sm:hidden md:flex md:flex-col md:max-w-xl lg:flex-row">
+        <div class="bg-ms-dark-blue h-full md:hidden lg:block lg:rounded-l-lg">
+            <img class="object-cover relative t-1/2 md:hidden lg:block lg:w-32 lg:h-32" src="./assets/images/start-wf.webp"
+                alt="How to get started" />
+        </div>
+        <div class="bg-az-blue w-full p-4 md:h-full md:rounded-lg lg:h-full lg:rounded-none lg:rounded-r-lg">
+            <h2 class="text-az-white mt-0 md:mb-0 md:text-lg lg:mb-2 lg:text-xl">How to get started</h2>
+            <ul class="text-az-white md:text-xs lg:text-sm">
+                <li>- <span class="font-semibold">Explore</span> a rich collection of accelerators to kickstart your
+                    journey</li>
+                <li>- <span class="font-semibold">Engage</span> the Azure Accelerator team to help with the
+                    pitch, demo, or POC</li>
+            </ul>
+        </div>
+    </div>
+</div>    <nav class="flex text-az-dark-gray bg-az-light-gray rounded-lg border border-az-medium-gray md:flex sm:hidden xs:hidden -mt-16"
+        aria-label="Breadcrumb">
+        <ol class="inline-flex items-center space-x-1 md:space-x-3 ml-6">
+            <li class="inline-flex items-center" aria-current="page">
+                <svg class="mr-2 w-4 h-4" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+                    <path
+                        d="M10.707 2.293a1 1 0 00-1.414 0l-7 7a1 1 0 001.414 1.414L4 10.414V17a1 1 0 001 1h2a1 1 0 001-1v-2a1 1 0 011-1h2a1 1 0 011 1v2a1 1 0 001 1h2a1 1 0 001-1v-6.586l.293.293a1 1 0 001.414-1.414l-7-7z">
+                    </path>
+                </svg>
+                Home
+            </li>
+        </ol>
+    </nav>
+    <h2 class=" ml-6 mb-6 md:text-3xl sm:text-2xl xs:text-xl">Accelerator Directory</h2>
+    <div class="shuffle-js">
+        <div class="accelerator-grid" role="main">
+            <div id="left-container" class="flex flex-col justify-start" role="group">
+                <div class="filter-links text-center border-0" data-inview-showup="showup-translate-up">
+                    <a aria-label="All Items Filter" class="filter-link active" data-filter='all' href="#">All</a>
+                </div>
+                <h3 class="mb-1 mt-1 text-center md:text-2xl sm:text-xl xs:text-lg">Accelerator Type</h3>
+                <div class="filter-links text-center" data-inview-showup="showup-translate-up">
+                    <a aria-label="Industry Customer Scenario" class="filter-link" href="#"
+                        data-filter='["IndustryCustomerScenario"]'><i class="fa-solid fa-gauge"></i> Industry Customer Scenario</a>
+                    <a aria-label="Technology Accelerator" class="filter-link" href="#"
+                        data-filter='["TechnologyAccelerator"]'><i class="fa-solid fa-microchip"></i>
+                        Technology
+                        Accelerator</a>
+                    <a aria-label="Hands-On-Lab" class="filter-link" href="#" data-filter='["Hands-On-Lab"]'><i
+                            class="fa-solid fa-flask"></i>
+                        Hands-On-Lab</a>
+                    <a aria-label="Reference Architecture" class="filter-link" href="#"
+                        data-filter='["ReferenceArchitecture"]'><i class="fa-solid fa-building-columns"></i>
+                        Reference Architecture</a>
+                </div>
+                <h3 class="mb-1 mt-1 text-center md:text-2xl sm:text-xl xs:text-lg">Status</h3>
+                <div class="filter-links text-center" data-inview-showup="showup-translate-up">
+                    <a aria-label="GA" class="filter-link" href="#" data-filter='["GA"]'><i class="fa-solid fa-gauge-high"></i> GA</a>
+                    <a aria-label="Beta" class="filter-link" href="#" data-filter='["Beta"]'><i class="fa-solid fa-flask-vial"></i> Beta</a>
+                    <a aria-label="In Progress" class="filter-link" href="#" data-filter='["InProgress"]'><i class="fa-solid fa-hammer"></i> In Progress</a>
+                </div>
+                <h3 class="mb-1 mt-1 text-center md:text-2xl sm:text-xl xs:text-lg">Industry Alignment</h3>
+                <div class="filter-links text-center" data-inview-showup="showup-translate-up">
+                    <a aria-label="Horizontal" class="filter-link" href="#" data-filter='["Horizontal"]'><i
+                            class="fa-solid fa-arrows-left-right"></i> Horizontal</a>
+                    <a aria-label="Automotive" class="filter-link" href="#" data-filter='["Automotive"]'><i
+                            class="fa-solid fa-car"></i> Automotive</a>
+                    <a aria-label="Education" class="filter-link" href="#" data-filter='["EDU"]'><i
+                            class="fa-solid fa-school"></i> Education</a>
+                    <a aria-label="Energy" class="filter-link" href="#" data-filter='["Energy"]'><i
+                            class="fa-solid fa-bolt"></i> Energy</a>
+                    <a aria-label="Financial Services" class="filter-link" href="#" data-filter='["FSI"]'><i
+                            class="fa-solid fa-bank"></i> Financial
+                        Services</a>
+                    <a aria-label="High Tech" class="filter-link" href="#" data-filter='["HighTech"]'><i
+                            class="fa-solid fa-laptop"></i> High Tech</a>
+                    <a aria-label="Health & Life Services" class="filter-link" href="#" data-filter='["Health&LifeSciences"]'><i
+                            class="fa-solid fa-hospital"></i> Health &amp;
+                        Life Services</a>
+                    <a aria-label="Manufacturing" class="filter-link" href="#" data-filter='["Manufacturing"]'><i
+                            class="fa-solid fa-industry"></i>
+                        Manufacturing</a>
+                    <a aria-label="Media & Entertainment" class="filter-link" href="#"
+                        data-filter='["Media&Entertainment"]'><i class="fa-solid fa-film"></i>
+                        Media
+                        &amp; Entertainment</a>
+                    <a aria-label="Professional Services" class="filter-link" href="#"
+                        data-filter='["ProfessionalServices"]'><i class="fa-solid fa-briefcase"></i> Professional
+                        Services</a>
+                    <a aria-label="Retail & Consumer Goods" class="filter-link" href="#" data-filter='["Retail&ConsumerGoods"]'><i
+                            class="fa-solid fa-shopping-cart"></i>
+                        Retail &amp; Consumer Goods</a>
+                    <a aria-label="State & Local Government" class="filter-link" href="#" data-filter='["State&LocalGovernment"]'><i
+                            class="fa-solid fa-flag"></i> State &amp; Local
+                        Government</a>
+                </div>
+                <h3 class="mb-1 mt-1 text-center md:text-2xl sm:text-xl xs:text-lg">Area of Interest</h3>
+                <div class="filter-links text-center" data-inview-showup="showup-translate-up">
+                    <a aria-label="Campaign Management" class="filter-link" href="#"
+                        data-filter='["CampaignManagement"]'><i class="fa-solid fa-chart-simple"></i> Campaign Management</a>
+                    <a aria-label="Financial" class="filter-link" href="#" data-filter='["Financial"]'><i class="fa-solid fa-money-bill-trend-up"></i> Financial</a>
+                    <a aria-label="Healthcare" class="filter-link" href="#" data-filter='["Healthcare"]'><i class="fa-solid fa-staff-aesculapius"></i> Healthcare</a>
+                    <a aria-label="Personalization" class="filter-link" href="#"
+                        data-filter='["Personalization"]'><i class="fa-solid fa-person-chalkboard"></i> Personalization</a>
+                    <a aria-label="Process Automation" class="filter-link" href="#"
+                        data-filter='["ProcessAutomation"]'><i class="fa-solid fa-robot"></i> Process Automation</a>
+                    <a aria-label="Professional Services" class="filter-link" href="#"
+                        data-filter='["ProfessionalServices"]'><i class="fa-solid fa-user-tie"></i> Professional Services</a>
+                    <a aria-label="Supply Chain" class="filter-link" href="#" data-filter='["SupplyChain"]'><i class="fa-solid fa-boxes-packing"></i> Supply
+                        Chain</a>
+                    <a aria-label="Sustainability" class="filter-link" href="#"
+                        data-filter='["Sustainability"]'><i class="fa-solid fa-leaf"></i> Sustainability</a>
+                    <a aria-label="Transportation" class="filter-link" href="#"
+                        data-filter='["Transportation"]'><i class="fa-solid fa-truck-plane"></i> Transportation</a>
+                    <a aria-label="Workplace Intelligence" class="filter-link" href="#"
+                        data-filter='["WorkplaceIntelligence"]'><i class="fa-solid fa-brain"></i> Workplace Intelligence</a>
+                </div>
+                <h3 class="mb-1 mt-1 text-center md:text-2xl sm:text-xl xs:text-lg">Share</h3><div class="flex flex-row" role="contentinfo" aria-label="Social Media Share Icons">
+    <i role="link" aria-label="Share page to LinkedIn" class="transition duration-300 ease-in-out text-2xl w-[50px] h-[50px] rounded-full flex flex-initial content-center items-center align-middle justify-center text-center m-[3px] shadow-md hover:-translate-y-1 fa-brands fa-linkedin xs:text-lg xs:h-8 xs:w-8 lg:text-2xl lg:h-[50px] lg:w-[50px]" onclick="popitup('https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2FMSUSAzureAccelerators.github.io/','Share to LinkedIn');"></i>
+    <i role="link" aria-label="Share page to Facebook" class="transition duration-300 ease-in-out text-2xl w-[50px] h-[50px] rounded-full flex flex-initial content-center items-center align-middle justify-center text-center m-[3px] shadow-md hover:-translate-y-1 fa-brands fa-facebook xs:text-lg xs:h-8 xs:w-8 lg:text-2xl lg:h-[50px] lg:w-[50px]" onclick="popitup('https://www.facebook.com/sharer.php?u=https%3A%2F%2FMSUSAzureAccelerators.github.io/','Share to Facebook');"></i>
+    <i role="link" aria-label="Share page to Twitter" class="transition duration-300 ease-in-out text-2xl w-[50px] h-[50px] rounded-full flex flex-initial content-center items-center align-middle justify-center text-center m-[3px] shadow-md hover:-translate-y-1 fa-brands fa-twitter xs:text-lg xs:h-8 xs:w-8 lg:text-2xl lg:h-[50px] lg:w-[50px]" onclick="popitup('https://twitter.com/intent/tweet?url=https%3A%2F%2FMSUSAzureAccelerators.github.io/','Share to Twitter');"></i>
+    <i role="link" aria-label="Share page to Email Recipients" class="transition duration-300 ease-in-out text-2xl w-[50px] h-[50px] rounded-full flex flex-initial content-center items-center align-middle justify-center text-center m-[3px] shadow-md hover:-translate-y-1 fa-solid fa-envelope xs:text-lg xs:h-8 xs:w-8 md:w-8 lg:text-2xl lg:h-[50px] lg:w-[50px]" onclick="window.location = 'mailto:?subject=MSUS%20Solution%20Accelerators%20-%20Azure Accelerators | Microsoft&body=https%3A%2F%2FMSUSAzureAccelerators.github.io/';"></i>
+    <div role="link" aria-label="Share page to Microsoft Teams" class=" border-2 transition duration-300 ease-in-out text-2xl w-[50px] h-[50px] rounded-full flex flex-initial content-center items-center align-middle justify-center text-center m-[3px] shadow-md hover:-translate-y-1 teams-share-button fa-brands xs:text-lg xs:h-8 xs:w-8 lg:text-2xl lg:h-[50px] lg:w-[50px]" data-href="https://MSUSAzureAccelerators.github.io/" data-icon-px-size="35"></div>
+</div></div>
+            <div id="right-container" class="mr-4" role="region" aria-label="Accelerator List">
+                <div class="filters-group mb-3 pt-0">
+                    <label for="filters-search-input"
+                        class="block p-0 mt-2 mb-1 text-az-medium-gray text-sm uppercase leading-5 tracking-widest">Search</label>
+                    <input name="Textbox for searching"
+                        class="px-3 py-3 placeholder-az-light-gray text-az-medium-gray relative bg-az-white rounded text-sm border border-az-light-gray outline-none focus:outline-none focus:ring w-full filter__search js-shuffle-search"
+                        type="search" id="filters-search-input" />
+                </div>
+                <div class="flex flex-wrap shuffle-items" role="contentinfo">
+                    <div class="shuffle-item m-2 max-w-sm bg-az-white rounded-lg border border-az-light-gray shadow-md"
+                        data-groups='["TechnologyAccelerator","ProcessAutomation","Horizontal","Synapse","AzureSQL","AzureDataLakeStorage","PowerBI","AzureDataFactory","Beta"]'>
+                        <div
+                            class="flex align-middle items-center justify-center opacity-70 hover:opacity-100 transition duration-300 ease-in-out">
+                            <a href="/accelerators/adf-synapse-ingestion-framework.html">
+                                <img class="rounded-t-lg" src="assets/images/notfound.png"
+                                    alt="ADF Synapse Ingestion Framework" />
+                            </a>
+                        </div>
+                        <div class="p-5">
+                            <div class="leading-5 uppercase text-sm tracking-widest text-az-medium-gray">
+                                Technology Accelerator</div>
+                            <a href="/accelerators/adf-synapse-ingestion-framework.html">
+                                <h4 class="mb-2 text-xl font-semibold tracking-tight text-az-blue card__title">
+                                    ADF Synapse Ingestion Framework</h4>
+                            </a>
+                            <p class="mb-3 font-normal text-az-black card__text">
+                                Speed up migration with ease of development and also use the same for production deployment. </p><a href="https://github.com/MSUSAzureAccelerators/ADF-Synapse-Ingestion-Framework-Accelerator" target="_blank"
+                                class="inline-flex items-center py-2 px-3 text-sm font-medium text-center text-az-white bg-az-blue rounded-lg hover:bg-ms-dark-blue">
+                                Browse Assets on GitHub
+                                <svg class="ml-2 -mr-1 w-4 h-4" fill="currentColor" viewBox="0 0 20 20"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path fill-rule="evenodd"
+                                        d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z"
+                                        clip-rule="evenodd"></path>
+                                </svg>
+                            </a><div class="flex space-x-2 justify-end absolute top-1 right-1 mr-4 mt-4 w-full">
+                                <span class="text-xs inline-block py-1 px-2.5 leading-none text-center whitespace-nowrap align-baseline font-bold bg-ms-yellow text-az-dark-gray rounded-full border border-ms-dark-yellow"><i class="fa-solid fa-flask-vial"></i> Beta</span>
+                            </div></div>
+                    </div><div class="shuffle-item m-2 max-w-sm bg-az-white rounded-lg border border-az-light-gray shadow-md"
+                        data-groups='["IndustryCustomerScenario","Manufacturing","Automotive","Mobility&Transport","State&LocalGovernment","AzureIoTHub","Bicep","IoT","DigitalTwins","EventHub","AzureDataExplorer","Beta"]'>
+                        <div
+                            class="flex align-middle items-center justify-center opacity-70 hover:opacity-100 transition duration-300 ease-in-out">
+                            <a href="/accelerators/adx-iot-analytics.html">
+                                <img class="rounded-t-lg" src="assets/images/notfound.png"
+                                    alt="ADX IoT Analytics" />
+                            </a>
+                        </div>
+                        <div class="p-5">
+                            <div class="leading-5 uppercase text-sm tracking-widest text-az-medium-gray">
+                                Industry Customer Scenario</div>
+                            <a href="/accelerators/adx-iot-analytics.html">
+                                <h4 class="mb-2 text-xl font-semibold tracking-tight text-az-blue card__title">
+                                    ADX IoT Analytics</h4>
+                            </a>
+                            <p class="mb-3 font-normal text-az-black card__text">
+                                Azure Data Explorer can provide valuable insights into your IoT workloads.</p><a href="https://github.com/MSUSAzureAccelerators/ADX-IoT-Analytics-Accelerator" target="_blank"
+                                class="inline-flex items-center py-2 px-3 text-sm font-medium text-center text-az-white bg-az-blue rounded-lg hover:bg-ms-dark-blue">
+                                Browse Assets on GitHub
+                                <svg class="ml-2 -mr-1 w-4 h-4" fill="currentColor" viewBox="0 0 20 20"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path fill-rule="evenodd"
+                                        d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z"
+                                        clip-rule="evenodd"></path>
+                                </svg>
+                            </a><div class="flex space-x-2 justify-end absolute top-1 right-1 mr-4 mt-4 w-full">
+                                <span class="text-xs inline-block py-1 px-2.5 leading-none text-center whitespace-nowrap align-baseline font-bold bg-ms-yellow text-az-dark-gray rounded-full border border-ms-dark-yellow"><i class="fa-solid fa-flask-vial"></i> Beta</span>
+                            </div></div>
+                    </div><div class="shuffle-item m-2 max-w-sm bg-az-white rounded-lg border border-az-light-gray shadow-md"
+                        data-groups='["IndustryCustomerScenario","Healthcare","Automotive","Manufacturing","State&LocalGovernment","AzureIoTHub","Bicep","IoT","DigitalTwins","EventHub","AzureDataExplorer","Beta"]'>
+                        <div
+                            class="flex align-middle items-center justify-center opacity-70 hover:opacity-100 transition duration-300 ease-in-out">
+                            <a href="/accelerators/adx-patient-monitoring.html">
+                                <img class="rounded-t-lg" src="assets/images/Patient_Monitoring_Hero.webp"
+                                    alt="ADX Patient Monitoring" />
+                            </a>
+                        </div>
+                        <div class="p-5">
+                            <div class="leading-5 uppercase text-sm tracking-widest text-az-medium-gray">
+                                Industry Customer Scenario</div>
+                            <a href="/accelerators/adx-patient-monitoring.html">
+                                <h4 class="mb-2 text-xl font-semibold tracking-tight text-az-blue card__title">
+                                    ADX Patient Monitoring</h4>
+                            </a>
+                            <p class="mb-3 font-normal text-az-black card__text">
+                                Continuous patient monitoring to generate telemetry readings for two IoT consumer devices</p><a href="https://github.com/MSUSAzureAccelerators/ADX-Patient-Monitoring-Accelerator" target="_blank"
+                                class="inline-flex items-center py-2 px-3 text-sm font-medium text-center text-az-white bg-az-blue rounded-lg hover:bg-ms-dark-blue">
+                                Browse Assets on GitHub
+                                <svg class="ml-2 -mr-1 w-4 h-4" fill="currentColor" viewBox="0 0 20 20"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path fill-rule="evenodd"
+                                        d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z"
+                                        clip-rule="evenodd"></path>
+                                </svg>
+                            </a><div class="flex space-x-2 justify-end absolute top-1 right-1 mr-4 mt-4 w-full">
+                                <span class="text-xs inline-block py-1 px-2.5 leading-none text-center whitespace-nowrap align-baseline font-bold bg-ms-yellow text-az-dark-gray rounded-full border border-ms-dark-yellow"><i class="fa-solid fa-flask-vial"></i> Beta</span>
+                            </div></div>
+                    </div><div class="shuffle-item m-2 max-w-sm bg-az-white rounded-lg border border-az-light-gray shadow-md"
+                        data-groups='["IndustryCustomerScenario","Personalization","FinancialServices","Horizontal","CognitiveServices","AzureMachineLearning","PowerBI","AzureSpeechServices","AzureSQL","AzureStorage"]'>
+                        <div
+                            class="flex align-middle items-center justify-center opacity-70 hover:opacity-100 transition duration-300 ease-in-out">
+                            <a href="/accelerators/ai-powered-call-center-intelligence-(modern-contact-center).html">
+                                <img class="rounded-t-lg" src="assets/images/AI_Call_Center_Hero.webp"
+                                    alt="AI-Powered Call Center Intelligence (Modern Contact Center)" />
+                            </a>
+                        </div>
+                        <div class="p-5">
+                            <div class="leading-5 uppercase text-sm tracking-widest text-az-medium-gray">
+                                Industry Customer Scenario</div>
+                            <a href="/accelerators/ai-powered-call-center-intelligence-(modern-contact-center).html">
+                                <h4 class="mb-2 text-xl font-semibold tracking-tight text-az-blue card__title">
+                                    AI-Powered Call Center Intelligence (Modern Contact Center)</h4>
+                            </a>
+                            <p class="mb-3 font-normal text-az-black card__text">
+                                Automates call transcriptions for real-time and previously recorded calls.</p><a href="https://github.com/MSUSAzureAccelerators/AI-Powered-Call-Center-Intelligence-Accelerator" target="_blank"
+                                class="inline-flex items-center py-2 px-3 text-sm font-medium text-center text-az-white bg-az-blue rounded-lg hover:bg-ms-dark-blue">
+                                Browse Assets on GitHub
+                                <svg class="ml-2 -mr-1 w-4 h-4" fill="currentColor" viewBox="0 0 20 20"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path fill-rule="evenodd"
+                                        d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z"
+                                        clip-rule="evenodd"></path>
+                                </svg>
+                            </a></div>
+                    </div><div class="shuffle-item m-2 max-w-sm bg-az-white rounded-lg border border-az-light-gray shadow-md"
+                        data-groups='["IndustryCustomerScenario","Personalization","FinancialServices","Horizontal","CognitiveServices","AzureMachineLearning","PowerBI","AzureSpeechServices","AzureSQL","AzureStorage"]'>
+                        <div
+                            class="flex align-middle items-center justify-center opacity-70 hover:opacity-100 transition duration-300 ease-in-out">
+                            <a href="/accelerators/ai-powered-call-center-intelligence.html">
+                                <img class="rounded-t-lg" src="assets/images/AI_Call_Center_Hero.webp"
+                                    alt="AI-Powered Call Center Intelligence" />
+                            </a>
+                        </div>
+                        <div class="p-5">
+                            <div class="leading-5 uppercase text-sm tracking-widest text-az-medium-gray">
+                                Industry Customer Scenario</div>
+                            <a href="/accelerators/ai-powered-call-center-intelligence.html">
+                                <h4 class="mb-2 text-xl font-semibold tracking-tight text-az-blue card__title">
+                                    AI-Powered Call Center Intelligence</h4>
+                            </a>
+                            <p class="mb-3 font-normal text-az-black card__text">
+                                Automates call transcriptions for real-time and previously recorded calls.</p><a href="https://github.com/MSUSAzureAccelerators/AI-Powered-Call-Center-Intelligence-Accelerator" target="_blank"
+                                class="inline-flex items-center py-2 px-3 text-sm font-medium text-center text-az-white bg-az-blue rounded-lg hover:bg-ms-dark-blue">
+                                Browse Assets on GitHub
+                                <svg class="ml-2 -mr-1 w-4 h-4" fill="currentColor" viewBox="0 0 20 20"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path fill-rule="evenodd"
+                                        d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z"
+                                        clip-rule="evenodd"></path>
+                                </svg>
+                            </a></div>
+                    </div><div class="shuffle-item m-2 max-w-sm bg-az-white rounded-lg border border-az-light-gray shadow-md"
+                        data-groups='["IndustryCustomerScenario","ProcessAutomation","FinancialServices","CognitiveServices","CosmosDB","BotFramework","AzureStorage","FormRecognizer","Luis"]'>
+                        <div
+                            class="flex align-middle items-center justify-center opacity-70 hover:opacity-100 transition duration-300 ease-in-out">
+                            <a href="/accelerators/ai-powered-insurance-claims-automation.html">
+                                <img class="rounded-t-lg" src="assets/images/AI_Powered_Insurance_Hero.webp"
+                                    alt="AI-Powered Insurance Claims Automation" />
+                            </a>
+                        </div>
+                        <div class="p-5">
+                            <div class="leading-5 uppercase text-sm tracking-widest text-az-medium-gray">
+                                Industry Customer Scenario</div>
+                            <a href="/accelerators/ai-powered-insurance-claims-automation.html">
+                                <h4 class="mb-2 text-xl font-semibold tracking-tight text-az-blue card__title">
+                                    AI-Powered Insurance Claims Automation</h4>
+                            </a>
+                            <p class="mb-3 font-normal text-az-black card__text">
+                                Reduce claims processing time and manual effort in end-to-end claims processing for better customer experience.</p><a href="https://github.com/MSUSAzureAccelerators/AI-Powered-Insurance-Claims-Automation-Accelerator" target="_blank"
+                                class="inline-flex items-center py-2 px-3 text-sm font-medium text-center text-az-white bg-az-blue rounded-lg hover:bg-ms-dark-blue">
+                                Browse Assets on GitHub
+                                <svg class="ml-2 -mr-1 w-4 h-4" fill="currentColor" viewBox="0 0 20 20"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path fill-rule="evenodd"
+                                        d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z"
+                                        clip-rule="evenodd"></path>
+                                </svg>
+                            </a></div>
+                    </div><div class="shuffle-item m-2 max-w-sm bg-az-white rounded-lg border border-az-light-gray shadow-md"
+                        data-groups='["TechnologyAccelerator","Horizontal","TechPlug-In","Manufacturing","Automotive","Mobility&Transport","AzureContainerRegistry","AzureDevOps","AzureIoTHub","AzureMachineLearning","AzureSQL","AzureStorage","CognitiveServices","Docker","PowerBI","Python","Beta"]'>
+                        <div
+                            class="flex align-middle items-center justify-center opacity-70 hover:opacity-100 transition duration-300 ease-in-out">
+                            <a href="/accelerators/aiot---inventory-lifecycle-management.html">
+                                <img class="rounded-t-lg" src="assets/images/AIOT_Inventory_Lifecycle_Management_Hero.webp"
+                                    alt="AIoT - Inventory Lifecycle Management" />
+                            </a>
+                        </div>
+                        <div class="p-5">
+                            <div class="leading-5 uppercase text-sm tracking-widest text-az-medium-gray">
+                                Technology Accelerator</div>
+                            <a href="/accelerators/aiot---inventory-lifecycle-management.html">
+                                <h4 class="mb-2 text-xl font-semibold tracking-tight text-az-blue card__title">
+                                    AIoT - Inventory Lifecycle Management</h4>
+                            </a>
+                            <p class="mb-3 font-normal text-az-black card__text">
+                                Drive outcomes related to building more agile factories, creating more resilient supply chains, and transforming workforces.</p><a href="https://github.com/MSUSAzureAccelerators/Manufacturing-Vision-AMD64-Accelerator" target="_blank"
+                                class="inline-flex items-center py-2 px-3 text-sm font-medium text-center text-az-white bg-az-blue rounded-lg hover:bg-ms-dark-blue">
+                                Browse Assets on GitHub
+                                <svg class="ml-2 -mr-1 w-4 h-4" fill="currentColor" viewBox="0 0 20 20"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path fill-rule="evenodd"
+                                        d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z"
+                                        clip-rule="evenodd"></path>
+                                </svg>
+                            </a><div class="flex space-x-2 justify-end absolute top-1 right-1 mr-4 mt-4 w-full">
+                                <span class="text-xs inline-block py-1 px-2.5 leading-none text-center whitespace-nowrap align-baseline font-bold bg-ms-yellow text-az-dark-gray rounded-full border border-ms-dark-yellow"><i class="fa-solid fa-flask-vial"></i> Beta</span>
+                            </div></div>
+                    </div><div class="shuffle-item m-2 max-w-sm bg-az-white rounded-lg border border-az-light-gray shadow-md"
+                        data-groups='["TechnologyAccelerator","ProcessAutomation","Manufacturing","Automotive","Retail&ConsumerGoods","State&LocalGovernment","IoT","IoTHub","SynapseAnalytics","AzureDataLakeStorage","AzureMachineLearning","Data&AI","InProgress"]'>
+                        <div
+                            class="flex align-middle items-center justify-center opacity-70 hover:opacity-100 transition duration-300 ease-in-out">
+                            <a href="/accelerators/aiot.html">
+                                <img class="rounded-t-lg" src="assets/images/AIOT_Hero.webp"
+                                    alt="AIoT" />
+                            </a>
+                        </div>
+                        <div class="p-5">
+                            <div class="leading-5 uppercase text-sm tracking-widest text-az-medium-gray">
+                                Technology Accelerator</div>
+                            <a href="/accelerators/aiot.html">
+                                <h4 class="mb-2 text-xl font-semibold tracking-tight text-az-blue card__title">
+                                    AIoT</h4>
+                            </a>
+                            <p class="mb-3 font-normal text-az-black card__text">
+                                Transform how people, devices, and data interact in daily life and work</p><div class="flex space-x-2 justify-end absolute top-1 right-1 mr-4 mt-4 w-full">
+                                <span class="text-xs inline-block py-1 px-2.5 leading-none text-center whitespace-nowrap align-baseline font-bold bg-ms-teal text-az-light-gray rounded-full border border-ms-dark-teal"><i class="fa-solid fa-hammer"></i> In Progress</span>
+                            </div></div>
+                    </div><div class="shuffle-item m-2 max-w-sm bg-az-white rounded-lg border border-az-light-gray shadow-md"
+                        data-groups='["IndustryCustomerScenario","ProcessAutomation","Manufacturing","Automotive","Mobility&Transport","AzureContainerRegistry","AzureDevOps","AzureIoTHub","AzureKeyVault","AzureMachineLearning","CognitiveServices:Vision","AzureSQL","AzureStorage","Docker","PowerBI"]'>
+                        <div
+                            class="flex align-middle items-center justify-center opacity-70 hover:opacity-100 transition duration-300 ease-in-out">
+                            <a href="/accelerators/automated-quality-inspection.html">
+                                <img class="rounded-t-lg" src="assets/images/AIOT_Automated_Quality_Inspection_Hero.webp"
+                                    alt="Automated Quality Inspection" />
+                            </a>
+                        </div>
+                        <div class="p-5">
+                            <div class="leading-5 uppercase text-sm tracking-widest text-az-medium-gray">
+                                Industry Customer Scenario</div>
+                            <a href="/accelerators/automated-quality-inspection.html">
+                                <h4 class="mb-2 text-xl font-semibold tracking-tight text-az-blue card__title">
+                                    Automated Quality Inspection</h4>
+                            </a>
+                            <p class="mb-3 font-normal text-az-black card__text">
+                                Inspect product quality at the point of manufacture on the assembly line in real-time.</p><a href="https://github.com/MSUSAzureAccelerators/Manufacturing-Vision-AMD64-Accelerator" target="_blank"
+                                class="inline-flex items-center py-2 px-3 text-sm font-medium text-center text-az-white bg-az-blue rounded-lg hover:bg-ms-dark-blue">
+                                Browse Assets on GitHub
+                                <svg class="ml-2 -mr-1 w-4 h-4" fill="currentColor" viewBox="0 0 20 20"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path fill-rule="evenodd"
+                                        d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z"
+                                        clip-rule="evenodd"></path>
+                                </svg>
+                            </a></div>
+                    </div><div class="shuffle-item m-2 max-w-sm bg-az-white rounded-lg border border-az-light-gray shadow-md"
+                        data-groups='["TechnologyAccelerator","Personalization","TechnologyAccelerator","Retail","Horizontal","TechPlug-in","AzureDataLakeStorage","Synapse","PowerBI","AzureIntelligentRecommendations"]'>
+                        <div
+                            class="flex align-middle items-center justify-center opacity-70 hover:opacity-100 transition duration-300 ease-in-out">
+                            <a href="/accelerators/azure-intelligent-recommendations.html">
+                                <img class="rounded-t-lg" src="assets/images/Intelligent_Recommendations_Hero.webp"
+                                    alt="Azure Intelligent Recommendations" />
+                            </a>
+                        </div>
+                        <div class="p-5">
+                            <div class="leading-5 uppercase text-sm tracking-widest text-az-medium-gray">
+                                Technology Accelerator</div>
+                            <a href="/accelerators/azure-intelligent-recommendations.html">
+                                <h4 class="mb-2 text-xl font-semibold tracking-tight text-az-blue card__title">
+                                    Azure Intelligent Recommendations</h4>
+                            </a>
+                            <p class="mb-3 font-normal text-az-black card__text">
+                                Provide personalized product recommendations and telemetry insights.</p></div>
+                    </div><div class="shuffle-item m-2 max-w-sm bg-az-white rounded-lg border border-az-light-gray shadow-md"
+                        data-groups='["IndustryCustomerScenario","Personalization","Horizontal","Government","FSI","SLG","Retail","Education","HLS","AzureOpenAI","ChatGPT","AzureMachineLearning","AzureBotServices","AzureCognitiveSearch","AzureCognitiveServices","AzureCustomVoice","AzureDocumentTranslation","AzureAIPersonalizer","RecommendationEngine"]'>
+                        <div
+                            class="flex align-middle items-center justify-center opacity-70 hover:opacity-100 transition duration-300 ease-in-out">
+                            <a href="/accelerators/azure-openai-(chatgpt).html">
+                                <img class="rounded-t-lg" src="assets/images/Conversational_AI_SLG_Hero.webp"
+                                    alt="Azure OpenAI (ChatGPT)" />
+                            </a>
+                        </div>
+                        <div class="p-5">
+                            <div class="leading-5 uppercase text-sm tracking-widest text-az-medium-gray">
+                                Industry Customer Scenario</div>
+                            <a href="/accelerators/azure-openai-(chatgpt).html">
+                                <h4 class="mb-2 text-xl font-semibold tracking-tight text-az-blue card__title">
+                                    Azure OpenAI (ChatGPT)</h4>
+                            </a>
+                            <p class="mb-3 font-normal text-az-black card__text">
+                                Harness the power of Azure OpenAI and ChatGPT, combined with dozens of Azure AI and Data services with a rapid POC tailored to customer. </p><a href="https://github.com/MSUSAzureAccelerators/Conversational-AI-Accelerator" target="_blank"
+                                class="inline-flex items-center py-2 px-3 text-sm font-medium text-center text-az-white bg-az-blue rounded-lg hover:bg-ms-dark-blue">
+                                Browse Assets on GitHub
+                                <svg class="ml-2 -mr-1 w-4 h-4" fill="currentColor" viewBox="0 0 20 20"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path fill-rule="evenodd"
+                                        d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z"
+                                        clip-rule="evenodd"></path>
+                                </svg>
+                            </a></div>
+                    </div><div class="shuffle-item m-2 max-w-sm bg-az-white rounded-lg border border-az-light-gray shadow-md"
+                        data-groups='["IndustryCustomerScenario","Personalization","Retail","Horizontal","AzureMachineLearning","BotServices","CognitiveSearch","CognitiveServices"]'>
+                        <div
+                            class="flex align-middle items-center justify-center opacity-70 hover:opacity-100 transition duration-300 ease-in-out">
+                            <a href="/accelerators/conversational-ai-for-retail-(modern-contact-center).html">
+                                <img class="rounded-t-lg" src="assets/images/Conversational_AI_Hero.webp"
+                                    alt="Conversational AI for Retail (Modern Contact Center)" />
+                            </a>
+                        </div>
+                        <div class="p-5">
+                            <div class="leading-5 uppercase text-sm tracking-widest text-az-medium-gray">
+                                Industry Customer Scenario</div>
+                            <a href="/accelerators/conversational-ai-for-retail-(modern-contact-center).html">
+                                <h4 class="mb-2 text-xl font-semibold tracking-tight text-az-blue card__title">
+                                    Conversational AI for Retail (Modern Contact Center)</h4>
+                            </a>
+                            <p class="mb-3 font-normal text-az-black card__text">
+                                Collect data from every interaction in a feedback loop for optimization.</p><a href="https://github.com/MSUSAzureAccelerators/Conversational-AI-Accelerator" target="_blank"
+                                class="inline-flex items-center py-2 px-3 text-sm font-medium text-center text-az-white bg-az-blue rounded-lg hover:bg-ms-dark-blue">
+                                Browse Assets on GitHub
+                                <svg class="ml-2 -mr-1 w-4 h-4" fill="currentColor" viewBox="0 0 20 20"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path fill-rule="evenodd"
+                                        d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z"
+                                        clip-rule="evenodd"></path>
+                                </svg>
+                            </a></div>
+                    </div><div class="shuffle-item m-2 max-w-sm bg-az-white rounded-lg border border-az-light-gray shadow-md"
+                        data-groups='["IndustryCustomerScenario","Personalization","Retail","Horizontal","AzureMachineLearning","BotServices","CognitiveSearch","CognitiveServices"]'>
+                        <div
+                            class="flex align-middle items-center justify-center opacity-70 hover:opacity-100 transition duration-300 ease-in-out">
+                            <a href="/accelerators/conversational-ai-for-retail.html">
+                                <img class="rounded-t-lg" src="assets/images/Conversational_AI_Hero.webp"
+                                    alt="Conversational AI for Retail" />
+                            </a>
+                        </div>
+                        <div class="p-5">
+                            <div class="leading-5 uppercase text-sm tracking-widest text-az-medium-gray">
+                                Industry Customer Scenario</div>
+                            <a href="/accelerators/conversational-ai-for-retail.html">
+                                <h4 class="mb-2 text-xl font-semibold tracking-tight text-az-blue card__title">
+                                    Conversational AI for Retail</h4>
+                            </a>
+                            <p class="mb-3 font-normal text-az-black card__text">
+                                Collect data from every interaction in a feedback loop for optimization.</p><a href="https://github.com/MSUSAzureAccelerators/Conversational-AI-Accelerator" target="_blank"
+                                class="inline-flex items-center py-2 px-3 text-sm font-medium text-center text-az-white bg-az-blue rounded-lg hover:bg-ms-dark-blue">
+                                Browse Assets on GitHub
+                                <svg class="ml-2 -mr-1 w-4 h-4" fill="currentColor" viewBox="0 0 20 20"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path fill-rule="evenodd"
+                                        d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z"
+                                        clip-rule="evenodd"></path>
+                                </svg>
+                            </a></div>
+                    </div><div class="shuffle-item m-2 max-w-sm bg-az-white rounded-lg border border-az-light-gray shadow-md"
+                        data-groups='["IndustryCustomerScenario","Personalization","Government","Horizontal","AzureMachineLearning","BotServices","CognitiveSearch","CognitiveServices"]'>
+                        <div
+                            class="flex align-middle items-center justify-center opacity-70 hover:opacity-100 transition duration-300 ease-in-out">
+                            <a href="/accelerators/conversational-ai-for-state-and-local-government-(modern-contact-center).html">
+                                <img class="rounded-t-lg" src="assets/images/Conversational_AI_SLG_Hero.webp"
+                                    alt="Conversational AI for State and Local Government (Modern Contact Center)" />
+                            </a>
+                        </div>
+                        <div class="p-5">
+                            <div class="leading-5 uppercase text-sm tracking-widest text-az-medium-gray">
+                                Industry Customer Scenario</div>
+                            <a href="/accelerators/conversational-ai-for-state-and-local-government-(modern-contact-center).html">
+                                <h4 class="mb-2 text-xl font-semibold tracking-tight text-az-blue card__title">
+                                    Conversational AI for State and Local Government (Modern Contact Center)</h4>
+                            </a>
+                            <p class="mb-3 font-normal text-az-black card__text">
+                                Rich analytics served to a dashboard for valuable insights that can help you serve your public.</p><a href="https://github.com/MSUSAzureAccelerators/Conversational-AI-Accelerator" target="_blank"
+                                class="inline-flex items-center py-2 px-3 text-sm font-medium text-center text-az-white bg-az-blue rounded-lg hover:bg-ms-dark-blue">
+                                Browse Assets on GitHub
+                                <svg class="ml-2 -mr-1 w-4 h-4" fill="currentColor" viewBox="0 0 20 20"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path fill-rule="evenodd"
+                                        d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z"
+                                        clip-rule="evenodd"></path>
+                                </svg>
+                            </a></div>
+                    </div><div class="shuffle-item m-2 max-w-sm bg-az-white rounded-lg border border-az-light-gray shadow-md"
+                        data-groups='["IndustryCustomerScenario","Personalization","Government","Horizontal","AzureMachineLearning","BotServices","CognitiveSearch","CognitiveServices","Data&AI","ModernWorkplace","GA"]'>
+                        <div
+                            class="flex align-middle items-center justify-center opacity-70 hover:opacity-100 transition duration-300 ease-in-out">
+                            <a href="/accelerators/conversational-ai-for-state-and-local-government.html">
+                                <img class="rounded-t-lg" src="assets/images/Conversational_AI_SLG_Hero.webp"
+                                    alt="Conversational AI for State and Local Government" />
+                            </a>
+                        </div>
+                        <div class="p-5">
+                            <div class="leading-5 uppercase text-sm tracking-widest text-az-medium-gray">
+                                Industry Customer Scenario</div>
+                            <a href="/accelerators/conversational-ai-for-state-and-local-government.html">
+                                <h4 class="mb-2 text-xl font-semibold tracking-tight text-az-blue card__title">
+                                    Conversational AI for State and Local Government</h4>
+                            </a>
+                            <p class="mb-3 font-normal text-az-black card__text">
+                                Rich analytics served to a dashboard for valuable insights that can help you serve your public.</p><a href="https://github.com/MSUSAzureAccelerators/Conversational-AI-Solution-Accelerator" target="_blank"
+                                class="inline-flex items-center py-2 px-3 text-sm font-medium text-center text-az-white bg-az-blue rounded-lg hover:bg-ms-dark-blue">
+                                Browse Assets on GitHub
+                                <svg class="ml-2 -mr-1 w-4 h-4" fill="currentColor" viewBox="0 0 20 20"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path fill-rule="evenodd"
+                                        d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z"
+                                        clip-rule="evenodd"></path>
+                                </svg>
+                            </a><div class="flex space-x-2 justify-end absolute top-1 right-1 mr-4 mt-4 w-full">
+                                <span class="text-xs inline-block py-1 px-2.5 leading-none text-center whitespace-nowrap align-baseline font-bold bg-az-blue text-az-light-gray rounded-full border border-ms-dark-blue"><i class="fa-solid fa-gauge-high"></i> GA</span>
+                            </div></div>
+                    </div><div class="shuffle-item m-2 max-w-sm bg-az-white rounded-lg border border-az-light-gray shadow-md"
+                        data-groups='["IndustryCustomerScenario","Personalization","Government","Horizontal","AzureMachineLearning","BotServices","CognitiveSearch","CognitiveServices"]'>
+                        <div
+                            class="flex align-middle items-center justify-center opacity-70 hover:opacity-100 transition duration-300 ease-in-out">
+                            <a href="/accelerators/conversational-ai-for-with-azure-openai-for-slg.html">
+                                <img class="rounded-t-lg" src="assets/images/Conversational_AI_SLG_Hero.webp"
+                                    alt="Conversational AI for with Azure OpenAI for SLG" />
+                            </a>
+                        </div>
+                        <div class="p-5">
+                            <div class="leading-5 uppercase text-sm tracking-widest text-az-medium-gray">
+                                Industry Customer Scenario</div>
+                            <a href="/accelerators/conversational-ai-for-with-azure-openai-for-slg.html">
+                                <h4 class="mb-2 text-xl font-semibold tracking-tight text-az-blue card__title">
+                                    Conversational AI for with Azure OpenAI for SLG</h4>
+                            </a>
+                            <p class="mb-3 font-normal text-az-black card__text">
+                                Rich analytics served to a dashboard for valuable insights that can help you serve your public.</p><a href="https://github.com/MSUSAzureAccelerators/Conversational-AI-Accelerator" target="_blank"
+                                class="inline-flex items-center py-2 px-3 text-sm font-medium text-center text-az-white bg-az-blue rounded-lg hover:bg-ms-dark-blue">
+                                Browse Assets on GitHub
+                                <svg class="ml-2 -mr-1 w-4 h-4" fill="currentColor" viewBox="0 0 20 20"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path fill-rule="evenodd"
+                                        d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z"
+                                        clip-rule="evenodd"></path>
+                                </svg>
+                            </a></div>
+                    </div><div class="shuffle-item m-2 max-w-sm bg-az-white rounded-lg border border-az-light-gray shadow-md"
+                        data-groups='["IndustryCustomerScenario","Personalization","Horizontal","Government","FSI","SLG","Retail","Education","AzureMachineLearning","BotServices","CognitiveSearch","CognitiveServices"]'>
+                        <div
+                            class="flex align-middle items-center justify-center opacity-70 hover:opacity-100 transition duration-300 ease-in-out">
+                            <a href="/accelerators/conversational-ai-for-with-azure-openai.html">
+                                <img class="rounded-t-lg" src="assets/images/Conversational_AI_SLG_Hero.webp"
+                                    alt="Conversational AI for with Azure OpenAI" />
+                            </a>
+                        </div>
+                        <div class="p-5">
+                            <div class="leading-5 uppercase text-sm tracking-widest text-az-medium-gray">
+                                Industry Customer Scenario</div>
+                            <a href="/accelerators/conversational-ai-for-with-azure-openai.html">
+                                <h4 class="mb-2 text-xl font-semibold tracking-tight text-az-blue card__title">
+                                    Conversational AI for with Azure OpenAI</h4>
+                            </a>
+                            <p class="mb-3 font-normal text-az-black card__text">
+                                Rich analytics served to a dashboard for valuable insights that can help you serve your public.</p><a href="https://github.com/MSUSAzureAccelerators/Conversational-AI-Accelerator" target="_blank"
+                                class="inline-flex items-center py-2 px-3 text-sm font-medium text-center text-az-white bg-az-blue rounded-lg hover:bg-ms-dark-blue">
+                                Browse Assets on GitHub
+                                <svg class="ml-2 -mr-1 w-4 h-4" fill="currentColor" viewBox="0 0 20 20"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path fill-rule="evenodd"
+                                        d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z"
+                                        clip-rule="evenodd"></path>
+                                </svg>
+                            </a></div>
+                    </div><div class="shuffle-item m-2 max-w-sm bg-az-white rounded-lg border border-az-light-gray shadow-md"
+                        data-groups='["IndustryCustomerScenario","Personalization","Retail","Horizontal","AzureMachineLearning","BotServices","CognitiveSearch","CognitiveServices"]'>
+                        <div
+                            class="flex align-middle items-center justify-center opacity-70 hover:opacity-100 transition duration-300 ease-in-out">
+                            <a href="/accelerators/conversational-ai-with-azure-openai-for-retail-(modern-contact-center).html">
+                                <img class="rounded-t-lg" src="assets/images/Conversational_AI_Hero.webp"
+                                    alt="Conversational AI with Azure OpenAI for Retail (Modern Contact Center)" />
+                            </a>
+                        </div>
+                        <div class="p-5">
+                            <div class="leading-5 uppercase text-sm tracking-widest text-az-medium-gray">
+                                Industry Customer Scenario</div>
+                            <a href="/accelerators/conversational-ai-with-azure-openai-for-retail-(modern-contact-center).html">
+                                <h4 class="mb-2 text-xl font-semibold tracking-tight text-az-blue card__title">
+                                    Conversational AI with Azure OpenAI for Retail (Modern Contact Center)</h4>
+                            </a>
+                            <p class="mb-3 font-normal text-az-black card__text">
+                                Collect data from every interaction in a feedback loop for optimization.</p><a href="https://github.com/MSUSAzureAccelerators/Conversational-AI-Accelerator" target="_blank"
+                                class="inline-flex items-center py-2 px-3 text-sm font-medium text-center text-az-white bg-az-blue rounded-lg hover:bg-ms-dark-blue">
+                                Browse Assets on GitHub
+                                <svg class="ml-2 -mr-1 w-4 h-4" fill="currentColor" viewBox="0 0 20 20"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path fill-rule="evenodd"
+                                        d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z"
+                                        clip-rule="evenodd"></path>
+                                </svg>
+                            </a></div>
+                    </div><div class="shuffle-item m-2 max-w-sm bg-az-white rounded-lg border border-az-light-gray shadow-md"
+                        data-groups='["IndustryCustomerScenario","Personalization","Retail","Horizontal","AzureMachineLearning","BotServices","CognitiveSearch","CognitiveServices"]'>
+                        <div
+                            class="flex align-middle items-center justify-center opacity-70 hover:opacity-100 transition duration-300 ease-in-out">
+                            <a href="/accelerators/conversational-ai-with-azure-openai-for-retail.html">
+                                <img class="rounded-t-lg" src="assets/images/Conversational_AI_Hero.webp"
+                                    alt="Conversational AI with Azure OpenAI for Retail" />
+                            </a>
+                        </div>
+                        <div class="p-5">
+                            <div class="leading-5 uppercase text-sm tracking-widest text-az-medium-gray">
+                                Industry Customer Scenario</div>
+                            <a href="/accelerators/conversational-ai-with-azure-openai-for-retail.html">
+                                <h4 class="mb-2 text-xl font-semibold tracking-tight text-az-blue card__title">
+                                    Conversational AI with Azure OpenAI for Retail</h4>
+                            </a>
+                            <p class="mb-3 font-normal text-az-black card__text">
+                                Collect data from every interaction in a feedback loop for optimization.</p><a href="https://github.com/MSUSAzureAccelerators/Conversational-AI-Accelerator" target="_blank"
+                                class="inline-flex items-center py-2 px-3 text-sm font-medium text-center text-az-white bg-az-blue rounded-lg hover:bg-ms-dark-blue">
+                                Browse Assets on GitHub
+                                <svg class="ml-2 -mr-1 w-4 h-4" fill="currentColor" viewBox="0 0 20 20"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path fill-rule="evenodd"
+                                        d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z"
+                                        clip-rule="evenodd"></path>
+                                </svg>
+                            </a></div>
+                    </div><div class="shuffle-item m-2 max-w-sm bg-az-white rounded-lg border border-az-light-gray shadow-md"
+                        data-groups='["IndustryCustomerScenario","Personalization","Horizontal","Government","FSI","SLG","Retail","Education","HLS","AzureOpenAIandChatGPT","AzureCognitiveServices:Language","LanguageUnderstanding","Translator","SpeechtoText","TexttoSpeech;AzureCognitiveSearch","AzureSemanticSearch","AzureCustomVoice","AzureDocumentTranslation","AzureSQL"]'>
+                        <div
+                            class="flex align-middle items-center justify-center opacity-70 hover:opacity-100 transition duration-300 ease-in-out">
+                            <a href="/accelerators/conversational-azure-openai-(chatgpt).html">
+                                <img class="rounded-t-lg" src="assets/images/Conversational_AI_SLG_Hero.webp"
+                                    alt="Conversational Azure OpenAI (ChatGPT)" />
+                            </a>
+                        </div>
+                        <div class="p-5">
+                            <div class="leading-5 uppercase text-sm tracking-widest text-az-medium-gray">
+                                Industry Customer Scenario</div>
+                            <a href="/accelerators/conversational-azure-openai-(chatgpt).html">
+                                <h4 class="mb-2 text-xl font-semibold tracking-tight text-az-blue card__title">
+                                    Conversational Azure OpenAI (ChatGPT)</h4>
+                            </a>
+                            <p class="mb-3 font-normal text-az-black card__text">
+                                Harness the power of Azure OpenAI and ChatGPT, combined with dozens of Azure AI and Data services with a rapid POC tailored to customer. </p><a href="https://github.com/MSUSAzureAccelerators/Conversational-Azure-OpenAI-Accelerator" target="_blank"
+                                class="inline-flex items-center py-2 px-3 text-sm font-medium text-center text-az-white bg-az-blue rounded-lg hover:bg-ms-dark-blue">
+                                Browse Assets on GitHub
+                                <svg class="ml-2 -mr-1 w-4 h-4" fill="currentColor" viewBox="0 0 20 20"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path fill-rule="evenodd"
+                                        d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z"
+                                        clip-rule="evenodd"></path>
+                                </svg>
+                            </a></div>
+                    </div><div class="shuffle-item m-2 max-w-sm bg-az-white rounded-lg border border-az-light-gray shadow-md"
+                        data-groups='["IndustryCustomerScenario","PredictiveAnalytics","TechnologyAccelerator","Personalization","Education","SynapseAnalytics​","AzureDataLake​","AzureActiveDirectory​","Purview​","OEAFramework"]'>
+                        <div
+                            class="flex align-middle items-center justify-center opacity-70 hover:opacity-100 transition duration-300 ease-in-out">
+                            <a href="/accelerators/data,-analytics-and-ai-for-education.html">
+                                <img class="rounded-t-lg" src="assets/images/notfound.png"
+                                    alt="Data, Analytics and AI for Education" />
+                            </a>
+                        </div>
+                        <div class="p-5">
+                            <div class="leading-5 uppercase text-sm tracking-widest text-az-medium-gray">
+                                Industry Customer Scenario</div>
+                            <a href="/accelerators/data,-analytics-and-ai-for-education.html">
+                                <h4 class="mb-2 text-xl font-semibold tracking-tight text-az-blue card__title">
+                                    Data, Analytics and AI for Education</h4>
+                            </a>
+                            <p class="mb-3 font-normal text-az-black card__text">
+                                Transform education experiences for students and educators through connecting data, analytics and AI.</p></div>
+                    </div><div class="shuffle-item m-2 max-w-sm bg-az-white rounded-lg border border-az-light-gray shadow-md"
+                        data-groups='["TechnologyAccelerator","Horizontal","TechPlug-In","Purview","AzureKeyVault","AzureSQL","SynapseAnalytics","AzureStorage","Nominated"]'>
+                        <div
+                            class="flex align-middle items-center justify-center opacity-70 hover:opacity-100 transition duration-300 ease-in-out">
+                            <a href="/accelerators/data-governance-demo-generator.html">
+                                <img class="rounded-t-lg" src="assets/images/notfound.png"
+                                    alt="Data Governance Demo Generator" />
+                            </a>
+                        </div>
+                        <div class="p-5">
+                            <div class="leading-5 uppercase text-sm tracking-widest text-az-medium-gray">
+                                Technology Accelerator</div>
+                            <a href="/accelerators/data-governance-demo-generator.html">
+                                <h4 class="mb-2 text-xl font-semibold tracking-tight text-az-blue card__title">
+                                    Data Governance Demo Generator</h4>
+                            </a>
+                            <p class="mb-3 font-normal text-az-black card__text">
+                                Automate the deployment of a pre-populated Azure Purview demo environment.</p><a href="https://github.com/tayganr/purviewdemo" target="_blank"
+                                class="inline-flex items-center py-2 px-3 text-sm font-medium text-center text-az-white bg-az-blue rounded-lg hover:bg-ms-dark-blue">
+                                Browse Assets on GitHub
+                                <svg class="ml-2 -mr-1 w-4 h-4" fill="currentColor" viewBox="0 0 20 20"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path fill-rule="evenodd"
+                                        d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z"
+                                        clip-rule="evenodd"></path>
+                                </svg>
+                            </a><div class="flex space-x-2 justify-end absolute top-1 right-1 mr-4 mt-4 w-full">
+                                <span class="text-xs inline-block py-1 px-2.5 leading-none text-center whitespace-nowrap align-baseline font-bold bg-az-medium-gray text-az-light-gray rounded-full border border-az-dark-gray"><i class="fa-solid fa-pen-to-square"></i> Nominated</span>
+                            </div></div>
+                    </div><div class="shuffle-item m-2 max-w-sm bg-az-white rounded-lg border border-az-light-gray shadow-md"
+                        data-groups='["IndustryCustomerScenario","PredictiveAnalytics","SupplyChain","Manufacturing","Energy","AzureCosmosDB","PowerBI","AzureMachineLearning","AzureSynapseAnalytics","AzureStorage"]'>
+                        <div
+                            class="flex align-middle items-center justify-center opacity-70 hover:opacity-100 transition duration-300 ease-in-out">
+                            <a href="/accelerators/demand-forecasting.html">
+                                <img class="rounded-t-lg" src="assets/images/Many_Models_Demand_Forecasting_Hero.png"
+                                    alt="Demand Forecasting" />
+                            </a>
+                        </div>
+                        <div class="p-5">
+                            <div class="leading-5 uppercase text-sm tracking-widest text-az-medium-gray">
+                                Industry Customer Scenario</div>
+                            <a href="/accelerators/demand-forecasting.html">
+                                <h4 class="mb-2 text-xl font-semibold tracking-tight text-az-blue card__title">
+                                    Demand Forecasting</h4>
+                            </a>
+                            <p class="mb-3 font-normal text-az-black card__text">
+                                Determine future demand to optimize inventory, material and product orders.</p><a href="https://github.com/microsoft/solution-accelerator-many-models" target="_blank"
+                                class="inline-flex items-center py-2 px-3 text-sm font-medium text-center text-az-white bg-az-blue rounded-lg hover:bg-ms-dark-blue">
+                                Browse Assets on GitHub
+                                <svg class="ml-2 -mr-1 w-4 h-4" fill="currentColor" viewBox="0 0 20 20"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path fill-rule="evenodd"
+                                        d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z"
+                                        clip-rule="evenodd"></path>
+                                </svg>
+                            </a></div>
+                    </div><div class="shuffle-item m-2 max-w-sm bg-az-white rounded-lg border border-az-light-gray shadow-md"
+                        data-groups='["IndustryCustomerScenario","CampaignManagement","Media&Communications"]'>
+                        <div
+                            class="flex align-middle items-center justify-center opacity-70 hover:opacity-100 transition duration-300 ease-in-out">
+                            <a href="/accelerators/digital-experience-solution.html">
+                                <img class="rounded-t-lg" src="assets/images/Digital_Experience_Hero.webp"
+                                    alt="Digital Experience Solution" />
+                            </a>
+                        </div>
+                        <div class="p-5">
+                            <div class="leading-5 uppercase text-sm tracking-widest text-az-medium-gray">
+                                Industry Customer Scenario</div>
+                            <a href="/accelerators/digital-experience-solution.html">
+                                <h4 class="mb-2 text-xl font-semibold tracking-tight text-az-blue card__title">
+                                    Digital Experience Solution</h4>
+                            </a>
+                            <p class="mb-3 font-normal text-az-black card__text">
+                                Move the entire live stream process offsite and into the cloud.</p><a href="https://github.com/MSUSAzureAccelerators/Digital-Experience-Solution-Accelerator" target="_blank"
+                                class="inline-flex items-center py-2 px-3 text-sm font-medium text-center text-az-white bg-az-blue rounded-lg hover:bg-ms-dark-blue">
+                                Browse Assets on GitHub
+                                <svg class="ml-2 -mr-1 w-4 h-4" fill="currentColor" viewBox="0 0 20 20"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path fill-rule="evenodd"
+                                        d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z"
+                                        clip-rule="evenodd"></path>
+                                </svg>
+                            </a></div>
+                    </div><div class="shuffle-item m-2 max-w-sm bg-az-white rounded-lg border border-az-light-gray shadow-md"
+                        data-groups='["IndustryCustomerScenario","ProcessAutomation","Manufacturing","Horizontal","AppliedAIServices:FormRecognizer","AzureLogicApps","AzureCosmosDB","PowerBI","AzureDataExplorer","BotFramework","Luis"]'>
+                        <div
+                            class="flex align-middle items-center justify-center opacity-70 hover:opacity-100 transition duration-300 ease-in-out">
+                            <a href="/accelerators/document-process-automation.html">
+                                <img class="rounded-t-lg" src="assets/images/notfound.png"
+                                    alt="Document Process Automation" />
+                            </a>
+                        </div>
+                        <div class="p-5">
+                            <div class="leading-5 uppercase text-sm tracking-widest text-az-medium-gray">
+                                Industry Customer Scenario</div>
+                            <a href="/accelerators/document-process-automation.html">
+                                <h4 class="mb-2 text-xl font-semibold tracking-tight text-az-blue card__title">
+                                    Document Process Automation</h4>
+                            </a>
+                            <p class="mb-3 font-normal text-az-black card__text">
+                                Automate extraction of data from complex structured and unstructured documents to unlock insights.</p><a href="https://github.com/MSUSAzureAccelerators/Intelligent-Document-Processing-Accelerator" target="_blank"
+                                class="inline-flex items-center py-2 px-3 text-sm font-medium text-center text-az-white bg-az-blue rounded-lg hover:bg-ms-dark-blue">
+                                Browse Assets on GitHub
+                                <svg class="ml-2 -mr-1 w-4 h-4" fill="currentColor" viewBox="0 0 20 20"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path fill-rule="evenodd"
+                                        d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z"
+                                        clip-rule="evenodd"></path>
+                                </svg>
+                            </a></div>
+                    </div><div class="shuffle-item m-2 max-w-sm bg-az-white rounded-lg border border-az-light-gray shadow-md"
+                        data-groups='["IndustryCustomerScenario","ProcessAutomation","Manufacturing","Automotive","Mobility&Transport","AzureContainerRegistry","AzureDevOps","AzureIoTHub","AzureKeyVault","AzureMachineLearning","AzureSQL","AzureStorage","CognitiveServices","Docker","PowerBI","Python"]'>
+                        <div
+                            class="flex align-middle items-center justify-center opacity-70 hover:opacity-100 transition duration-300 ease-in-out">
+                            <a href="/accelerators/factory-and-worker-safety.html">
+                                <img class="rounded-t-lg" src="assets/images/AIOT_Worker_Safety_Hero.webp"
+                                    alt="Factory & Worker Safety" />
+                            </a>
+                        </div>
+                        <div class="p-5">
+                            <div class="leading-5 uppercase text-sm tracking-widest text-az-medium-gray">
+                                Industry Customer Scenario</div>
+                            <a href="/accelerators/factory-and-worker-safety.html">
+                                <h4 class="mb-2 text-xl font-semibold tracking-tight text-az-blue card__title">
+                                    Factory & Worker Safety</h4>
+                            </a>
+                            <p class="mb-3 font-normal text-az-black card__text">
+                                Azure Computer Vision infers product quality at the point of manufacture on the assembly line in real-time.</p><a href="https://github.com/MSUSAzureAccelerators/Manufacturing-Vision-AMD64-Accelerator" target="_blank"
+                                class="inline-flex items-center py-2 px-3 text-sm font-medium text-center text-az-white bg-az-blue rounded-lg hover:bg-ms-dark-blue">
+                                Browse Assets on GitHub
+                                <svg class="ml-2 -mr-1 w-4 h-4" fill="currentColor" viewBox="0 0 20 20"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path fill-rule="evenodd"
+                                        d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z"
+                                        clip-rule="evenodd"></path>
+                                </svg>
+                            </a></div>
+                    </div><div class="shuffle-item m-2 max-w-sm bg-az-white rounded-lg border border-az-light-gray shadow-md"
+                        data-groups='["IndustryCustomerScenario","ProcessAutomation","Government","FinancialServices","AzureMachineLearning","AzureSynapseAnalytics","AzureCosmosDB","PowerBI"]'>
+                        <div
+                            class="flex align-middle items-center justify-center opacity-70 hover:opacity-100 transition duration-300 ease-in-out">
+                            <a href="/accelerators/fraud-detection-and-transaction-monitoring.html">
+                                <img class="rounded-t-lg" src="assets/images/Fraud_Compliance_Hero.webp"
+                                    alt="Fraud Detection and Transaction Monitoring" />
+                            </a>
+                        </div>
+                        <div class="p-5">
+                            <div class="leading-5 uppercase text-sm tracking-widest text-az-medium-gray">
+                                Industry Customer Scenario</div>
+                            <a href="/accelerators/fraud-detection-and-transaction-monitoring.html">
+                                <h4 class="mb-2 text-xl font-semibold tracking-tight text-az-blue card__title">
+                                    Fraud Detection and Transaction Monitoring</h4>
+                            </a>
+                            <p class="mb-3 font-normal text-az-black card__text">
+                                Identify risk of fraud or fraud associated activities.</p><a href="https://microsofteur.sharepoint.com/teams/MCSMLAISolutionAccelerators/SitePages/Anomaly-Detection-Accelerator-Detail.aspx" target="_blank"
+                                class="inline-flex items-center py-2 px-3 text-sm font-medium text-center text-az-white bg-az-blue rounded-lg hover:bg-ms-dark-blue">
+                                Browse Assets on GitHub
+                                <svg class="ml-2 -mr-1 w-4 h-4" fill="currentColor" viewBox="0 0 20 20"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path fill-rule="evenodd"
+                                        d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z"
+                                        clip-rule="evenodd"></path>
+                                </svg>
+                            </a></div>
+                    </div><div class="shuffle-item m-2 max-w-sm bg-az-white rounded-lg border border-az-light-gray shadow-md"
+                        data-groups='["IndustryCustomerScenario","ProcessAutomation","Horizontal","BotFramework","CognitiveServices","AzureMachineLearning"]'>
+                        <div
+                            class="flex align-middle items-center justify-center opacity-70 hover:opacity-100 transition duration-300 ease-in-out">
+                            <a href="/accelerators/it-helpdesk-chatbot.html">
+                                <img class="rounded-t-lg" src="assets/images/IT_Helpdesk_Bot_Hero.webp"
+                                    alt="IT Helpdesk Chatbot" />
+                            </a>
+                        </div>
+                        <div class="p-5">
+                            <div class="leading-5 uppercase text-sm tracking-widest text-az-medium-gray">
+                                Industry Customer Scenario</div>
+                            <a href="/accelerators/it-helpdesk-chatbot.html">
+                                <h4 class="mb-2 text-xl font-semibold tracking-tight text-az-blue card__title">
+                                    IT Helpdesk Chatbot</h4>
+                            </a>
+                            <p class="mb-3 font-normal text-az-black card__text">
+                                Multiply the productivity of your employees and cut down your IT support costs.</p></div>
+                    </div><div class="shuffle-item m-2 max-w-sm bg-az-white rounded-lg border border-az-light-gray shadow-md"
+                        data-groups='["IndustryCustomerScenario","Manufacturing","Automotive","Mobility&Transport","Docker","Python","Beta"]'>
+                        <div
+                            class="flex align-middle items-center justify-center opacity-70 hover:opacity-100 transition duration-300 ease-in-out">
+                            <a href="/accelerators/manufacturing-vision---amd64.html">
+                                <img class="rounded-t-lg" src="assets/images/notfound.png"
+                                    alt="Manufacturing Vision - AMD64" />
+                            </a>
+                        </div>
+                        <div class="p-5">
+                            <div class="leading-5 uppercase text-sm tracking-widest text-az-medium-gray">
+                                Industry Customer Scenario</div>
+                            <a href="/accelerators/manufacturing-vision---amd64.html">
+                                <h4 class="mb-2 text-xl font-semibold tracking-tight text-az-blue card__title">
+                                    Manufacturing Vision - AMD64</h4>
+                            </a>
+                            <p class="mb-3 font-normal text-az-black card__text">
+                                Base code for the Manufacturing Vision Accelerator for AMD64 architecture.</p><a href="https://github.com/MSUSAzureAccelerators/Manufacturing-Vision-AMD64-Accelerator" target="_blank"
+                                class="inline-flex items-center py-2 px-3 text-sm font-medium text-center text-az-white bg-az-blue rounded-lg hover:bg-ms-dark-blue">
+                                Browse Assets on GitHub
+                                <svg class="ml-2 -mr-1 w-4 h-4" fill="currentColor" viewBox="0 0 20 20"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path fill-rule="evenodd"
+                                        d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z"
+                                        clip-rule="evenodd"></path>
+                                </svg>
+                            </a><div class="flex space-x-2 justify-end absolute top-1 right-1 mr-4 mt-4 w-full">
+                                <span class="text-xs inline-block py-1 px-2.5 leading-none text-center whitespace-nowrap align-baseline font-bold bg-ms-yellow text-az-dark-gray rounded-full border border-ms-dark-yellow"><i class="fa-solid fa-flask-vial"></i> Beta</span>
+                            </div></div>
+                    </div><div class="shuffle-item m-2 max-w-sm bg-az-white rounded-lg border border-az-light-gray shadow-md"
+                        data-groups='["TechnologyAccelerator","Horizontal","TechPlug-In","Purview","AzureDataLakeStorage","AzureKeyVault","AzureSQL","SynapseAnalytics","Beta"]'>
+                        <div
+                            class="flex align-middle items-center justify-center opacity-70 hover:opacity-100 transition duration-300 ease-in-out">
+                            <a href="/accelerators/microsoft-purview-workshop.html">
+                                <img class="rounded-t-lg" src="assets/images/Purview_HOL_Hero.webp"
+                                    alt="Microsoft Purview Workshop" />
+                            </a>
+                        </div>
+                        <div class="p-5">
+                            <div class="leading-5 uppercase text-sm tracking-widest text-az-medium-gray">
+                                Technology Accelerator</div>
+                            <a href="/accelerators/microsoft-purview-workshop.html">
+                                <h4 class="mb-2 text-xl font-semibold tracking-tight text-az-blue card__title">
+                                    Microsoft Purview Workshop</h4>
+                            </a>
+                            <p class="mb-3 font-normal text-az-black card__text">
+                                Hands-on-Lab to explore the functionality of Microsoft Purview and help you manage and govern your on-premises, multi-cloud and SaaS data.</p><a href="https://github.com/tayganr/purviewlab" target="_blank"
+                                class="inline-flex items-center py-2 px-3 text-sm font-medium text-center text-az-white bg-az-blue rounded-lg hover:bg-ms-dark-blue">
+                                Browse Assets on GitHub
+                                <svg class="ml-2 -mr-1 w-4 h-4" fill="currentColor" viewBox="0 0 20 20"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path fill-rule="evenodd"
+                                        d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z"
+                                        clip-rule="evenodd"></path>
+                                </svg>
+                            </a><div class="flex space-x-2 justify-end absolute top-1 right-1 mr-4 mt-4 w-full">
+                                <span class="text-xs inline-block py-1 px-2.5 leading-none text-center whitespace-nowrap align-baseline font-bold bg-ms-yellow text-az-dark-gray rounded-full border border-ms-dark-yellow"><i class="fa-solid fa-flask-vial"></i> Beta</span>
+                            </div></div>
+                    </div><div class="shuffle-item m-2 max-w-sm bg-az-white rounded-lg border border-az-light-gray shadow-md"
+                        data-groups='["TechnologyAccelerator","Horizontal","TechPlug-In","Bicep","Terraform","AzureBastion","AzureVirtualMachine","AzureFirewall","AzureDefender","AzurePolicy","AzureSentinel","AzureStorage","LogAnalytics","Beta"]'>
+                        <div
+                            class="flex align-middle items-center justify-center opacity-70 hover:opacity-100 transition duration-300 ease-in-out">
+                            <a href="/accelerators/mission-landing-zone.html">
+                                <img class="rounded-t-lg" src="assets/images/Mission-Landing-Zone-Hero.png"
+                                    alt="Mission Landing Zone" />
+                            </a>
+                        </div>
+                        <div class="p-5">
+                            <div class="leading-5 uppercase text-sm tracking-widest text-az-medium-gray">
+                                Technology Accelerator</div>
+                            <a href="/accelerators/mission-landing-zone.html">
+                                <h4 class="mb-2 text-xl font-semibold tracking-tight text-az-blue card__title">
+                                    Mission Landing Zone</h4>
+                            </a>
+                            <p class="mb-3 font-normal text-az-black card__text">
+                                Create a cloud management system to deploy Azure environments.</p><a href="https://github.com/azure/missionlz" target="_blank"
+                                class="inline-flex items-center py-2 px-3 text-sm font-medium text-center text-az-white bg-az-blue rounded-lg hover:bg-ms-dark-blue">
+                                Browse Assets on GitHub
+                                <svg class="ml-2 -mr-1 w-4 h-4" fill="currentColor" viewBox="0 0 20 20"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path fill-rule="evenodd"
+                                        d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z"
+                                        clip-rule="evenodd"></path>
+                                </svg>
+                            </a><div class="flex space-x-2 justify-end absolute top-1 right-1 mr-4 mt-4 w-full">
+                                <span class="text-xs inline-block py-1 px-2.5 leading-none text-center whitespace-nowrap align-baseline font-bold bg-ms-yellow text-az-dark-gray rounded-full border border-ms-dark-yellow"><i class="fa-solid fa-flask-vial"></i> Beta</span>
+                            </div></div>
+                    </div><div class="shuffle-item m-2 max-w-sm bg-az-white rounded-lg border border-az-light-gray shadow-md"
+                        data-groups='["IndustryCustomerScenario","FinancialServices","AzureMachineLearning","CosmosDB","AzureSynapseAnalytics","PowerBI","Beta"]'>
+                        <div
+                            class="flex align-middle items-center justify-center opacity-70 hover:opacity-100 transition duration-300 ease-in-out">
+                            <a href="/accelerators/near-real-time-fraud-and-compliance-analytics.html">
+                                <img class="rounded-t-lg" src="assets/images/notfound.png"
+                                    alt="Near Real-time Fraud and Compliance Analytics" />
+                            </a>
+                        </div>
+                        <div class="p-5">
+                            <div class="leading-5 uppercase text-sm tracking-widest text-az-medium-gray">
+                                Industry Customer Scenario</div>
+                            <a href="/accelerators/near-real-time-fraud-and-compliance-analytics.html">
+                                <h4 class="mb-2 text-xl font-semibold tracking-tight text-az-blue card__title">
+                                    Near Real-time Fraud and Compliance Analytics</h4>
+                            </a>
+                            <p class="mb-3 font-normal text-az-black card__text">
+                                Simplify the fraud detection and reporting process.</p><a href="https://github.com/MSUSAzureAccelerators/Near-Real-Time-Fraud-and-Compliance-Analytics-Accelerator" target="_blank"
+                                class="inline-flex items-center py-2 px-3 text-sm font-medium text-center text-az-white bg-az-blue rounded-lg hover:bg-ms-dark-blue">
+                                Browse Assets on GitHub
+                                <svg class="ml-2 -mr-1 w-4 h-4" fill="currentColor" viewBox="0 0 20 20"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path fill-rule="evenodd"
+                                        d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z"
+                                        clip-rule="evenodd"></path>
+                                </svg>
+                            </a><div class="flex space-x-2 justify-end absolute top-1 right-1 mr-4 mt-4 w-full">
+                                <span class="text-xs inline-block py-1 px-2.5 leading-none text-center whitespace-nowrap align-baseline font-bold bg-ms-yellow text-az-dark-gray rounded-full border border-ms-dark-yellow"><i class="fa-solid fa-flask-vial"></i> Beta</span>
+                            </div></div>
+                    </div><div class="shuffle-item m-2 max-w-sm bg-az-white rounded-lg border border-az-light-gray shadow-md"
+                        data-groups='["IndustryCustomerScenario","Health&LifeSciences","Healthcare","State&LocalGovernment","IoT","IoTHub","SynapseAnalytics","Beta"]'>
+                        <div
+                            class="flex align-middle items-center justify-center opacity-70 hover:opacity-100 transition duration-300 ease-in-out">
+                            <a href="/accelerators/overdose-prevention.html">
+                                <img class="rounded-t-lg" src="assets/images/notfound.png"
+                                    alt="Overdose Prevention" />
+                            </a>
+                        </div>
+                        <div class="p-5">
+                            <div class="leading-5 uppercase text-sm tracking-widest text-az-medium-gray">
+                                Industry Customer Scenario</div>
+                            <a href="/accelerators/overdose-prevention.html">
+                                <h4 class="mb-2 text-xl font-semibold tracking-tight text-az-blue card__title">
+                                    Overdose Prevention</h4>
+                            </a>
+                            <p class="mb-3 font-normal text-az-black card__text">
+                                Provide predictive analytics for different prescription and distribution services.</p><a href="https://github.com/MSUSAzureAccelerators/Overdose-Prevention-Accelerator" target="_blank"
+                                class="inline-flex items-center py-2 px-3 text-sm font-medium text-center text-az-white bg-az-blue rounded-lg hover:bg-ms-dark-blue">
+                                Browse Assets on GitHub
+                                <svg class="ml-2 -mr-1 w-4 h-4" fill="currentColor" viewBox="0 0 20 20"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path fill-rule="evenodd"
+                                        d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z"
+                                        clip-rule="evenodd"></path>
+                                </svg>
+                            </a><div class="flex space-x-2 justify-end absolute top-1 right-1 mr-4 mt-4 w-full">
+                                <span class="text-xs inline-block py-1 px-2.5 leading-none text-center whitespace-nowrap align-baseline font-bold bg-ms-yellow text-az-dark-gray rounded-full border border-ms-dark-yellow"><i class="fa-solid fa-flask-vial"></i> Beta</span>
+                            </div></div>
+                    </div><div class="shuffle-item m-2 max-w-sm bg-az-white rounded-lg border border-az-light-gray shadow-md"
+                        data-groups='["IndustryCustomerScenario","ProcessAutomation","Manufacturing","Automotive","Mobility&Transport","AzureContainerRegistry","AzureDevOps","AzureIoTHub","AzureKeyVault","AzureMachineLearning","AzureSQL","AzureStorage","CognitiveServices","Docker","PowerBI","Python"]'>
+                        <div
+                            class="flex align-middle items-center justify-center opacity-70 hover:opacity-100 transition duration-300 ease-in-out">
+                            <a href="/accelerators/predictive-maintenance.html">
+                                <img class="rounded-t-lg" src="assets/images/Predictive_Maintenance_Hero.webp"
+                                    alt="Predictive Maintenance" />
+                            </a>
+                        </div>
+                        <div class="p-5">
+                            <div class="leading-5 uppercase text-sm tracking-widest text-az-medium-gray">
+                                Industry Customer Scenario</div>
+                            <a href="/accelerators/predictive-maintenance.html">
+                                <h4 class="mb-2 text-xl font-semibold tracking-tight text-az-blue card__title">
+                                    Predictive Maintenance</h4>
+                            </a>
+                            <p class="mb-3 font-normal text-az-black card__text">
+                                Predict motor, equipment, and/or asset issues before they happen.</p></div>
+                    </div><div class="shuffle-item m-2 max-w-sm bg-az-white rounded-lg border border-az-light-gray shadow-md"
+                        data-groups='["IndustryCustomerScenario","Financial","FinancialServices","AzureDataLakeStorage","SynapseAnalytics"]'>
+                        <div
+                            class="flex align-middle items-center justify-center opacity-70 hover:opacity-100 transition duration-300 ease-in-out">
+                            <a href="/accelerators/risk-classification-and-loan-modeling.html">
+                                <img class="rounded-t-lg" src="assets/images/Risk_Loan_Hero.webp"
+                                    alt="Risk Classification and Loan Modeling" />
+                            </a>
+                        </div>
+                        <div class="p-5">
+                            <div class="leading-5 uppercase text-sm tracking-widest text-az-medium-gray">
+                                Industry Customer Scenario</div>
+                            <a href="/accelerators/risk-classification-and-loan-modeling.html">
+                                <h4 class="mb-2 text-xl font-semibold tracking-tight text-az-blue card__title">
+                                    Risk Classification and Loan Modeling</h4>
+                            </a>
+                            <p class="mb-3 font-normal text-az-black card__text">
+                                Automate processes to ensure compliance with SBA guidelines.</p><a href="https://github.com/MSUSAzureAccelerators/Risk-Classification-and-Loan-Modeling-Accelerator" target="_blank"
+                                class="inline-flex items-center py-2 px-3 text-sm font-medium text-center text-az-white bg-az-blue rounded-lg hover:bg-ms-dark-blue">
+                                Browse Assets on GitHub
+                                <svg class="ml-2 -mr-1 w-4 h-4" fill="currentColor" viewBox="0 0 20 20"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path fill-rule="evenodd"
+                                        d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z"
+                                        clip-rule="evenodd"></path>
+                                </svg>
+                            </a></div>
+                    </div><div class="shuffle-item m-2 max-w-sm bg-az-white rounded-lg border border-az-light-gray shadow-md"
+                        data-groups='["IndustryCustomerScenario","Sustainability","Horizontal","Education","Health&LifeSciences","Manufacturing","IoT","IoTHub","AzureAppService","ApplicationInsights","AzureFunctions","LogicApps.StreamAnalytics","AzureSQL"]'>
+                        <div
+                            class="flex align-middle items-center justify-center opacity-70 hover:opacity-100 transition duration-300 ease-in-out">
+                            <a href="/accelerators/smart-spaces-sustainability.html">
+                                <img class="rounded-t-lg" src="assets/images/Smart_Spaces_Hero2.webp"
+                                    alt="Smart Spaces Sustainability" />
+                            </a>
+                        </div>
+                        <div class="p-5">
+                            <div class="leading-5 uppercase text-sm tracking-widest text-az-medium-gray">
+                                Industry Customer Scenario</div>
+                            <a href="/accelerators/smart-spaces-sustainability.html">
+                                <h4 class="mb-2 text-xl font-semibold tracking-tight text-az-blue card__title">
+                                    Smart Spaces Sustainability</h4>
+                            </a>
+                            <p class="mb-3 font-normal text-az-black card__text">
+                                Optimize HVAC systems quickly and proactively for efficient and cost-effective energy use.</p><a href="https://github.com/MSUSAzureAccelerators/Smart-Spaces-Sustainability-Accelerator" target="_blank"
+                                class="inline-flex items-center py-2 px-3 text-sm font-medium text-center text-az-white bg-az-blue rounded-lg hover:bg-ms-dark-blue">
+                                Browse Assets on GitHub
+                                <svg class="ml-2 -mr-1 w-4 h-4" fill="currentColor" viewBox="0 0 20 20"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path fill-rule="evenodd"
+                                        d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z"
+                                        clip-rule="evenodd"></path>
+                                </svg>
+                            </a></div>
+                    </div><div class="shuffle-item m-2 max-w-sm bg-az-white rounded-lg border border-az-light-gray shadow-md"
+                        data-groups='["IndustryCustomerScenario","PredictiveAnalytics","Government","Manufacturing","Automotive","Mobility&Transport","CosmosDB","AzureBlob","KubernetesServices","Python","AzureMachineLearning"]'>
+                        <div
+                            class="flex align-middle items-center justify-center opacity-70 hover:opacity-100 transition duration-300 ease-in-out">
+                            <a href="/accelerators/traffic-monitoring.html">
+                                <img class="rounded-t-lg" src="assets/images/notfound.png"
+                                    alt="Traffic Monitoring" />
+                            </a>
+                        </div>
+                        <div class="p-5">
+                            <div class="leading-5 uppercase text-sm tracking-widest text-az-medium-gray">
+                                Industry Customer Scenario</div>
+                            <a href="/accelerators/traffic-monitoring.html">
+                                <h4 class="mb-2 text-xl font-semibold tracking-tight text-az-blue card__title">
+                                    Traffic Monitoring</h4>
+                            </a>
+                            <p class="mb-3 font-normal text-az-black card__text">
+                                Deliver geospatial visualizations of road network performance and demand, travel time delay, and non-recurring congestion events.</p><a href="https://github.com/MSUSAzureAccelerators/Traffic-Monitoring-Accelerator" target="_blank"
+                                class="inline-flex items-center py-2 px-3 text-sm font-medium text-center text-az-white bg-az-blue rounded-lg hover:bg-ms-dark-blue">
+                                Browse Assets on GitHub
+                                <svg class="ml-2 -mr-1 w-4 h-4" fill="currentColor" viewBox="0 0 20 20"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path fill-rule="evenodd"
+                                        d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z"
+                                        clip-rule="evenodd"></path>
+                                </svg>
+                            </a></div>
+                    </div><div class="shuffle-item m-2 max-w-sm bg-az-white rounded-lg border border-az-light-gray shadow-md"
+                        data-groups='["IndustryCustomerScenario","WorkplaceIntelligence","Horizontal","WorkplaceAnalytics","Viva","AzureDevOps","Synapse","PowerBI"]'>
+                        <div
+                            class="flex align-middle items-center justify-center opacity-70 hover:opacity-100 transition duration-300 ease-in-out">
+                            <a href="/accelerators/workplace-intelligence-for-human-resources.html">
+                                <img class="rounded-t-lg" src="assets/images/WP_Intelligence_HR_Hero.webp"
+                                    alt="Workplace Intelligence for Human Resources" />
+                            </a>
+                        </div>
+                        <div class="p-5">
+                            <div class="leading-5 uppercase text-sm tracking-widest text-az-medium-gray">
+                                Industry Customer Scenario</div>
+                            <a href="/accelerators/workplace-intelligence-for-human-resources.html">
+                                <h4 class="mb-2 text-xl font-semibold tracking-tight text-az-blue card__title">
+                                    Workplace Intelligence for Human Resources</h4>
+                            </a>
+                            <p class="mb-3 font-normal text-az-black card__text">
+                                Easily identify factors that influence productivity and engagement.</p><a href="https://github.com/MSUSAzureAccelerators/Workplace-Intelligence-Accelerator" target="_blank"
+                                class="inline-flex items-center py-2 px-3 text-sm font-medium text-center text-az-white bg-az-blue rounded-lg hover:bg-ms-dark-blue">
+                                Browse Assets on GitHub
+                                <svg class="ml-2 -mr-1 w-4 h-4" fill="currentColor" viewBox="0 0 20 20"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path fill-rule="evenodd"
+                                        d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z"
+                                        clip-rule="evenodd"></path>
+                                </svg>
+                            </a></div>
+                    </div><div class="shuffle-item m-2 max-w-sm bg-az-white rounded-lg border border-az-light-gray shadow-md"
+                        data-groups='["IndustryCustomerScenario","WorkplaceIntelligence","Horizontal","WorkplaceAnalytics","Viva","AzureDevOps","Synapse","PowerBI"]'>
+                        <div
+                            class="flex align-middle items-center justify-center opacity-70 hover:opacity-100 transition duration-300 ease-in-out">
+                            <a href="/accelerators/workplace-intelligence-for-product-development-teams.html">
+                                <img class="rounded-t-lg" src="assets/images/WP_Intelligence_Tech_Hero.webp"
+                                    alt="Workplace Intelligence for Product Development Teams" />
+                            </a>
+                        </div>
+                        <div class="p-5">
+                            <div class="leading-5 uppercase text-sm tracking-widest text-az-medium-gray">
+                                Industry Customer Scenario</div>
+                            <a href="/accelerators/workplace-intelligence-for-product-development-teams.html">
+                                <h4 class="mb-2 text-xl font-semibold tracking-tight text-az-blue card__title">
+                                    Workplace Intelligence for Product Development Teams</h4>
+                            </a>
+                            <p class="mb-3 font-normal text-az-black card__text">
+                                Uncover and leverage the key drivers of productivity and success for product development teams.</p><a href="https://github.com/MSUSAzureAccelerators/Workplace-Intelligence-Accelerator" target="_blank"
+                                class="inline-flex items-center py-2 px-3 text-sm font-medium text-center text-az-white bg-az-blue rounded-lg hover:bg-ms-dark-blue">
+                                Browse Assets on GitHub
+                                <svg class="ml-2 -mr-1 w-4 h-4" fill="currentColor" viewBox="0 0 20 20"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path fill-rule="evenodd"
+                                        d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z"
+                                        clip-rule="evenodd"></path>
+                                </svg>
+                            </a></div>
+                    </div></div>
+            </div>
+        </div>
+    </div><div id="footer">
+        <footer
+                class="p-4 bg-ms-white rounded-lg shadow md:items-center md:justify-between xs:hidden sm:hidden md:flex">
+                <span class="text-sm text-az-medium-gray xs:hidden sm:hidden md:hidden lg:block">Last Updated:Fri, Mar 24, 2023 09:38:57 AM</span>
+                <ul class="flex flex-wrap items-center text-sm text-az-medium-gray">
+                        <li>
+                                <a href="mailto:&#115;&#111;&#108;&#097;&#099;&#099;&#101;&#108;&#064;&#109;&#105;&#099;&#114;&#111;&#115;&#111;&#102;&#116;&#046;&#099;&#111;&#109;"
+                                        class="mr-4 hover:underline md:mr-6 ">Email
+                                        Us</a>
+                        </li>
+                        <li>
+                                <a href="https://github.com/MSUSAzureAccelerators"
+                                        target="_blank" rel="noopener" class="mr-4 hover:underline md:mr-6">Contribute</a>
+                        </li>
+                        <li>
+                                <a href="https://go.microsoft.com/fwlink/?LinkId=521839"
+                                target="_blank" rel="noopener"class="mr-4 hover:underline md:mr-6">Privacy &amp; Cookies</a>
+                        </li>
+                        <li>
+                                <a href="http://go.microsoft.com/fwlink/?LinkId=518021"
+                                target="_blank" rel="noopener"class="mr-4 hover:underline md:mr-6">Global Data Privacy Notice</a>
+                        </li>
+                        <li>
+                                <a href="https://www.microsoft.com/en-us/legal/intellectualproperty/Trademarks/EN-US.aspx"
+                                target="_blank" rel="noopener"class="hover:underline">Trademarks</a>
+                        </li>
+                </ul>
+                <span class="text-sm text-az-medium-gray">&copy; Microsoft 2022</span>
+        </footer>
+</div><div id="cookie-banner"></div>
+  <script defer src="https://code.jquery.com/jquery-3.6.0.min.js"
+    integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/shufflejs@6.0.0/dist/shuffle.min.js"></script>
+  <script defer src="./assets/js/script.js"></script>
+  <script defer src="https://teams.microsoft.com/share/launcher.js"></script>
+
+</body>
+
+</html>

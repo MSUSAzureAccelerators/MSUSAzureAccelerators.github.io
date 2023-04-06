@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  <url>
+    <loc>https://MSUSAzureAccelerators.github.io/</loc>
+    <lastmod>Fri, 24 Mar 2023 09:38:57 -0400</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url><url>
+    <loc>https://MSUSAzureAccelerators.github.io/accelerators/adf-synapse-ingestion-framework.html</loc>
+    <lastmod>Fri, 24 Mar 2023 09:38:57 -0400</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://MSUSAzureAccelerators.github.io/accelerators/adx-iot-analytics.html</loc>
+    <lastmod>Fri, 24 Mar 2023 09:38:57 -0400</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://MSUSAzureAccelerators.github.io/accelerators/adx-patient-monitoring.html</loc>
+    <lastmod>Fri, 24 Mar 2023 09:38:57 -0400</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://MSUSAzureAccelerators.github.io/accelerators/ai-powered-call-center-intelligence-(modern-contact-center).html</loc>
+    <lastmod>Fri, 24 Mar 2023 09:38:57 -0400</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://MSUSAzureAccelerators.github.io/accelerators/ai-powered-call-center-intelligence.html</loc>
+    <lastmod>Fri, 24 Mar 2023 09:38:57 -0400</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://MSUSAzureAccelerators.github.io/accelerators/ai-powered-insurance-claims-automation.html</loc>
+    <lastmod>Fri, 24 Mar 2023 09:38:57 -0400</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://MSUSAzureAccelerators.github.io/accelerators/aiot---inventory-lifecycle-management.html</loc>
+    <lastmod>Fri, 24 Mar 2023 09:38:57 -0400</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://MSUSAzureAccelerators.github.io/accelerators/aiot.html</loc>
+    <lastmod>Fri, 24 Mar 2023 09:38:57 -0400</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://MSUSAzureAccelerators.github.io/accelerators/automated-quality-inspection.html</loc>
+    <lastmod>Fri, 24 Mar 2023 09:38:57 -0400</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://MSUSAzureAccelerators.github.io/accelerators/azure-intelligent-recommendations.html</loc>
+    <lastmod>Fri, 24 Mar 2023 09:38:57 -0400</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://MSUSAzureAccelerators.github.io/accelerators/azure-openai-(chatgpt).html</loc>
+    <lastmod>Fri, 24 Mar 2023 09:38:57 -0400</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://MSUSAzureAccelerators.github.io/accelerators/conversational-ai-for-retail-(modern-contact-center).html</loc>
+    <lastmod>Fri, 24 Mar 2023 09:38:57 -0400</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://MSUSAzureAccelerators.github.io/accelerators/conversational-ai-for-retail.html</loc>
+    <lastmod>Fri, 24 Mar 2023 09:38:57 -0400</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://MSUSAzureAccelerators.github.io/accelerators/conversational-ai-for-state-and-local-government-(modern-contact-center).html</loc>
+    <lastmod>Fri, 24 Mar 2023 09:38:57 -0400</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://MSUSAzureAccelerators.github.io/accelerators/conversational-ai-for-state-and-local-government.html</loc>
+    <lastmod>Fri, 24 Mar 2023 09:38:57 -0400</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://MSUSAzureAccelerators.github.io/accelerators/conversational-ai-for-with-azure-openai-for-slg.html</loc>
+    <lastmod>Fri, 24 Mar 2023 09:38:57 -0400</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://MSUSAzureAccelerators.github.io/accelerators/conversational-ai-for-with-azure-openai.html</loc>
+    <lastmod>Fri, 24 Mar 2023 09:38:57 -0400</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://MSUSAzureAccelerators.github.io/accelerators/conversational-ai-with-azure-openai-for-retail-(modern-contact-center).html</loc>
+    <lastmod>Fri, 24 Mar 2023 09:38:57 -0400</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://MSUSAzureAccelerators.github.io/accelerators/conversational-ai-with-azure-openai-for-retail.html</loc>
+    <lastmod>Fri, 24 Mar 2023 09:38:57 -0400</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://MSUSAzureAccelerators.github.io/accelerators/conversational-azure-openai-(chatgpt).html</loc>
+    <lastmod>Fri, 24 Mar 2023 09:38:57 -0400</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://MSUSAzureAccelerators.github.io/accelerators/data,-analytics-and-ai-for-education.html</loc>
+    <lastmod>Fri, 24 Mar 2023 09:38:57 -0400</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://MSUSAzureAccelerators.github.io/accelerators/data-governance-demo-generator.html</loc>
+    <lastmod>Fri, 24 Mar 2023 09:38:57 -0400</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://MSUSAzureAccelerators.github.io/accelerators/demand-forecasting.html</loc>
+    <lastmod>Fri, 24 Mar 2023 09:38:57 -0400</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://MSUSAzureAccelerators.github.io/accelerators/digital-experience-solution.html</loc>
+    <lastmod>Fri, 24 Mar 2023 09:38:57 -0400</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://MSUSAzureAccelerators.github.io/accelerators/document-process-automation.html</loc>
+    <lastmod>Fri, 24 Mar 2023 09:38:57 -0400</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://MSUSAzureAccelerators.github.io/accelerators/factory-and-worker-safety.html</loc>
+    <lastmod>Fri, 24 Mar 2023 09:38:57 -0400</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://MSUSAzureAccelerators.github.io/accelerators/fraud-detection-and-transaction-monitoring.html</loc>
+    <lastmod>Fri, 24 Mar 2023 09:38:57 -0400</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://MSUSAzureAccelerators.github.io/accelerators/it-helpdesk-chatbot.html</loc>
+    <lastmod>Fri, 24 Mar 2023 09:38:57 -0400</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://MSUSAzureAccelerators.github.io/accelerators/manufacturing-vision---amd64.html</loc>
+    <lastmod>Fri, 24 Mar 2023 09:38:57 -0400</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://MSUSAzureAccelerators.github.io/accelerators/microsoft-purview-workshop.html</loc>
+    <lastmod>Fri, 24 Mar 2023 09:38:57 -0400</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://MSUSAzureAccelerators.github.io/accelerators/mission-landing-zone.html</loc>
+    <lastmod>Fri, 24 Mar 2023 09:38:57 -0400</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://MSUSAzureAccelerators.github.io/accelerators/near-real-time-fraud-and-compliance-analytics.html</loc>
+    <lastmod>Fri, 24 Mar 2023 09:38:57 -0400</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://MSUSAzureAccelerators.github.io/accelerators/overdose-prevention.html</loc>
+    <lastmod>Fri, 24 Mar 2023 09:38:57 -0400</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://MSUSAzureAccelerators.github.io/accelerators/predictive-maintenance.html</loc>
+    <lastmod>Fri, 24 Mar 2023 09:38:57 -0400</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://MSUSAzureAccelerators.github.io/accelerators/risk-classification-and-loan-modeling.html</loc>
+    <lastmod>Fri, 24 Mar 2023 09:38:57 -0400</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://MSUSAzureAccelerators.github.io/accelerators/smart-spaces-sustainability.html</loc>
+    <lastmod>Fri, 24 Mar 2023 09:38:57 -0400</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://MSUSAzureAccelerators.github.io/accelerators/traffic-monitoring.html</loc>
+    <lastmod>Fri, 24 Mar 2023 09:38:57 -0400</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://MSUSAzureAccelerators.github.io/accelerators/workplace-intelligence-for-human-resources.html</loc>
+    <lastmod>Fri, 24 Mar 2023 09:38:57 -0400</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://MSUSAzureAccelerators.github.io/accelerators/workplace-intelligence-for-product-development-teams.html</loc>
+    <lastmod>Fri, 24 Mar 2023 09:38:57 -0400</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+</urlset>

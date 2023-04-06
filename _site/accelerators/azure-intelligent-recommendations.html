@@ -1,0 +1,292 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="Azure Accelerators | Microsoft US - Azure Intelligent Recommendations" />
+    <meta name="description" content="Provide personalized product recommendations and telemetry insights." />
+    <meta name="keywords"
+        content="technology accelerator,personalization,technology accelerator,retail,horizontal,tech plug-in,azure data lake storage,synapse,power bi,azure intelligent recommendations" />
+    <meta name="robots" content="index,follow" />
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://MSUSAzureAccelerators.github.io/accelerators/azure-intelligent-recommendations.html" />
+    <meta property="og:title" content="Azure Accelerators | Microsoft US - Azure Intelligent Recommendations" />
+    <meta property="og:description"
+        content="Accelerators are repeatable solutions that can be quickly and easily implemented for specific business outcomes to accelerate transformation journey." />
+    <meta property="og:image"
+        content="https://MSUSAzureAccelerators.github.io/./assets/images/logo/MSUS%20Solution%20Accelerators%20Logo%20social.png" />
+    <meta property="og:image:alt" content="MSUS Accelerators Logo" />
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta property="twitter:url" content="https://MSUSAzureAccelerators.github.io/accelerators/azure-intelligent-recommendations.html" />
+    <meta property="twitter:title" content="Azure Accelerators | Microsoft US - Azure Intelligent Recommendations" />
+    <meta property="twitter:description"
+        content="Accelerators are repeatable solutions that can be quickly and easily implemented for specific business outcomes to accelerate transformation journey." />
+    <meta property="twitter:image"
+        content="https://MSUSAzureAccelerators.github.io/./assets/images/logo/MSUS%20Solution%20Accelerators%20Logo%20social.png" />
+    <meta name="ms.sitename" content="Azure Accelerators | Microsoft US" />
+    <meta name="author" content="v-skaschimer" />
+    <meta name="locale" content="en-us" />
+    <meta name="ms.prod" content="multiple" />
+    <meta name="ms.topic" content="hub-page" />
+    <meta name="page_type" content="welcome" />
+    <meta name="schema" content="Welcome" />
+    <meta name="site_name" content="Azure Accelerators | Microsoft US" />
+    <meta name="updated_at" content="2023-02-09T20:00:18Z" />
+
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.0/css/all.min.css"
+        integrity="sha512-10/jx2EXwxxWqCLX/hHth/vu2KY3jCF70dCQB8TSgNjbCVAC/8vai53GfMDrO2Emgwccf2pJqxct9ehpzG+MTw=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="../assets/css/styles.css" />
+
+    <script src="https://wcpstatic.microsoft.com/mscc/lib/v2/wcp-consent.js"></script>
+    <script type="text/javascript">
+        (function(c,l,a,r,i,t,y){
+            c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+            t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+            y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+        })(window, document, "clarity", "script", "atsb905e7q");
+    </script>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-VTCHQB63MB"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'G-VTCHQB63MB');
+    </script>
+
+    <script>
+        function onConsentChanged(categoryPreferences) {
+            console.log("onConsentChanged", categoryPreferences);
+        }
+
+        window.WcpConsent && WcpConsent.init("en-US", "cookie-banner", function (err, _siteConsent) {
+            if (!err) {
+                siteConsent = _siteConsent; //siteConsent is used to get the current consent          
+            } else {
+                console.log("Error initializing WcpConsent: " + err);
+            }
+        }, onConsentChanged, WcpConsent.themes.light);
+    </script>
+
+    <title>Technology Accelerator- Azure Intelligent Recommendations</title>
+</head>
+
+<body>
+<div class="min-h-screen"><div class="hero h-[300px] bg-[url('../../assets/images/Intelligent_Recommendations_Hero.webp')]">
+    <div class="hero-overlay bg-opacity-60">
+        <div class="hero-content text-left">
+            <div class="w-[100vw]">
+                <h1 class="text-neutral-content">Azure Intelligent Recommendations</h1>
+                <p class="supertitle mt-0 text-neutral-content">Technology Accelerator</p>
+            </div>
+        </div>
+    </div>
+</div><div id="breadcrumbs">
+    <nav class="flex text-az-dark-gray bg-az-light-gray rounded-lg border border-az-medium-gray md:flex sm:hidden xs:hidden"
+        aria-label="Breadcrumb">
+        <ol class="inline-flex items-center space-x-1 md:space-x-3 ml-6">
+            <li class="inline-flex items-center">
+                <a href="../"
+                    class="inline-flex items-center text-sm font-medium text-az-dark-gray hover:text-az-black">
+                    <svg class="mr-2 w-4 h-4" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+                        <path
+                            d="M10.707 2.293a1 1 0 00-1.414 0l-7 7a1 1 0 001.414 1.414L4 10.414V17a1 1 0 001 1h2a1 1 0 001-1v-2a1 1 0 011-1h2a1 1 0 011 1v2a1 1 0 001 1h2a1 1 0 001-1v-6.586l.293.293a1 1 0 001.414-1.414l-7-7z">
+                        </path>
+                    </svg>
+                    Home
+                </a>
+            </li>
+            <li aria-current="page">
+                <div class="flex items-center">
+                    <svg class="w-6 h-6 text-az-medium-gray" fill="currentColor" viewBox="0 0 20 20"
+                        xmlns="http://www.w3.org/2000/svg">
+                        <path fill-rule="evenodd"
+                            d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z"
+                            clip-rule="evenodd"></path>
+                    </svg>
+                    <span
+                        class="ml-1 text-sm font-medium text-ms-mid-gray md:ml-2">Azure Intelligent Recommendations</span>
+                </div>
+            </li>
+        </ol>
+    </nav>
+</div><div id="accelerator">
+    <div>
+        <div class="flex align-middle justify-between mb-3">
+            <div class="w-2/3">
+                <div class="flex m-auto content-start align-middle">
+                    <div class="align-middle">
+                        <img src="../../assets/images/logo/MS-Azure_logo_horiz_c-gray_rgb.png" alt="Microsoft Logo"
+                            class="h-28">
+                    </div>
+                </div>
+
+                <article class="pl-6 w-full prose"><h2 id="about-this-accelerator">About this Accelerator</h2>
+
+<p>Intelligent Recommendations democratizes AI and machine learning recommendations through a codeless and powerful experience powered by the same technology that fuels Xbox, Microsoft 365, and Microsoft Azure. Businesses can now provide relevant discovery for customers with this new, innovative AI for personalization and recommendations.</p>
+
+<p>Detailed information about this service can be found at https://intelligent-recommendations.microsoft.com/. In addition, you can find video walkthroughs at https://www.youtube.com/playlist?list=PLcakwueIHoT9UsOLR9n1ri49pZ60R_vrh.</p>
+
+<p>Using modern machine-learning algorithms, Intelligent Recommendations provides personalized product recommendations and telemetry insights. These recommendations and insights help you:</p>
+
+<ul>
+  <li>Significantly improve catalog navigation and item discovery.</li>
+  <li>Create upsell and cross-sell opportunities.</li>
+  <li>Improve shoppers’ experiences and product usability.</li>
+</ul>
+
+<p>###Capabilities</p>
+
+<p>Intelligent Recommendations helps companies drive better engagement, conversion, revenue, and customer satisfaction. Intelligent Recommendations is a general purpose service that offers one-of-a-kind, patented capabilities that more effectively drive desired outcomes out of the box such as “shop similar looks”, “shop by description”, “real time”, “session based”, Item based recommendations that can combine User interactions and Item Metadata. Businesses can promote and personalize any content type, such as sellable products, consumable media, documents, videos, and more.</p>
+
+<p>Intelligent Recommendations provides the following capabilities for businesses:</p>
+
+<ul>
+  <li><strong>Built-in world-class AI-ML delivers amazing, personalized results within minutes.</strong> Provide insightful, personalized, tailored, and more engaging customer experiences from existing user behavior data or item metadata, to create measurable lift in any business.</li>
+  <li><strong>Easy to integrate and extend in any ecosystem and experience.</strong> Use codeless tooling guided by business intuition to easily try, build, and deliver any model customization. When paired with extensible APIs, this allows seamless integration into any ecosystem.</li>
+  <li><strong>Trustworthy software service at scale.</strong> Microsoft is democratizing for all businesses the machine-learning expertise, compliant platform, and high-scale capabilities that we use ourselves, so businesses can focus on the next horizon of growth and innovation.</li>
+  <li><strong>Win over customers with delightful discovery.</strong> Power hyper-relevant suggestions for any customer or product on Azure, ensuring a personalized journey every time a customer interacts with your business.</li>
+  <li><strong>Highly composable, easily extensible.</strong> Highly adaptable to custom business scenarios and logic, based on input data and algorithm choice.</li>
+</ul>
+
+<h3 id="business-applications-of-recommender-systems">Business applications of recommender systems</h3>
+
+<p>Intelligent Recommendations enables businesses to automate relevant recommendations, including personalized results for new and returning users, and the ability to interpret both user interactions and item or user metadata. In return, businesses receive tailored recommendation models based on their needs and business logic. Intelligent Recommendations frees companies from the tedious management of editorial collections. Instead, it helps drive engagement, runs experiments, and builds trust with consumers.</p>
+
+<h3 id="example-supported-scenarios">Example supported scenarios</h3>
+
+<p>Intelligent Recommendations provides businesses with a toolkit of relevant scenarios, including:</p>
+
+<ul>
+  <li><strong>Personalized recommendations for end users:</strong> Includes a list of unique content for a specific user based on their consumer habits and interactions. Businesses can recommend products, articles, videos, and more.</li>
+  <li><strong>Similar items:</strong> Based on a variety of signals (user interactions) or metadata (such as images, text, friends, or demographics). Intelligent Recommendations can recommend visually similar items in a catalog (for example, floral-patterned shirts) or show similar wines based on the description and taste notes.</li>
+  <li><strong>Real-time and session-based recommendations for users:</strong> Each customer journey can now have unique recommendations, even for new customers.</li>
+  <li><strong>Basket completion:</strong> Shows complementary items for users based on what is already in their cart.</li>
+</ul>
+
+<p>These interactions can have other metadata, such as the time of transaction, amount of money, duration of interaction, and more.</p>
+
+<p>The following table describes the entire catalog of automated product recommendations available for you to integrate into your existing store experiences. Recommendations can be further distinguished by the scenario. For these cases, certain lists will have a selectable algorithm that diversifies the results returned.</p>
+
+<table>
+  <tbody>
+    <tr>
+      <td><strong>Scenario</strong></td>
+      <td><strong>Description</strong></td>
+      <td><strong>Example</strong></td>
+    </tr>
+    <tr>
+      <td><a href="https://docs.microsoft.com/en-us/industry/retail/intelligent-recommendations/trending-lists%23new-and-rising-releases-trending">New</a></td>
+      <td>Returns a list of the newest products that have been recently assorted to channels and catalogs.</td>
+      <td><img src="../assets/images/IR_new.png" alt="New Scenario" /></td>
+    </tr>
+    <tr>
+      <td><a href="https://docs.microsoft.com/en-us/industry/retail/intelligent-recommendations/trending-lists%23popular-products">Popular</a></td>
+      <td>Returns a list of products that are ranked by the highest number of sales.</td>
+      <td><img src="../assets/images/IR_popular.png" alt="Popular Scenario" /></td>
+    </tr>
+    <tr>
+      <td><a href="https://docs.microsoft.com/en-us/industry/retail/intelligent-recommendations/trending-lists">Trending</a></td>
+      <td>Returns a list of the highest performing products for a given period, ranked by highest number of sales.</td>
+      <td><img src="../assets/images/IR_trending.png" alt="Trending Scenario" /></td>
+    </tr>
+    <tr>
+      <td><a href="https://docs.microsoft.com/en-us/industry/retail/intelligent-recommendations/contextual-lists%23frequently-bought-together-cart">Frequently Bought Together</a></td>
+      <td>Returns a list of products that are commonly purchased together (complementary) with the contents of the consumer’s current cart.</td>
+      <td><img src="../assets/images/IR_fbt.png" alt="FBT Scenario" /></td>
+    </tr>
+    <tr>
+      <td><a href="https://docs.microsoft.com/en-us/industry/retail/intelligent-recommendations/contextual-lists%23people-also-like">People Also Like</a></td>
+      <td>Returns products for a given seed product based on consumer purchase patterns. Can be changed based on consumer action (purchase, views).</td>
+      <td><img src="../assets/images/IR_pal.png" alt="PAL Scenario" /></td>
+    </tr>
+    <tr>
+      <td><a href="https://docs.microsoft.com/en-us/industry/retail/intelligent-recommendations/personalized-recommendations">Picks For You</a></td>
+      <td>Returns a personalized list of products based on purchase patterns of the signed-in user. For an anonymous guest user, this list will be collapsed.</td>
+      <td><img src="../assets/images/IR_picks.png" alt="Picks Scenario" /></td>
+    </tr>
+    <tr>
+      <td><a href="https://docs.microsoft.com/en-us/industry/retail/intelligent-recommendations/contextual-lists%23visually-similar-recommendations">Shop Similar Looks</a></td>
+      <td>Returns a list of products with visually similar images.</td>
+      <td><img src="../assets/images/IR_ver.png" alt="SSL Scenario" /></td>
+    </tr>
+    <tr>
+      <td><a href="https://docs.microsoft.com/en-us/industry/retail/intelligent-recommendations/contextual-lists%23textually-similar-recommendations">Shop Similar By Description</a></td>
+      <td>Returns a list of products with textually similar content descriptions.</td>
+      <td><img src="../assets/images/IR_ter.png" alt="SSBD Scenario" /></td>
+    </tr>
+  </tbody>
+</table>
+</article>
+            </div>
+            <div class="w-1/3 ml-8">
+                <!-- Relevant Personas --><h3 class="mt-4">Relevant Personas</h3><p>Personalization</p><p>Technology Accelerator</p><!-- Primary Industry --><h3 class="mt-4">Primary Industry</h3>
+                <p>Retail</p><!-- Relevant Industries --><h3 class="mt-4">Other Relevant Industries</h3><p>Horizontal</p><p>Tech Plug-in</p><!-- Technology Stack --><h3 class="mt-4">Products</h3><p>Azure Data Lake Storage</p><p>Azure Intelligent Recommendations</p><p>Power BI</p><p>Synapse</p><!-- Technical Value Assets --><!-- Business Value Assets --><h3 class="mt-4">Business Value Assets</h3><div>
+                    
+                    
+                    <a href="https://microsoft.sharepoint.com/:b:/r/teams/CAF-SolutionAccelerators/Shared%20Documents/General/BVA%20Files/Intelligent%20Recommendations/Intelligent%20Recommendations%20Overview.pdf?csf=1&web=1&e=iekMFp" target="_blank" rel="noopener noreferrer">
+                        <i class="fa-solid fa-file-pdf fa-xs mx-2"></i> Solution Overview
+                    </a></div><div>
+                    
+                    
+                    <a href="https://microsofteur.sharepoint.com/:p:/t/HQDataAIIndustryTeam/EaYdLSdJeWBImla_MhPR_OkB7O31vBR41ol8K27lGJVFWg?e=fHWIaf" target="_blank" rel="noopener noreferrer">
+                        <i class="fa-solid fa-file-pdf fa-xs mx-2"></i> Solution Deck
+                    </a></div><!-- Related Accelerators --><h3 class="mt-4 md:text-2xl sm:text-xl xs:text-lg">Share</h3><div class="flex flex-row" role="contentinfo" aria-label="Social Media Share Icons">
+    <i role="link" aria-label="Share page to LinkedIn" class="transition duration-300 ease-in-out text-2xl w-[50px] h-[50px] rounded-full flex flex-initial content-center items-center align-middle justify-center text-center m-[3px] shadow-md hover:-translate-y-1 fa-brands fa-linkedin xs:text-lg xs:h-8 xs:w-8 lg:text-2xl lg:h-[50px] lg:w-[50px]" onclick="popitup('https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2FMSUSAzureAccelerators.github.io/accelerators/azure-intelligent-recommendations.html','Share to LinkedIn');"></i>
+    <i role="link" aria-label="Share page to Facebook" class="transition duration-300 ease-in-out text-2xl w-[50px] h-[50px] rounded-full flex flex-initial content-center items-center align-middle justify-center text-center m-[3px] shadow-md hover:-translate-y-1 fa-brands fa-facebook xs:text-lg xs:h-8 xs:w-8 lg:text-2xl lg:h-[50px] lg:w-[50px]" onclick="popitup('https://www.facebook.com/sharer.php?u=https%3A%2F%2FMSUSAzureAccelerators.github.io/accelerators/azure-intelligent-recommendations.html','Share to Facebook');"></i>
+    <i role="link" aria-label="Share page to Twitter" class="transition duration-300 ease-in-out text-2xl w-[50px] h-[50px] rounded-full flex flex-initial content-center items-center align-middle justify-center text-center m-[3px] shadow-md hover:-translate-y-1 fa-brands fa-twitter xs:text-lg xs:h-8 xs:w-8 lg:text-2xl lg:h-[50px] lg:w-[50px]" onclick="popitup('https://twitter.com/intent/tweet?url=https%3A%2F%2FMSUSAzureAccelerators.github.io/accelerators/azure-intelligent-recommendations.html','Share to Twitter');"></i>
+    <i role="link" aria-label="Share page to Email Recipients" class="transition duration-300 ease-in-out text-2xl w-[50px] h-[50px] rounded-full flex flex-initial content-center items-center align-middle justify-center text-center m-[3px] shadow-md hover:-translate-y-1 fa-solid fa-envelope xs:text-lg xs:h-8 xs:w-8 md:w-8 lg:text-2xl lg:h-[50px] lg:w-[50px]" onclick="window.location = 'mailto:?subject=MSUS%20Solution%20Accelerators%20-%20Azure Intelligent Recommendations&body=https%3A%2F%2FMSUSAzureAccelerators.github.io/accelerators/azure-intelligent-recommendations.html';"></i>
+    <div role="link" aria-label="Share page to Microsoft Teams" class=" border-2 transition duration-300 ease-in-out text-2xl w-[50px] h-[50px] rounded-full flex flex-initial content-center items-center align-middle justify-center text-center m-[3px] shadow-md hover:-translate-y-1 teams-share-button fa-brands xs:text-lg xs:h-8 xs:w-8 lg:text-2xl lg:h-[50px] lg:w-[50px]" data-href="https://MSUSAzureAccelerators.github.io/accelerators/azure-intelligent-recommendations.html" data-icon-px-size="35"></div>
+</div></div>
+        </div>
+    </div>
+</div><div id="footer">
+        <footer
+                class="p-4 bg-ms-white rounded-lg shadow md:items-center md:justify-between xs:hidden sm:hidden md:flex">
+                <span class="text-sm text-az-medium-gray xs:hidden sm:hidden md:hidden lg:block">Last Updated:2023-02-09T20:00:18Z</span>
+                <ul class="flex flex-wrap items-center text-sm text-az-medium-gray">
+                        <li>
+                                <a href="mailto:&#115;&#111;&#108;&#097;&#099;&#099;&#101;&#108;&#064;&#109;&#105;&#099;&#114;&#111;&#115;&#111;&#102;&#116;&#046;&#099;&#111;&#109;"
+                                        class="mr-4 hover:underline md:mr-6 ">Email
+                                        Us</a>
+                        </li>
+                        <li>
+                                <a href="https://github.com/MSUSAzureAccelerators"
+                                        target="_blank" rel="noopener" class="mr-4 hover:underline md:mr-6">Contribute</a>
+                        </li>
+                        <li>
+                                <a href="https://go.microsoft.com/fwlink/?LinkId=521839"
+                                target="_blank" rel="noopener"class="mr-4 hover:underline md:mr-6">Privacy &amp; Cookies</a>
+                        </li>
+                        <li>
+                                <a href="http://go.microsoft.com/fwlink/?LinkId=518021"
+                                target="_blank" rel="noopener"class="mr-4 hover:underline md:mr-6">Global Data Privacy Notice</a>
+                        </li>
+                        <li>
+                                <a href="https://www.microsoft.com/en-us/legal/intellectualproperty/Trademarks/EN-US.aspx"
+                                target="_blank" rel="noopener"class="hover:underline">Trademarks</a>
+                        </li>
+                </ul>
+                <span class="text-sm text-az-medium-gray">&copy; Microsoft 2022</span>
+        </footer>
+</div></div>
+    <div id="cookie-banner"></div>
+    <script defer src="https://code.jquery.com/jquery-3.6.0.min.js"
+        integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+    <script defer src="../assets/js/script.js"></script>
+
+    <script defer src="https://teams.microsoft.com/share/launcher.js"></script>
+</body>
+
+</html>

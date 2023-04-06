@@ -1,0 +1,25 @@
+﻿user-agent: *
+
+sitemap: https://MSUSAzureAccelerators.github.io/sitemap.xml
+sitemap: https://MSUSAzureAccelerators.github.io/sitemap_rss.xml
+sitemap: https://MSUSAzureAccelerators.github.io/sitemap_atom.xml
+
+#      _n____n__
+#     /         \---||--<
+#    /___________\
+#    _|____|____|_
+#    _|____|____|_
+#     |    |    |
+#    --------------
+#    | || || || ||\
+#    | || || || || \++++++++------<
+#    ===============
+#    |   |  |  |   |
+#   (| O | O| O| O |)
+#   |   |   |   |   |
+#  (| O | O | O | O |)
+#   |   |   |   |    |
+# (| O |  O | O  | O |)
+#  |   |    |    |    |
+# (| O |  O |  O |  O |)
+# ======================
