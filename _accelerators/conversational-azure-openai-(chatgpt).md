@@ -17,7 +17,7 @@ short_text: "Harness the power of Azure OpenAI and ChatGPT, combined with dozens
 hero_image: "assets/images/Conversational_AI_SLG_Hero.webp"
 partner_image: 
 tags: "\"Industry Customer Scenario\",\"Personalization\",\"Horizontal\",\"Government\",\"FSI\",\"SLG\",\"Retail\",\"Education\",\"HLS\",\"Azure OpenAI and ChatGPT\",\"Azure Cognitive Services: Language\",\"Language Understanding\",\"Translator\",\"Speech to Text\",\"Text to Speech; Azure Cognitive Search\",\"Azure Semantic Search\",\"Azure Custom Voice\",\"Azure Document Translation\",\"Azure SQL\""
-last_updated: "2023-04-26T18:57:09Z"
+last_updated: "2023-05-12T17:47:29Z"
 related: ""
 order: 2
 ---
