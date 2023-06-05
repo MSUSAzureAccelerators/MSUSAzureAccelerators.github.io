@@ -4,3 +4,4 @@ _site/*
 _accelerators/files.txt
 debug.log
 .fake
+.history
