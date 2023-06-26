@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Accelerators | Microsoft US</title>
+        <link>https://MSUSAzureAccelerators.github.io/</link>
+        <description>Accelerators are repeatable solutions that can be quickly and easily implemented for specific business outcomes to accelerate transformation journey.</description>
+        <pubDate>Mon, 26 Jun 2023 12:36:05 +0000</pubDate>
+        <lastBuildDate>Mon, 26 Jun 2023 12:36:05 +0000</lastBuildDate>
+        <generator>Jekyll v4.3.2</generator>
+        <item>
+            <guid>https://MSUSAzureAccelerators.github.io</guid>
+            <link>https://MSUSAzureAccelerators.github.io/</link>
+            <title>Accelerators | Microsoft US</title>
+            <description>Accelerators are repeatable solutions that can be quickly and easily implemented for specific business outcomes to accelerate transformation journey.</description>
+            <pubDate>Mon, 26 Jun 2023 12:36:05 +0000</pubDate>
+        </item><item>
+            <guid>https://MSUSAzureAccelerators.github.io/accelerators/adf-synapse-ingestion-framework.html</guid>
+            <link>https://MSUSAzureAccelerators.github.io/accelerators/adf-synapse-ingestion-framework.html</link>
+            <title>ADF Synapse Ingestion Framework</title>
+            <description>Speed up migration with ease of development and also use the same for production deployment. </description>
+            <pubDate>Mon, 26 Jun 2023 12:36:05 +0000</pubDate>
+        </item>
+        <item>
+            <guid>https://MSUSAzureAccelerators.github.io/accelerators/adx-iot-analytics.html</guid>
+            <link>https://MSUSAzureAccelerators.github.io/accelerators/adx-iot-analytics.html</link>
+            <title>ADX IoT Analytics</title>
+            <description>Azure Data Explorer can provide valuable insights into your IoT workloads.</description>
+            <pubDate>Mon, 26 Jun 2023 12:36:05 +0000</pubDate>
+        </item>
+        <item>
+            <guid>https://MSUSAzureAccelerators.github.io/accelerators/adx-patient-monitoring.html</guid>
+            <link>https://MSUSAzureAccelerators.github.io/accelerators/adx-patient-monitoring.html</link>
+            <title>ADX Patient Monitoring</title>
+            <description>Continuous patient monitoring to generate telemetry readings for two IoT consumer devices</description>
+            <pubDate>Mon, 26 Jun 2023 12:36:05 +0000</pubDate>
+        </item>
+        <item>
+            <guid>https://MSUSAzureAccelerators.github.io/accelerators/ai-powered-call-center-intelligence-(modern-contact-center).html</guid>
+            <link>https://MSUSAzureAccelerators.github.io/accelerators/ai-powered-call-center-intelligence-(modern-contact-center).html</link>
+            <title>AI-Powered Call Center Intelligence (Modern Contact Center)</title>
+            <description>Automates call transcriptions for real-time and previously recorded calls.</description>
+            <pubDate>Mon, 26 Jun 2023 12:36:05 +0000</pubDate>
+        </item>
+        <item>
+            <guid>https://MSUSAzureAccelerators.github.io/accelerators/ai-powered-call-center-intelligence.html</guid>
+            <link>https://MSUSAzureAccelerators.github.io/accelerators/ai-powered-call-center-intelligence.html</link>
+            <title>AI-Powered Call Center Intelligence</title>
+            <description>Automates call transcriptions for real-time and previously recorded calls.</description>
+            <pubDate>Mon, 26 Jun 2023 12:36:05 +0000</pubDate>
+        </item>
+        <item>
+            <guid>https://MSUSAzureAccelerators.github.io/accelerators/ai-powered-insurance-claims-automation.html</guid>
+            <link>https://MSUSAzureAccelerators.github.io/accelerators/ai-powered-insurance-claims-automation.html</link>
+            <title>AI-Powered Insurance Claims Automation</title>
+            <description>Reduce claims processing time and manual effort in end-to-end claims processing for better customer experience.</description>
+            <pubDate>Mon, 26 Jun 2023 12:36:05 +0000</pubDate>
+        </item>
+        <item>
+            <guid>https://MSUSAzureAccelerators.github.io/accelerators/aiot---inventory-lifecycle-management.html</guid>
+            <link>https://MSUSAzureAccelerators.github.io/accelerators/aiot---inventory-lifecycle-management.html</link>
+            <title>AIoT - Inventory Lifecycle Management</title>
+            <description>Drive outcomes related to building more agile factories, creating more resilient supply chains, and transforming workforces.</description>
+            <pubDate>Mon, 26 Jun 2023 12:36:05 +0000</pubDate>
+        </item>
+        <item>
+            <guid>https://MSUSAzureAccelerators.github.io/accelerators/aiot.html</guid>
+            <link>https://MSUSAzureAccelerators.github.io/accelerators/aiot.html</link>
+            <title>AIoT</title>
+            <description>Transform how people, devices, and data interact in daily life and work</description>
+            <pubDate>Mon, 26 Jun 2023 12:36:05 +0000</pubDate>
+        </item>
+        <item>
+            <guid>https://MSUSAzureAccelerators.github.io/accelerators/automated-quality-inspection.html</guid>
+            <link>https://MSUSAzureAccelerators.github.io/accelerators/automated-quality-inspection.html</link>
+            <title>Automated Quality Inspection</title>
+            <description>Inspect product quality at the point of manufacture on the assembly line in real-time.</description>
+            <pubDate>Mon, 26 Jun 2023 12:36:05 +0000</pubDate>
+        </item>
+        <item>
+            <guid>https://MSUSAzureAccelerators.github.io/accelerators/azure-intelligent-recommendations.html</guid>
+            <link>https://MSUSAzureAccelerators.github.io/accelerators/azure-intelligent-recommendations.html</link>
+            <title>Azure Intelligent Recommendations</title>
+            <description>Provide personalized product recommendations and telemetry insights.</description>
+            <pubDate>Mon, 26 Jun 2023 12:36:05 +0000</pubDate>
+        </item>
+        <item>
+            <guid>https://MSUSAzureAccelerators.github.io/accelerators/azure-openai-(chatgpt).html</guid>
+            <link>https://MSUSAzureAccelerators.github.io/accelerators/azure-openai-(chatgpt).html</link>
+            <title>Azure OpenAI (ChatGPT)</title>
+            <description>Harness the power of Azure OpenAI and ChatGPT, combined with dozens of Azure AI and Data services with a rapid POC tailored to customer. </description>
+            <pubDate>Mon, 26 Jun 2023 12:36:05 +0000</pubDate>
+        </item>
+        <item>
+            <guid>https://MSUSAzureAccelerators.github.io/accelerators/conversational-ai-for-retail-(modern-contact-center).html</guid>
+            <link>https://MSUSAzureAccelerators.github.io/accelerators/conversational-ai-for-retail-(modern-contact-center).html</link>
+            <title>Conversational AI for Retail (Modern Contact Center)</title>
+            <description>Collect data from every interaction in a feedback loop for optimization.</description>
+            <pubDate>Mon, 26 Jun 2023 12:36:05 +0000</pubDate>
+        </item>
+        <item>
+            <guid>https://MSUSAzureAccelerators.github.io/accelerators/conversational-ai-for-retail.html</guid>
+            <link>https://MSUSAzureAccelerators.github.io/accelerators/conversational-ai-for-retail.html</link>
+            <title>Conversational AI for Retail</title>
+            <description>Collect data from every interaction in a feedback loop for optimization.</description>
+            <pubDate>Mon, 26 Jun 2023 12:36:05 +0000</pubDate>
+        </item>
+        <item>
+            <guid>https://MSUSAzureAccelerators.github.io/accelerators/conversational-ai-for-state-and-local-government-(modern-contact-center).html</guid>
+            <link>https://MSUSAzureAccelerators.github.io/accelerators/conversational-ai-for-state-and-local-government-(modern-contact-center).html</link>
+            <title>Conversational AI for State and Local Government (Modern Contact Center)</title>
+            <description>Rich analytics served to a dashboard for valuable insights that can help you serve your public.</description>
+            <pubDate>Mon, 26 Jun 2023 12:36:05 +0000</pubDate>
+        </item>
+        <item>
+            <guid>https://MSUSAzureAccelerators.github.io/accelerators/conversational-ai-for-state-and-local-government.html</guid>
+            <link>https://MSUSAzureAccelerators.github.io/accelerators/conversational-ai-for-state-and-local-government.html</link>
+            <title>Conversational AI for State and Local Government</title>
+            <description>Rich analytics served to a dashboard for valuable insights that can help you serve your public.</description>
+            <pubDate>Mon, 26 Jun 2023 12:36:05 +0000</pubDate>
+        </item>
+        <item>
+            <guid>https://MSUSAzureAccelerators.github.io/accelerators/conversational-ai-for-with-azure-openai-for-slg.html</guid>
+            <link>https://MSUSAzureAccelerators.github.io/accelerators/conversational-ai-for-with-azure-openai-for-slg.html</link>
+            <title>Conversational AI for with Azure OpenAI for SLG</title>
+            <description>Rich analytics served to a dashboard for valuable insights that can help you serve your public.</description>
+            <pubDate>Mon, 26 Jun 2023 12:36:05 +0000</pubDate>
+        </item>
+        <item>
+            <guid>https://MSUSAzureAccelerators.github.io/accelerators/conversational-ai-for-with-azure-openai.html</guid>
+            <link>https://MSUSAzureAccelerators.github.io/accelerators/conversational-ai-for-with-azure-openai.html</link>
+            <title>Conversational AI for with Azure OpenAI</title>
+            <description>Rich analytics served to a dashboard for valuable insights that can help you serve your public.</description>
+            <pubDate>Mon, 26 Jun 2023 12:36:05 +0000</pubDate>
+        </item>
+        <item>
+            <guid>https://MSUSAzureAccelerators.github.io/accelerators/conversational-ai-with-azure-openai-for-retail-(modern-contact-center).html</guid>
+            <link>https://MSUSAzureAccelerators.github.io/accelerators/conversational-ai-with-azure-openai-for-retail-(modern-contact-center).html</link>
+            <title>Conversational AI with Azure OpenAI for Retail (Modern Contact Center)</title>
+            <description>Collect data from every interaction in a feedback loop for optimization.</description>
+            <pubDate>Mon, 26 Jun 2023 12:36:05 +0000</pubDate>
+        </item>
+        <item>
+            <guid>https://MSUSAzureAccelerators.github.io/accelerators/conversational-ai-with-azure-openai-for-retail.html</guid>
+            <link>https://MSUSAzureAccelerators.github.io/accelerators/conversational-ai-with-azure-openai-for-retail.html</link>
+            <title>Conversational AI with Azure OpenAI for Retail</title>
+            <description>Collect data from every interaction in a feedback loop for optimization.</description>
+            <pubDate>Mon, 26 Jun 2023 12:36:05 +0000</pubDate>
+        </item>
+        <item>
+            <guid>https://MSUSAzureAccelerators.github.io/accelerators/conversational-azure-openai-(chatgpt).html</guid>
+            <link>https://MSUSAzureAccelerators.github.io/accelerators/conversational-azure-openai-(chatgpt).html</link>
+            <title>Conversational Azure OpenAI (ChatGPT)</title>
+            <description>Harness the power of Azure OpenAI and ChatGPT, combined with dozens of Azure AI and Data services with a rapid POC tailored to customer. </description>
+            <pubDate>Mon, 26 Jun 2023 12:36:05 +0000</pubDate>
+        </item>
+        <item>
+            <guid>https://MSUSAzureAccelerators.github.io/accelerators/data,-analytics-and-ai-for-education.html</guid>
+            <link>https://MSUSAzureAccelerators.github.io/accelerators/data,-analytics-and-ai-for-education.html</link>
+            <title>Data, Analytics and AI for Education</title>
+            <description>Transform education experiences for students and educators through connecting data, analytics and AI.</description>
+            <pubDate>Mon, 26 Jun 2023 12:36:05 +0000</pubDate>
+        </item>
+        <item>
+            <guid>https://MSUSAzureAccelerators.github.io/accelerators/data-governance-demo-generator.html</guid>
+            <link>https://MSUSAzureAccelerators.github.io/accelerators/data-governance-demo-generator.html</link>
+            <title>Data Governance Demo Generator</title>
+            <description>Automate the deployment of a pre-populated Azure Purview demo environment.</description>
+            <pubDate>Mon, 26 Jun 2023 12:36:05 +0000</pubDate>
+        </item>
+        <item>
+            <guid>https://MSUSAzureAccelerators.github.io/accelerators/demand-forecasting.html</guid>
+            <link>https://MSUSAzureAccelerators.github.io/accelerators/demand-forecasting.html</link>
+            <title>Demand Forecasting</title>
+            <description>Determine future demand to optimize inventory, material and product orders.</description>
+            <pubDate>Mon, 26 Jun 2023 12:36:05 +0000</pubDate>
+        </item>
+        <item>
+            <guid>https://MSUSAzureAccelerators.github.io/accelerators/digital-experience-solution.html</guid>
+            <link>https://MSUSAzureAccelerators.github.io/accelerators/digital-experience-solution.html</link>
+            <title>Digital Experience Solution</title>
+            <description>Move the entire live stream process offsite and into the cloud.</description>
+            <pubDate>Mon, 26 Jun 2023 12:36:05 +0000</pubDate>
+        </item>
+        <item>
+            <guid>https://MSUSAzureAccelerators.github.io/accelerators/document-process-automation.html</guid>
+            <link>https://MSUSAzureAccelerators.github.io/accelerators/document-process-automation.html</link>
+            <title>Document Process Automation</title>
+            <description>Automate extraction of data from complex structured and unstructured documents to unlock insights.</description>
+            <pubDate>Mon, 26 Jun 2023 12:36:05 +0000</pubDate>
+        </item>
+        <item>
+            <guid>https://MSUSAzureAccelerators.github.io/accelerators/factory-and-worker-safety.html</guid>
+            <link>https://MSUSAzureAccelerators.github.io/accelerators/factory-and-worker-safety.html</link>
+            <title>Factory &amp; Worker Safety</title>
+            <description>Azure Computer Vision infers product quality at the point of manufacture on the assembly line in real-time.</description>
+            <pubDate>Mon, 26 Jun 2023 12:36:05 +0000</pubDate>
+        </item>
+        <item>
+            <guid>https://MSUSAzureAccelerators.github.io/accelerators/fraud-detection-and-transaction-monitoring.html</guid>
+            <link>https://MSUSAzureAccelerators.github.io/accelerators/fraud-detection-and-transaction-monitoring.html</link>
+            <title>Fraud Detection and Transaction Monitoring</title>
+            <description>Identify risk of fraud or fraud associated activities.</description>
+            <pubDate>Mon, 26 Jun 2023 12:36:05 +0000</pubDate>
+        </item>
+        <item>
+            <guid>https://MSUSAzureAccelerators.github.io/accelerators/it-helpdesk-chatbot.html</guid>
+            <link>https://MSUSAzureAccelerators.github.io/accelerators/it-helpdesk-chatbot.html</link>
+            <title>IT Helpdesk Chatbot</title>
+            <description>Multiply the productivity of your employees and cut down your IT support costs.</description>
+            <pubDate>Mon, 26 Jun 2023 12:36:05 +0000</pubDate>
+        </item>
+        <item>
+            <guid>https://MSUSAzureAccelerators.github.io/accelerators/manufacturing-vision---amd64.html</guid>
+            <link>https://MSUSAzureAccelerators.github.io/accelerators/manufacturing-vision---amd64.html</link>
+            <title>Manufacturing Vision - AMD64</title>
+            <description>Base code for the Manufacturing Vision Accelerator for AMD64 architecture.</description>
+            <pubDate>Mon, 26 Jun 2023 12:36:05 +0000</pubDate>
+        </item>
+        <item>
+            <guid>https://MSUSAzureAccelerators.github.io/accelerators/microsoft-purview-workshop.html</guid>
+            <link>https://MSUSAzureAccelerators.github.io/accelerators/microsoft-purview-workshop.html</link>
+            <title>Microsoft Purview Workshop</title>
+            <description>Hands-on-Lab to explore the functionality of Microsoft Purview and help you manage and govern your on-premises, multi-cloud and SaaS data.</description>
+            <pubDate>Mon, 26 Jun 2023 12:36:05 +0000</pubDate>
+        </item>
+        <item>
+            <guid>https://MSUSAzureAccelerators.github.io/accelerators/mission-landing-zone.html</guid>
+            <link>https://MSUSAzureAccelerators.github.io/accelerators/mission-landing-zone.html</link>
+            <title>Mission Landing Zone</title>
+            <description>Create a cloud management system to deploy Azure environments.</description>
+            <pubDate>Mon, 26 Jun 2023 12:36:05 +0000</pubDate>
+        </item>
+        <item>
+            <guid>https://MSUSAzureAccelerators.github.io/accelerators/near-real-time-fraud-and-compliance-analytics.html</guid>
+            <link>https://MSUSAzureAccelerators.github.io/accelerators/near-real-time-fraud-and-compliance-analytics.html</link>
+            <title>Near Real-time Fraud and Compliance Analytics</title>
+            <description>Simplify the fraud detection and reporting process.</description>
+            <pubDate>Mon, 26 Jun 2023 12:36:05 +0000</pubDate>
+        </item>
+        <item>
+            <guid>https://MSUSAzureAccelerators.github.io/accelerators/overdose-prevention.html</guid>
+            <link>https://MSUSAzureAccelerators.github.io/accelerators/overdose-prevention.html</link>
+            <title>Overdose Prevention</title>
+            <description>Provide predictive analytics for different prescription and distribution services.</description>
+            <pubDate>Mon, 26 Jun 2023 12:36:05 +0000</pubDate>
+        </item>
+        <item>
+            <guid>https://MSUSAzureAccelerators.github.io/accelerators/predictive-maintenance.html</guid>
+            <link>https://MSUSAzureAccelerators.github.io/accelerators/predictive-maintenance.html</link>
+            <title>Predictive Maintenance</title>
+            <description>Predict motor, equipment, and/or asset issues before they happen.</description>
+            <pubDate>Mon, 26 Jun 2023 12:36:05 +0000</pubDate>
+        </item>
+        <item>
+            <guid>https://MSUSAzureAccelerators.github.io/accelerators/risk-classification-and-loan-modeling.html</guid>
+            <link>https://MSUSAzureAccelerators.github.io/accelerators/risk-classification-and-loan-modeling.html</link>
+            <title>Risk Classification and Loan Modeling</title>
+            <description>Automate processes to ensure compliance with SBA guidelines.</description>
+            <pubDate>Mon, 26 Jun 2023 12:36:05 +0000</pubDate>
+        </item>
+        <item>
+            <guid>https://MSUSAzureAccelerators.github.io/accelerators/smart-spaces-sustainability.html</guid>
+            <link>https://MSUSAzureAccelerators.github.io/accelerators/smart-spaces-sustainability.html</link>
+            <title>Smart Spaces Sustainability</title>
+            <description>Optimize HVAC systems quickly and proactively for efficient and cost-effective energy use.</description>
+            <pubDate>Mon, 26 Jun 2023 12:36:05 +0000</pubDate>
+        </item>
+        <item>
+            <guid>https://MSUSAzureAccelerators.github.io/accelerators/traffic-monitoring.html</guid>
+            <link>https://MSUSAzureAccelerators.github.io/accelerators/traffic-monitoring.html</link>
+            <title>Traffic Monitoring</title>
+            <description>Deliver geospatial visualizations of road network performance and demand, travel time delay, and non-recurring congestion events.</description>
+            <pubDate>Mon, 26 Jun 2023 12:36:05 +0000</pubDate>
+        </item>
+        <item>
+            <guid>https://MSUSAzureAccelerators.github.io/accelerators/workplace-intelligence-for-human-resources.html</guid>
+            <link>https://MSUSAzureAccelerators.github.io/accelerators/workplace-intelligence-for-human-resources.html</link>
+            <title>Workplace Intelligence for Human Resources</title>
+            <description>Easily identify factors that influence productivity and engagement.</description>
+            <pubDate>Mon, 26 Jun 2023 12:36:05 +0000</pubDate>
+        </item>
+        <item>
+            <guid>https://MSUSAzureAccelerators.github.io/accelerators/workplace-intelligence-for-product-development-teams.html</guid>
+            <link>https://MSUSAzureAccelerators.github.io/accelerators/workplace-intelligence-for-product-development-teams.html</link>
+            <title>Workplace Intelligence for Product Development Teams</title>
+            <description>Uncover and leverage the key drivers of productivity and success for product development teams.</description>
+            <pubDate>Mon, 26 Jun 2023 12:36:05 +0000</pubDate>
+        </item>
+        
+    </channel>
+</rss>
