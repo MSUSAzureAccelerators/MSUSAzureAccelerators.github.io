@@ -17,7 +17,7 @@ short_text: "Harness the power of Azure OpenAI and ChatGPT, combined with dozens
 hero_image: "assets/images/Conversational_AI_SLG_Hero.webp"
 partner_image: 
 tags: "\"Industry Customer Scenario\",\"Personalization\",\"Horizontal\",\"Government\",\"FSI\",\"SLG\",\"Retail\",\"Education\",\"HLS\",\"Azure OpenAI and ChatGPT\",\"Azure Cognitive Services: Language\",\"Language Understanding\",\"Translator\",\"Speech to Text\",\"Text to Speech; Azure Cognitive Search\",\"Azure Semantic Search\",\"Azure Custom Voice\",\"Azure Document Translation\",\"Azure SQL\""
-last_updated: "2023-05-30T23:28:41Z"
+last_updated: "2023-06-23T15:53:34Z"
 related: ""
 order: 2
 ---
@@ -25,7 +25,7 @@ order: 2
 
 Government agencies are facing near-constant change in their information environments. This can be especially challenging when existing systems are already overwhelmed, provide limited solutions for ADA and multilingual needs, and require workers to spend valuable time manually routing calls and answering simple frequently asked questions.
 
-The Conversational AI Accelerator combines Microsoft Azure AI Cognitive Services and Machine Learning in a user-friendly platform that augments your existing system. It automates resident engagements and deploys content to multiple channels with a single click.
+The Conversational AI Accelerator combines Microsoft Azure AI Cognitive Services and Machine Learning in a user-friendly platform that augments your existing system. It automates resident engagements and deploys content to multiple channels with a single click. 
 
 Conversational AI drives communications with human-like responses to quickly answer or re-route inquiries. Rich analytics are served to a dashboard for valuable insights that can help you serve your public.
 
@@ -46,4 +46,4 @@ Conversational AI drives communications with human-like responses to quickly ans
 * Implement efficient and effective call routing strategies
 * Establish a single, trusted point of 24/7 contact for the public
 * Boost workforce productivity by addressing routine inquiries
-* Meet the public's expectations for digital interaction
+* Meet the public's expectations for digital interactions
